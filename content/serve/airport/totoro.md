@@ -52,7 +52,7 @@ Totoro Cloud 中文名为龙猫云，一家颇具实力的新机场，Shadowsock
 季度以上自带折扣
 :::
 
-| 套餐类型 |   流量    | 月付 | 季付 | 半年付 | 年付  | 原生解锁 |                                                     套餐购买                                                      |
+| 套餐类型 |  流量/月  | 月付 | 季付 | 半年付 | 年付  | 原生解锁 |                                                     套餐购买                                                      |
 | :------: | :-------: | :--: | :--: | :----: | :---: | :------: | :---------------------------------------------------------------------------------------------------------------: |
 | **VIP1** | **100G**  | ¥15  | ¥41  |  ¥77   | ¥144  |    ✅    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/totoro" rel="sponsored noreferrer" /> |
 | **VIP2** | **200G**  | ¥30  | ¥81  |  ¥153  | ¥288  |    ✅    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/totoro" rel="sponsored noreferrer" /> |

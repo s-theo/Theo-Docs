@@ -20,22 +20,16 @@ export function Sidebar_notes(): SidebarItem[] {
       // collapsed: true,
       base: '/notes/',
       items: [
-        { text: 'PicGo + Github 搭建图床', link: 'build-picture-bed' },
+        { text: 'PicGo/PicList + Github搭建图床', link: 'build-picture-bed' },
         { text: 'GitHub Actions 工作流程', link: 'github-actions' },
         { text: 'VS Code 使用技巧', link: 'vscode' },
         { text: '为项目添加 Prettier 及规范提交信息工具', link: 'prettier' },
         { text: '使用 GPG 签名 Git Commit', link: 'gpg' },
         { text: '使用 nvm 管理不同版本的 node', link: 'nvm' },
         { text: '优化 iOS/Android 来电信息界面', link: 'vcards' },
-        {
-          text: '添加 1Panel 第三方应用商店',
-          link: '1panel-third-party-app-store'
-        },
+        { text: '添加 1Panel 第三方应用商店', link: '1panel-third-party-app-store' },
         { text: 'Tabby 配置同步', link: 'tabby-sync' },
-        {
-          text: '添加 群晖DSM7.X 第三方套件源',
-          link: 'synology-third-party-suite'
-        }
+        { text: '添加 群晖DSM7.X 第三方套件源', link: 'synology-third-party-suite' }
       ]
     },
     {
@@ -216,10 +210,7 @@ export function Sidebar_ESXi(): SidebarItem[] {
         { text: '刷新 DNS 缓存', link: 'clear-dns-cache' },
         { text: 'iStoreOS 文件共享步骤', link: 'istoreos-file-sharing-steps' },
         { text: 'H3C NX30Pro 刷 openwrt', link: 'h3c-nx30pro' },
-        {
-          text: 'openwrt 安装 clouddrive2',
-          link: 'openwrt-install-clouddrive2'
-        },
+        { text: 'openwrt 安装 clouddrive2', link: 'openwrt-install-clouddrive2' },
         { text: '旁路由设置', link: 'bypass' }
       ]
     }
@@ -239,14 +230,8 @@ export function Sidebar_streaming(): SidebarItem[] {
           link: 'netflix-guide',
           items: [
             { text: '秘密分类的技巧', link: 'netflix-secret-classification' },
-            {
-              text: '全球各国影视剧数量',
-              link: 'netflix-number-of-movies-and-tv-series'
-            },
-            {
-              text: '常用浏览器插件汇总',
-              link: 'netflix-browser-plug-in-summary'
-            }
+            { text: '全球各国影视剧数量', link: 'netflix-number-of-movies-and-tv-series' },
+            { text: '常用浏览器插件汇总', link: 'netflix-browser-plug-in-summary' }
           ]
         },
         { text: 'Disney+ 观看指南', link: 'disney-introduce' },

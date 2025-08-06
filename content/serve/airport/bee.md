@@ -7,27 +7,27 @@ description: 小蜜蜂 提供稳定高速的科学上网服务，支持多平台
 
 <!--@include: ./tip.md-->
 
-<!-- :::tip 小蜜蜂 618购物狂欢！！！最低三年48折
+:::tip 小蜜蜂新人特惠 全场 85 折!
 
-- 全套餐推出8折优惠，<Copy type="tip" label="点击复制优惠码: xmfxmf7" text="xmfxmf7" bold />
+- 全套餐推出85折优惠，<Copy type="tip" label="点击复制优惠码: xmfwww85" text="xmfwww85" bold />
 - 商店套餐月付以上自带折扣，配合优惠码购买可以享受折上折，3年付更可享受**4.8**折优惠，心动不如行动
 - 季付限量包不参与活动
 
 :::
 
 <Links
+  :grid="2"
   :items="[
     {
       image: 'https://i.theojs.cn/logo/bee_logo.webp',
-      name: '小蜜蜂 618购物狂欢！！！最低三年48折',
-      desc: '活动即日起至2025年7月31号23时59分',
+      name: '小蜜蜂新人特惠 全场 85 折',
       link: 'https://itheo.top/bee',
       rel: 'sponsored noreferrer'
     }
   ]"
-/> -->
+/>
 
-## 小蜜蜂简介 <Pill image="https://i.theojs.cn/logo/bee_logo.webp" name="小蜜蜂官网" link="https://itheo.top/bee" rel="sponsored noreferrer" />
+## 小蜜蜂简介 <Pill image="https://i.theojs.cn/logo/bee_logo.webp" name="小蜜蜂官网" link="https://itheo.top/bee" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制优惠码: xmfwww85" text="xmfwww85" bold />
 
 <!-- <Copy type="tip" label="点击复制优惠码: xmfxmf7" text="xmfxmf7" bold /> -->
 

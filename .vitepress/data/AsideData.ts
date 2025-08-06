@@ -2,14 +2,6 @@ import type { AsideItem } from '@theojs/lumen'
 
 export const Aside_Data: AsideItem = [
   // {
-  //   image: 'https://i.theojs.cn/logo/bee_logo.webp',
-  //   promo: '小蜜蜂 618购物狂欢',
-  //   info1: '全套餐推出8折优惠<span class="promo-text"> xmfxmf7 </span>',
-  //   info2: '3年付更可享受<span class="promo-text"> 4.8 </span>折',
-  //   link: 'https://itheo.top/bee',
-  //   rel: 'sponsored noreferrer'
-  // },
-  // {
   //   image: 'https://i.theojs.cn/logo/flyingbird.webp',
   //   promo: 'FlyingBird 520&618 特惠',
   //   info1: '月/季/半年付<span class="promo-text"> 85折: fb2561885 </span>',
@@ -43,9 +35,16 @@ export const Aside_Data: AsideItem = [
   // },
   {
     image: { src: 'https://i.theojs.cn/docs/TNT.webp', crop: true },
-    promo: 'TNT Cloud 新人特惠!',
+    promo: 'TNT Cloud 新人特惠',
     info1: '全场85折 <span class="promo-text">优惠码: TNT85</span>',
     link: 'https://itheo.top/tnt',
+    rel: 'sponsored noreferrer'
+  },
+  {
+    image: 'https://i.theojs.cn/logo/bee_logo.webp',
+    promo: '小蜜蜂 新人特惠',
+    info1: '全场85折 <span class="promo-text">优惠码: xmfwww85</span>',
+    link: 'https://itheo.top/bee',
     rel: 'sponsored noreferrer'
   },
   // {
@@ -72,12 +71,12 @@ export const Aside_Data: AsideItem = [
     link: 'https://itheo.top/totoro',
     rel: 'sponsored noreferrer'
   },
-  {
-    image: 'https://i.theojs.cn/logo/bee_logo.webp',
-    promo: '小蜜蜂',
-    link: 'https://itheo.top/bee',
-    rel: 'sponsored noreferrer'
-  },
+  // {
+  //   image: 'https://i.theojs.cn/logo/bee_logo.webp',
+  //   promo: '小蜜蜂',
+  //   link: 'https://itheo.top/bee',
+  //   rel: 'sponsored noreferrer'
+  // },
   // {
   //   image: { src: 'https://i.theojs.cn/docs/TNT.webp', crop: true },
   //   promo: 'TNT Cloud',

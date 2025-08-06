@@ -1,5 +1,7 @@
 import type { DefaultTheme } from 'vitepress'
 
+const code = `<span class="VPBadge tip small" aria-hidden="true">附优惠码</span>`
+
 type SidebarItem = DefaultTheme.SidebarItem
 
 // 侧边栏配置
@@ -262,12 +264,12 @@ export function Sidebar_serve(): SidebarItem[] {
       text: '优质机场',
       base: '/serve/airport/',
       items: [
-        { text: '青云梯', link: 'qingyunti' },
+        { text: `青云梯${code}`, link: 'qingyunti' },
         { text: 'Galaxy Cloud - 银河云', link: 'galaxy' },
-        { text: 'TNT Cloud', link: 'tnt' },
+        { text: `TNT Cloud${code}`, link: 'tnt' },
         { text: 'FlyingBird - 飞鸟机场', link: 'flyingbird' },
         { text: 'Totoro Cloud - 龙猫云', link: 'totoro' },
-        { text: '小蜜蜂', link: 'bee' }
+        { text: `小蜜蜂${code}`, link: 'bee' }
       ]
     },
     {

@@ -20,8 +20,7 @@ description: TNT Cloud 提供稳定高速的科学上网服务，支持多平台
   :items="[
     {
       image: { src: 'https://i.theojs.cn/docs/TNT.webp', crop: true },
-      name: 'TNT Cloud 新人特惠 全场 85 折!',
-      desc: `全套餐推出85折优惠，优惠码<span class='promo-text'> xmfxmf7 </span>`,
+      name: 'TNT Cloud 新人特惠 全场 85 折',
       link: 'https://itheo.top/tnt',
       rel: 'sponsored noreferrer'
     }

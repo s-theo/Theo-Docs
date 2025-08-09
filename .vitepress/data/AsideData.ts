@@ -1,6 +1,14 @@
 import type { AsideItem } from '@theojs/lumen'
 
 export const Aside_Data: AsideItem = [
+  {
+    image: 'https://i.theojs.cn/logo/sms-activate.webp',
+    promo: 'SMS-Activate 短信接码',
+    info1: '秒开 <span class="promo-text">虚拟号码</span> 注册无障碍',
+    info2: '覆盖 <span class="promo-text">200+国家</span> 轻松可用',
+    link: 'https://itheo.top/sms',
+    rel: 'sponsored noreferrer'
+  },
   // {
   //   image: 'https://i.theojs.cn/logo/flyingbird.webp',
   //   promo: 'FlyingBird 520&618 特惠',

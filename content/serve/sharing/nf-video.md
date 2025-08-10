@@ -17,7 +17,7 @@ head:
 
 ## 支付方式
 
-<pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><pill icon="logos:paypal" name="PayPal" />
+<Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill icon="logos:paypal" name="PayPal" />
 
 ## ChatGPT Plus <Copy type="tip" label="点击复制优惠码: Theo" text="Theo" bold />
 

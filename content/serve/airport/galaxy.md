@@ -50,9 +50,9 @@ head:
 
 除此之外，还解锁了诸如**ChatGPT、Tiktok、NBA、WWE等热门应用**，提供更广泛的网络体验。拥有强大的执行力海外技术团队和实时在线客服团队，能够及时维护线路并解决在使用过程中遇到的问题，提供全方位的技术支持和服务保障。
 
-## 银河云 定价
+## 银河云 价格表
 
-**支付方式** <pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><pill icon="cryptocurrency-color:usdt" name="USDT" />
+**支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 
 ::: tip
 季付**9**折/半年付**85**折/年付**8**折/2年付**7**折/3年付**6**折 配合优惠码折上折，最高可达**48**折
@@ -62,19 +62,19 @@ head:
 
 ### 不限时套餐<Badge type="danger" text="仅限前一万名用户!先到先得!!!"/>
 
-|           套餐类型           |   流量    |   价格   | 原生解锁 |                                                    套餐购买                                                    |
-| :--------------------------: | :-------: | :------: | :------: | :------------------------------------------------------------------------------------------------------------: |
-| **不限时套餐(流量用完即止)** | **1000G** | **¥680** |    ✅    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+|           套餐类型           |   流量    | 价格 |                                                    套餐购买                                                    |
+| :--------------------------: | :-------: | :--: | :------------------------------------------------------------------------------------------------------------: |
+| **不限时套餐(流量用完即止)** | **1000G** | ¥680 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
 
 ### 月/年付套餐
 
-|   套餐类型   | 流量/月  | 月付 | 季付 | 半年付 | 年付  | 原生解锁 |                                                    套餐购买                                                    |
-| :----------: | :------: | :--: | :--: | :----: | :---: | :------: | :------------------------------------------------------------------------------------------------------------: |
-| **年付小包** | **50G**  | N/A  | N/A  |  N/A   |  ¥98  |    ✅    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
-| **星尘套餐** | **100G** | ¥18  | ¥49  |  ¥92   | ¥173  |    ✅    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
-| **行星套餐** | **200G** | ¥35  | ¥95  |  ¥179  | ¥336  |    ✅    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
-| **恒星套餐** | **400G** | ¥70  | ¥189 |  ¥357  | ¥672  |    ✅    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
-| **星系套餐** | **800G** | ¥140 | ¥378 |  ¥714  | ¥1344 |    ✅    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+|   套餐类型   | 流量/月  | 月付 | 季付 | 半年付 | 年付  |                                                    套餐购买                                                    |
+| :----------: | :------: | :--: | :--: | :----: | :---: | :------------------------------------------------------------------------------------------------------------: |
+| **年付小包** | **50G**  |  -   |  -   |   -    |  ¥98  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+| **星尘套餐** | **100G** | ¥18  | ¥49  |  ¥92   | ¥173  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+| **行星套餐** | **200G** | ¥35  | ¥95  |  ¥179  | ¥336  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+| **恒星套餐** | **400G** | ¥70  | ¥189 |  ¥357  | ¥672  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+| **星系套餐** | **800G** | ¥140 | ¥378 |  ¥714  | ¥1344 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
 
 ## 银河云 测速图
 

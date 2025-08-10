@@ -15,17 +15,17 @@ head:
 
 蜜糖商店 也是一个非常受欢迎的流媒体合租平台，已经运营 5 年了，口碑一直不错。 蜜糖商店的优势在于 **支持全球各地区 Google 账号加入**，没有地域限制，而且 **智能验证系统** 可以自动处理账号问题，用起来更安心。
 
-## 蜜糖商店定价 <Copy type="tip" label="点击复制优惠码: theomt" text="theomt" bold />
+## 蜜糖商店价格表 <Copy type="tip" label="点击复制优惠码: theomt" text="theomt" bold />
 
-**支付方式** <pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" />
+**支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" />
 
 |    平台     | 3 个月 | 半年 | 年付 | 每月价格 |                                                      合租链接                                                      |                        扫码直达                        |
 | :---------: | :----: | :--: | :--: | :------: | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: |
 | **Netflix** |  ¥116  | ¥235 | ¥460 |   ¥38    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/metshop" rel="sponsored noreferrer" /> | ![MetShop =80x](https://i.theojs.cn/docs/MetShop.webp) |
-| **YouTube** |  N/A   | N/A  | ¥198 |  ¥16.5   | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/metshop" rel="sponsored noreferrer" /> | ![MetShop =80x](https://i.theojs.cn/docs/MetShop.webp) |
-| **Spotify** |  N/A   | N/A  | ¥198 |   ¥9.8   | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/metshop" rel="sponsored noreferrer" /> | ![MetShop =80x](https://i.theojs.cn/docs/MetShop.webp) |
-| **Disney+** |  N/A   | N/A  | ¥118 |   ¥15    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/metshop" rel="sponsored noreferrer" /> | ![MetShop =80x](https://i.theojs.cn/docs/MetShop.webp) |
-| **HBO MAX** |  N/A   | N/A  | ¥208 |   ¥18    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/metshop" rel="sponsored noreferrer" /> | ![MetShop =80x](https://i.theojs.cn/docs/MetShop.webp) |
+| **YouTube** |   -    |  -   | ¥198 |  ¥16.5   | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/metshop" rel="sponsored noreferrer" /> | ![MetShop =80x](https://i.theojs.cn/docs/MetShop.webp) |
+| **Spotify** |   -    |  -   | ¥198 |   ¥9.8   | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/metshop" rel="sponsored noreferrer" /> | ![MetShop =80x](https://i.theojs.cn/docs/MetShop.webp) |
+| **Disney+** |   -    |  -   | ¥118 |   ¥15    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/metshop" rel="sponsored noreferrer" /> | ![MetShop =80x](https://i.theojs.cn/docs/MetShop.webp) |
+| **HBO MAX** |   -    |  -   | ¥208 |   ¥18    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/metshop" rel="sponsored noreferrer" /> | ![MetShop =80x](https://i.theojs.cn/docs/MetShop.webp) |
 |  **Hulu**   |  ¥90   | ¥180 | ¥360 |   ¥25    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/metshop" rel="sponsored noreferrer" /> | ![MetShop =80x](https://i.theojs.cn/docs/MetShop.webp) |
 
 ## 蜜糖商店特点

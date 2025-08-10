@@ -43,20 +43,20 @@ FlyingBird - 飞鸟机场的前身是多个老牌机场的融合衍生，**主�
 - 花费划算，虽然使用了昂贵的专线，但售价非常亲民；
 - 安裝便捷、灵便、便捷，支持 **iOS，安卓 Android，Windoors，MAC 苹果电脑，Linux** 等所有平台和系统。
 
-## FlyingBird 定价
+## FlyingBird 价格表
 
-**支付方式** <pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><pill icon="cryptocurrency-color:usdt" name="USDT" />
+**支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 
 ::: tip
 季付**9**折/半年**85**折/年付**8**折 配合优惠码折上折，最高可达**64**折
 :::
 
-| 套餐类型 |  流量/月  | 月付 | 季付 | 半年付 | 年付  | 原生解锁 |                                                       套餐购买                                                        |
-| :------: | :-------: | :--: | :--: | :----: | :---: | :------: | :-------------------------------------------------------------------------------------------------------------------: |
-| **青铜** | **100G**  | ¥15  | ¥41  |  ¥77   | ¥144  |    ✅    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
-| **白银** | **200G**  | ¥30  | ¥81  |  ¥153  | ¥288  |    ✅    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
-| **黄金** | **500G**  | ¥75  | ¥203 |  ¥383  | ¥720  |    ✅    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
-| **钻石** | **1000G** | ¥150 | ¥405 |  ¥765  | ¥1440 |    ✅    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
+| 套餐类型 |  流量/月  | 月付 | 季付 | 半年付 | 年付  |                                                       套餐购买                                                        |
+| :------: | :-------: | :--: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------------------: |
+| **青铜** | **100G**  | ¥15  | ¥41  |  ¥77   | ¥144  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
+| **白银** | **200G**  | ¥30  | ¥81  |  ¥153  | ¥288  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
+| **黄金** | **500G**  | ¥75  | ¥203 |  ¥383  | ¥720  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
+| **钻石** | **1000G** | ¥150 | ¥405 |  ¥765  | ¥1440 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
 
 ## FlyingBird 测速图
 

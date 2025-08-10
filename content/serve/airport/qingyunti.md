@@ -51,21 +51,21 @@ head:
 - 海外团队，专业运营，全天候维护。
 - 可为电商游戏直播等行业私人订制专属线路套餐
 
-## 青云梯 定价
+## 青云梯 价格表
 
-**支付方式** <pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><pill icon="cryptocurrency-color:usdt" name="USDT" />
+**支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 
 ::: tip
 季付**9**折/半年付**85**折/年付**8**折/2年付**7**折/3年付**6**折 配合优惠码折上折，最高可达**48**折
 :::
 
-|   套餐类型   |  流量/月  | 月付 | 季付 | 半年付 | 年付  | 原生解锁 |                                                    套餐购买                                                    |
-| :----------: | :-------: | :--: | :--: | :----: | :---: | :------: | :------------------------------------------------------------------------------------------------------------: |
-| **年付小包** |  **60G**  | N/A  | N/A  |  N/A   |  ¥96  |    ✅    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
-|   **VIP1**   | **150G**  | ¥25  | ¥67  |  ¥127  | ¥240  |    ✅    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
-|   **VIP2**   | **300G**  | ¥45  | ¥121 | ¥ 229  | ¥432  |    ✅    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
-|   **VIP3**   | **600G**  | ¥85  | ¥229 |  ¥433  | ¥816  |    ✅    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
-|   **VIP4**   | **1000G** | ¥150 | ¥400 |  ¥750  | ¥1360 |    ✅    | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
+|   套餐类型   |  流量/月  | 月付 | 季付 | 半年付 | 年付  |                                                    套餐购买                                                    |
+| :----------: | :-------: | :--: | :--: | :----: | :---: | :------------------------------------------------------------------------------------------------------------: |
+| **年付小包** |  **60G**  |  -   |  -   |   -    |  ¥96  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
+|   **VIP1**   | **150G**  | ¥25  | ¥67  |  ¥127  | ¥240  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
+|   **VIP2**   | **300G**  | ¥45  | ¥121 |  ¥229  | ¥432  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
+|   **VIP3**   | **600G**  | ¥85  | ¥229 |  ¥433  | ¥816  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
+|   **VIP4**   | **1000G** | ¥150 | ¥400 |  ¥750  | ¥1360 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
 
 ## 青云梯 测速图
 

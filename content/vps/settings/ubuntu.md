@@ -47,72 +47,10 @@ sudo /etc/init.d/ssh start
 sudo service ssh start
 ```
 
-## 安装 vim 和 htop
+## 安装 nano 和 htop
 
 ```sh
-sudo apt install vim htop
-```
-
-## 更新软件源为国内源
-
-### 编辑文件
-
-::: code-group
-
-```sh [Ubuntu]
-sudo vim /etc/apt/sources.list.d/ubuntu.sources
-```
-
-```sh [Debian]
-sudo vim /etc/apt/sources.list
-```
-
-:::
-
-### 镜像源地址
-
-::: code-group
-
-```sh [Ubuntu]
-deb https://mirrors.aliyun.com/ubuntu/ noble main restricted universe multiverse
-deb-src https://mirrors.aliyun.com/ubuntu/ noble main restricted universe multiverse
-
-deb https://mirrors.aliyun.com/ubuntu/ noble-security main restricted universe multiverse
-deb-src https://mirrors.aliyun.com/ubuntu/ noble-security main restricted universe multiverse
-
-deb https://mirrors.aliyun.com/ubuntu/ noble-updates main restricted universe multiverse
-deb-src https://mirrors.aliyun.com/ubuntu/ noble-updates main restricted universe multiverse
-
-# deb https://mirrors.aliyun.com/ubuntu/ noble-proposed main restricted universe multiverse
-# deb-src https://mirrors.aliyun.com/ubuntu/ noble-proposed main restricted universe multiverse
-
-deb https://mirrors.aliyun.com/ubuntu/ noble-backports main restricted universe multiverse
-deb-src https://mirrors.aliyun.com/ubuntu/ noble-backports main restricted universe multiverse
-```
-
-```sh [Debian]
-deb https://deb.debian.org/debian/ bookworm main contrib non-free non-free-firmware
-deb-src https://deb.debian.org/debian/ bookworm main contrib non-free non-free-firmware
-
-deb https://security.debian.org/debian-security bookworm-security main contrib non-free non-free-firmware
-deb-src https://security.debian.org/debian-security bookworm-security main contrib non-free non-free-firmware
-
-deb https://deb.debian.org/debian/ bookworm-updates main contrib non-free non-free-firmware
-deb-src https://deb.debian.org/debian/ bookworm-updates main contrib non-free non-free-firmware
-
-deb https://deb.debian.org/debian/ bookworm-backports main contrib non-free non-free-firmware
-deb-src https://deb.debian.org/debian/ bookworm-backports main contrib non-free non-free-firmware
-```
-
-:::
-
-### 更新缓存
-
-编辑文件完成后，执行如下命令进行更新缓存
-
-```sh
-sudo apt update
-sudo apt upgrade
+sudo apt install nano htop
 ```
 
 ## 删除系统自带软件
@@ -171,7 +109,7 @@ sudo hwclock --systohc
 ## 修改主机名
 
 ```sh
-vim /etc/hostname
+nano /etc/hostname
 
 ```
 
@@ -196,7 +134,7 @@ passwd #修改密码
 ### 修改 ssh 配置文件
 
 ```bash
-vim /etc/ssh/sshd_config #编辑文件
+nano /etc/ssh/sshd_config #编辑文件
 PermitRootLogin yes #默认为no，需要开启root用户访问改为yes
 PasswordAuthentication yes #默认为no，改为yes开启密码登陆
 ```
@@ -209,69 +147,4 @@ PasswordAuthentication yes #默认为no，改为yes开启密码登陆
 
 ```bash
 reboot    #重启服务器
-```
-
-## 恢复默认源
-
-### 备份当前的软件源列表
-
-::: code-group
-
-```sh [Ubuntu]
-sudo cp /etc/apt/sources.list.d/ubuntu.sources /etc/apt/sources.list.d/ubuntu.sources.bak
-```
-
-```sh [Debian]
-sudo cp /etc/apt/sources.list /etc/apt/sources.list.bak
-```
-
-:::
-
-### 编辑源配置文件
-
-::: code-group
-
-```sh [Ubuntu]
-sudo vim /etc/apt/sources.list.d/ubuntu.sources
-```
-
-```sh [Debian]
-sudo vim /etc/apt/sources.list
-```
-
-:::
-
-### 恢复默认的软件源
-
-::: code-group
-
-```sh [Ubuntu]
-Types: deb-src
-URIs: http://archive.ubuntu.com/ubuntu
-Suites: noble noble-updates noble-backports noble-security
-Components: main restricted universe multiverse
-Signed-By: /usr/share/keyrings/ubuntu-archive-keyring.gpg
-```
-
-```sh [Debian]
-deb https://deb.debian.org/debian/ bookworm main contrib non-free non-free-firmware
-deb-src https://deb.debian.org/debian/ bookworm main contrib non-free non-free-firmware
-
-deb https://security.debian.org/debian-security bookworm-security main contrib non-free non-free-firmware
-deb-src https://security.debian.org/debian-security bookworm-security main contrib non-free non-free-firmware
-
-deb https://deb.debian.org/debian/ bookworm-updates main contrib non-free non-free-firmware
-deb-src https://deb.debian.org/debian/ bookworm-updates main contrib non-free non-free-firmware
-
-deb https://deb.debian.org/debian/ bookworm-backports main contrib non-free non-free-firmware
-deb-src https://deb.debian.org/debian/ bookworm-backports main contrib non-free non-free-firmware
-```
-
-:::
-
-### 更新软件包缓存
-
-```sh
-sudo apt update
-sudo apt upgrade
 ```

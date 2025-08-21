@@ -29,25 +29,25 @@
     "@mdit/plugin-footnote": "^0.22.2",
     "@mdit/plugin-img-size": "^0.22.2",
     "@mdit/plugin-tasklist": "^0.22.1",
-    "@theojs/lumen": "^6.4.3",
+    "@theojs/lumen": "^6.4.4",
     "@trivago/prettier-plugin-sort-imports": "^5.2.2",
     "commitizen": "^4.3.1",
     "cz-vinyl": "^2.5.4",
     "husky": "^9.1.7",
     "lint-staged": "^16.1.5",
-    "oxc-minify": "^0.81.0",
+    "oxc-minify": "^0.82.3",
     "prettier": "3.6.2",
     "prettier-plugin-packagejson": "^2.5.19",
     "prettier-plugin-sort-json": "^4.1.1",
     "prettier-plugin-vitepress": "^0.0.10",
     "simple-git-hooks": "^2.13.1",
     "viewerjs": "^1.11.7",
-    "vite": "npm:rolldown-vite@^7.1.0",
-    "vitepress": "2.0.0-alpha.10",
-    "vitepress-plugin-group-icons": "^1.6.2",
+    "vite": "npm:rolldown-vite@^7.1.4",
+    "vitepress": "2.0.0-alpha.12",
+    "vitepress-plugin-group-icons": "^1.6.3",
     "vitepress-plugin-image-viewer": "^1.1.6",
-    "vitepress-plugin-llms": "^1.7.2",
-    "vue": "^3.5.18"
+    "vitepress-plugin-llms": "^1.7.3",
+    "vue": "^3.5.19"
   },
-  "packageManager": "pnpm@10.14.0"
+  "packageManager": "pnpm@10.15.0"
 }

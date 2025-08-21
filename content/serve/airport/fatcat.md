@@ -1,0 +1,83 @@
+---
+title: FatCat Cloud - 肥猫云
+description: 肥猫云机场-大带宽不限速专线机场接入全球优质机房与多地节点，覆盖亚洲、美洲、欧洲等核心地区，支持流媒体解锁、远程办公、跨境电商等多种场景，为你提供高速、稳定、安全的网络体验。
+---
+
+# FatCat Cloud - 肥猫云
+
+:::tip FatCat Cloud - 肥猫云 双旦活动特惠!
+
+- 月付/季度/半年 ：85折优惠，优惠码：<Copy type="tip" label="点击复制折扣码: hello202685" text="hello202685" bold />
+- 年付/年付以上：8折优惠，优惠码：<Copy type="tip" label="点击复制折扣码: hello202680" text="hello202680" bold />
+- 商店套餐月付以上自带折扣，配合折扣码购买可以享受折上折，3年付更可享受**4.8**折优惠，心动不如行动
+- 季付限量包不参与活动
+
+:::
+
+<!-- :::tip FatCat Cloud - 肥猫云新人特惠 全场 85 折!
+
+- 全套餐推出85折优惠，<Copy type="tip" label="点击复制折扣码: xmfwww85" text="xmfwww85" bold />
+- 商店套餐月付以上自带折扣，配合折扣码购买可以享受折上折，3年付更可享受**4.8**折优惠，心动不如行动
+- 季付限量包不参与活动
+
+:::
+
+ -->
+
+## FatCat Cloud - 肥猫云 注册地址
+
+<!-- #region 1 -->
+
+**最便宜的订阅有8元 60g/月(年付)。**
+
+**点击购买👉👉👉** <Pill  image="https://i.theojs.cn/logo/fclogo.webp" name="FatCat Cloud - 肥猫云官网" link="https://itheo.top/fatcat" rel="sponsored noreferrer" />
+
+<!-- #endregion 1-->
+
+## FatCat Cloud - 肥猫云简介
+
+<!-- #region 2 -->
+
+**不做订阅阅后即焚!!放心使用**
+
+节点采用企业级的IEPL（国际以太网专线）或IPLC（国际私用租用线路）内网专线进行数据传输 。这种专线连接方式相比普通公网中转线路，具有更高的稳定性和更强的抗干扰、抗封锁能力，能有效应对网络波动和高峰期拥堵。
+
+- 原生IP解锁流媒体，包括**Netflix**、**Disney+**、**HBO**、**HUGO**等等
+- 解锁**Tiktok**，解锁**ChatGPT**、**Copilot**、**Gemini**等AI工具
+- **全局负载均衡、动态加速**
+- 晚高峰不限速，敏感期间不影响，提供美区id下载**小火箭Shadowrocket**
+- 客户端支持 ： **Clash** **Clash Meta** **Singbox** **v2rayn** **Shadowrocket** 等
+- 节点覆盖 **香港、台湾、日本、新加坡、美国、马来西亚、泰国、英国、巴西、阿根廷** 等地
+<!-- #endregion 2-->
+
+## FatCat Cloud - 肥猫云价格表
+
+<!-- #region 3 -->
+
+:::tip
+季付**9**折/半年付**85**折/年付**8**折/2年付**7**折/3年付**6**折 配合折扣码折上折，最高可达**48**折
+:::
+
+**支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
+
+|          套餐类型           |  流量/月  | 月付 | 季付 | 半年付 | 年付  |                                                     套餐购买                                                      |
+| :-------------------------: | :-------: | :--: | :--: | :----: | :---: | :---------------------------------------------------------------------------------------------------------------: |
+| **BGP线路\*肥猫年付加强版** |  **60G**  |  -   |  -   |   -    |  ¥96  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
+|    **BGP线路\*基础套餐**    | **120G**  | ¥20  | ¥54  |  ¥102  | ¥192  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
+|    **BGP线路\*标准套餐**    | **300G**  | ¥40  | ¥108 |  ¥204  | ¥384  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
+|    **BGP线路\*旗舰套餐**    | **700G**  | ¥100 | ¥270 |  ¥510  | ¥960  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
+|    **BGP线路\*企业套餐**    | **1500G** | ¥180 | ¥486 |  ¥918  | ¥1728 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
+
+<!-- #endregion 3-->
+
+## FatCat Cloud - 肥猫云测速图
+
+![FatCat Cloud - 肥猫云 三网拓扑 =688x](https://i.theojs.cn/airport/fatcatcloud-topology.webp)
+
+![FatCat Cloud - 肥猫云 广州移动 =688x](https://i.theojs.cn/airport/fatcatcloud_guangxi_mobile.webp)
+
+<!--@include: @/bottom.md-->
+
+::: info 免责声明
+本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
+:::

@@ -5,32 +5,40 @@ description: FlyingBird 飞鸟机场提供高速稳定的科学上网服务，�
 
 # FlyingBird - 飞鸟机场
 
-<!--@include: ./tip.md-->
+<!-- :::tip FlyingBird 飞鸟 专属优惠！
 
-<!-- :::tip FlyingBird 520&618 活动继续启航！
+- 专属 9 折优惠，<Copy type="tip" label="点击复制折扣码: theo" text="theo" bold />，不限制使用次数，每个用户只能使用一次
+- 年付85折（站内折上折，高达64折 ），<Copy type="tip" label="点击复制折扣码: year85" text="year85" bold />，可重复使用5次
 
-- 月/季/半年付 85折 , 优惠码：**`fb2561885`** 可重复使用5次
-- 年付8折（站内折上折，高达64折 ）优惠码：**`fb2561880`** 可重复使用5次
+:::
+-->
 
-**活动时间：即日至2025年6月20号23点59分**
+:::tip FlyingBird 飞鸟 双旦特惠开启！
+
+- 月/季/半年付 85折，<Copy type="tip" label="点击复制折扣码: fb250085" text="fb250085" bold />，可重复使用5次
+- 年付8折（站内折上折，高达64折 ），<Copy type="tip" label="点击复制折扣码: fb250080" text="fb250080" bold />，可重复使用5次
+
+**活动时间：即日至2026年1月20日23点59分**
 
 :::
 
-<Links
-  :items="[
-    {
-      image: 'https://i.theojs.cn/logo/flyingbird.webp',
-      name: 'FlyingBird 520&618 活动继续启航！',
-      desc: '活动时间：即日至2025年6月20号23点59分',
-      link: 'https://itheo.top/flyingbird',
-      rel: 'sponsored noreferrer'
-    }
-  ]"
-/> -->
+## FlyingBird - 飞鸟机场注册地址
 
-## FlyingBird 简介 <Pill image="https://i.theojs.cn/logo/flyingbird.webp" name="FlyingBird官网" link="https://itheo.top/flyingbird" rel="sponsored noreferrer"/>
+<!-- #region 1 -->
 
-FlyingBird - 飞鸟机场的前身是多个老牌机场的融合衍生，**主打快速稳定，全专线 IPLC，没有倍率，不限网速，不限客户端并且可以多用户同时使用**。有着老牌机场的稳定、也有着新晋机场的诚意，目前活动买多少给多少，价格区间比较多，用户的选择比较多。从我自己使用来看，值得推荐为 2025 年的稳定机场。
+**最便宜的订阅有12元 100g/月(年付)。**
+
+**点击购买👉👉👉** <Pill  image="https://i.theojs.cn/logo/flyingbird.webp" name="FlyingBird官网"  link="https://itheo.top/flyingbird" rel="sponsored noreferrer" />
+
+<!-- #endregion 1 -->
+
+## FlyingBird - 飞鸟机场简介
+
+<!-- #region 2 -->
+
+**不做订阅阅后即焚!!放心使用**
+
+FlyingBird - 飞鸟机场的前身是多个老牌机场的融合衍生，**主打快速稳定，全专线 IPLC，没有倍率，不限网速，不限客户端并且可以多用户同时使用**。有着老牌机场的稳定、也有着新晋机场的诚意，目前活动买多少给多少，价格区间比较多，用户的选择比较多。从我自己使用来看，值得推荐为 2026 年的稳定机场。
 
 海外的 SS 机场，海外团队运营，全专线线路，支持全流媒体解锁，所有节点多服务器负载保证高速稳定。
 
@@ -42,13 +50,16 @@ FlyingBird - 飞鸟机场的前身是多个老牌机场的融合衍生，**主�
 - 极其稳定，网络丢包低，可确保 99.9%高可用；
 - 花费划算，虽然使用了昂贵的专线，但售价非常亲民；
 - 安裝便捷、灵便、便捷，支持 **iOS，安卓 Android，Windoors，MAC 苹果电脑，Linux** 等所有平台和系统。
+<!-- #endregion 2 -->
 
-## FlyingBird 价格表
+## FlyingBird - 飞鸟机场价格表
+
+<!-- #region 3 -->
 
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 
 ::: tip
-季付**9**折/半年**85**折/年付**8**折 配合优惠码折上折，最高可达**64**折
+季付**9**折/半年**85**折/年付**8**折 配合折扣码折上折，最高可达**64**折
 :::
 
 | 套餐类型 |  流量/月  | 月付 | 季付 | 半年付 | 年付  |                                                       套餐购买                                                        |
@@ -58,6 +69,18 @@ FlyingBird - 飞鸟机场的前身是多个老牌机场的融合衍生，**主�
 | **黄金** | **500G**  | ¥75  | ¥203 |  ¥383  | ¥720  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
 | **钻石** | **1000G** | ¥150 | ¥405 |  ¥765  | ¥1440 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
 
-## FlyingBird 测速图
+<!-- #endregion 3 -->
 
-![FlyingBird 测速图 =688x](https://i.theojs.cn/airport/flyingbird.webp)
+## FlyingBird - 飞鸟机场测速图
+
+![FlyingBird 拓扑图 =688x](https://i.theojs.cn/airport/flyingbird_topology.webp)
+
+![FlyingBird 流媒体解锁图 =688x](https://i.theojs.cn/airport/flyingbird_unlock.webp)
+
+![FlyingBird 中山电信测速图 =688x](https://i.theojs.cn/airport/flyingbird_zhongshan_telecom.webp)
+
+<!--@include: @/bottom.md-->
+
+::: info 免责声明
+本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
+:::

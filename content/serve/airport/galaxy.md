@@ -3,7 +3,7 @@ title: Galaxy Cloud - 银河云
 description: Galaxy Cloud 银河云提供稳定高速的科学上网服务，支持多平台设备同时连接，解锁奈飞 Netflix、HBO Max、Disney+、YouTube、Amazon Prime Video等主流全球流媒体，拥有遍布全球的多个高质量节点，特别适用于出国访问、流媒体加速和网络隐私保护，确保连接安全稳定，体验流畅无卡顿。
 head:
   - - meta
-    - name: og:image
+    - property: og:image
       content: https://i.theojs.cn/logo/galaxy.webp
 ---
 
@@ -11,33 +11,44 @@ head:
 
 ![Galaxy Cloud - 银河云OG =688x](https://i.theojs.cn/logo/galaxy.webp 'Galaxy Cloud - 银河云')
 
-<!--@include: ./tip.md-->
+:::tip Galaxy Cloud - 银河云双旦优惠活动!
 
-<!-- :::tip 银河云 618大促活动开启!
+- 全场 8 折（20% OFF）<Copy type="tip" label="点击复制折扣码: 0080" text="0080" bold />
+- 结算时输入折扣码即可享受折扣。每位用户不限使用次数。优惠券可叠加套餐本身优惠，享受折上折。节日福利火热进行中，快来解锁你的折扣吧！
 
-- 月/季/半年付 85折 , 优惠码：**`wuyi85`**
-- 年付8折（站内折上折，高达64折 ）优惠码：**`wuyi80`**
-- 商店里显示的3年价格已经有6折了，再用年付优惠码购买3年套餐相当于48折了，超级给力
+**特别注意: 年付小包不参加本次活动**
+
+:::
+
+<!-- :::tip 银河云 双旦特惠!
+
+- 月/季/半年付 85折 , 折扣码：**`wuyi85`**
+- 年付8折（站内折上折，高达64折 ）折扣码：**`wuyi80`**
+- 商店里显示的3年价格已经有6折了，再用年付折扣码购买3年套餐相当于48折了，超级给力
 
 **特别注意: 银河云年付小包与不限时包不支持**
 
 :::
 
-<Links
-  :items="[
-    {
-      image: { src: 'https://i.theojs.cn/logo/galaxy_transparent_square.webp', crop: true },
-      name: '银河云 618大促活动开启!',
-      desc: '活动时间：即日起至2025年06月30日23点59分',
-      link: 'https://itheo.top/yhy',
-      rel: 'sponsored noreferrer'
-    }
-  ]"
-/> -->
+ -->
 
-## 银河云 简介 <Pill image="https://i.theojs.cn/logo/galaxy_transparent_square.webp" name="银河云官网" link="https://itheo.top/yhy" rel="sponsored noreferrer" />
+## Galaxy Cloud - 银河云注册地址
 
-**Galaxy Cloud - 银河云** 采用IEPL trojan专线机场，成立与2024年6月，新加坡海外团队大机房产品，性价比专线，24h在线客服，专业且靠谱稳定，任何线路问题都是1h内修复处理，支持退款。
+<!-- #region 1 -->
+
+**最便宜的订阅有8元 50g/月(年付)。**
+
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/galaxy_transparent_square.webp" name="银河云官网" link="https://itheo.top/yhy" rel="sponsored noreferrer"/>
+
+<!-- #endregion 1 -->
+
+## Galaxy Cloud - 银河云简介
+
+<!-- #region 2 -->
+
+**不做订阅阅后即焚!!放心使用**
+
+**Galaxy Cloud - 银河云** 采用IEPL trojan专线机场，拥有最高**6Gbps**速率，成立与2024年6月，新加坡海外团队大机房产品，性价比专线，24h在线客服，专业且靠谱稳定，任何线路问题都是1h内修复处理，支持退款。
 
 覆盖的线路涵盖 **香港、台湾、新加坡、日本、美国、马来西亚、越南、菲律宾、泰国、英国、阿根廷、土耳其等地**
 
@@ -50,33 +61,32 @@ head:
 
 除此之外，还解锁了诸如**ChatGPT、Tiktok、NBA、WWE等热门应用**，提供更广泛的网络体验。拥有强大的执行力海外技术团队和实时在线客服团队，能够及时维护线路并解决在使用过程中遇到的问题，提供全方位的技术支持和服务保障。
 
-## 银河云 价格表
+<!-- #endregion 2 -->
+
+## Galaxy Cloud - 银河云价格表
+
+<!-- #region 3 -->
 
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 
 ::: tip
-季付**9**折/半年付**85**折/年付**8**折/2年付**7**折/3年付**6**折 配合优惠码折上折，最高可达**48**折
+季付**9**折/半年付**85**折/年付**8**折/2年付**7**折/3年付**6**折 配合折扣码折上折，最高可达**48**折
 
 使用 **微信/USDT** 支付请进入官网点击右下角联系客服处理
 :::
 
-### 不限时套餐<Badge type="danger" text="仅限前一万名用户!先到先得!!!"/>
+|    套餐类型    |  流量/月  | 月付 | 季付 | 半年付 | 年付  |                                                    套餐购买                                                    |
+| :------------: | :-------: | :--: | :--: | :----: | :---: | :------------------------------------------------------------------------------------------------------------: |
+|  **年付小包**  |  **50G**  |  -   |  -   |   -    |  ¥98  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+|  **星尘套餐**  | **100G**  | ¥18  | ¥49  |  ¥92   | ¥173  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+|  **行星套餐**  | **200G**  | ¥35  | ¥95  |  ¥179  | ¥336  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+|  **恒星套餐**  | **400G**  | ¥70  | ¥189 |  ¥357  | ¥672  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+|  **星系套餐**  | **800G**  | ¥140 | ¥378 |  ¥714  | ¥1344 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+| **不限时套餐** | **1000G** |  -   |  -   |   -    | ¥680  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
 
-|           套餐类型           |   流量    | 价格 |                                                    套餐购买                                                    |
-| :--------------------------: | :-------: | :--: | :------------------------------------------------------------------------------------------------------------: |
-| **不限时套餐(流量用完即止)** | **1000G** | ¥680 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+<!-- #endregion 3 -->
 
-### 月/年付套餐
-
-|   套餐类型   | 流量/月  | 月付 | 季付 | 半年付 | 年付  |                                                    套餐购买                                                    |
-| :----------: | :------: | :--: | :--: | :----: | :---: | :------------------------------------------------------------------------------------------------------------: |
-| **年付小包** | **50G**  |  -   |  -   |   -    |  ¥98  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
-| **星尘套餐** | **100G** | ¥18  | ¥49  |  ¥92   | ¥173  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
-| **行星套餐** | **200G** | ¥35  | ¥95  |  ¥179  | ¥336  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
-| **恒星套餐** | **400G** | ¥70  | ¥189 |  ¥357  | ¥672  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
-| **星系套餐** | **800G** | ¥140 | ¥378 |  ¥714  | ¥1344 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
-
-## 银河云 测速图
+## Galaxy Cloud - 银河云测速图
 
 ![Galaxy Cloud - 银河云 解锁图 =688x](https://i.theojs.cn/airport/galaxy_unlock.webp)
 
@@ -89,3 +99,9 @@ head:
 ![Galaxy Cloud - 银河云 湖北联通晚高峰测速图 =688x](https://i.theojs.cn/airport/galaxy_hubei_unicom.webp)
 
 ![Galaxy Cloud - 银河云 江苏电信晚高峰测速图 =688x](https://i.theojs.cn/airport/galaxy_jiangsu_telecom.webp)
+
+<!--@include: @/bottom.md-->
+
+::: info 免责声明
+本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
+:::

@@ -1,6 +1,6 @@
 ---
 title: 账号合租指南 - 稳定好用的Netflix共享平台推荐
-description: 奈飞小铺、银河录像局、蜜糖商店等优质账号合租平台推荐，助您轻松共享Netflix、HBO Max、Disney+等海外流媒体账号，畅享高清影视内容与优质娱乐体验，提升观影乐趣。
+description: 银河录像局、账号星球等优质账号合租平台推荐，助您轻松共享Netflix、HBO Max、Disney+等海外流媒体账号，畅享高清影视内容与优质娱乐体验，提升观影乐趣。
 ---
 
 # 账号合租指南
@@ -9,34 +9,34 @@ description: 奈飞小铺、银河录像局、蜜糖商店等优质账号合租�
 
 <!-- #region price -->
 
-|                 合租平台                 |                                                   官方网站                                                   |           优惠码            |                         扫码直达                         |
-| :--------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :-------------------------: | :------------------------------------------------------: |
-|   [奈飞小铺](/serve/sharing/ihezu.md)    |  <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/ihezu" rel="sponsored noreferrer" />  | <Copy text="theonf" bold /> |    ![ihezu =80x](https://i.theojs.cn/docs/ihezu.webp)    |
-| [银河录像局](/serve/sharing/nf-video.md) |   <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/yh" rel="sponsored noreferrer" />    |  <Copy text="Theo" bold />  | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
-|  [蜜糖商店](/serve/sharing/metshop.md)   | <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/metshop" rel="sponsored noreferrer" /> | <Copy text="theomt" bold /> |  ![MetShop =80x](https://i.theojs.cn/docs/MetShop.webp)  |
+|                 合租平台                 |                                                 官方网站                                                  |          折扣码           |                         扫码直达                         |
+| :--------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------------------: |
+|    [账号星球](/serve/sharing/acc.md)     | <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/acc" rel="sponsored noreferrer" />  |             -             |      ![acc =80x](https://i.theojs.cn/docs/acc.webp)      |
+|    [NIKE小店](/serve/sharing/nike.md)    | <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/nike" rel="sponsored noreferrer" /> |             -             |    ![acc =80x](https://i.theojs.cn/docs/nike_qr.webp)    |
+| [银河录像局](/serve/sharing/nf-video.md) |  <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/yh" rel="sponsored noreferrer" />  | <Copy text="Theo" bold /> | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
 
 <Links
   :grid="3"
   :items="[
     {
-      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT5w-gXnmsI24DmoYkt-1EpkL_nY0O1p8p4Q&s',
-      name: '奈飞小铺',
-      desc: '支持多平台 自动发号 售后保障',
-      link: 'https://itheo.top/ihezu',
+      image: 'https://i.theojs.cn/logo/acc_logo.webp',
+      name: '账号星球',
+      desc: '海外社媒 游戏影音 一键购买',
+      link: 'https://itheo.top/acc',
       rel: 'sponsored noreferrer'
     },
     {
-      image: 'https://nf.video/favicon.ico',
+      image: 'https://i.theojs.cn/logo/nike_logo.webp',
+      name: 'NIKE小店',
+      desc: '国际账号 社媒影音 一键下单',
+      link: 'https://itheo.top/nike',
+      rel: 'sponsored noreferrer'
+    },
+    {
+      image: 'https://i.theojs.cn/logo/nf-video.webp',
       name: '银河录像局',
       desc: '资源稳定 支持AI工具 翻车必赔',
       link: 'https://itheo.top/yh',
-      rel: 'sponsored noreferrer'
-    },
-    {
-      image: 'https://metshop.cn/img/simpLogo.1b5c58e1.png',
-      name: '蜜糖商店',
-      desc: '平台齐全 租期灵活 服务迅速',
-      link: 'https://itheo.top/metshop',
       rel: 'sponsored noreferrer'
     }
   ]"
@@ -81,3 +81,5 @@ description: 奈飞小铺、银河录像局、蜜糖商店等优质账号合租�
 - 专业的合租网站或应用
 - 社交媒体群组
 - 朋友或家庭间的私下合租
+
+<!--@include: @/bottom.md-->

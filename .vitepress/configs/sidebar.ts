@@ -1,6 +1,6 @@
 import type { DefaultTheme } from 'vitepress'
 
-const code = `<span class="VPBadge tip small" aria-hidden="true">附优惠码</span>`
+const code = '<span class="VPBadge tip small" aria-hidden="true">附折扣码</span>'
 
 type SidebarItem = DefaultTheme.SidebarItem
 
@@ -250,26 +250,48 @@ export function Sidebar_streaming(): SidebarItem[] {
 export function Sidebar_serve(): SidebarItem[] {
   return [
     {
+      text: '科学上网',
+      // collapsed: true,
+      base: '/serve/routes/',
+      items: [
+        { text: '直连、中转、专线机场怎么选？', link: 'selection' },
+        { text: '直连、中转、专线机场区别', link: 'difference' },
+        { text: '直连线路', link: 'direct-route' },
+        { text: '中转线路', link: 'transit-route' },
+        { text: 'IEPL/IPLC专线', link: 'dedicated-line' },
+        { text: '如何判断机场使用线路类型', link: 'determine-line-type' }
+      ]
+    },
+    {
       text: '账号合租平台',
       base: '/serve/sharing/',
       link: 'account-sharing-guide',
       // collapsed: true,
       items: [
-        { text: '银河录像局', link: 'nf-video' },
-        { text: '奈飞小铺', link: 'ihezu' },
-        { text: '蜜糖商店', link: 'metshop' }
+        { text: '账号星球', link: 'acc' },
+        { text: 'NIKE小店', link: 'nike' },
+        { text: '银河录像局', link: 'nf-video' }
       ]
     },
     {
       text: '优质机场',
+      // collapsed: true,
       base: '/serve/airport/',
       items: [
-        { text: `青云梯${code}`, link: 'qingyunti' },
-        { text: 'Galaxy Cloud - 银河云', link: 'galaxy' },
-        { text: `TNT Cloud${code}`, link: 'tnt' },
-        { text: 'FlyingBird - 飞鸟机场', link: 'flyingbird' },
-        { text: 'Totoro Cloud - 龙猫云', link: 'totoro' },
-        { text: `小蜜蜂${code}`, link: 'bee' }
+        { text: '青云梯' + code, link: 'qingyunti' },
+        { text: 'hyperlink - 极连云' + code, link: 'hyperlink' },
+        { text: 'lightspeed - 光速云' + code, link: 'lightspeed' },
+        { text: '星岛梦' + code, link: 'xdm' },
+        { text: 'Galaxy Cloud - 银河云' + code, link: 'galaxy' },
+        { text: 'TNT Cloud' + code, link: 'tnt' },
+        { text: 'Totoro Cloud - 龙猫云' + code, link: 'totoro' },
+        { text: '小蜜蜂' + code, link: 'bee' },
+        { text: 'OKANC' + code, link: 'okanc' },
+        { text: 'onlyrabbit - 唯兔云' + code, link: 'onlyrabbit' },
+        { text: 'FatCat Cloud - 肥猫云' + code, link: 'fatcat' },
+        { text: '奈云' + code, link: 'naiyun' },
+        { text: '美乐云' + code, link: 'meile' },
+        { text: 'FlyingBird - 飞鸟机场' + code, link: 'flyingbird' }
       ]
     },
     {

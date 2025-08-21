@@ -1,4 +1,5 @@
 /// <reference types="vite/client" />
+import type { EnhanceAppContext } from 'vitepress'
 import { useRoute } from 'vitepress'
 import imageViewer from 'vitepress-plugin-image-viewer'
 import DefaultTheme from 'vitepress/theme'
@@ -20,7 +21,7 @@ export default {
     })
   },
 
-  enhanceApp: ({ app }) => {
+  enhanceApp: ({ app }: EnhanceAppContext) => {
     lm.umamiAnalytics({
       id: import.meta.env.VITE_UMAMI_ID,
       src: import.meta.env.VITE_UMAMI_SRC,

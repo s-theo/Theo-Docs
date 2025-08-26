@@ -17,14 +17,13 @@ hero:
     height: 320
 
   Notice:
-    title: '<span class="promo-title">青云梯 优惠码大放送!</span>'
+    title: '<span class="promo-title">星岛梦开服全场 64 折!</span>'
     desc: |
-      · 85折<span class="promo-text"> 优惠码: qyt85 </span>
-      · 8折<span class="promo-text"> 优惠码: qyt80 </span>
-      · 配合优惠码折上折，最高可达<span class="promo-text">48折</span>
-    # date: '7月31号23点59分'
-    # dateText: '活动截止至'
-    link: https://itheo.top/qyt
+      · 全场套餐 <span class="promo-text"> 64 折: XDM666 </span>
+      · 优惠券可叠加套餐本身优惠，享受折上折。
+    date: '2025年12月27日23点59分'
+    dateText: '活动截止至'
+    link: https://itheo.top/xdm
     rel: sponsored noreferrer
 
   actions:

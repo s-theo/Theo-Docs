@@ -1,6 +1,6 @@
 import type { DefaultTheme } from 'vitepress'
 
-const code = `<span class="VPBadge tip small" aria-hidden="true">附优惠码</span>`
+const code = '<span class="VPBadge tip small" aria-hidden="true">附折扣码</span>'
 
 type SidebarItem = DefaultTheme.SidebarItem
 
@@ -256,20 +256,24 @@ export function Sidebar_serve(): SidebarItem[] {
       // collapsed: true,
       items: [
         { text: '银河录像局', link: 'nf-video' },
-        { text: '奈飞小铺', link: 'ihezu' },
-        { text: '蜜糖商店', link: 'metshop' }
+        { text: '账号星球', link: 'acc' },
+        { text: '奈飞小铺', link: 'ihezu' }
       ]
     },
     {
       text: '优质机场',
       base: '/serve/airport/',
       items: [
-        { text: `青云梯${code}`, link: 'qingyunti' },
+        { text: '青云梯' + code, link: 'qingyunti' },
+        { text: '极连云', link: 'hyperlink' },
+        { text: '星岛梦' + code, link: 'xdm' },
         { text: 'Galaxy Cloud - 银河云', link: 'galaxy' },
-        { text: `TNT Cloud${code}`, link: 'tnt' },
-        { text: 'FlyingBird - 飞鸟机场', link: 'flyingbird' },
+        { text: 'TNT Cloud' + code, link: 'tnt' },
+        { text: 'FlyingBird - 飞鸟机场' + code, link: 'flyingbird' },
         { text: 'Totoro Cloud - 龙猫云', link: 'totoro' },
-        { text: `小蜜蜂${code}`, link: 'bee' }
+        { text: '小蜜蜂' + code, link: 'bee' },
+        { text: 'OKANC' + code, link: 'okanc' },
+        { text: 'onlyrabbit - 唯兔云' + code, link: 'onlyrabbit' }
       ]
     },
     {

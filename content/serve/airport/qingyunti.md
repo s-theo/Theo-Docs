@@ -1,9 +1,9 @@
 ---
 title: 青云梯 - 性价比拉满的实力一线性价比IPLC
-description: 青云梯采用ss协议，企业级IPLC专线，3网优化，智能负载均衡(针对不同用户的本地实际网络分配最适合的入口和线路)，拥有最高2.5Gbps速率，确保您在网络使用过程中享受到稳定、高速的连接。拥有香港、台湾、日本、马来，新加坡、美国、韩国、泰国、印尼、菲律宾、越南、英国、德国、法国、土耳其、巴西、阿根廷等10多个地区80多个节点**。全节点专线，所有专线高峰时段不卡顿，让您畅享流畅的网络环境。
+description: 青云梯采用ss协议，企业级IPLC专线，3网优化，智能负载均衡(针对不同用户的本地实际网络分配最适合的入口和线路)，拥有最高2.5Gbps速率，确保您在网络使用过程中享受到稳定、高速的连接。拥有香港、台湾、日本、马来，新加坡、美国、韩国、泰国、印尼、菲律宾、越南、英国、德国、法国、土耳其、巴西、阿根廷等10多个地区80多个节点。全节点专线，所有专线高峰时段不卡顿，让您畅享流畅的网络环境。
 head:
   - - meta
-    - name: og:image
+    - property: og:image
       content: https://i.theojs.cn/logo/qyt_logo.webp
 ---
 
@@ -13,11 +13,20 @@ head:
 
 <!--@include: ./tip.md-->
 
-:::tip 青云梯 优惠码大放送!
+<!-- :::tip 青云梯双十一优惠活动!
 
-- <Copy type="tip" label="点击复制 85 折优惠码: qyt85" text="qyt85" bold />
-- <Copy type="tip" label="点击复制 8 折优惠码: qyt80" text="qyt80" bold />
-- 商店里显示的3年价格已经有6折了，再用年付优惠码购买3年套餐相当于48折了，超级给力
+- 全场 8 折（20% OFF）<Copy type="tip" label="点击复制折扣码: 10180" text="10180" bold />
+- 结算时输入折扣码即可享受折扣。每位用户不限使用次数。优惠券可叠加套餐本身优惠，享受折上折。节日福利火热进行中，快来解锁你的折扣吧！
+
+**特别注意: 年付小包不参加本次活动**
+
+::: -->
+
+:::tip 青云梯 折扣码大放送!
+
+- <Copy type="tip" label="点击复制 85 折折扣码: qyt85" text="qyt85" bold />
+- <Copy type="tip" label="点击复制 8 折折扣码: qyt80" text="qyt80" bold />
+- 商店里显示的3年价格已经有6折了，再用年付折扣码购买3年套餐相当于48折了，超级给力
 
 **特别注意: 青云梯年付小包不支持**
 
@@ -28,14 +37,14 @@ head:
   :items="[
     {
       image: 'https://i.theojs.cn/logo/qyt.webp',
-      name: '青云梯 优惠码大放送!',
+      name: '青云梯折扣码大放送!',
       link: 'https://itheo.top/qyt',
       rel: 'sponsored noreferrer'
     }
   ]"
 />
 
-## 青云梯 简介 <Pill image="https://i.theojs.cn/logo/qyt.webp" name="青云梯官网" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> <Copy type="tip" label="点击复制 85 折优惠码: qyt85" text="qyt85" bold /> <Copy type="tip" label="点击复制 8 折优惠码: qyt80" text="qyt80" bold />
+## 青云梯 简介 <Pill image="https://i.theojs.cn/logo/qyt.webp" name="青云梯官网" link="https://itheo.top/qyt" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制折扣码: qyt85" text="qyt85" bold /><Copy type="tip" label="点击复制折扣码: qyt80" text="qyt80" bold />
 
 青云梯采用ss协议，企业级IPLC专线，3网优化，智能负载均衡(**针对不同用户的本地实际网络分配最适合的入口和线路**)，
 
@@ -56,7 +65,7 @@ head:
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 
 ::: tip
-季付**9**折/半年付**85**折/年付**8**折/2年付**7**折/3年付**6**折 配合优惠码折上折，最高可达**48**折
+季付**9**折/半年付**85**折/年付**8**折/2年付**7**折/3年付**6**折 配合折扣码折上折，最高可达**48**折
 :::
 
 |   套餐类型   |  流量/月  | 月付 | 季付 | 半年付 | 年付  |                                                    套餐购买                                                    |
@@ -78,5 +87,3 @@ head:
 ![青云梯 北京移动晚高峰测速图 =688x](https://i.theojs.cn/airport/qyt_mobile.webp)
 
 ![青云梯 天津联通晚高峰测速图 =688x](https://i.theojs.cn/airport/qyt_unicom.webp)
-
-![青云梯 江苏电信晚高峰测速图 =688x](https://i.theojs.cn/airport/galaxy_jiangsu_telecom.webp)

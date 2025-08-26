@@ -17,14 +17,14 @@ hero:
     height: 320
 
   Notice:
-    title: '<span class="promo-title">青云梯 优惠码大放送!</span>'
+    title: '<span class="promo-title">龙猫云情人节&开学季大促！</span>'
     desc: |
-      · 85折<span class="promo-text"> 优惠码: qyt85 </span>
-      · 8折<span class="promo-text"> 优惠码: qyt80 </span>
+      · 月/季/半年付<span class="promo-text"> 85折: kaixue85 </span>
+      · 年付以上<span class="promo-text"> 48折: kaixue80 </span>
       · 配合优惠码折上折，最高可达<span class="promo-text">48折</span>
-    # date: '7月31号23点59分'
-    # dateText: '活动截止至'
-    link: https://itheo.top/qyt
+    date: '9月15号23点59分'
+    dateText: '活动截止至'
+    link: https://itheo.top/totoro
     rel: sponsored noreferrer
 
   actions:

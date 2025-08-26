@@ -23,7 +23,8 @@ export const Footer_Data: FooterData = {
         { name: 'TNT Cloud', link: 'https://itheo.top/tnt', rel: 'sponsored noreferrer' },
         { name: 'FlyingBird - 飞鸟机场', link: 'https://itheo.top/flyingbird', rel: 'sponsored noreferrer' },
         { name: 'Totoro - 龙猫云', link: 'https://itheo.top/totoro', rel: 'sponsored noreferrer' },
-        { name: '小蜜蜂', link: 'https://itheo.top/bee', rel: 'sponsored noreferrer' }
+        { name: '小蜜蜂', link: 'https://itheo.top/bee', rel: 'sponsored noreferrer' },
+        { name: 'OKANC', link: 'https://itheo.top/okanc', rel: 'sponsored noreferrer' }
       ]
     },
     {

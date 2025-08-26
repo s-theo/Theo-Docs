@@ -11,17 +11,17 @@ export const Aside_Data: AsideItem = [
   },
   // {
   //   image: 'https://i.theojs.cn/logo/flyingbird.webp',
-  //   promo: 'FlyingBird 520&618 特惠',
-  //   info1: '月/季/半年付<span class="promo-text"> 85折: fb2561885 </span>',
-  //   info2: '年付以上<span class="promo-text"> 64折: fb2561880 </span>',
+  //   promo: 'FlyingBird 七夕活动启航',
+  //   info1: '月/季/半年付<span class="promo-text"> 85折: fb257785 </span>',
+  //   info2: '年付以上<span class="promo-text"> 64折: fb257780 </span>',
   //   link: 'https://itheo.top/flyingbird',
   //   rel: 'sponsored noreferrer'
   // },
   // {
   //   image: 'https://i.theojs.cn/logo/totoro.webp',
-  //   promo: '龙猫云618大促-低至48折',
-  //   info1: '月/季/半年付<span class="promo-text"> 85折: spring85 </span>',
-  //   info2: '年付以上<span class="promo-text"> 48折: spring80 </span>',
+  //   promo: '龙猫云情人节&开学季大促!',
+  //   info1: '月/季/半年付<span class="promo-text"> 85折: kaixue85 </span>',
+  //   info2: '年付以上<span class="promo-text"> 48折: kaixue80 </span>',
   //   link: 'https://itheo.top/totoro',
   //   rel: 'sponsored noreferrer'
   // },
@@ -43,8 +43,9 @@ export const Aside_Data: AsideItem = [
   // },
   {
     image: { src: 'https://i.theojs.cn/docs/TNT.webp', crop: true },
-    promo: 'TNT Cloud 新人特惠',
-    info1: '全场85折 <span class="promo-text">优惠码: TNT85</span>',
+    promo: 'TNT Cloud 特惠',
+    info1: '全场8折 <span class="promo-text">优惠码: TNT80</span>',
+    info2: '全场85折 <span class="promo-text">优惠码: TNT85</span>',
     link: 'https://itheo.top/tnt',
     rel: 'sponsored noreferrer'
   },
@@ -53,6 +54,13 @@ export const Aside_Data: AsideItem = [
     promo: '小蜜蜂 新人特惠',
     info1: '全场85折 <span class="promo-text">优惠码: xmfwww85</span>',
     link: 'https://itheo.top/bee',
+    rel: 'sponsored noreferrer'
+  },
+  {
+    image: 'https://i.theojs.cn/logo/okanc.webp',
+    promo: 'OKNAC 活动开启',
+    info1: '全场8折 <span class="promo-text">优惠码: theo80</span>',
+    link: 'https://itheo.top/okanc',
     rel: 'sponsored noreferrer'
   },
   // {

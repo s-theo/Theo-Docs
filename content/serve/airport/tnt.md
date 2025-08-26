@@ -7,8 +7,9 @@ description: TNT Cloud 提供稳定高速的科学上网服务，支持多平台
 
 <!--@include: ./tip.md-->
 
-:::tip TNT Cloud 新人特惠 全场 85 折!
+:::tip TNT Cloud 特惠活动开启
 
+- 全套餐推出8折优惠，<Copy type="tip" label="点击复制优惠码: TNT80" text="TNT80" bold />
 - 全套餐推出85折优惠，<Copy type="tip" label="点击复制优惠码: TNT85" text="TNT85" bold />
 - 商店套餐月付以上自带折扣，配合优惠码购买可以享受折上折，3年付更可享受**4.8**折优惠，心动不如行动
 - 季付限量包不参与活动
@@ -20,14 +21,15 @@ description: TNT Cloud 提供稳定高速的科学上网服务，支持多平台
   :items="[
     {
       image: { src: 'https://i.theojs.cn/docs/TNT.webp', crop: true },
-      name: 'TNT Cloud 新人特惠 全场 85 折',
+      name: 'TNT Cloud  特惠活动开启',
+      // desc: '活动时间：即日至2025年9月15号23点59分',
       link: 'https://itheo.top/tnt',
       rel: 'sponsored noreferrer'
     }
   ]"
 />
 
-## TNT Cloud简介 <Pill :image="{ src: 'https://i.theojs.cn/docs/TNT.webp', crop: true }" name="TNT Cloud官网" link="https://itheo.top/tnt" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制优惠码: TNT85" text="TNT85" bold />
+## TNT Cloud简介 <Pill :image="{ src: 'https://i.theojs.cn/docs/TNT.webp', crop: true }" name="TNT Cloud官网" link="https://itheo.top/tnt" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制优惠码: TNT80" text="TNT80" bold /><Copy type="tip" label="点击复制优惠码: TNT85" text="TNT85" bold />
 
 IPLC内网专线机场，原生 IP 节点，服务稳定可靠，是老牌机场的分站团队，也是海外团队，有专业的客服团队。全天在线维护客户，所有套餐不限速无倍率，所有套餐只有流量区别，有特色的季付限量包，低至10元每月，专门为用量小的用户设计（30元/季度，60G/月）
 

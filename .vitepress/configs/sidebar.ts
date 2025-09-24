@@ -267,7 +267,7 @@ export function Sidebar_serve(): SidebarItem[] {
         { text: '青云梯' + code, link: 'qingyunti' },
         { text: 'Galaxy Cloud - 银河云', link: 'galaxy' },
         { text: 'TNT Cloud' + code, link: 'tnt' },
-        { text: 'FlyingBird - 飞鸟机场', link: 'flyingbird' },
+        { text: 'FlyingBird - 飞鸟机场' + code, link: 'flyingbird' },
         { text: 'Totoro Cloud - 龙猫云', link: 'totoro' },
         { text: '小蜜蜂' + code, link: 'bee' },
         { text: 'OKANC' + code, link: 'okanc' }

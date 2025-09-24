@@ -7,31 +7,29 @@ description: FlyingBird 飞鸟机场提供高速稳定的科学上网服务，�
 
 <!--@include: ./tip.md-->
 
-<!-- :::tip FlyingBird 七夕活动继续启航！
+:::tip FlyingBird 飞鸟 双十一特惠开启！
 
-- 月/季/半年付 85折，<Copy type="tip" label="点击复制优惠码: fb257785" text="fb257785" bold />，可重复使用5次
-- 年付8折（站内折上折，高达64折 ），<Copy type="tip" label="点击复制优惠码: fb257780" text="fb257780" bold />，可重复使用5次
+- 月/季/半年付 85折，<Copy type="tip" label="点击复制折扣码: fb25111185" text="fb25111185" bold />，可重复使用5次
+- 年付8折（站内折上折，高达64折 ），<Copy type="tip" label="点击复制折扣码: fb25111180" text="fb25111180" bold />，可重复使用5次
 
-**活动时间：即日至2025年9月15号09点00分**
+**活动时间：即日至2025年11月30日23点59分**
 
-::: -->
+:::
 
-<!-- <Links
+<Links
   :grid="2"
   :items="[
     {
       image: 'https://i.theojs.cn/logo/flyingbird.webp',
-      name: 'FlyingBird 七夕活动继续启航！',
-      desc: '活动时间：即日至2025年9月15号09点00分',
+      name: 'FlyingBird 飞鸟双十一特惠开启！',
+      desc: '活动时间：即日至2025年11月30日23点59分',
       link: 'https://itheo.top/flyingbird',
       rel: 'sponsored noreferrer'
     }
   ]"
-/> -->
+/>
 
-## FlyingBird 简介 <Pill image="https://i.theojs.cn/logo/flyingbird.webp" name="FlyingBird官网" link="https://itheo.top/flyingbird" rel="sponsored noreferrer"/>
-
-<!-- <Copy type="tip" label="点击复制优惠码: fb257785" text="fb257785" bold /><Copy type="tip" label="点击复制优惠码: fb257780" text="fb257780" bold /> -->
+## FlyingBird 简介 <Pill image="https://i.theojs.cn/logo/flyingbird.webp" name="FlyingBird官网" link="https://itheo.top/flyingbird" rel="sponsored noreferrer"/><Copy type="tip" label="点击复制折扣码: fb25111185" text="fb25111185" bold /><Copy type="tip" label="点击复制折扣码: fb25111180" text="fb25111180" bold />
 
 FlyingBird - 飞鸟机场的前身是多个老牌机场的融合衍生，**主打快速稳定，全专线 IPLC，没有倍率，不限网速，不限客户端并且可以多用户同时使用**。有着老牌机场的稳定、也有着新晋机场的诚意，目前活动买多少给多少，价格区间比较多，用户的选择比较多。从我自己使用来看，值得推荐为 2025 年的稳定机场。
 
@@ -51,7 +49,7 @@ FlyingBird - 飞鸟机场的前身是多个老牌机场的融合衍生，**主�
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 
 ::: tip
-季付**9**折/半年**85**折/年付**8**折 配合优惠码折上折，最高可达**64**折
+季付**9**折/半年**85**折/年付**8**折 配合折扣码折上折，最高可达**64**折
 :::
 
 | 套餐类型 |  流量/月  | 月付 | 季付 | 半年付 | 年付  |                                                       套餐购买                                                        |

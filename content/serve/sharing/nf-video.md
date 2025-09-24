@@ -19,7 +19,22 @@ head:
 
 <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill icon="logos:paypal" name="PayPal" />
 
-## ChatGPT Plus <Copy type="tip" label="点击复制优惠码: Theo" text="Theo" bold />
+## Netflix/Disney+/HBO/Spotify/Youtube Premium（流媒体服务）<Copy type="tip" label="点击复制折扣码: Theo" text="Theo" bold />
+
+|        产品         | 价格/年 | 折后/年 | 折合/月 |                                                   合租链接                                                    |                         扫码直达                         |
+| :-----------------: | :-----: | :-----: | :-----: | :-----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------: |
+|     **Netflix**     |  ￥240  |  ￥228  |  ￥19   | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yh" rel="sponsored noreferrer" /> | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
+|     **Disney+**     |  ￥144  | ￥136.8 | ￥11.4  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yh" rel="sponsored noreferrer" /> | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
+| **Youtube Premium** |  ￥120  |  ￥114  |  ￥9.5  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yh" rel="sponsored noreferrer" /> | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
+|     **HBO GO**      |  ￥180  |  ￥171  | ￥14.25 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yh" rel="sponsored noreferrer" /> | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
+|     **Spotify**     |  ￥144  | ￥136.8 | ￥11.4  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yh" rel="sponsored noreferrer" /> | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
+
+:::tip 选择银河录像局的优势
+较之用爱发电，在茫茫人海找**合租搭子**，在银河录像局可以省去**花时间去找**的烦恼（由平台自行撮合，用户只管使用服务即可），一定程度上更方便快捷，服务质量更有保障；
+无论是从内容还是套餐定价，优爱腾都是无法与其比拟的；以及真正意义上的无广告，常年佳片不断；
+:::
+
+## ChatGPT Plus <Copy type="tip" label="点击复制折扣码: Theo" text="Theo" bold />
 
 如需购买**现成 ChatGPT 账号**及账号充值、**ChatGPT Plus**，可在 <Pill image="https://nf.video/favicon.ico" name="银河录像局" link="https://itheo.top/yh" rel="sponsored noreferrer" /> 进行购买；
 
@@ -37,7 +52,7 @@ head:
 **注意:拍前确认网络可登录。**
 :::
 
-## Midjourney <Copy type="tip" label="点击复制优惠码: Theo" text="Theo" bold />
+## Midjourney <Copy type="tip" label="点击复制折扣码: Theo" text="Theo" bold />
 
 |      产品      |  价格   |                                                   合租链接                                                    |                         扫码直达                         |
 | :------------: | :-----: | :-----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------: |
@@ -49,7 +64,7 @@ head:
 也可以使用开源绘画 AI Stable Diffusion，效果一级棒
 :::
 
-## Photoshop AI <Copy type="tip" label="点击复制优惠码: Theo" text="Theo" bold />
+## Photoshop AI <Copy type="tip" label="点击复制折扣码: Theo" text="Theo" bold />
 
 **在 Adob​​e Photoshop 中发挥 AI 的力量。**
 
@@ -76,22 +91,7 @@ head:
 - **神经过滤器：** 利用机器学习支持的过滤器库，将较大的工作流程减少到只需点击几下。
   :::
 
-## Netflix/Disney+/HBO/Spotify/Youtube Premium（流媒体服务） <Copy type="tip" label="点击复制优惠码: Theo" text="Theo" bold />
-
-|        产品         | 价格/年 | 折后/年 | 折合/月 |                                                   合租链接                                                    |                         扫码直达                         |
-| :-----------------: | :-----: | :-----: | :-----: | :-----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------: |
-|     **Netflix**     |  ￥240  |  ￥228  |  ￥19   | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yh" rel="sponsored noreferrer" /> | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
-|     **Disney+**     |  ￥144  | ￥136.8 | ￥11.4  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yh" rel="sponsored noreferrer" /> | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
-| **Youtube Premium** |  ￥120  |  ￥114  |  ￥9.5  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yh" rel="sponsored noreferrer" /> | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
-|     **HBO GO**      |  ￥180  |  ￥171  | ￥14.25 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yh" rel="sponsored noreferrer" /> | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
-|     **Spotify**     |  ￥144  | ￥136.8 | ￥11.4  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yh" rel="sponsored noreferrer" /> | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
-
-:::tip 选择银河录像局的优势
-较之用爱发电，在茫茫人海找**合租搭子**，在银河录像局可以省去**花时间去找**的烦恼（由平台自行撮合，用户只管使用服务即可），一定程度上更方便快捷，服务质量更有保障；
-无论是从内容还是套餐定价，优爱腾都是无法与其比拟的；以及真正意义上的无广告，常年佳片不断；
-:::
-
-## 美区 Apple ID <Copy type="tip" label="点击复制优惠码: Theo" text="Theo" bold />
+## 美区 Apple ID <Copy type="tip" label="点击复制折扣码: Theo" text="Theo" bold />
 
 |       产品       | 价格 |                                                   合租链接                                                    |                         扫码直达                         |
 | :--------------: | :--: | :-----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------: |

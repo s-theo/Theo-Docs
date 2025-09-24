@@ -13,29 +13,39 @@ head:
 
 <!--@include: ./tip.md-->
 
-<!-- :::tip 银河云 618大促活动开启!
+:::tip 银河云国庆·中秋限时优惠活动!
 
-- 月/季/半年付 85折 , 优惠码：**`wuyi85`**
-- 年付8折（站内折上折，高达64折 ）优惠码：**`wuyi80`**
-- 商店里显示的3年价格已经有6折了，再用年付优惠码购买3年套餐相当于48折了，超级给力
+- 全场 8 折（20% OFF）<Copy type="tip" label="点击复制折扣码: 10180" text="10180" bold />
+- 结算时输入折扣码即可享受折扣。每位用户不限使用次数。优惠券可叠加套餐本身优惠，享受折上折。节日福利火热进行中，快来解锁你的折扣吧！
 
-**特别注意: 银河云年付小包与不限时包不支持**
+**特别注意: 年付小包不参加本次活动**
 
 :::
 
+<!-- :::tip 银河云 618大促活动开启!
+
+- 月/季/半年付 85折 , 折扣码：**`wuyi85`**
+- 年付8折（站内折上折，高达64折 ）折扣码：**`wuyi80`**
+- 商店里显示的3年价格已经有6折了，再用年付折扣码购买3年套餐相当于48折了，超级给力
+
+**特别注意: 银河云年付小包与不限时包不支持**
+
+::: -->
+
 <Links
+  :grid="2"
   :items="[
     {
       image: { src: 'https://i.theojs.cn/logo/galaxy_transparent_square.webp', crop: true },
-      name: '银河云 618大促活动开启!',
-      desc: '活动时间：即日起至2025年06月30日23点59分',
+      name: '银河云国庆·中秋限时优惠活动!',
+      desc: '即日至2025年11月1日23点59分',
       link: 'https://itheo.top/yhy',
       rel: 'sponsored noreferrer'
     }
   ]"
-/> -->
+/>
 
-## 银河云 简介 <Pill image="https://i.theojs.cn/logo/galaxy_transparent_square.webp" name="银河云官网" link="https://itheo.top/yhy" rel="sponsored noreferrer" />
+## 银河云 简介 <Pill image="https://i.theojs.cn/logo/galaxy_transparent_square.webp" name="银河云官网" link="https://itheo.top/yhy" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制折扣码: 10180" text="10180" bold />
 
 **Galaxy Cloud - 银河云** 采用IEPL trojan专线机场，成立与2024年6月，新加坡海外团队大机房产品，性价比专线，24h在线客服，专业且靠谱稳定，任何线路问题都是1h内修复处理，支持退款。
 
@@ -55,7 +65,7 @@ head:
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 
 ::: tip
-季付**9**折/半年付**85**折/年付**8**折/2年付**7**折/3年付**6**折 配合优惠码折上折，最高可达**48**折
+季付**9**折/半年付**85**折/年付**8**折/2年付**7**折/3年付**6**折 配合折扣码折上折，最高可达**48**折
 
 使用 **微信/USDT** 支付请进入官网点击右下角联系客服处理
 :::

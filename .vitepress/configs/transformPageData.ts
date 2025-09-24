@@ -20,7 +20,9 @@ export const transformPageData: UserConfig['transformPageData'] = (pageData) => 
   const modified_time = pageData.lastUpdated ? new Date(pageData.lastUpdated).toISOString() : new Date().toISOString()
 
   // og:image
-  const ogImageEntry = pageData.frontmatter.head.find((item) => item[0] === 'meta' && item[1]?.property === 'og:image')
+  const ogImageEntry = pageData.frontmatter.head.find(
+    (item: any) => item[0] === 'meta' && item[1]?.property === 'og:image'
+  )
   const ogImage = ogImageEntry?.[1]?.content || defaultOgImage
 
   // json-ld

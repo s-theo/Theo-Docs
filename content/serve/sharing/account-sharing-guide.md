@@ -14,9 +14,10 @@ description: 奈飞小铺、银河录像局、蜜糖商店等优质账号合租�
 |   [奈飞小铺](/serve/sharing/ihezu.md)    |  <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/ihezu" rel="sponsored noreferrer" />  | <Copy text="theonf" bold /> |    ![ihezu =80x](https://i.theojs.cn/docs/ihezu.webp)    |
 | [银河录像局](/serve/sharing/nf-video.md) |   <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/yh" rel="sponsored noreferrer" />    |  <Copy text="Theo" bold />  | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
 |  [蜜糖商店](/serve/sharing/metshop.md)   | <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/metshop" rel="sponsored noreferrer" /> | <Copy text="theomt" bold /> |  ![MetShop =80x](https://i.theojs.cn/docs/MetShop.webp)  |
+|    [账号星球](/serve/sharing/acc.md)     |   <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/acc" rel="sponsored noreferrer" />   |              -              |      ![acc =80x](https://i.theojs.cn/docs/acc.webp)      |
 
 <Links
-  :grid="3"
+  :grid="4"
   :items="[
     {
       image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT5w-gXnmsI24DmoYkt-1EpkL_nY0O1p8p4Q&s',
@@ -37,6 +38,13 @@ description: 奈飞小铺、银河录像局、蜜糖商店等优质账号合租�
       name: '蜜糖商店',
       desc: '平台齐全 租期灵活 服务迅速',
       link: 'https://itheo.top/metshop',
+      rel: 'sponsored noreferrer'
+    },
+    {
+      image: 'https://i.theojs.cn/logo/acc_logo.webp',
+      name: '账号星球',
+      desc: '海外社媒 游戏影音 一键购买',
+      link: 'https://itheo.top/acc',
       rel: 'sponsored noreferrer'
     }
   ]"

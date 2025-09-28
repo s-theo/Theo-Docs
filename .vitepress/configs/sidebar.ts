@@ -256,6 +256,7 @@ export function Sidebar_serve(): SidebarItem[] {
       // collapsed: true,
       items: [
         { text: '银河录像局', link: 'nf-video' },
+        { text: '账号星球', link: 'acc' },
         { text: '奈飞小铺', link: 'ihezu' },
         { text: '蜜糖商店', link: 'metshop' }
       ]

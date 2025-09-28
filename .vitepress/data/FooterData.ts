@@ -32,6 +32,7 @@ export const Footer_Data: FooterData = {
       title: '流媒体合租',
       links: [
         { name: '银河录像局', link: 'https://itheo.top/yh', rel: 'sponsored noreferrer' },
+        { name: '账号星球', link: 'https://itheo.top/acc', rel: 'sponsored noreferrer' },
         { name: '奈飞小铺', link: 'https://itheo.top/ihezu', rel: 'sponsored noreferrer' },
         { name: '蜜糖商店', link: 'https://itheo.top/metshop', rel: 'sponsored noreferrer' },
         { name: 'SMS-Activate', link: 'https://itheo.top/sms', rel: 'sponsored noreferrer' }

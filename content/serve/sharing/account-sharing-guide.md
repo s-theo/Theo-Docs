@@ -9,7 +9,7 @@ description: 奈飞小铺、银河录像局、蜜糖商店等优质账号合租�
 
 <!-- #region price -->
 
-|                 合租平台                 |                                                   官方网站                                                   |           优惠码            |                         扫码直达                         |
+|                 合租平台                 |                                                   官方网站                                                   |           折扣码            |                         扫码直达                         |
 | :--------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :-------------------------: | :------------------------------------------------------: |
 |   [奈飞小铺](/serve/sharing/ihezu.md)    |  <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/ihezu" rel="sponsored noreferrer" />  | <Copy text="theonf" bold /> |    ![ihezu =80x](https://i.theojs.cn/docs/ihezu.webp)    |
 | [银河录像局](/serve/sharing/nf-video.md) |   <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/yh" rel="sponsored noreferrer" />    |  <Copy text="Theo" bold />  | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |

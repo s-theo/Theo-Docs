@@ -13,29 +13,39 @@ head:
 
 <!--@include: ./tip.md-->
 
-:::tip 青云梯 优惠码大放送!
+:::tip 青云梯国庆·中秋限时优惠活动!
 
-- <Copy type="tip" label="点击复制 85 折优惠码: qyt85" text="qyt85" bold />
-- <Copy type="tip" label="点击复制 8 折优惠码: qyt80" text="qyt80" bold />
-- 商店里显示的3年价格已经有6折了，再用年付优惠码购买3年套餐相当于48折了，超级给力
+- 全场 8 折（20% OFF）<Copy type="tip" label="点击复制折扣码: 10180" text="10180" bold />
+- 结算时输入折扣码即可享受折扣。每位用户不限使用次数。优惠券可叠加套餐本身优惠，享受折上折。节日福利火热进行中，快来解锁你的折扣吧！
+
+**特别注意: 年付小包不参加本次活动**
+
+:::
+
+<!-- :::tip 青云梯 折扣码大放送!
+
+- <Copy type="tip" label="点击复制 85 折折扣码: qyt85" text="qyt85" bold />
+- <Copy type="tip" label="点击复制 8 折折扣码: qyt80" text="qyt80" bold />
+- 商店里显示的3年价格已经有6折了，再用年付折扣码购买3年套餐相当于48折了，超级给力
 
 **特别注意: 青云梯年付小包不支持**
 
-:::
+::: -->
 
 <Links
   :grid="2"
   :items="[
     {
       image: 'https://i.theojs.cn/logo/qyt.webp',
-      name: '青云梯 优惠码大放送!',
+      name: '青云梯国庆·中秋限时优惠活动!',
+      desc: '即日至2025年11月1日23点59分',
       link: 'https://itheo.top/qyt',
       rel: 'sponsored noreferrer'
     }
   ]"
 />
 
-## 青云梯 简介 <Pill image="https://i.theojs.cn/logo/qyt.webp" name="青云梯官网" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> <Copy type="tip" label="点击复制 85 折优惠码: qyt85" text="qyt85" bold /> <Copy type="tip" label="点击复制 8 折优惠码: qyt80" text="qyt80" bold />
+## 青云梯 简介 <Pill image="https://i.theojs.cn/logo/qyt.webp" name="青云梯官网" link="https://itheo.top/qyt" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制折扣码: 10180" text="10180" bold />
 
 青云梯采用ss协议，企业级IPLC专线，3网优化，智能负载均衡(**针对不同用户的本地实际网络分配最适合的入口和线路**)，
 
@@ -56,7 +66,7 @@ head:
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 
 ::: tip
-季付**9**折/半年付**85**折/年付**8**折/2年付**7**折/3年付**6**折 配合优惠码折上折，最高可达**48**折
+季付**9**折/半年付**85**折/年付**8**折/2年付**7**折/3年付**6**折 配合折扣码折上折，最高可达**48**折
 :::
 
 |   套餐类型   |  流量/月  | 月付 | 季付 | 半年付 | 年付  |                                                    套餐购买                                                    |

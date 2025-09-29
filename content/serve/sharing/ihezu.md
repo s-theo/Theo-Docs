@@ -19,7 +19,7 @@ head:
 
 奈飞小铺除了支持在微信公众号中随时查阅账号信息，还能在其他合租室友修改密码后，一键申请重置密码。另外，你还可以选择加入他们的官方电报群，群里会有官方售后客服随时解答用户提问。
 
-## 奈飞小铺价格表 <Copy type="tip" label="点击复制优惠码: theonf" text="theonf" bold />
+## 奈飞小铺价格表 <Copy type="tip" label="点击复制折扣码: theonf" text="theonf" bold />
 
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" />
 

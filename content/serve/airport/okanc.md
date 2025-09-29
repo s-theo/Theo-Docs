@@ -7,9 +7,9 @@ description: OKANC采用trojan协议，IEPL深港专线机场，稳定性高延�
 
 <!--@include: ./tip.md-->
 
-<!-- :::tip OKANC 优惠码大放送!
+:::tip OKANC 国庆中秋双节优惠!
 
-- <Copy type="tip" label="点击复制 8 折优惠码: theo80" text="theo80" bold />
+- <Copy type="tip" label="点击复制 7 折折扣码: 1001" text="1001" bold />
 
 :::
 
@@ -18,14 +18,34 @@ description: OKANC采用trojan协议，IEPL深港专线机场，稳定性高延�
   :items="[
     {
       image: 'https://i.theojs.cn/logo/okanc.webp',
-      name: 'OKANC 优惠码大放送!',
+      name: 'OKANC 国庆中秋双节优惠!',
+      desc: '活动时间：即日至2025年10月31号23点59分',
       link: 'https://itheo.top/okanc',
       rel: 'sponsored noreferrer'
     }
   ]"
-/> -->
+/>
 
-## OKANC 简介 <Pill image="https://i.theojs.cn/logo/okanc.webp" name="OKANC官网" link="https://itheo.top/okanc" rel="sponsored noreferrer" /> <Copy type="tip" label="点击复制 8 折优惠码: theo80" text="theo80" bold />
+<!-- :::tip OKANC 折扣码大放送!
+
+- <Copy type="tip" label="点击复制 8 折折扣码: theo80" text="theo80" bold />
+
+:::
+
+<Links
+  :grid="2"
+  :items="[
+    {
+      image: 'https://i.theojs.cn/logo/okanc.webp',
+      name: 'OKANC 折扣码大放送!',
+      link: 'https://itheo.top/okanc',
+      rel: 'sponsored noreferrer'
+    }
+  ]"
+/>
+-->
+
+## OKANC 简介 <Pill image="https://i.theojs.cn/logo/okanc.webp" name="OKANC官网" link="https://itheo.top/okanc" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制 7 折折扣码: 1001" text="1001" bold />
 
 OKANC采用trojan协议，IEPL深港专线机场，稳定性高延迟低，值得推荐！
 

@@ -7,35 +7,29 @@ description: Totoro Cloud 中文名为龙猫云，一家颇具实力的新机场
 
 <!--@include: ./tip.md-->
 
-<!-- :::tip 龙猫云情人节&开学季大促！
+:::tip 龙猫云 国庆中秋双节优惠！
 
-- 月付/季度/半年 享受**85**折优惠，<Copy type="tip" label="点击复制优惠码: kaixue85" text="kaixue85" bold />
+- 月付/季度/半年 享受**85**折优惠，<Copy type="tip" label="点击复制折扣码: tot85" text="tot85" bold />
+- 年付/2年/3年 享受**8**折优惠，<Copy type="tip" label="点击复制折扣码: to80" text="to80" bold />
+- 配合折扣码购买3年付即可享受**48**折优惠，非常划算哦
 
-- 年付/2年/3年 享受**8**折优惠，<Copy type="tip" label="点击复制优惠码: kaixue80" text="kaixue80" bold />
+**活动时间：即日至2025年10月20号23点59分**
+:::
 
-- 配合优惠码购买3年付即可享受**48**折优惠，非常划算哦
-
-- 每个账号活动周期内只能使用3次优惠码
-
-**活动时间：即日至2025年9月15号23点59分**
-::: -->
-
-<!-- <Links
+<Links
   :grid="2"
   :items="[
     {
       image: 'https://i.theojs.cn/logo/totoro.webp',
-      name: '龙猫云情人节&开学季大促！',
-      desc: '活动时间：即日至2025年9月15号23点59分',
+      name: '龙猫云 国庆中秋双节优惠',
+      desc: '活动时间：即日至2025年10月20号23点59分',
       link: 'https://itheo.top/totoro',
       rel: 'sponsored noreferrer'
     }
   ]"
-/> -->
+/>
 
-## 龙猫云简介 <Pill image="https://i.theojs.cn/logo/totoro.webp" name="龙猫云官网" link="https://itheo.top/totoro" rel="sponsored noreferrer" />
-
-<!-- <Copy type="tip" label="点击复制优惠码: kaixue85" text="kaixue85" bold /><Copy type="tip" label="点击复制优惠码: kaixue80" text="kaixue80" bold /> -->
+## 龙猫云简介 <Pill image="https://i.theojs.cn/logo/totoro.webp" name="龙猫云官网" link="https://itheo.top/totoro" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制折扣码: tot85" text="tot85" bold /><Copy type="tip" label="点击复制折扣码: to80" text="to80" bold />
 
 Totoro Cloud 中文名为龙猫云，一家颇具实力的新机场，Shadowsocks 协议节点，IPLC 专线，对 **Netflix、Disney+ 流媒体和 ChatGPT** 提供很好的解锁支持。龙猫云机场官方提供了详细的视频、文档以及贴心的客服支持
 

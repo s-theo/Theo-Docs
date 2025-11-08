@@ -88,5 +88,3 @@ head:
 ![青云梯 北京移动晚高峰测速图 =688x](https://i.theojs.cn/airport/qyt_mobile.webp)
 
 ![青云梯 天津联通晚高峰测速图 =688x](https://i.theojs.cn/airport/qyt_unicom.webp)
-
-![青云梯 江苏电信晚高峰测速图 =688x](https://i.theojs.cn/airport/galaxy_jiangsu_telecom.webp)

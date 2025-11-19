@@ -271,7 +271,7 @@ export function Sidebar_serve(): SidebarItem[] {
         { text: 'Totoro Cloud - 龙猫云' + code, link: 'totoro' },
         { text: '小蜜蜂' + code, link: 'bee' },
         { text: 'OKANC' + code, link: 'okanc' },
-        { text: '闪电鼠' + code, link: 'sds' }
+        { text: '星岛梦' + code, link: 'xdm' }
       ]
     },
     {

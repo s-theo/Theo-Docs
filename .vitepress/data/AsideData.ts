@@ -63,13 +63,13 @@ export const Aside_Data: AsideItem = [
     link: 'https://itheo.top/okanc',
     rel: 'sponsored noreferrer'
   },
-  {
-    image: 'https://i.theojs.cn/logo/sds_logo.webp',
-    promo: '闪电鼠开服全场 8 折',
-    info1: '全场套餐 <span class="promo-text"> 8折: OPEN20</span>',
-    link: 'https://itheo.top/sds',
-    rel: 'sponsored noreferrer'
-  },
+  // {
+  //   image: 'https://i.theojs.cn/logo/sds_logo.webp',
+  //   promo: '星岛梦开服全场 8 折',
+  //   info1: '全场套餐 <span class="promo-text"> 8折: OPEN20</span>',
+  //   link: 'https://itheo.top/xdm',
+  //   rel: 'sponsored noreferrer'
+  // },
   // {
   //   image: 'https://i.theojs.cn/logo/qyt.webp',
   //   promo: '青云梯',
@@ -106,12 +106,12 @@ export const Aside_Data: AsideItem = [
   //   link: 'https://itheo.top/tnt',
   //   rel: 'sponsored noreferrer'
   // },
-  // {
-  //   image: { src: 'https://i.theojs.cn/logo/sds_logo.webp' },
-  //   promo: '闪电鼠',
-  //   link: 'https://itheo.top/sds',
-  //   rel: 'sponsored noreferrer'
-  // },
+  {
+    image: { src: 'https://i.theojs.cn/logo/sds_logo.webp' },
+    promo: '星岛梦',
+    link: 'https://itheo.top/xdm',
+    rel: 'sponsored noreferrer'
+  },
   {
     image: 'https://i.theojs.cn/logo/lumen-logo-large.svg',
     name: '@theojs/lumen',

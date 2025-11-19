@@ -2,14 +2,6 @@ import type { AsideItem } from '@theojs/lumen'
 
 export const Aside_Data: AsideItem = [
   {
-    image: 'https://i.theojs.cn/logo/sms-activate.webp',
-    promo: 'SMS-Activate 短信接码',
-    info1: '秒开 <span class="promo-text">虚拟号码</span> 注册无障碍',
-    info2: '覆盖 <span class="promo-text">200+国家</span> 轻松可用',
-    link: 'https://itheo.top/sms',
-    rel: 'sponsored noreferrer'
-  },
-  {
     image: 'https://i.theojs.cn/logo/flyingbird.webp',
     promo: 'FlyingBird 双十一特惠',
     info1: '月/季/半年<span class="promo-text"> 85折: fb25111185 </span>',
@@ -64,10 +56,10 @@ export const Aside_Data: AsideItem = [
     rel: 'sponsored noreferrer'
   },
   {
-    image: 'https://i.theojs.cn/logo/sds_logo.webp',
-    promo: '闪电鼠开服全场 8 折',
-    info1: '全场套餐 <span class="promo-text"> 8折: OPEN20</span>',
-    link: 'https://itheo.top/sds',
+    image: 'https://i.theojs.cn/logo/xdm_logo.webp',
+    promo: '星岛梦开服全场 64 折',
+    info1: '全场套餐 <span class="promo-text"> 64折: XDM666</span>',
+    link: 'https://itheo.top/xdm',
     rel: 'sponsored noreferrer'
   },
   // {
@@ -107,11 +99,19 @@ export const Aside_Data: AsideItem = [
   //   rel: 'sponsored noreferrer'
   // },
   // {
-  //   image: { src: 'https://i.theojs.cn/logo/sds_logo.webp' },
-  //   promo: '闪电鼠',
-  //   link: 'https://itheo.top/sds',
+  //   image: { src: 'https://i.theojs.cn/logo/xdm_logo.webp' },
+  //   promo: '星岛梦',
+  //   link: 'https://itheo.top/xdm',
   //   rel: 'sponsored noreferrer'
   // },
+  {
+    image: 'https://i.theojs.cn/logo/sms-activate.webp',
+    promo: 'SMS-Activate 短信接码',
+    info1: '秒开 <span class="promo-text">虚拟号码</span> 注册无障碍',
+    info2: '覆盖 <span class="promo-text">200+国家</span> 轻松可用',
+    link: 'https://itheo.top/sms',
+    rel: 'sponsored noreferrer'
+  },
   {
     image: 'https://i.theojs.cn/logo/lumen-logo-large.svg',
     name: '@theojs/lumen',

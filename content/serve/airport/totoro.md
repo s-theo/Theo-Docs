@@ -58,4 +58,8 @@ Totoro Cloud 中文名为龙猫云，一家颇具实力的新机场，Shadowsock
 
 ## 龙猫云 测速图
 
-![龙猫云 测速图 =688x](https://i.theojs.cn/airport/totoro.webp)
+![龙猫云 拓扑图 =688x](https://i.theojs.cn/airport/totoro_topology.webp)
+
+![龙猫云 全量流媒体解锁图 =688x](https://i.theojs.cn/airport/totoro_unlock.webp)
+
+![龙猫云 南京电信测速图 =688x](https://i.theojs.cn/airport/totoro_nanjing_telecom.webp)

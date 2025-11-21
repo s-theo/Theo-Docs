@@ -78,4 +78,8 @@ head:
 
 ## 星岛梦 测速图
 
+![星岛梦 拓扑图 =688x](https://i.theojs.cn/airport/xdm_topology.webp)
+
+![星岛梦 流媒体解锁图 =688x](https://i.theojs.cn/airport/xdm_unlock.webp)
+
 ![星岛梦 东北辽宁晚高峰测速图 =688x](https://i.theojs.cn/airport/xdm_liaoning_telecom.webp)

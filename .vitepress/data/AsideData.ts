@@ -58,8 +58,8 @@ export const Aside_Data: AsideItem = [
   },
   {
     image: 'https://i.theojs.cn/logo/okanc.webp',
-    promo: 'OKNAC 8 折特惠',
-    info1: '全场套餐 <span class="promo-text">  8折: theo80</span>',
+    promo: 'OKNAC 78 折特惠',
+    info1: '全场套餐 <span class="promo-text"> 78折: 1212</span>',
     link: 'https://itheo.top/okanc',
     rel: 'sponsored noreferrer'
   },

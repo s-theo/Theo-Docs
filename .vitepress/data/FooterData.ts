@@ -26,7 +26,8 @@ export const Footer_Data: FooterData = {
         { name: 'Totoro - 龙猫云', link: 'https://itheo.top/totoro', rel: 'sponsored noreferrer' },
         { name: '小蜜蜂', link: 'https://itheo.top/bee', rel: 'sponsored noreferrer' },
         { name: 'OKANC', link: 'https://itheo.top/okanc', rel: 'sponsored noreferrer' },
-        { name: '星岛梦', link: 'https://itheo.top/xdm', rel: 'sponsored noreferrer' }
+        { name: '星岛梦', link: 'https://itheo.top/xdm', rel: 'sponsored noreferrer' },
+        { name: 'onlyrabbit - 唯兔云', link: 'https://itheo.top/onlyrabbit', rel: 'sponsored noreferrer' }
       ]
     },
     {

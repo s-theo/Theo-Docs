@@ -70,6 +70,13 @@ export const Aside_Data: AsideItem = [
     link: 'https://itheo.top/xdm',
     rel: 'sponsored noreferrer'
   },
+  {
+    image: 'https://i.theojs.cn/logo/onlyrabbit_logo.webp',
+    promo: 'onlyrabbit-唯兔云开业特惠',
+    info1: '全场套餐 <span class="promo-text"> 7折: rabbitv2</span>',
+    link: 'https://itheo.top/onlyrabbit',
+    rel: 'sponsored noreferrer'
+  },
   // {
   //   image: 'https://i.theojs.cn/logo/qyt.webp',
   //   promo: '青云梯',

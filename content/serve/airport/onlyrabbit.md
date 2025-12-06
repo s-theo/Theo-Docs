@@ -77,10 +77,10 @@ onlyrabbit - 唯兔云IPLC专线，Trojan协议，解锁各大流媒体，解锁
 |      套餐类型       |  流量/月  |  月付  |  季付  | 半年付 |  年付   |                                                       套餐购买                                                        |
 | :-----------------: | :-------: | :----: | :----: | :----: | :-----: | :-------------------------------------------------------------------------------------------------------------------: |
 | **唯兔云 · 年付版** |  **45G**  |   -    |   -    |   -    |  ¥79.9  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/onlyrabbit" rel="sponsored noreferrer" /> |
-| **唯兔云 · 入门版** | **600G**  | ¥14.9  | ¥40.9  | ¥75.9  | ¥142.9  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/onlyrabbit" rel="sponsored noreferrer" /> |
-| **唯兔云 · 进阶版** | **1024G** | ¥29.9  | ¥80.9  | ¥152.9 | ¥286.9  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/onlyrabbit" rel="sponsored noreferrer" /> |
-| **唯兔云 · 专业版** | **600G**  | ¥59.9  | ¥161.9 | ¥305.9 | ¥547.9  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/onlyrabbit" rel="sponsored noreferrer" /> |
-| **唯兔云 · 至尊版** | **1024G** | ¥119.9 | ¥323.9 | ¥611.9 | ¥1150.9 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/onlyrabbit" rel="sponsored noreferrer" /> |
+| **唯兔云 · 入门版** | **100G**  | ¥14.9  | ¥40.9  | ¥75.9  | ¥142.9  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/onlyrabbit" rel="sponsored noreferrer" /> |
+| **唯兔云 · 进阶版** | **200G**  | ¥29.9  | ¥80.9  | ¥152.9 | ¥286.9  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/onlyrabbit" rel="sponsored noreferrer" /> |
+| **唯兔云 · 专业版** | **500G**  | ¥59.9  | ¥161.9 | ¥305.9 | ¥547.9  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/onlyrabbit" rel="sponsored noreferrer" /> |
+| **唯兔云 · 至尊版** | **1000G** | ¥119.9 | ¥323.9 | ¥611.9 | ¥1150.9 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/onlyrabbit" rel="sponsored noreferrer" /> |
 
 ## onlyrabbit - 唯兔云 测速图
 

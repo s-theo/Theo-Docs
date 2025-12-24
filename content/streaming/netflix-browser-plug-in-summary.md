@@ -74,3 +74,5 @@ description: 介绍常用的 Netflix 浏览器插件，帮助用户提升观看�
 **安装插件：**
 
 直接打开 Chrome 应用商店，下载 `Film scores for Netflix` 插件安装后使用。
+
+<!--@include: @/serve/tip.md-->

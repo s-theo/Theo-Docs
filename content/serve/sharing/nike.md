@@ -41,3 +41,5 @@ NIKE小店是一家全球数字账号交易平台，提供高质量的社交媒�
 | :--------------------: | :------: | :---: | --------------------------------------------------------------------------------------------------------------- |
 | **Gmail 谷歌邮箱账号** | 随机地区 | ¥3.98 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/nike" rel="sponsored noreferrer" /> |
 | **Gmail 谷歌邮箱账号** |   美国   | ¥9.8  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/nike" rel="sponsored noreferrer" /> |
+
+<!--@include: @/serve/tip.md-->

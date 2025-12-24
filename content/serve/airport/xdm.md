@@ -11,8 +11,6 @@ head:
 
 ![星岛梦og =370x](https://i.theojs.cn/logo/xdm_logo.webp '星岛梦')
 
-<!--@include: ./tip.md-->
-
 :::tip 星岛梦开服全场 64 折进行中!
 
 - 全场 64 折 <Copy type="tip" label="点击复制折扣码: XDM666" text="XDM666" bold />
@@ -30,20 +28,19 @@ head:
 
 ::: -->
 
-<Links
-  :grid="2"
-  :items="[
-    {
-      image: 'https://i.theojs.cn/logo/xdm_logo.webp',
-      name: '星岛梦开服全场 64 折进行中!',
-      desc: '即日至2026年1月3日23点59分',
-      link: 'https://itheo.top/xdm',
-      rel: 'sponsored noreferrer'
-    }
-  ]"
-/>
+## 星岛梦注册地址
 
-## 星岛梦 简介 <Pill image="https://i.theojs.cn/logo/xdm_logo.webp" name="星岛梦官网" link="https://itheo.top/xdm" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制折扣码: XDM666" text="XDM666" bold />
+<!-- #region 1 -->
+
+**最便宜的订阅有12元 100g/月(年付)。**
+
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/xdm_logo.webp" name="星岛梦官网" link="https://itheo.top/xdm" rel="sponsored noreferrer" />
+
+<!-- #endregion 1 -->
+
+## 星岛梦简介
+
+<!-- #region 2 -->
 
 星岛梦全线路接入 **企业级 IPLC 专线**，全节点 **x1 倍率**，晚高峰依旧稳如老狗，**2.5Gbps** 极速传输。看 4K、刷 TikTok、用 ChatGPT、Netflix、Disney+、YouTube——全程丝滑不卡顿！
 
@@ -56,7 +53,11 @@ head:
 - TIKTOK、ChatGPT、Netflix、Disney+、YouTube 等国际流媒体平台全解锁
 - 客服 7×24 小时在线响应
 
-## 星岛梦 价格表
+<!-- #endregion 2 -->
+
+## 星岛梦价格表
+
+<!-- #region 3 -->
 
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 
@@ -64,20 +65,17 @@ head:
 年付**8**折/2年付**7**折/3年付**6**折 配合折扣码折上折，最高可达**48**折
 :::
 
-|  套餐类型  |  流量/月  | 月付 | 季付 | 半年付 | 年付  |                                                    套餐购买                                                    |
-| :--------: | :-------: | :--: | :--: | :----: | :---: | :------------------------------------------------------------------------------------------------------------: |
-| **极速版** | **100G**  | ¥16  | ¥46  |  ¥86   | ¥154  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/xdm" rel="sponsored noreferrer" /> |
-| **进阶版** | **200G**  | ¥32  | ¥91  |  ¥173  | ¥307  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/xdm" rel="sponsored noreferrer" /> |
-| **闪光版** | **500G**  | ¥80  | ¥228 |  ¥432  | ¥768  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/xdm" rel="sponsored noreferrer" /> |
-| **旗舰版** | **1000G** | ¥160 | ¥456 |  ¥864  | ¥1536 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/xdm" rel="sponsored noreferrer" /> |
+|    套餐类型    |  流量/月  | 月付 | 季付 | 半年付 | 年付  |                                                    套餐购买                                                    |
+| :------------: | :-------: | :--: | :--: | :----: | :---: | :------------------------------------------------------------------------------------------------------------: |
+|   **极速版**   | **100G**  | ¥16  | ¥46  |  ¥86   | ¥154  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/xdm" rel="sponsored noreferrer" /> |
+|   **进阶版**   | **200G**  | ¥32  | ¥91  |  ¥173  | ¥307  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/xdm" rel="sponsored noreferrer" /> |
+|   **闪光版**   | **500G**  | ¥80  | ¥228 |  ¥432  | ¥768  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/xdm" rel="sponsored noreferrer" /> |
+|   **旗舰版**   | **1000G** | ¥160 | ¥456 |  ¥864  | ¥1536 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/xdm" rel="sponsored noreferrer" /> |
+| **永久不限时** | **1000G** |  -   |  -   |   -    | ¥680  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/xdm" rel="sponsored noreferrer" /> |
 
-### 不限时套餐
+<!-- #endregion 3 -->
 
-|    套餐类型    |   流量    | 价格 |                                                    套餐购买                                                    |
-| :------------: | :-------: | :--: | :------------------------------------------------------------------------------------------------------------: |
-| **永久不限时** | **1000G** | ¥680 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/xdm" rel="sponsored noreferrer" /> |
-
-## 星岛梦 测速图
+## 星岛梦测速图
 
 ![星岛梦 拓扑图 =688x](https://i.theojs.cn/airport/xdm_topology.webp)
 
@@ -96,3 +94,5 @@ head:
 ![星岛梦 深圳电信测速图 =688x](https://i.theojs.cn/airport/xdm_shaanxi_unicom.webp)
 
 ![星岛梦 上海移动测速图 =688x](https://i.theojs.cn/airport/xdm_zhuhai_unicom.webp)
+
+<!--@include: @/serve/tip.md-->

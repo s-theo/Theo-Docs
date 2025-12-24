@@ -11,8 +11,6 @@ head:
 
 ![Galaxy Cloud - 银河云OG =688x](https://i.theojs.cn/logo/galaxy.webp 'Galaxy Cloud - 银河云')
 
-<!--@include: ./tip.md-->
-
 :::tip Galaxy Cloud - 银河云双旦优惠活动!
 
 - 全场 8 折（20% OFF）<Copy type="tip" label="点击复制折扣码: 0080" text="0080" bold />
@@ -21,19 +19,6 @@ head:
 **特别注意: 年付小包不参加本次活动**
 
 :::
-
-<Links
-  :grid="2"
-  :items="[
-    {
-      image: { src: 'https://i.theojs.cn/logo/galaxy_transparent_square.webp', crop: true },
-      name: 'Galaxy Cloud - 银河云双旦优惠活动!',
-      desc: '即日起 ～ 2026 年 1 月 30 日 23:59',
-      link: 'https://itheo.top/yhy',
-      rel: 'sponsored noreferrer'
-    }
-  ]"
-/>
 
 <!-- :::tip 银河云 双旦特惠!
 
@@ -45,20 +30,21 @@ head:
 
 :::
 
-<Links
-  :grid="2"
-  :items="[
-    {
-      image: { src: 'https://i.theojs.cn/logo/galaxy_transparent_square.webp', crop: true },
-      name: '银河云 双十一优惠活动!',
-      desc: '即日至2025年11月30日23点59分',
-      link: 'https://itheo.top/yhy',
-      rel: 'sponsored noreferrer'
-    }
-  ]"
-/> -->
+ -->
 
-## 银河云 简介 <Pill image="https://i.theojs.cn/logo/galaxy_transparent_square.webp" name="银河云官网" link="https://itheo.top/yhy" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制折扣码: 0080" text="0080" bold />
+## Galaxy Cloud - 银河云注册地址
+
+<!-- #region 1 -->
+
+**最便宜的订阅有8元 50g/月(年付)。**
+
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/galaxy_transparent_square.webp" name="银河云官网" link="https://itheo.top/yhy" rel="sponsored noreferrer"/>
+
+<!-- #endregion 1 -->
+
+## Galaxy Cloud - 银河云简介
+
+<!-- #region 2 -->
 
 **Galaxy Cloud - 银河云** 采用IEPL trojan专线机场，成立与2024年6月，新加坡海外团队大机房产品，性价比专线，24h在线客服，专业且靠谱稳定，任何线路问题都是1h内修复处理，支持退款。
 
@@ -73,7 +59,11 @@ head:
 
 除此之外，还解锁了诸如**ChatGPT、Tiktok、NBA、WWE等热门应用**，提供更广泛的网络体验。拥有强大的执行力海外技术团队和实时在线客服团队，能够及时维护线路并解决在使用过程中遇到的问题，提供全方位的技术支持和服务保障。
 
-## 银河云 价格表
+<!-- #endregion 2 -->
+
+## Galaxy Cloud - 银河云价格表
+
+<!-- #region 3 -->
 
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 
@@ -83,23 +73,18 @@ head:
 使用 **微信/USDT** 支付请进入官网点击右下角联系客服处理
 :::
 
-### 不限时套餐<Badge type="danger" text="仅限前一万名用户!先到先得!!!"/>
+|    套餐类型    |  流量/月  | 月付 | 季付 | 半年付 | 年付  |                                                    套餐购买                                                    |
+| :------------: | :-------: | :--: | :--: | :----: | :---: | :------------------------------------------------------------------------------------------------------------: |
+|  **年付小包**  |  **50G**  |  -   |  -   |   -    |  ¥98  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+|  **星尘套餐**  | **100G**  | ¥18  | ¥49  |  ¥92   | ¥173  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+|  **行星套餐**  | **200G**  | ¥35  | ¥95  |  ¥179  | ¥336  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+|  **恒星套餐**  | **400G**  | ¥70  | ¥189 |  ¥357  | ¥672  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+|  **星系套餐**  | **800G**  | ¥140 | ¥378 |  ¥714  | ¥1344 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+| **不限时套餐** | **1000G** |  -   |  -   |   -    | ¥680  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
 
-|           套餐类型           |   流量    | 价格 |                                                    套餐购买                                                    |
-| :--------------------------: | :-------: | :--: | :------------------------------------------------------------------------------------------------------------: |
-| **不限时套餐(流量用完即止)** | **1000G** | ¥680 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+<!-- #endregion 3 -->
 
-### 月/年付套餐
-
-|   套餐类型   | 流量/月  | 月付 | 季付 | 半年付 | 年付  |                                                    套餐购买                                                    |
-| :----------: | :------: | :--: | :--: | :----: | :---: | :------------------------------------------------------------------------------------------------------------: |
-| **年付小包** | **50G**  |  -   |  -   |   -    |  ¥98  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
-| **星尘套餐** | **100G** | ¥18  | ¥49  |  ¥92   | ¥173  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
-| **行星套餐** | **200G** | ¥35  | ¥95  |  ¥179  | ¥336  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
-| **恒星套餐** | **400G** | ¥70  | ¥189 |  ¥357  | ¥672  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
-| **星系套餐** | **800G** | ¥140 | ¥378 |  ¥714  | ¥1344 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
-
-## 银河云 测速图
+## Galaxy Cloud - 银河云测速图
 
 ![Galaxy Cloud - 银河云 解锁图 =688x](https://i.theojs.cn/airport/galaxy_unlock.webp)
 
@@ -112,3 +97,5 @@ head:
 ![Galaxy Cloud - 银河云 湖北联通晚高峰测速图 =688x](https://i.theojs.cn/airport/galaxy_hubei_unicom.webp)
 
 ![Galaxy Cloud - 银河云 江苏电信晚高峰测速图 =688x](https://i.theojs.cn/airport/galaxy_jiangsu_telecom.webp)
+
+<!--@include: @/serve/tip.md-->

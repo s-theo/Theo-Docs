@@ -250,31 +250,8 @@ export function Sidebar_streaming(): SidebarItem[] {
 export function Sidebar_serve(): SidebarItem[] {
   return [
     {
-      text: '科学上网',
-      // collapsed: true,
-      base: '/serve/routes/',
-      items: [
-        { text: '直连、中转、专线机场怎么选？', link: 'selection' },
-        { text: '直连、中转、专线机场区别', link: 'difference' },
-        { text: '直连线路', link: 'direct-route' },
-        { text: '中转线路', link: 'transit-route' },
-        { text: 'IEPL/IPLC专线', link: 'dedicated-line' },
-        { text: '如何判断机场使用线路类型', link: 'determine-line-type' }
-      ]
-    },
-    {
-      text: '账号合租平台',
-      base: '/serve/sharing/',
-      link: 'account-sharing-guide',
-      // collapsed: true,
-      items: [
-        { text: '账号星球', link: 'acc' },
-        { text: 'NIKE小店', link: 'nike' },
-        { text: '银河录像局', link: 'nf-video' }
-      ]
-    },
-    {
-      text: '优质机场',
+      text: '优质机场汇总',
+      link: 'summary',
       // collapsed: true,
       base: '/serve/airport/',
       items: [
@@ -292,6 +269,30 @@ export function Sidebar_serve(): SidebarItem[] {
         { text: '奈云' + code, link: 'naiyun' },
         { text: '美乐云' + code, link: 'meile' },
         { text: 'FlyingBird - 飞鸟机场' + code, link: 'flyingbird' }
+      ]
+    },
+    {
+      text: '账号合租平台',
+      base: '/serve/sharing/',
+      link: 'account-sharing-guide',
+      // collapsed: true,
+      items: [
+        { text: '账号星球', link: 'acc' },
+        { text: 'NIKE小店', link: 'nike' },
+        { text: '银河录像局', link: 'nf-video' }
+      ]
+    },
+    {
+      text: '科学上网',
+      // collapsed: true,
+      base: '/serve/routes/',
+      items: [
+        { text: '直连、中转、专线机场怎么选？', link: 'selection' },
+        { text: '直连、中转、专线机场区别', link: 'difference' },
+        { text: '直连线路', link: 'direct-route' },
+        { text: '中转线路', link: 'transit-route' },
+        { text: 'IEPL/IPLC专线', link: 'dedicated-line' },
+        { text: '如何判断机场使用线路类型', link: 'determine-line-type' }
       ]
     },
     {

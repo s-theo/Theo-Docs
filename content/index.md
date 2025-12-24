@@ -29,15 +29,15 @@ hero:
   actions:
     - theme: brand
       text: 立即开始
-      link: /streaming/netflix-guide
+      link: /serve/airport/summary
 
     - theme: alt
       text: 账号合租
       link: /serve/sharing/account-sharing-guide
 
     - theme: alt
-      text: 机场推荐
-      link: /serve/airport/qingyunti
+      text: 流媒体观影
+      link: /streaming/netflix-guide
 
     - theme: alt author
       text: 玄学宝典
@@ -60,7 +60,7 @@ features:
 
   - title: '<iconify-icon class="i-mr" icon="twemoji:airplane"></iconify-icon>优质线路'
     details: 全专线IPLC，不限速，不限设备数量，超稳晚高峰，流媒体全解锁！全节点解锁chatgpt！
-    link: /serve/airport/qingyunti
+    link: /serve/airport/summary
     linkText: 查看更多
 ---
 

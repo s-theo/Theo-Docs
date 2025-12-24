@@ -100,3 +100,5 @@ whois -h whois.radb.net YOUR_IP | grep origin
 - **成本关联**：IPLC/IEPL价格极高（约$50/Mbps/月），若机场套餐极低价，则大概率非真专线。
 
 通过上述方法交叉验证，基本可以判断机场的真实线路类型。对于普通用户，重点关注 **晚高峰YouTube 4K流畅度** 和 **工作时段Zoom稳定性**，实践体验比理论参数更直接。
+
+<!--@include: @/serve/tip.md-->

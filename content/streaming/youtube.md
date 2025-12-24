@@ -167,7 +167,7 @@ head:
 - **打开最好的音质**： 在 YouTube Music 的设置里，把"音频质量"调到"高”，听歌体验会好很多。
 - **用"深色模式”**： 晚上用深色模式不伤眼，如果你的手机是 OLED 屏，还能省点电。
 
-### 尝鲜！Premium 会员专属的测试功能 (2025年新动态):
+### 尝鲜！Premium 会员专属的测试功能 (2026年新动态):
 
 作为 Premium 会员，你还能比别人先玩到一些 YouTube 的新功能！
 
@@ -245,7 +245,7 @@ YouTube Premium 是 YouTube 的"Pro"版，让你在看海量视频（Vlog、教�
 前面[优缺点](#说说-youtube-premium-的优缺点)那块其实提到了：
 
 1. **官方自己买太贵**: 但[合租](/serve/sharing/account-sharing-guide)就解决了。
-2. **需要"魔法"上网**: 可以购买[解锁的机场节点](/serve/airport/qingyunti)。
+2. **需要"魔法"上网**: 可以购买[解锁的机场节点](/serve/airport/summary)。
 3. **家庭组有地区限制**: 自己组队麻烦，但用[合租平台](/serve/sharing/account-sharing-guide)就不用管这个，他们会帮你弄好。
 4. **有个 Lite 版功能不全**: 有些地方的 Premium Lite 版只能去广告，没啥意思，性价比不高。
 
@@ -293,3 +293,5 @@ YouTube 会把收到的会员费拿出一部分，根据你看视频的时长，
 - **对于非Premium会员：** 也可以使用免费版的YouTube Music，但会有广告，也不能后台播放和下载，体验和免费版Spotify类似。
 
 所以，办理YouTube Premium就等于一箭双雕，同时搞定了视频和音乐两大娱乐需求，这也是它性价比高的核心原因之一。
+
+<!--@include: @/serve/tip.md-->

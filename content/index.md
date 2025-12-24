@@ -23,7 +23,7 @@ hero:
       · （例如：买月费送月费，买年费送年费，时长直接翻倍！）
     date: '仅限圣诞节当天（12.25 00:00-23:59）'
     dateText: '活动截止至'
-    link: https://itheo.top/qyt
+    link: https://itheo.top/onlyrabbit
     rel: sponsored noreferrer
 
   actions:

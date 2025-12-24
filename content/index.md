@@ -17,11 +17,11 @@ hero:
     height: 320
 
   Notice:
-    title: '<span class="promo-title">青云梯 双旦特惠!</span>'
+    title: '<span class="promo-title">唯兔云圣诞节当日全场套餐买一送一!</span>'
     desc: |
-      · 全场套餐 <span class="promo-text"> 8折: 0080 </span>
-      · 3年付更可享受 <span class="promo-text"> 48折 </span>
-    date: '2026年1月30日23点59分'
+      · 为回馈大家的支持，圣诞节25日开启限时福利： <span class="promo-text">全场套餐，买一送一！</span>
+      · （例如：买月费送月费，买年费送年费，时长直接翻倍！）
+    date: '仅限圣诞节当天（12.25 00:00-23:59）'
     dateText: '活动截止至'
     link: https://itheo.top/qyt
     rel: sponsored noreferrer

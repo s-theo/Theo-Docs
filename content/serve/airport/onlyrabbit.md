@@ -7,7 +7,28 @@ description: 唯兔云IPLC专线，Trojan协议，解锁各大流媒体，解锁
 
 <!--@include: ./tip.md-->
 
-:::tip onlyrabbit - 唯兔云 开业特惠!
+:::tip onlyrabbit - 唯兔云全场买一送一! <Copy type="tip" label="点击复制 8 折折扣码: 20251225" text="20251225" bold />
+为回馈大家的支持，圣诞节25日开启限时福利： 全场套餐，买一送一！
+
+（例如：买月费送月费，买年费送年费，时长直接翻倍！）
+
+规则： 限100名付费用户（购买后第一时间提交工单或者发在线客服，已发送消息时间为准，前100名有效）
+:::
+
+<Links
+  :grid="2"
+  :items="[
+    {
+      image: 'https://i.theojs.cn/logo/onlyrabbit_logo.webp',
+      name: 'onlyrabbit - 唯兔云全场买一送一!',
+      desc: '仅限圣诞节当天（12.25 00:00-23:59）',
+      link: 'https://itheo.top/onlyrabbit',
+      rel: 'sponsored noreferrer'
+    }
+  ]"
+/>
+
+<!-- :::tip onlyrabbit - 唯兔云 开业特惠!
 
 - <Copy type="tip" label="点击复制 7 折折扣码: rabbitv2" text="rabbitv2" bold />
 
@@ -24,7 +45,7 @@ description: 唯兔云IPLC专线，Trojan协议，解锁各大流媒体，解锁
       rel: 'sponsored noreferrer'
     }
   ]"
-/>
+/> -->
 
 <!-- :::tip onlyrabbit - 唯兔云 折扣码大放送!
 
@@ -44,7 +65,9 @@ description: 唯兔云IPLC专线，Trojan协议，解锁各大流媒体，解锁
   ]"
 /> -->
 
-## onlyrabbit - 唯兔云 简介 <Pill image="https://i.theojs.cn/logo/onlyrabbit_logo.webp" name="onlyrabbit - 唯兔云官网" link="https://itheo.top/onlyrabbit" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制 7 折折扣码: rabbitv2" text="rabbitv2" bold />
+## onlyrabbit - 唯兔云 简介 <Pill image="https://i.theojs.cn/logo/onlyrabbit_logo.webp" name="onlyrabbit - 唯兔云官网" link="https://itheo.top/onlyrabbit" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制 8 折折扣码: 20251225" text="20251225" bold />
+
+<!-- <Copy type="tip" label="点击复制 7 折折扣码: rabbitv2" text="rabbitv2" bold /> -->
 
 <!-- <Copy type="tip" label="点击复制 8 折折扣码: theo80" text="theo80" bold /> -->
 

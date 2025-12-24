@@ -95,12 +95,10 @@ head:
 
 ![青云梯 拓扑图 =588x](https://i.theojs.cn/airport/qyt_entrance_new.webp)
 
-![青云梯 广州移动-香港晚高峰测速图 =688x](https://i.theojs.cn/airport/qyt_guangzhou_mobile_hk-6g.webp)
+![青云梯 广州移动晚高峰测速图 =688x](https://i.theojs.cn/airport/qyt_guangzhou_mobile_hk-6g.webp)
 
-![青云梯 广东中山电信晚高峰测速图 =688x](https://i.theojs.cn/airport/qyt_telecom.webp)
+![青云梯 河南电信单线程@1000M晚高峰测速图 =688x](https://i.theojs.cn/airport/qyt_telecom.webp)
 
-![青云梯 广东中山移动晚高峰测速图 =688x](https://i.theojs.cn/airport/qyt.webp)
+![青云梯 北京移动单线程@1000M晚高峰测速图 =688x](https://i.theojs.cn/airport/qyt_mobile.webp)
 
-![青云梯 北京移动晚高峰测速图 =688x](https://i.theojs.cn/airport/qyt_mobile.webp)
-
-![青云梯 天津联通晚高峰测速图 =688x](https://i.theojs.cn/airport/qyt_unicom.webp)
+![青云梯 天津联通单线程@1000M晚高峰测速图 =688x](https://i.theojs.cn/airport/qyt_unicom.webp)

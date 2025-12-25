@@ -9,6 +9,14 @@ export const Aside_Data: AsideItem = [
     link: 'https://itheo.top/onlyrabbit',
     rel: 'sponsored noreferrer'
   },
+  {
+    image: 'https://i.theojs.cn/logo/hyperlink_logo.webp',
+    promo: '极连云全场套餐买1送1！',
+    info1: '12.25-01.02<span class="promo-text">全场套餐买1送1！</span>',
+    info2: '全场套餐 <span class="promo-text"> 7折: 1225</span>',
+    link: 'https://itheo.top/hyperlink',
+    rel: 'sponsored noreferrer'
+  },
   // {
   //   image: 'https://i.theojs.cn/logo/qyt.webp',
   //   promo: '青云梯 专属特惠',
@@ -25,14 +33,14 @@ export const Aside_Data: AsideItem = [
     link: 'https://itheo.top/qyt',
     rel: 'sponsored noreferrer'
   },
-  {
-    image: 'https://i.theojs.cn/logo/hyperlink_logo.webp',
-    promo: 'hyperlink - 极连云专属特惠',
-    info1: '全场套餐 <span class="promo-text"> 8折: JLY888 </span>',
-    info2: '3年付更可享受 <span class="promo-text"> 48折 </span>',
-    link: 'https://itheo.top/hyperlink',
-    rel: 'sponsored noreferrer'
-  },
+  // {
+  //   image: 'https://i.theojs.cn/logo/hyperlink_logo.webp',
+  //   promo: 'hyperlink - 极连云专属特惠',
+  //   info1: '全场套餐 <span class="promo-text"> 8折: JLY888 </span>',
+  //   info2: '3年付更可享受 <span class="promo-text"> 48折 </span>',
+  //   link: 'https://itheo.top/hyperlink',
+  //   rel: 'sponsored noreferrer'
+  // },
   {
     image: 'https://i.theojs.cn/logo/totoro.webp',
     promo: '龙猫云 双旦特惠',

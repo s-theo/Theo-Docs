@@ -7,6 +7,25 @@ description: 极连云 专注提供出海专线加速与流媒体解锁服务的
 
 <!--@include: ./tip.md-->
 
+:::tip 极连云圣诞-跨年买一送一🎉 <Copy type="tip" label="点击复制 7 折折扣码: 1225" text="1225" bold />
+
+- **全部套餐 买一送一（时长翻倍） 需联系客服登记**
+- 时间：2025/12/25–2026/01/02（北京时间）
+  :::
+
+<Links
+  :grid="2"
+  :items="[
+    {
+      image: 'https://i.theojs.cn/logo/hyperlink_logo.webp',
+      name: '极连云圣诞-跨年买一送一🎉',
+      desc: '2025/12/25–2026/01/02（北京时间）',
+      link: 'https://itheo.top/hyperlink',
+      rel: 'sponsored noreferrer'
+    }
+  ]"
+/>
+
 <!-- :::tip 极连云 双十一特惠!
 
 - 全套餐推出8折优惠，<Copy type="tip" label="点击复制折扣码: 11118" text="11118" bold />
@@ -28,7 +47,7 @@ description: 极连云 专注提供出海专线加速与流媒体解锁服务的
   ]"
 /> -->
 
-:::tip 极连云专属特惠 全场 8 折!
+<!-- :::tip 极连云专属特惠 全场 8 折!
 
 - 全套餐推出8折优惠，<Copy type="tip" label="点击复制折扣码: JLY888" text="JLY888" bold />
 - 商店套餐月付以上自带折扣，配合折扣码购买可以享受折上折，3年付更可享受**4.8**折优惠，心动不如行动
@@ -45,11 +64,11 @@ description: 极连云 专注提供出海专线加速与流媒体解锁服务的
       rel: 'sponsored noreferrer'
     }
   ]"
-/>
+/> -->
 
-## hyperlink - 极连云 简介 <Pill image="https://i.theojs.cn/logo/hyperlink_logo.webp" name="极连云官网" link="https://itheo.top/hyperlink" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制折扣码: JLY888" text="JLY888" bold />
+## hyperlink - 极连云 简介 <Pill image="https://i.theojs.cn/logo/hyperlink_logo.webp" name="极连云官网" link="https://itheo.top/hyperlink" rel="sponsored noreferrer" /><Copy type="tip" label="点击复制 7 折折扣码: 1225" text="1225" bold />
 
-<!-- <Copy type="tip" label="点击复制折扣码: xmfwww85" text="xmfwww85" bold /> -->
+<!-- <Copy type="tip" label="点击复制折扣码: JLY888" text="JLY888" bold /> -->
 
 <!-- <Copy type="tip" label="点击复制折扣码: xmfxmf7" text="xmfxmf7" bold /> -->
 

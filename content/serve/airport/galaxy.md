@@ -98,4 +98,4 @@ head:
 
 ![Galaxy Cloud - 银河云 江苏电信晚高峰测速图 =688x](https://i.theojs.cn/airport/galaxy_jiangsu_telecom.webp)
 
-<!--@include: @/serve/tip.md-->
+<!--@include: @/bottom.md-->

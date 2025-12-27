@@ -386,4 +386,4 @@ Netflix 与国内爱奇艺、优酷、腾讯视频等平台，最大的区别在
 **开启代理，并切换到[支持 Netflix 的节点](/serve/airport/summary)** (例如奈飞流媒体专属节点)。
 :::
 
-<!--@include: @/serve/tip.md-->
+<!--@include: @/bottom.md-->

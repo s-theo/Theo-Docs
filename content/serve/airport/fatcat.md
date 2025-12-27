@@ -74,4 +74,4 @@ description: 肥猫云机场-大带宽不限速专线机场接入全球优质机
 
 ![FatCat Cloud - 肥猫云 广州移动 =688x](https://i.theojs.cn/airport/fatcatcloud_guangxi_mobile.webp)
 
-<!--@include: @/serve/tip.md-->
+<!--@include: @/bottom.md-->

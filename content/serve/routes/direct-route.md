@@ -57,4 +57,4 @@ description: 本文介绍直连节点的原理、成本、使用体验及适合�
 - 对延迟敏感（游戏、实时协作）
 - 电信用户，晚高峰体验差
 
-<!--@include: @/serve/tip.md-->
+<!--@include: @/bottom.md-->

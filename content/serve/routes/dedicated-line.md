@@ -62,4 +62,4 @@ description: 本文讲解 IEPL/IPLC 国际专线的原理、稳定性优势和�
 
 如果只是偶尔刷视频、社交，**专线成本可能超出实际需求**；但当工作/收入依赖跨境网络，投入专线非常值得。
 
-<!--@include: @/serve/tip.md-->
+<!--@include: @/bottom.md-->

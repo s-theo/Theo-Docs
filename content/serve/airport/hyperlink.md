@@ -78,4 +78,4 @@ description: 极连云 专注提供出海专线加速与流媒体解锁服务的
 
 ![hyperlink - 极连云 东北辽宁电信 =688x](https://i.theojs.cn/airport/hyperlink_liaoning_telecom.webp)
 
-<!--@include: @/serve/tip.md-->
+<!--@include: @/bottom.md-->

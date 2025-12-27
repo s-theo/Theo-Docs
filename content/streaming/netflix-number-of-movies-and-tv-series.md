@@ -65,4 +65,4 @@ Netflix 制作了各种类型的原创内容，这些内容在其流媒体服务
 
 **这些 Netflix 原创剧种类丰富，包括纪录片、动画、惊悚、家庭喜剧等，展现了 Netflix 对多元化内容的承诺。**
 
-<!--@include: @/serve/tip.md-->
+<!--@include: @/bottom.md-->

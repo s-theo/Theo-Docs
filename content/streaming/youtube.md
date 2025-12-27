@@ -294,4 +294,4 @@ YouTube 会把收到的会员费拿出一部分，根据你看视频的时长，
 
 所以，办理YouTube Premium就等于一箭双雕，同时搞定了视频和音乐两大娱乐需求，这也是它性价比高的核心原因之一。
 
-<!--@include: @/serve/tip.md-->
+<!--@include: @/bottom.md-->

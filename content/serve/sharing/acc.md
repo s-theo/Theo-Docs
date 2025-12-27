@@ -252,4 +252,4 @@ head:
 |           **facebook 二解号**            |  ¥85   | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
 |           **facebook 三解号**            |  ¥120  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
 
-<!--@include: @/serve/tip.md-->
+<!--@include: @/bottom.md-->

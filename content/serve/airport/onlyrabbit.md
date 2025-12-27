@@ -77,4 +77,4 @@ onlyrabbit - 唯兔云IPLC专线，最高支持 **2500Mbps** 速率，解锁各�
 
 ![onlyrabbit - 唯兔云 珠海联通晚高峰测速图 =688x](https://i.theojs.cn/airport/onlyrabbit_zhuhai_unicom.webp)
 
-<!--@include: @/serve/tip.md-->
+<!--@include: @/bottom.md-->

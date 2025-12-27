@@ -70,4 +70,4 @@ SMS-Activate 是俄罗斯的一个付费接码平台，网站使用过程还算�
 
 SMS-Activate 平台的手机号码非常多，就是只能选择业务然后使用。对于一些冷门的业务可能无法接收到短信。
 
-<!--@include: @/serve/tip.md-->
+<!--@include: @/bottom.md-->

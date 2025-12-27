@@ -82,4 +82,4 @@ description: 银河录像局、账号星球等优质账号合租平台推荐，�
 - 社交媒体群组
 - 朋友或家庭间的私下合租
 
-<!--@include: @/serve/tip.md-->
+<!--@include: @/bottom.md-->

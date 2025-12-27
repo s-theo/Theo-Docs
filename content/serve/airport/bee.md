@@ -84,4 +84,4 @@ description: 小蜜蜂 提供稳定高速的科学上网服务，支持多平台
 
 ![小蜜蜂 单线程江苏电信@2Gbps =688x](https://i.theojs.cn/airport/bee_jiangsu_telecom_2gbps_single.webp)
 
-<!--@include: @/serve/tip.md-->
+<!--@include: @/bottom.md-->

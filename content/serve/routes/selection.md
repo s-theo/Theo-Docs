@@ -102,4 +102,4 @@ description: 本文用通俗易懂的方式讲解直连、中转和国际专线�
 - **公网中转**：性价比平衡，多数用户首选
 - **IEPL/IPLC 专线**：企业级稳定体验，价格最高
 
-<!--@include: @/serve/tip.md-->
+<!--@include: @/bottom.md-->

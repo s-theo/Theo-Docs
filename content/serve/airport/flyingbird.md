@@ -77,4 +77,4 @@ FlyingBird - 飞鸟机场的前身是多个老牌机场的融合衍生，**主�
 
 ![FlyingBird 中山电信测速图 =688x](https://i.theojs.cn/airport/flyingbird_zhongshan_telecom.webp)
 
-<!--@include: @/serve/tip.md-->
+<!--@include: @/bottom.md-->

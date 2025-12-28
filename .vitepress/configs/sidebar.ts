@@ -255,7 +255,7 @@ export function Sidebar_serve(): SidebarItem[] {
       // collapsed: true,
       base: '/serve/airport/',
       items: [
-        { text: '青云梯' + code, link: 'qingyunti' },
+        { text: 'V4Speed - 青云梯' + code, link: 'qingyunti' },
         { text: 'hyperlink - 极连云' + code, link: 'hyperlink' },
         { text: 'lightspeed - 光速云' + code, link: 'lightspeed' },
         { text: '星岛梦' + code, link: 'xdm' },

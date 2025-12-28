@@ -28,6 +28,8 @@ description: Totoro Cloud 中文名为龙猫云，一家颇具实力的新机场
 
 <!-- #region 2 -->
 
+**不做订阅阅后即焚!!放心使用**
+
 Totoro Cloud 中文名为龙猫云，一家颇具实力的新机场，Shadowsocks 协议节点，IPLC 专线，对 **Netflix、Disney+ 流媒体和 ChatGPT** 提供很好的解锁支持。龙猫云机场官方提供了详细的视频、文档以及贴心的客服支持
 
 - **IPLC** 全专线节点，原生IP，**最高速率可达到2000Mbps**
@@ -67,3 +69,7 @@ Totoro Cloud 中文名为龙猫云，一家颇具实力的新机场，Shadowsock
 ![龙猫云 南京电信测速图 =688x](https://i.theojs.cn/airport/totoro_nanjing_telecom.webp)
 
 <!--@include: @/bottom.md-->
+
+::: info 免责声明
+本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
+:::

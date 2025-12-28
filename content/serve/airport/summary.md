@@ -141,3 +141,7 @@ description: 精选2026年最便宜且好用的翻墙机场与VPN，全面评测
 <!--@include: @/serve/airport/flyingbird.md#1-->
 <!--@include: @/serve/airport/flyingbird.md#2-->
 <!--@include: @/serve/airport/flyingbird.md#3-->
+
+::: info 免责声明
+本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
+:::

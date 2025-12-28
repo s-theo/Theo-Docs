@@ -37,6 +37,8 @@ description: 小蜜蜂 提供稳定高速的科学上网服务，支持多平台
 
 <!-- #region 2 -->
 
+**不做订阅阅后即焚!!放心使用**
+
 全IEPL专线机场，原生IP节点，海外团队。有热门小众节点，还有特色年付小包低至8元每月，有不限时的流量包，全天客服在线
 
 - 原生IP解锁流媒体，包括**Netflix**、**Disney+**、**HBO**、**HUGO**等等
@@ -85,3 +87,7 @@ description: 小蜜蜂 提供稳定高速的科学上网服务，支持多平台
 ![小蜜蜂 单线程江苏电信@2Gbps =688x](https://i.theojs.cn/airport/bee_jiangsu_telecom_2gbps_single.webp)
 
 <!--@include: @/bottom.md-->
+
+::: info 免责声明
+本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
+:::

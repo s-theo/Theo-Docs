@@ -33,6 +33,8 @@ description: 唯兔云IPLC专线，Trojan协议，解锁各大流媒体，解锁
 
 <!-- #region 2 -->
 
+**不做订阅阅后即焚!!放心使用**
+
 onlyrabbit - 唯兔云IPLC专线，最高支持 **2500Mbps** 速率，解锁各大流媒体，解锁ChatGPT、Gemini等AI，解锁Tiktok，支持电商、直播运营。套餐无倍率、不限速、不限制设备数量
 
 价格惠民，最低6元一个月，专线中的性价比战斗机。
@@ -78,3 +80,7 @@ onlyrabbit - 唯兔云IPLC专线，最高支持 **2500Mbps** 速率，解锁各�
 ![onlyrabbit - 唯兔云 珠海联通晚高峰测速图 =688x](https://i.theojs.cn/airport/onlyrabbit_zhuhai_unicom.webp)
 
 <!--@include: @/bottom.md-->
+
+::: info 免责声明
+本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
+:::

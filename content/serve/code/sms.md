@@ -33,7 +33,7 @@ head:
 - 💳 **支持加密货币**：USDT / BTC 充值，到账快
 
 <Pill
-  image="https://i.theojs.cn/docs/hero-sms-og.webp"
+  image="https://i.theojs.cn/logo/hero-sms.svg"
   name="Hero SMS官网"
   link="https://itheo.top/sms"
   rel="sponsored noreferrer"
@@ -43,7 +43,7 @@ head:
 
 ### 一、注册与充值
 
-1. 打开官网：<Pill image="https://i.theojs.cn/docs/hero-sms-og.webp" name="Hero SMS官网" link="https://itheo.top/sms" rel="sponsored noreferrer" />
+1. 打开官网：<Pill image="https://i.theojs.cn/logo/hero-sms.svg" name="Hero SMS官网" link="https://itheo.top/sms" rel="sponsored noreferrer" />
 1. 使用邮箱注册账号
 1. 充值余额（支持信用卡 / USDT / BTC）
 1. 充值完成即可开始使用
@@ -144,7 +144,7 @@ Hero SMS 提供 API，适合：
 - 适合作为 SMS-Activate 的补充或替代
 
 <Pill
-  image="https://i.theojs.cn/docs/hero-sms-og.webp"
+  image="https://i.theojs.cn/logo/hero-sms.svg"
   name="Hero SMS官网"
   link="https://itheo.top/sms"
   rel="sponsored noreferrer"

@@ -37,7 +37,7 @@ export const Footer_Data: FooterData = {
         { name: '账号星球', link: 'https://itheo.top/acc', rel: 'sponsored noreferrer' },
         { name: 'NIKE小店', link: 'https://itheo.top/nike', rel: 'sponsored noreferrer' },
         { name: '银河录像局', link: 'https://itheo.top/yh', rel: 'sponsored noreferrer' },
-        { name: 'SMS-Activate', link: 'https://itheo.top/sms', rel: 'sponsored noreferrer' }
+        { name: 'Hero-SMS', link: 'https://itheo.top/sms', rel: 'sponsored noreferrer' }
       ]
     },
     {

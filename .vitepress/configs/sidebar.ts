@@ -299,7 +299,7 @@ export function Sidebar_serve(): SidebarItem[] {
       text: '接码平台',
       // collapsed: true,
       base: '/serve/code/',
-      items: [{ text: 'SMS-Activate', link: 'sms-activate' }]
+      items: [{ text: 'Hero-SMS', link: 'sms' }]
     }
   ]
 }

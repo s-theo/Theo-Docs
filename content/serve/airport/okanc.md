@@ -7,7 +7,7 @@ description: OKANC采用trojan协议，IEPL深港专线机场，稳定性高延�
 
 :::tip OKANC 双十二优惠来袭!
 
-- <Copy type="tip" label="点击复制 78 折折扣码: 1212" text="1212" bold />
+- <Copy type="tip" label="点击复制 78 折折扣码: 0101" text="0101" bold />
 
 :::
 

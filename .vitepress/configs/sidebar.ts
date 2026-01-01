@@ -296,6 +296,24 @@ export function Sidebar_serve(): SidebarItem[] {
       ]
     },
     {
+      text: '科学上网软件使用指南',
+      base: '/serve/antiwall/',
+      link: 'sunmmary',
+      items: [
+        { text: 'Clash Verge Rev', link: 'clash-verge-rev' },
+        { text: 'v2rayN', link: 'v2rayn' },
+        { text: 'Clash Party', link: 'clash-party' },
+        { text: 'FlClash', link: 'flclash' },
+        { text: 'Surfboard', link: 'surfboard' },
+        { text: 'Clash meta For Android', link: 'clash-meta-for-android' },
+        { text: 'NekoBox', link: 'nekobox' },
+        { text: 'Clash Mi', link: 'clash-mi' },
+        { text: 'Shadowrocket', link: 'shadowrocket' },
+        { text: 'Quantumult X', link: 'quantumult-x' },
+        { text: 'Egern', link: 'egern' }
+      ]
+    },
+    {
       text: '接码平台',
       // collapsed: true,
       base: '/serve/code/',

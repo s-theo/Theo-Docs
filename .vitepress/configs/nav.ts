@@ -38,6 +38,7 @@ export const nav: DefaultTheme.NavItem[] = [
       { text: '优质机场汇总', link: '/serve/airport/summary' },
       { text: '账号合租平台', link: '/serve/sharing/account-sharing-guide' },
       { text: '科学上网', link: '/serve/routes/selection' },
+      { text: '科学上网软件使用指南', link: '/serve/antiwall/sunmmary' },
       { text: '接码平台', link: '/serve/code/sms' }
     ],
     activeMatch: '^/serve/'

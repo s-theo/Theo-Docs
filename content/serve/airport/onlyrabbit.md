@@ -7,7 +7,7 @@ description: 唯兔云IPLC专线，Trojan协议，解锁各大流媒体，解锁
 
 :::tip onlyrabbit - 唯兔云 开业特惠!
 
-- <Copy type="tip" label="点击复制 7 折折扣码: rabbitv2" text="rabbitv2" bold />
+- <Copy type="tip" label="点击复制 85 折折扣码: hpny2026" text="hpny2026" bold />
 
 :::
 

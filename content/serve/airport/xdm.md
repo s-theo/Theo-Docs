@@ -11,12 +11,12 @@ head:
 
 ![星岛梦og =370x](https://i.theojs.cn/logo/xdm_logo.webp '星岛梦')
 
-:::tip 星岛梦开服全场 64 折进行中!
+<!-- :::tip 星岛梦开服全场 64 折进行中!
 
 - 全场 64 折 <Copy type="tip" label="点击复制折扣码: XDM666" text="XDM666" bold />
 - 在套餐原有折扣基础上，输入折扣码可再享折上折。
 
-:::
+::: -->
 
 <!-- :::tip 星岛梦 折扣码大放送!
 
@@ -35,6 +35,8 @@ head:
 **最便宜的订阅有12元 100g/月(年付)。**
 
 **点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/xdm_logo.webp" name="星岛梦官网" link="https://itheo.top/xdm" rel="sponsored noreferrer" />
+
+<Pill icon="logos:telegram" name="星岛梦TG交流群" link="https://t.me/XDM6666666" rel="noreferrer" />
 
 <!-- #endregion 1 -->
 

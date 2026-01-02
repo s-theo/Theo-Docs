@@ -22,15 +22,15 @@
     }
   },
   "devDependencies": {
-    "@commitlint/cli": "^20.2.0",
-    "@commitlint/config-conventional": "^20.2.0",
+    "@commitlint/cli": "^20.3.0",
+    "@commitlint/config-conventional": "^20.3.0",
     "@commitlint/types": "^20.2.0",
     "@mdit/plugin-figure": "^0.22.2",
     "@mdit/plugin-footnote": "^0.22.3",
     "@mdit/plugin-img-size": "^0.22.4",
     "@mdit/plugin-tasklist": "^0.22.2",
     "@theojs/lumen": "^6.4.5",
-    "@trivago/prettier-plugin-sort-imports": "^6.0.0",
+    "@trivago/prettier-plugin-sort-imports": "^6.0.1",
     "commitizen": "^4.3.1",
     "cz-vinyl": "^2.5.4",
     "husky": "^9.1.7",

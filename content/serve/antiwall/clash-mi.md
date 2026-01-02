@@ -9,6 +9,8 @@ head:
 
 # Clash Mi 使用教程
 
+<!--@include: @/head.md-->
+
 **Clash Mi** 是一款基于 **Mihomo（Clash Meta）核心** 的代理客户端，界面简洁、操作直观，非常适合新手快速导入机场订阅并使用规则分流或全局代理。
 
 ## Clash Mi 客户端下载

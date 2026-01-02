@@ -9,6 +9,8 @@ head:
 
 # Clash Verge Rev 使用教程
 
+<!--@include: @/head.md-->
+
 **Clash Verge Rev** 是 Clash Verge 的延续版本，是一款基于 **Tauri + Clash Meta（Mihomo）内核** 的桌面端 GUI 客户端。
 
 在延续原有版本号与使用逻辑的基础上，对界面与功能进行了优化升级。只要用过 Clash 系列客户端，基本可以做到 **零学习成本上手**。

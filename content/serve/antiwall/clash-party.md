@@ -9,6 +9,8 @@ head:
 
 # Clash Party 使用教程
 
+<!--@include: @/head.md-->
+
 **Clash Party** 是一款简单易用的基于 Clash Meta（Mihomo）核心的科学上网客户端。自 Clash for Windows 删库之后，又出现了很多 Clash 客户端。但相比之下，我觉得 **Clash Party** 是对新手很友好的。
 
 ## Clash Party 客户端下载

@@ -306,7 +306,7 @@ export function Sidebar_serve(): SidebarItem[] {
         { text: 'FlClash', link: 'flclash' },
         { text: 'Surfboard', link: 'surfboard' },
         { text: 'Clash meta For Android', link: 'clash-meta-for-android' },
-        { text: 'nekobox', link: 'nekobox' },
+        { text: 'NekoBox', link: 'nekobox' },
         { text: 'Clash Mi', link: 'clash-mi' },
         { text: 'Shadowrocket', link: 'shadowrocket' },
         { text: 'Quantumult X', link: 'quantumult-x' },

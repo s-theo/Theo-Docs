@@ -9,8 +9,6 @@ head:
 
 # Clash Meta for Android 使用教程
 
-<!--@include: @/head.md-->
-
 相比传统 **Clash**，**Clash Meta（CMFA）** 引入了更多新特性，例如支持 **VLESS XTLS、Trojan XTLS、Hysteria** 等新型出站协议。  
 在保留 Clash 核心规则系统与高自由度配置能力的同时，融合了部分 **Clash Premium** 功能，是目前功能完整度与性能都非常突出的代理客户端。
 
@@ -31,6 +29,8 @@ head:
 ## Clash Meta for Android 添加订阅并使用
 
 ### 第一步：获取订阅地址
+
+<!--@include: @/head.md-->
 
 登录机场官网后台，复制 **订阅链接**。  
 ⚠️ 建议**关闭浏览器自动翻译功能**，避免订阅链接被错误处理。

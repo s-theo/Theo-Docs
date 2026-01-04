@@ -1,6 +1,6 @@
 ---
 title: NekoBox 使用教程
-description: NekoBox 使用教程。基于 sing-box 的多平台代理客户端，支持订阅导入、手动添加节点、路由分流与 TUN 模式，适合新手快速上手。
+description: NekoBox 使用教程。基于 sing-box 的多平台代理客户端，支持订阅导入、手动添加节点、路由分流与 TUN 模式，适合新手快速上手。本文详细讲解客户端下载、订阅导入、节点切换、代理模式与 TUN 模式设置，适合新手快速上手。
 head:
   - - meta
     - property: og:image

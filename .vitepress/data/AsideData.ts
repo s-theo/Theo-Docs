@@ -49,6 +49,13 @@ export const Aside_Data: AsideItem = [
     rel: 'sponsored noreferrer'
   },
   {
+    image: 'https://i.theojs.cn/logo/meile.webp',
+    promo: '美乐云 75 折特惠',
+    info1: '全场套餐 <span class="promo-text"> 75折: ML75</span>',
+    link: 'https://itheo.top/meile',
+    rel: 'sponsored noreferrer'
+  },
+  {
     image: { src: 'https://i.theojs.cn/logo/TNT.webp', crop: true },
     promo: 'TNT 双旦特惠',
     info1: '全场套餐 <span class="promo-text"> 8折: Merry80</span>',
@@ -78,19 +85,13 @@ export const Aside_Data: AsideItem = [
     rel: 'sponsored noreferrer'
   },
   {
-    image: 'https://i.theojs.cn/logo/meile.webp',
-    promo: '美乐云 75 折特惠',
-    info1: '全场套餐 <span class="promo-text"> 75折: ML75</span>',
-    link: 'https://itheo.top/meile',
+    image: 'https://i.theojs.cn/logo/xdm_logo.webp',
+    promo: '星岛梦优惠券大放送!',
+    info1: '年付套餐 <span class="promo-text"> 8折: NF80</span>',
+    info2: '三年付套餐 <span class="promo-text"> 6折: SN60</span>',
+    link: 'https://itheo.top/xdm',
     rel: 'sponsored noreferrer'
   },
-  // {
-  //   image: 'https://i.theojs.cn/logo/xdm_logo.webp',
-  //   promo: '星岛梦开服全场 64 折',
-  //   info1: '全场套餐 <span class="promo-text"> 64折: XDM666</span>',
-  //   link: 'https://itheo.top/xdm',
-  //   rel: 'sponsored noreferrer'
-  // },
   {
     image: 'https://i.theojs.cn/logo/onlyrabbit_logo.webp',
     promo: 'onlyrabbit-唯兔云开业特惠',
@@ -168,12 +169,12 @@ export const Aside_Data: AsideItem = [
   //   link: 'https://itheo.top/tnt',
   //   rel: 'sponsored noreferrer'
   // },
-  {
-    image: { src: 'https://i.theojs.cn/logo/xdm_logo.webp' },
-    promo: '星岛梦',
-    link: 'https://itheo.top/xdm',
-    rel: 'sponsored noreferrer'
-  },
+  // {
+  //   image: { src: 'https://i.theojs.cn/logo/xdm_logo.webp' },
+  //   promo: '星岛梦',
+  //   link: 'https://itheo.top/xdm',
+  //   rel: 'sponsored noreferrer'
+  // },
   {
     image: 'https://i.theojs.cn/logo/hero-sms.svg',
     promo: 'Hero-SMS 短信接码',
@@ -195,6 +196,13 @@ export const Aside_Data: AsideItem = [
     hide1: '传世经典著作',
     hide2: '山医命相卜',
     link: 'https://xx.theojs.cn/'
+  },
+  {
+    icon: 'fluent-color:apps-32',
+    name: '科学上网软件使用指南',
+    hide1: '常用网络工具快速上手',
+    hide2: '高级配置与使用技巧',
+    link: '/serve/antiwall/sunmmary'
   },
   {
     icon: { icon: 'cib:netflix', color: '#E50914' },

@@ -1,6 +1,7 @@
 import type { DefaultTheme } from 'vitepress'
 
 const code = '<span class="VPBadge tip small" aria-hidden="true">附折扣码</span>'
+const zc = '<span class="VPBadge tip small" aria-hidden="true">注册试用</span>'
 
 type SidebarItem = DefaultTheme.SidebarItem
 
@@ -260,14 +261,14 @@ export function Sidebar_serve(): SidebarItem[] {
         { text: 'lightspeed - 光速云' + code, link: 'lightspeed' },
         { text: '星岛梦' + code, link: 'xdm' },
         { text: 'Galaxy Cloud - 银河云' + code, link: 'galaxy' },
+        { text: '美乐云' + code + zc, link: 'meile' },
         { text: 'TNT Cloud' + code, link: 'tnt' },
         { text: 'Totoro Cloud - 龙猫云' + code, link: 'totoro' },
         { text: '小蜜蜂' + code, link: 'bee' },
-        { text: 'OKANC' + code, link: 'okanc' },
+        { text: 'OKANC' + code + zc, link: 'okanc' },
         { text: 'onlyrabbit - 唯兔云' + code, link: 'onlyrabbit' },
         { text: 'FatCat Cloud - 肥猫云' + code, link: 'fatcat' },
-        { text: '奈云' + code, link: 'naiyun' },
-        { text: '美乐云' + code, link: 'meile' },
+        { text: '奈云' + code + zc, link: 'naiyun' },
         { text: 'FlyingBird - 飞鸟机场' + code, link: 'flyingbird' }
       ]
     },

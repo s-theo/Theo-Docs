@@ -1,11 +1,11 @@
 ---
-title: OKANC
+title: OKANC官网注册地址｜真实测速｜价格与套餐详解
 description: OKANC采用trojan协议，IEPL深港专线机场，稳定性高延迟低，值得推荐！
 ---
 
-# OKANC
+# OKANC官网注册地址｜真实测速｜价格与套餐详解
 
-:::tip OKANC 双十二优惠来袭!
+:::tip OKANC 新年优惠活动!
 
 - <Copy type="tip" label="点击复制 78 折折扣码: 0101" text="0101" bold />
 
@@ -19,17 +19,21 @@ description: OKANC采用trojan协议，IEPL深港专线机场，稳定性高延�
 
  -->
 
-## OKANC注册地址
+## OKANC官网注册地址（稳定高速｜真实测速｜价格详解）
 
 <!-- #region 1 -->
 
 **最便宜的订阅有38元 328g/月(年付)。**
 
+**注册试用: 5GB/24 小时**
+
 **点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/okanc.webp" name="OKANC官网" link="https://itheo.top/okanc" rel="sponsored noreferrer" />
+
+**当前可用的官方注册地址，稳定不跳转、不失效。**
 
 <!-- #endregion 1 -->
 
-## OKANC简介
+## OKANC是什么？适合哪些人使用（优缺点实测）
 
 <!-- #region 2 -->
 
@@ -48,21 +52,27 @@ OKANC采用trojan协议，IEPL深港专线机场，稳定性高延迟低，值�
 - 海外团队，专业运营，全天候维护。
 <!-- #endregion 2 -->
 
-## OKANC价格表
+## OKANC价格与套餐对比（哪一档最划算？）
 
 <!-- #region 3 -->
 
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" />
 
-|    套餐类型    |  流量/月  | 月付 | 季付 | 半年付 | 年付 |                                                     套餐购买                                                     |
-| :------------: | :-------: | :--: | :--: | :----: | :--: | :--------------------------------------------------------------------------------------------------------------: |
-|    **PRO**     | **328G**  | ¥46  | ¥135 |  ¥268  | ¥460 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/okanc" rel="sponsored noreferrer" /> |
-|    **MAX**     | **600G**  | ¥52  | ¥145 |  ¥285  | ¥499 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/okanc" rel="sponsored noreferrer" /> |
-| **MAX+极致版** | **1024G** | ¥88  | ¥168 |  ¥328  |  -   | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/okanc" rel="sponsored noreferrer" /> |
+::: tip
+
+- **新手建议**：轻度使用选**PRO**，日常流媒体与 AI 工具推荐**MAX / MAX+极致版**。
+
+:::
+
+|    套餐类型    |  流量/月  | 月付 | 季付 | 半年付 | 年付 | 设备限制 |                                                     套餐购买                                                     |
+| :------------: | :-------: | :--: | :--: | :----: | :--: | :------: | :--------------------------------------------------------------------------------------------------------------: |
+|    **PRO**     | **328G**  | ¥46  | ¥135 |  ¥268  | ¥460 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/okanc" rel="sponsored noreferrer" /> |
+|    **MAX**     | **600G**  | ¥52  | ¥145 |  ¥285  | ¥499 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/okanc" rel="sponsored noreferrer" /> |
+| **MAX+极致版** | **1024G** | ¥88  | ¥168 |  ¥328  |  -   |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/okanc" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 
-## OKANC测速图
+## OKANC真实测速图（高峰期表现实测）
 
 ![OKANC 拓扑图 =688x](https://i.theojs.cn/airport/okanc_topology.webp)
 

@@ -44,7 +44,7 @@ head:
 - 粘贴到输入框
 - 点击 **导入**，等待配置下载完成
 
-![Clash Verge Rev 订阅链接导入](https://i.theojs.cn/docs/20260102144912276.webp)
+![Clash Verge Rev 订阅链接导入](https://i.theojs.cn/docs/20260105115031668.webp)
 
 ### 选择节点
 
@@ -56,7 +56,7 @@ head:
 
 > 其他选项如不清楚用途，建议保持默认，不要随意修改。
 
-![Clash Verge Rev 选择节点](https://i.theojs.cn/docs/20260102144921118.webp)
+![Clash Verge Rev 选择节点](https://i.theojs.cn/docs/20260105115525822.webp)
 
 ### 开启系统代理
 
@@ -65,7 +65,7 @@ head:
 - 打开 **系统代理**
 - 如需局域网设备共享代理，可开启「允许局域网连接」（默认关闭）
 
-![Clash Verge Rev 开启系统代理](https://i.theojs.cn/docs/20260102144929467.webp)
+![Clash Verge Rev 开启系统代理](https://i.theojs.cn/docs/20260105115059757.webp)
 
 完成以上步骤后，即可正常访问代理网络环境中的网站。
 

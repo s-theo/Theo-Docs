@@ -49,6 +49,13 @@ export const Aside_Data: AsideItem = [
     rel: 'sponsored noreferrer'
   },
   {
+    image: 'https://i.theojs.cn/logo/meile.webp',
+    promo: '美乐云 75 折特惠',
+    info1: '全场套餐 <span class="promo-text"> 75折: ML75</span>',
+    link: 'https://itheo.top/meile',
+    rel: 'sponsored noreferrer'
+  },
+  {
     image: { src: 'https://i.theojs.cn/logo/TNT.webp', crop: true },
     promo: 'TNT 双旦特惠',
     info1: '全场套餐 <span class="promo-text"> 8折: Merry80</span>',
@@ -75,13 +82,6 @@ export const Aside_Data: AsideItem = [
     promo: '奈云 78 折特惠',
     info1: '全场套餐 <span class="promo-text"> 78折: 0101</span>',
     link: 'https://itheo.top/naiyun',
-    rel: 'sponsored noreferrer'
-  },
-  {
-    image: 'https://i.theojs.cn/logo/meile.webp',
-    promo: '美乐云 75 折特惠',
-    info1: '全场套餐 <span class="promo-text"> 75折: ML75</span>',
-    link: 'https://itheo.top/meile',
     rel: 'sponsored noreferrer'
   },
   // {
@@ -195,6 +195,13 @@ export const Aside_Data: AsideItem = [
     hide1: '传世经典著作',
     hide2: '山医命相卜',
     link: 'https://xx.theojs.cn/'
+  },
+  {
+    icon: 'fluent-color:apps-32',
+    name: '科学上网软件使用指南',
+    hide1: '常用网络工具快速上手',
+    hide2: '高级配置与使用技巧',
+    link: '/serve/antiwall/sunmmary'
   },
   {
     icon: { icon: 'cib:netflix', color: '#E50914' },

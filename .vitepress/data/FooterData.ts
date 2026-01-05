@@ -12,9 +12,9 @@ export const Footer_Data: FooterData = {
         { name: 'hyperlink - 极连云', link: 'https://itheo.top/hyperlink', rel: 'sponsored noreferrer' },
         { name: 'lightspeed - 光速云', link: 'https://itheo.top/lightspeed', rel: 'sponsored noreferrer' },
         { name: 'Galaxy - 银河云', link: 'https://itheo.top/yhy', rel: 'sponsored noreferrer' },
+        { name: '美乐云', link: 'https://itheo.top/meile', rel: 'sponsored noreferrer' },
         { name: 'TNT Cloud', link: 'https://itheo.top/tnt', rel: 'sponsored noreferrer' },
-        { name: 'FatCat Cloud - 肥猫云', link: 'https://itheo.top/fatcat', rel: 'sponsored noreferrer' },
-        { name: '奈云', link: 'https://itheo.top/naiyun', rel: 'sponsored noreferrer' }
+        { name: 'FatCat Cloud - 肥猫云', link: 'https://itheo.top/fatcat', rel: 'sponsored noreferrer' }
       ]
     },
     {
@@ -26,7 +26,7 @@ export const Footer_Data: FooterData = {
         { name: 'OKANC', link: 'https://itheo.top/okanc', rel: 'sponsored noreferrer' },
         { name: '星岛梦', link: 'https://itheo.top/xdm', rel: 'sponsored noreferrer' },
         { name: 'onlyrabbit - 唯兔云', link: 'https://itheo.top/onlyrabbit', rel: 'sponsored noreferrer' },
-        { name: '美乐云', link: 'https://itheo.top/meile', rel: 'sponsored noreferrer' },
+        { name: '奈云', link: 'https://itheo.top/naiyun', rel: 'sponsored noreferrer' },
         { name: 'FlyingBird - 飞鸟机场', link: 'https://itheo.top/flyingbird', rel: 'sponsored noreferrer' }
       ]
     },

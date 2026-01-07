@@ -24,6 +24,8 @@ description: 奈云机场成立于2021年，提供Shadowsocks节点和V2Ray节�
 
 **最便宜的订阅有10元 168g/月(年付)。**
 
+**注册试用: 6GB/12 小时**
+
 **点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/naiyun_logo.webp" name="奈云官网" link="https://itheo.top/naiyun" rel="sponsored noreferrer" />
 
 <!-- #endregion 1 -->

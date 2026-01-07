@@ -24,6 +24,8 @@ description: 美乐云为您提供优质快捷高速安全加密全球解锁服�
 
 **最便宜的订阅有12元 128g/月(年付)。**
 
+**注册试用: 5GB/72 小时**
+
 **点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/meile.webp" name="美乐云官网"  link="https://itheo.top/meile" rel="sponsored noreferrer" />
 
 <!-- #endregion 1 -->

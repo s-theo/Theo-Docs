@@ -25,6 +25,8 @@ description: OKANC采用trojan协议，IEPL深港专线机场，稳定性高延�
 
 **最便宜的订阅有38元 328g/月(年付)。**
 
+**注册试用: 5GB/24 小时**
+
 **点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/okanc.webp" name="OKANC官网" link="https://itheo.top/okanc" rel="sponsored noreferrer" />
 
 <!-- #endregion 1 -->

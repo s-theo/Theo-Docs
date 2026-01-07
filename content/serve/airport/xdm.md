@@ -11,12 +11,15 @@ head:
 
 ![星岛梦og =370x](https://i.theojs.cn/logo/xdm_logo.webp '星岛梦')
 
-<!-- :::tip 星岛梦开服全场 64 折进行中!
+:::tip 星岛梦优惠券大放送!
 
-- 全场 64 折 <Copy type="tip" label="点击复制折扣码: XDM666" text="XDM666" bold />
-- 在套餐原有折扣基础上，输入折扣码可再享折上折。
+- 季付专属88折优惠卷 <Copy type="tip" label="点击复制折扣码: JF88" text="JF88" bold />
+- 半年付专属85折优惠卷 <Copy type="tip" label="点击复制折扣码: BN85" text="BN85" bold />
+- 年付专属8折优惠卷 <Copy type="tip" label="点击复制折扣码: NF80" text="NF80" bold />
+- 两年付专属7折优惠卷 <Copy type="tip" label="点击复制折扣码: LN70" text="LN70" bold />
+- 三年付专属6折优惠卷 <Copy type="tip" label="点击复制折扣码: SN60" text="SN60" bold />
 
-::: -->
+:::
 
 <!-- :::tip 星岛梦 折扣码大放送!
 
@@ -64,10 +67,6 @@ head:
 <!-- #region 3 -->
 
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
-
-::: tip
-年付**8**折/2年付**7**折/3年付**6**折 配合折扣码折上折，最高可达**48**折
-:::
 
 |    套餐类型    |  流量/月  | 月付 | 季付 | 半年付 | 年付  |                                                    套餐购买                                                    |
 | :------------: | :-------: | :--: | :--: | :----: | :---: | :------------------------------------------------------------------------------------------------------------: |

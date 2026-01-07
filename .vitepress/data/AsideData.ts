@@ -84,13 +84,14 @@ export const Aside_Data: AsideItem = [
     link: 'https://itheo.top/naiyun',
     rel: 'sponsored noreferrer'
   },
-  // {
-  //   image: 'https://i.theojs.cn/logo/xdm_logo.webp',
-  //   promo: '星岛梦开服全场 64 折',
-  //   info1: '全场套餐 <span class="promo-text"> 64折: XDM666</span>',
-  //   link: 'https://itheo.top/xdm',
-  //   rel: 'sponsored noreferrer'
-  // },
+  {
+    image: 'https://i.theojs.cn/logo/xdm_logo.webp',
+    promo: '星岛梦优惠券大放送!',
+    info1: '年付套餐 <span class="promo-text"> 8折: NF80</span>',
+    info2: '三年付套餐 <span class="promo-text"> 6折: SN60</span>',
+    link: 'https://itheo.top/xdm',
+    rel: 'sponsored noreferrer'
+  },
   {
     image: 'https://i.theojs.cn/logo/onlyrabbit_logo.webp',
     promo: 'onlyrabbit-唯兔云开业特惠',
@@ -168,12 +169,12 @@ export const Aside_Data: AsideItem = [
   //   link: 'https://itheo.top/tnt',
   //   rel: 'sponsored noreferrer'
   // },
-  {
-    image: { src: 'https://i.theojs.cn/logo/xdm_logo.webp' },
-    promo: '星岛梦',
-    link: 'https://itheo.top/xdm',
-    rel: 'sponsored noreferrer'
-  },
+  // {
+  //   image: { src: 'https://i.theojs.cn/logo/xdm_logo.webp' },
+  //   promo: '星岛梦',
+  //   link: 'https://itheo.top/xdm',
+  //   rel: 'sponsored noreferrer'
+  // },
   {
     image: 'https://i.theojs.cn/logo/hero-sms.svg',
     promo: 'Hero-SMS 短信接码',

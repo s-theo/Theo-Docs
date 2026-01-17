@@ -1,24 +1,24 @@
 ---
-title: 奈云
-description: 奈云机场成立于2021年，提供Shadowsocks节点和V2Ray节点和Trojan节点，支持的付款方式有微信支付、支付宝，提供奈云机场官网、节点信息、机场参数、套餐价格、机场测速等信息。
+title: 奈云(NaiYun)官网注册地址｜真实测速｜价格与套餐详解
+description: 奈云(NaiYun)机场成立于2021年，提供Shadowsocks节点和V2Ray节点和Trojan节点，支持的付款方式有微信支付、支付宝，提供奈云(NaiYun)机场官网、节点信息、机场参数、套餐价格、机场测速等信息。
 ---
 
-# 奈云
+# 奈云(NaiYun)官网注册地址｜真实测速｜价格与套餐详解
 
-:::tip 奈云 新年优惠活动!
+:::tip 奈云(NaiYun) 新年优惠活动!
 
 - <Copy type="tip" label="点击复制 78 折折扣码: 0101" text="0101" bold />
 
 :::
 
-<!-- :::tip 奈云 折扣码大放送!
+<!-- :::tip 奈云(NaiYun) 折扣码大放送!
 
 - <Copy type="tip" label="点击复制 8 折折扣码: theo80" text="theo80" bold />
 
 :::
  -->
 
-## 奈云注册地址
+## 奈云(NaiYun)官网注册地址（当前可用｜稳定高速｜真实测速）
 
 <!-- #region 1 -->
 
@@ -26,17 +26,19 @@ description: 奈云机场成立于2021年，提供Shadowsocks节点和V2Ray节�
 
 **注册试用: 6GB/12 小时**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/naiyun_logo.webp" name="奈云官网" link="https://itheo.top/naiyun" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/naiyun_logo.webp" name="奈云(NaiYun)官网" link="https://itheo.top/naiyun" rel="sponsored noreferrer" />
+
+**当前可用的官方注册地址，稳定不跳转、不失效。**
 
 <!-- #endregion 1 -->
 
-## 奈云简介
+## 奈云(NaiYun)是什么？适合哪些人使用（真实体验 + 优缺点）
 
 <!-- #region 2 -->
 
 **不做订阅阅后即焚!!放心使用**
 
-奈云采用trojan/vmess/ss协议，**2500m** 速率，IEPL深港专线机场，稳定性高延迟低，值得推荐！
+**奈云(NaiYun)**采用trojan/vmess/ss协议，**2500m** 速率，IEPL深港专线机场，稳定性高延迟低，值得推荐！
 
 确保您在网络使用过程中享受到稳定、高速的连接。拥有 **香港、台湾、日本、马来、新加坡、美国、韩国、泰国、菲律宾、尼日利亚** 等 **多地区多节点**。全节点专线，所有专线高峰时段不卡顿，让您畅享流畅的网络环境。
 
@@ -49,11 +51,17 @@ description: 奈云机场成立于2021年，提供Shadowsocks节点和V2Ray节�
 - 海外团队，专业运营，全天候维护。
 <!-- #endregion 2 -->
 
-## 奈云价格表
+## 奈云(NaiYun)价格与套餐对比（哪一档最划算？）
 
 <!-- #region 3 -->
 
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" />
+
+::: tip
+
+- **新手建议**：轻度使用选**Basic-基础套餐(特惠)**，日常流媒体与 AI 工具推荐**Pro-进阶套餐 / Max-专业套餐**。
+
+:::
 
 |         套餐类型         |  流量/月  | 月付 | 季付 | 半年付 | 年付 |                                                     套餐购买                                                      |
 | :----------------------: | :-------: | :--: | :--: | :----: | :--: | :---------------------------------------------------------------------------------------------------------------: |
@@ -66,13 +74,13 @@ description: 奈云机场成立于2021年，提供Shadowsocks节点和V2Ray节�
 
 <!-- #endregion 3 -->
 
-## 奈云测速图
+## 奈云(NaiYun)真实测速图（高峰期表现实测）
 
-![奈云 拓扑图 =688x](https://i.theojs.cn/airport/naiyun_analyze.webp)
+![奈云(NaiYun) 拓扑图 =688x](https://i.theojs.cn/airport/naiyun_analyze.webp)
 
-![奈云 流媒体解锁图 =688x](https://i.theojs.cn/airport/naiyun_fulltest.webp)
+![奈云(NaiYun) 流媒体解锁图 =688x](https://i.theojs.cn/airport/naiyun_fulltest.webp)
 
-![奈云 广西移动测速图 =688x](https://i.theojs.cn/airport/naiyun_guangxi_mobile.webp)
+![奈云(NaiYun) 广西移动测速图 =688x](https://i.theojs.cn/airport/naiyun_guangxi_mobile.webp)
 
 <!--@include: @/bottom.md-->
 

@@ -256,20 +256,20 @@ export function Sidebar_serve(): SidebarItem[] {
       // collapsed: true,
       base: '/serve/airport/',
       items: [
-        { text: 'V4Speed - 青云梯' + code, link: 'qingyunti' },
-        { text: 'hyperlink - 极连云' + code, link: 'hyperlink' },
-        { text: 'lightspeed - 光速云' + code, link: 'lightspeed' },
-        { text: '星岛梦' + code, link: 'xdm' },
-        { text: 'Galaxy Cloud - 银河云' + code, link: 'galaxy' },
-        { text: '美乐云' + code + zc, link: 'meile' },
+        { text: '青云梯(QingYunTi)' + code, link: 'qingyunti' },
+        { text: '极连云(HyperLink)' + code, link: 'hyperlink' },
+        { text: '光速云(LightSpeed)' + code, link: 'lightspeed' },
+        { text: '星岛梦(StarDream)' + code, link: 'xdm' },
+        { text: '银河云(GalaxyCloud)' + code, link: 'galaxy' },
+        { text: '美乐云(MeiLe)' + code + zc, link: 'meile' },
         { text: 'TNT Cloud' + code, link: 'tnt' },
-        { text: 'Totoro Cloud - 龙猫云' + code, link: 'totoro' },
-        { text: '小蜜蜂' + code, link: 'bee' },
+        { text: '龙猫云(TotoroCloud)' + code, link: 'totoro' },
+        { text: '小蜜蜂(XmfWww)' + code, link: 'bee' },
         { text: 'OKANC' + code + zc, link: 'okanc' },
-        { text: 'onlyrabbit - 唯兔云' + code, link: 'onlyrabbit' },
-        { text: 'FatCat Cloud - 肥猫云' + code, link: 'fatcat' },
-        { text: '奈云' + code + zc, link: 'naiyun' },
-        { text: 'FlyingBird - 飞鸟机场' + code, link: 'flyingbird' }
+        { text: '唯兔云(OnlyRabbit)' + code, link: 'onlyrabbit' },
+        { text: '肥猫云(FatCatCloud)' + code, link: 'fatcat' },
+        { text: '奈云(NaiYun)' + code + zc, link: 'naiyun' },
+        { text: '飞鸟机场(FlyingBird)' + code, link: 'flyingbird' }
       ]
     },
     {

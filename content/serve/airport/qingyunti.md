@@ -78,13 +78,13 @@ head:
 
 :::
 
-|   套餐类型   |  流量/月  | 月付 | 季付 | 半年付 | 年付  |                                                    套餐购买                                                    |
-| :----------: | :-------: | :--: | :--: | :----: | :---: | :------------------------------------------------------------------------------------------------------------: |
-| **年付小包** |  **60G**  |  -   |  -   |   -    |  ¥96  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
-|   **VIP1**   | **150G**  | ¥25  | ¥67  |  ¥127  | ¥240  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
-|   **VIP2**   | **300G**  | ¥45  | ¥121 |  ¥229  | ¥432  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
-|   **VIP3**   | **600G**  | ¥85  | ¥229 |  ¥433  | ¥816  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
-|   **VIP4**   | **1000G** | ¥150 | ¥400 |  ¥750  | ¥1360 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
+|   套餐类型   |  流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                    套餐购买                                                    |
+| :----------: | :-------: | :--: | :--: | :----: | :---: | :------: | :------------------------------------------------------------------------------------------------------------: |
+| **年付小包** |  **60G**  |  -   |  -   |   -    |  ¥96  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
+|   **VIP1**   | **150G**  | ¥25  | ¥67  |  ¥127  | ¥240  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
+|   **VIP2**   | **300G**  | ¥45  | ¥121 |  ¥229  | ¥432  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
+|   **VIP3**   | **600G**  | ¥85  | ¥229 |  ¥433  | ¥816  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
+|   **VIP4**   | **1000G** | ¥150 | ¥400 |  ¥750  | ¥1360 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

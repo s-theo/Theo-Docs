@@ -64,11 +64,11 @@ OKANC采用trojan协议，IEPL深港专线机场，稳定性高延迟低，值�
 
 :::
 
-|    套餐类型    |  流量/月  | 月付 | 季付 | 半年付 | 年付 |                                                     套餐购买                                                     |
-| :------------: | :-------: | :--: | :--: | :----: | :--: | :--------------------------------------------------------------------------------------------------------------: |
-|    **PRO**     | **328G**  | ¥46  | ¥135 |  ¥268  | ¥460 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/okanc" rel="sponsored noreferrer" /> |
-|    **MAX**     | **600G**  | ¥52  | ¥145 |  ¥285  | ¥499 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/okanc" rel="sponsored noreferrer" /> |
-| **MAX+极致版** | **1024G** | ¥88  | ¥168 |  ¥328  |  -   | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/okanc" rel="sponsored noreferrer" /> |
+|    套餐类型    |  流量/月  | 月付 | 季付 | 半年付 | 年付 | 设备限制 |                                                     套餐购买                                                     |
+| :------------: | :-------: | :--: | :--: | :----: | :--: | :------: | :--------------------------------------------------------------------------------------------------------------: |
+|    **PRO**     | **328G**  | ¥46  | ¥135 |  ¥268  | ¥460 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/okanc" rel="sponsored noreferrer" /> |
+|    **MAX**     | **600G**  | ¥52  | ¥145 |  ¥285  | ¥499 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/okanc" rel="sponsored noreferrer" /> |
+| **MAX+极致版** | **1024G** | ¥88  | ¥168 |  ¥328  |  -   |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/okanc" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

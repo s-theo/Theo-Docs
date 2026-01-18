@@ -56,12 +56,12 @@ description: 龙猫云(TotoroCloud)，一家颇具实力的新机场，Shadowsoc
 
 :::
 
-| 套餐类型 |  流量/月  | 月付 | 季付 | 半年付 | 年付  |                                                     套餐购买                                                      |
-| :------: | :-------: | :--: | :--: | :----: | :---: | :---------------------------------------------------------------------------------------------------------------: |
-| **VIP1** | **100G**  | ¥15  | ¥41  |  ¥77   | ¥144  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/totoro" rel="sponsored noreferrer" /> |
-| **VIP2** | **200G**  | ¥30  | ¥81  |  ¥153  | ¥288  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/totoro" rel="sponsored noreferrer" /> |
-| **VIP3** | **400G**  | ¥60  | ¥162 |  ¥306  | ¥576  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/totoro" rel="sponsored noreferrer" /> |
-| **VIP4** | **1000G** | ¥120 | ¥324 |  ¥697  | ¥1152 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/totoro" rel="sponsored noreferrer" /> |
+| 套餐类型 |  流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                     套餐购买                                                      |
+| :------: | :-------: | :--: | :--: | :----: | :---: | :------: | :---------------------------------------------------------------------------------------------------------------: |
+| **VIP1** | **100G**  | ¥15  | ¥41  |  ¥77   | ¥144  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/totoro" rel="sponsored noreferrer" /> |
+| **VIP2** | **200G**  | ¥30  | ¥81  |  ¥153  | ¥288  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/totoro" rel="sponsored noreferrer" /> |
+| **VIP3** | **400G**  | ¥60  | ¥162 |  ¥306  | ¥576  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/totoro" rel="sponsored noreferrer" /> |
+| **VIP4** | **1000G** | ¥120 | ¥324 |  ¥697  | ¥1152 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/totoro" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

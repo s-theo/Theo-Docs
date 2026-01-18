@@ -60,14 +60,14 @@ description: 极连云(HyperLink)专注提供出海专线加速与流媒体解�
 
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 
-|    套餐类型    |  流量/月  |  月付  |  季付  | 半年付 |  年付   |                                                       套餐购买                                                       |
-| :------------: | :-------: | :----: | :----: | :----: | :-----: | :------------------------------------------------------------------------------------------------------------------: |
-|  **轻量体验**  |  **60G**  |   -    |   -    |   -    |   ¥96   | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/hyperlink" rel="sponsored noreferrer" /> |
-|  **基础套餐**  | **100G**  | ¥15.5  | ¥41.5  | ¥80.5  | ¥152.5  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/hyperlink" rel="sponsored noreferrer" /> |
-|  **进阶套餐**  | **200G**  | ¥30.5  | ¥84.5  | ¥161.5 | ¥305.5  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/hyperlink" rel="sponsored noreferrer" /> |
-|  **旗舰套餐**  | **500G**  | ¥65.5  | ¥185.5 | ¥351.5 | ¥663.5  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/hyperlink" rel="sponsored noreferrer" /> |
-|  **尊享套餐**  | **1000G** | ¥120.5 | ¥342.5 | ¥648.5 | ¥1224.5 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/hyperlink" rel="sponsored noreferrer" /> |
-| **不限时套餐** | **600G**  |   -    |   -    |   -    |  ¥399   | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/hyperlink" rel="sponsored noreferrer" /> |
+|    套餐类型    |  流量/月  |  月付  |  季付  | 半年付 |  年付   | 设备限制 |                                                       套餐购买                                                       |
+| :------------: | :-------: | :----: | :----: | :----: | :-----: | :------: | :------------------------------------------------------------------------------------------------------------------: |
+|  **轻量体验**  |  **60G**  |   -    |   -    |   -    |   ¥96   |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/hyperlink" rel="sponsored noreferrer" /> |
+|  **基础套餐**  | **100G**  | ¥15.5  | ¥41.5  | ¥80.5  | ¥152.5  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/hyperlink" rel="sponsored noreferrer" /> |
+|  **进阶套餐**  | **200G**  | ¥30.5  | ¥84.5  | ¥161.5 | ¥305.5  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/hyperlink" rel="sponsored noreferrer" /> |
+|  **旗舰套餐**  | **500G**  | ¥65.5  | ¥185.5 | ¥351.5 | ¥663.5  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/hyperlink" rel="sponsored noreferrer" /> |
+|  **尊享套餐**  | **1000G** | ¥120.5 | ¥342.5 | ¥648.5 | ¥1224.5 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/hyperlink" rel="sponsored noreferrer" /> |
+| **不限时套餐** | **600G**  |   -    |   -    |   -    |  ¥399   |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/hyperlink" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

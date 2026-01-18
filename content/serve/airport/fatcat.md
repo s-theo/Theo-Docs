@@ -65,13 +65,13 @@ description: 肥猫云机场-大带宽不限速专线机场接入全球优质机
 
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 
-|          套餐类型           |  流量/月  | 月付 | 季付 | 半年付 | 年付  |                                                     套餐购买                                                      |
-| :-------------------------: | :-------: | :--: | :--: | :----: | :---: | :---------------------------------------------------------------------------------------------------------------: |
-| **BGP线路\*肥猫年付加强版** |  **60G**  |  -   |  -   |   -    |  ¥96  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
-|    **BGP线路\*基础套餐**    | **120G**  | ¥20  | ¥54  |  ¥102  | ¥192  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
-|    **BGP线路\*标准套餐**    | **300G**  | ¥40  | ¥108 |  ¥204  | ¥384  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
-|    **BGP线路\*旗舰套餐**    | **700G**  | ¥100 | ¥270 |  ¥510  | ¥960  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
-|    **BGP线路\*企业套餐**    | **1500G** | ¥180 | ¥486 |  ¥918  | ¥1728 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
+|    套餐类型    |  流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                     套餐购买                                                      |
+| :------------: | :-------: | :--: | :--: | :----: | :---: | :------: | :---------------------------------------------------------------------------------------------------------------: |
+| **年付加强版** |  **60G**  |  -   |  -   |   -    |  ¥96  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
+|  **基础套餐**  | **120G**  | ¥20  | ¥54  |  ¥102  | ¥192  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
+|  **标准套餐**  | **300G**  | ¥40  | ¥108 |  ¥204  | ¥384  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
+|  **旗舰套餐**  | **700G**  | ¥100 | ¥270 |  ¥510  | ¥960  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
+|  **企业套餐**  | **1500G** | ¥180 | ¥486 |  ¥918  | ¥1728 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3-->
 

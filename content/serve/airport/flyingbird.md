@@ -67,12 +67,12 @@ description: 飞鸟机场(FlyingBird)提供高速稳定的科学上网服务，�
 
 :::
 
-|   套餐类型   |  流量/月  | 月付 | 季付 | 半年付 | 年付  |                                                       套餐购买                                                        |
-| :----------: | :-------: | :--: | :--: | :----: | :---: | :-------------------------------------------------------------------------------------------------------------------: |
-| **青铜套餐** | **100G**  | ¥15  | ¥41  |  ¥77   | ¥144  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
-| **白银套餐** | **200G**  | ¥30  | ¥81  |  ¥153  | ¥288  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
-| **黄金套餐** | **500G**  | ¥75  | ¥203 |  ¥383  | ¥720  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
-| **钻石套餐** | **1000G** | ¥150 | ¥405 |  ¥765  | ¥1440 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
+|   套餐类型   |  流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                       套餐购买                                                        |
+| :----------: | :-------: | :--: | :--: | :----: | :---: | :------: | :-------------------------------------------------------------------------------------------------------------------: |
+| **青铜套餐** | **100G**  | ¥15  | ¥41  |  ¥77   | ¥144  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
+| **白银套餐** | **200G**  | ¥30  | ¥81  |  ¥153  | ¥288  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
+| **黄金套餐** | **500G**  | ¥75  | ¥203 |  ¥383  | ¥720  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
+| **钻石套餐** | **1000G** | ¥150 | ¥405 |  ¥765  | ¥1440 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

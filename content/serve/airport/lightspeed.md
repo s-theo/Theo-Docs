@@ -63,14 +63,17 @@ head:
 
 :::
 
-|    套餐类型    |  流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                       套餐购买                                                        |
-| :------------: | :-------: | :--: | :--: | :----: | :---: | :------: | :-------------------------------------------------------------------------------------------------------------------: |
-|   **轻量版**   |  **59G**  |  -   |  -   |   -    |  ¥99  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
-|   **极速版**   | **110G**  | ¥17  | ¥50  |  ¥90   | ¥160  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
-|   **流光版**   | **220G**  | ¥34  | ¥100 |  ¥180  | ¥320  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
-|   **量子版**   | **450G**  | ¥68  | ¥200 |  ¥375  | ¥667  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
-|   **无界版**   | **900G**  | ¥130 | ¥390 |  ¥702  | ¥1248 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
-| **不限时套餐** | **1000G** |  -   |  -   |   -    | ¥680  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
+|  套餐类型  | 流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                       套餐购买                                                        |
+| :--------: | :------: | :--: | :--: | :----: | :---: | :------: | :-------------------------------------------------------------------------------------------------------------------: |
+| **轻量版** | **59G**  |  -   |  -   |   -    |  ¥99  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
+| **极速版** | **110G** | ¥17  | ¥50  |  ¥90   | ¥160  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
+| **流光版** | **220G** | ¥34  | ¥100 |  ¥180  | ¥320  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
+| **量子版** | **450G** | ¥68  | ¥200 |  ¥375  | ¥667  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
+| **无界版** | **900G** | ¥130 | ¥390 |  ¥702  | ¥1248 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
+
+|    套餐类型    | 流量(不限时) | 一次性费用 | 设备限制 |                                                       套餐购买                                                        |
+| :------------: | :----------: | :--------: | :------: | :-------------------------------------------------------------------------------------------------------------------: |
+| **不限时套餐** |  **1000G**   |    ¥680    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

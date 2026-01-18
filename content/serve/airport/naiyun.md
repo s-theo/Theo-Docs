@@ -63,14 +63,17 @@ description: 奈云(NaiYun)机场成立于2021年，提供Shadowsocks节点和V2
 
 :::
 
-|      套餐类型      |  流量/月  | 月付 | 季付 | 半年付 | 年付 | 设备限制 |                                                     套餐购买                                                      |
-| :----------------: | :-------: | :--: | :--: | :----: | :--: | :------: | :---------------------------------------------------------------------------------------------------------------: |
-| **Basic-基础套餐** | **168G**  |  -   |  -   |   -    | ¥128 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/naiyun" rel="sponsored noreferrer" /> |
-|  **Pro-进阶套餐**  | **388G**  | ¥28  | ¥80  |  ¥150  | ¥280 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/naiyun" rel="sponsored noreferrer" /> |
-|  **Max-专业套餐**  | **788G**  | ¥49  | ¥138 |  ¥268  | ¥490 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/naiyun" rel="sponsored noreferrer" /> |
-|  **不限时套餐-1**  | **280G**  |  -   |  -   |   -    | ¥98  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/naiyun" rel="sponsored noreferrer" /> |
-|  **不限时套餐-2**  | **680G**  |  -   |  -   |   -    | ¥218 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/naiyun" rel="sponsored noreferrer" /> |
-|  **不限时套餐-3**  | **2048G** |  -   |  -   |   -    | ¥498 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/naiyun" rel="sponsored noreferrer" /> |
+|      套餐类型      | 流量/月  | 月付 | 季付 | 半年付 | 年付 | 设备限制 |                                                     套餐购买                                                      |
+| :----------------: | :------: | :--: | :--: | :----: | :--: | :------: | :---------------------------------------------------------------------------------------------------------------: |
+| **Basic-基础套餐** | **168G** |  -   |  -   |   -    | ¥128 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/naiyun" rel="sponsored noreferrer" /> |
+|  **Pro-进阶套餐**  | **388G** | ¥28  | ¥80  |  ¥150  | ¥280 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/naiyun" rel="sponsored noreferrer" /> |
+|  **Max-专业套餐**  | **788G** | ¥49  | ¥138 |  ¥268  | ¥490 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/naiyun" rel="sponsored noreferrer" /> |
+
+|     套餐类型     | 流量(不限时) | 一次性费用 | 设备限制 |                                                     套餐购买                                                      |
+| :--------------: | :----------: | :--------: | :------: | :---------------------------------------------------------------------------------------------------------------: |
+| **不限时套餐-1** |   **280G**   |    ¥98     |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/naiyun" rel="sponsored noreferrer" /> |
+| **不限时套餐-2** |   **680G**   |    ¥218    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/naiyun" rel="sponsored noreferrer" /> |
+| **不限时套餐-3** |  **2048G**   |    ¥498    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/naiyun" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

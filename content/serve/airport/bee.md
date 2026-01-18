@@ -71,7 +71,10 @@ description: 小蜜蜂(XmfWww) 提供稳定高速的科学上网服务，支持�
 |  **工蜂极速版**  | **240G**  | ¥40  | ¥108 |  ¥204  | ¥384  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/bee" rel="sponsored noreferrer" /> |
 |  **蜂王尊享版**  | **500G**  | ¥75  | ¥202 |  ¥382  | ¥720  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/bee" rel="sponsored noreferrer" /> |
 |  **蜂群无界版**  | **1000G** | ¥140 | ¥378 |  ¥714  | ¥1344 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/bee" rel="sponsored noreferrer" /> |
-|  **不限时套餐**  | **200G**  |  -   |  -   |   -    | ¥125  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/bee" rel="sponsored noreferrer" /> |
+
+|    套餐类型    | 流量(不限时) | 一次性费用 | 设备限制 |                                                    套餐购买                                                    |
+| :------------: | :----------: | :--------: | :------: | :------------------------------------------------------------------------------------------------------------: |
+| **不限时套餐** |   **200G**   |    ¥125    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/bee" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

@@ -78,14 +78,17 @@ head:
 
 :::
 
-|    套餐类型    |  流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                    套餐购买                                                    |
-| :------------: | :-------: | :--: | :--: | :----: | :---: | :------: | :------------------------------------------------------------------------------------------------------------: |
-|  **年付小包**  |  **50G**  |  -   |  -   |   -    |  ¥98  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
-|  **星尘套餐**  | **100G**  | ¥18  | ¥49  |  ¥92   | ¥173  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
-|  **行星套餐**  | **200G**  | ¥35  | ¥95  |  ¥179  | ¥336  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
-|  **恒星套餐**  | **400G**  | ¥70  | ¥189 |  ¥357  | ¥672  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
-|  **星系套餐**  | **800G**  | ¥140 | ¥378 |  ¥714  | ¥1344 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
-| **不限时套餐** | **1000G** |  -   |  -   |   -    | ¥680  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+|   套餐类型   | 流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                    套餐购买                                                    |
+| :----------: | :------: | :--: | :--: | :----: | :---: | :------: | :------------------------------------------------------------------------------------------------------------: |
+| **年付小包** | **50G**  |  -   |  -   |   -    |  ¥98  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+| **星尘套餐** | **100G** | ¥18  | ¥49  |  ¥92   | ¥173  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+| **行星套餐** | **200G** | ¥35  | ¥95  |  ¥179  | ¥336  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+| **恒星套餐** | **400G** | ¥70  | ¥189 |  ¥357  | ¥672  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+| **星系套餐** | **800G** | ¥140 | ¥378 |  ¥714  | ¥1344 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
+
+|    套餐类型    | 流量(不限时) | 一次性费用 | 设备限制 |                                                    套餐购买                                                    |
+| :------------: | :----------: | :--------: | :------: | :------------------------------------------------------------------------------------------------------------: |
+| **不限时套餐** |  **1000G**   |    ¥680    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yhy" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

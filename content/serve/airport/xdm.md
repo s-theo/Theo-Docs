@@ -76,13 +76,16 @@ head:
 
 :::
 
-|    套餐类型    |  流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                    套餐购买                                                    |
-| :------------: | :-------: | :--: | :--: | :----: | :---: | :------: | :------------------------------------------------------------------------------------------------------------: |
-|   **极速版**   | **100G**  | ¥16  | ¥46  |  ¥86   | ¥154  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/xdm" rel="sponsored noreferrer" /> |
-|   **进阶版**   | **200G**  | ¥32  | ¥91  |  ¥173  | ¥307  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/xdm" rel="sponsored noreferrer" /> |
-|   **闪光版**   | **500G**  | ¥80  | ¥228 |  ¥432  | ¥768  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/xdm" rel="sponsored noreferrer" /> |
-|   **旗舰版**   | **1000G** | ¥160 | ¥456 |  ¥864  | ¥1536 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/xdm" rel="sponsored noreferrer" /> |
-| **永久不限时** | **1000G** |  -   |  -   |   -    | ¥680  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/xdm" rel="sponsored noreferrer" /> |
+|  套餐类型  |  流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                    套餐购买                                                    |
+| :--------: | :-------: | :--: | :--: | :----: | :---: | :------: | :------------------------------------------------------------------------------------------------------------: |
+| **极速版** | **100G**  | ¥16  | ¥46  |  ¥86   | ¥154  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/xdm" rel="sponsored noreferrer" /> |
+| **进阶版** | **200G**  | ¥32  | ¥91  |  ¥173  | ¥307  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/xdm" rel="sponsored noreferrer" /> |
+| **闪光版** | **500G**  | ¥80  | ¥228 |  ¥432  | ¥768  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/xdm" rel="sponsored noreferrer" /> |
+| **旗舰版** | **1000G** | ¥160 | ¥456 |  ¥864  | ¥1536 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/xdm" rel="sponsored noreferrer" /> |
+
+|    套餐类型    | 流量(不限时) | 一次性费用 | 设备限制 |                                                    套餐购买                                                    |
+| :------------: | :----------: | :--------: | :------: | :------------------------------------------------------------------------------------------------------------: |
+| **永久不限时** |  **1000G**   |    ¥680    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/xdm" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

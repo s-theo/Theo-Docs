@@ -63,11 +63,14 @@ description: 美乐云(MeiLe)为您提供优质快捷高速安全加密全球解
 
 :::
 
-|    套餐类型    | 流量/月  | 月付 | 季付 | 半年付 | 年付 | 设备限制 |                                                     套餐购买                                                     |
-| :------------: | :------: | :--: | :--: | :----: | :--: | :------: | :--------------------------------------------------------------------------------------------------------------: |
-|  **Base套餐**  | **128G** | ¥15  | ¥42  |  ¥80   | ¥150 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/meile" rel="sponsored noreferrer" /> |
-|  **Pro套餐**   | **238G** | ¥26  | ¥75  |  ¥150  | ¥260 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/meile" rel="sponsored noreferrer" /> |
-| **不限时套餐** | **128G** |  -   |  -   |   -    | ¥118 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/meile" rel="sponsored noreferrer" /> |
+|   套餐类型   | 流量/月  | 月付 | 季付 | 半年付 | 年付 | 设备限制 |                                                     套餐购买                                                     |
+| :----------: | :------: | :--: | :--: | :----: | :--: | :------: | :--------------------------------------------------------------------------------------------------------------: |
+| **Base套餐** | **128G** | ¥15  | ¥42  |  ¥80   | ¥150 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/meile" rel="sponsored noreferrer" /> |
+| **Pro套餐**  | **238G** | ¥26  | ¥75  |  ¥150  | ¥260 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/meile" rel="sponsored noreferrer" /> |
+
+|    套餐类型    | 流量(不限时) | 一次性费用 | 设备限制 |                                                     套餐购买                                                     |
+| :------------: | :----------: | :--------: | :------: | :--------------------------------------------------------------------------------------------------------------: |
+| **不限时套餐** |   **128G**   |    ¥118    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/meile" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

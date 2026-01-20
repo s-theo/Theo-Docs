@@ -89,7 +89,3 @@ description: TNT Cloud 提供稳定高速的科学上网服务，支持多平台
 ![TNT Cloud 广州电信测速图 =688x](https://i.theojs.cn/airport/tnt_guangzhou_telecom.webp)
 
 <!--@include: @/bottom.md-->
-
-::: info 免责声明
-本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
-:::

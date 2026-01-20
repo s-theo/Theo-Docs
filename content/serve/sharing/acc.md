@@ -188,19 +188,19 @@ head:
 
 ## 谷歌id账号
 
-|             类别              |  价格  |                                                    购买链接                                                    |
-| :---------------------------: | :----: | :------------------------------------------------------------------------------------------------------------: |
-| **谷歌（全区服）ID-3星质量**  | ¥26.8  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-| **谷歌（全区服）ID-4星质量**  | ¥30.8  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-| **谷歌（全区服）ID-5星质量**  | ¥31.8  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-| **谷歌邮箱老账号-3个月以上**  |  ¥29   | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-| **谷歌邮箱老账号-5个月以上**  |  ¥34   | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-|     **谷歌（精品）账号**      | ¥99.8  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-|  **谷歌（精品）账号+安装包**  | ¥102.8 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-|    **谷歌（2022年）账号**     |  ¥42   | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-| **谷歌邮箱老账号-12个月以上** |  ¥39   | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|                类别                |  价格  |                                                    购买链接                                                    |
+| :--------------------------------: | :----: | :------------------------------------------------------------------------------------------------------------: |
+|    **谷歌（全区服）ID-3星质量**    | ¥26.8  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|    **谷歌（全区服）ID-4星质量**    | ¥30.8  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|    **谷歌（全区服）ID-5星质量**    | ¥31.8  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+| **谷歌Gmail邮箱老账号-3个月以上**  |  ¥29   | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+| **谷歌Gmail邮箱老账号-5个月以上**  |  ¥34   | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|        **谷歌（精品）账号**        | ¥99.8  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|    **谷歌（精品）账号+安装包**     | ¥102.8 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|       **谷歌（2022年）账号**       |  ¥42   | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+| **谷歌Gmail邮箱老账号-12个月以上** |  ¥39   | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
 
-## 谷歌邮箱
+## 谷歌邮箱/Gmail账号
 
 |     类别     | 价格  |                                                    购买链接                                                    |
 | :----------: | :---: | :------------------------------------------------------------------------------------------------------------: |
@@ -251,5 +251,44 @@ head:
 |           **Facebook 友缘号**            |  ¥220  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
 |           **facebook 二解号**            |  ¥85   | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
 |           **facebook 三解号**            |  ¥120  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+
+## ChatGPT账号
+
+### 账号
+
+|                 类别                 | 价格  |                                                    购买链接                                                    |
+| :----------------------------------: | :---: | :------------------------------------------------------------------------------------------------------------: |
+|    **ChatGPT全新账号不带api key**    | ¥48.8 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+| **ChatGPT Plus （1人独享30天）账号** | ¥268  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+| **ChatGPT Plus（4人共享30天）账号**  |  ¥98  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|      **ChatGPT 4.0 直登号30天**      |  ¥94  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+| **ChatGPT Business（30天）会员账号** | ¥268  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+
+### ChatGPT Plus 代充
+
+|               类别               | 价格  |                                                    购买链接                                                    |
+| :------------------------------: | :---: | :------------------------------------------------------------------------------------------------------------: |
+|  **ChatGPT Plus（30天） 代充**   | ¥198  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+| **ChatGPT Business（30天）代充** | ¥228  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|  **ChatGPT Plus（90天） 代充**   | ¥580  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|  **ChatGPT Plus（365天） 代充**  | ¥2320 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+
+## Gemini账号
+
+### 账号
+
+|                    类别                     | 价格 |                                                    购买链接                                                    |
+| :-----------------------------------------: | :--: | :------------------------------------------------------------------------------------------------------------: |
+|               **Gemini 账号**               | ¥38  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|      **Gemini AI Pro（30天）会员账号**      | ¥199 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+| **Gemini Pro 学生教育优惠(12个月)会员账号** | ¥199 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|             **Gemini安卓下载**              | ¥30  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|             **Gemini苹果下载**              | ¥30  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+
+### Gemini 代充
+
+|               类别                | 价格 |                                                    购买链接                                                    |
+| :-------------------------------: | :--: | :------------------------------------------------------------------------------------------------------------: |
+| **Gemini AI Pro（30天）会员代充** | ¥199 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
 
 <!--@include: @/bottom.md-->

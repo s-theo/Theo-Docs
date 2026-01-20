@@ -86,7 +86,3 @@ description: 奈云(NaiYun)机场成立于2021年，提供Shadowsocks节点和V2
 ![奈云(NaiYun) 广西移动测速图 =688x](https://i.theojs.cn/airport/naiyun_guangxi_mobile.webp)
 
 <!--@include: @/bottom.md-->
-
-::: info 免责声明
-本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
-:::

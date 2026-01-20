@@ -7,7 +7,7 @@ hero:
   name: Theo Docs
   text: 流媒体观影
   textsuffix: 一站式服务
-  tagline: 引领您进入五彩斑斓的视听世界，并涵盖了 Netflix 、Disney+ 、Spotify会员 和 YouTube会员 的精彩领域
+  tagline: 流媒体与 AI 解锁指南，涵盖 Netflix、Disney+、Spotify、YouTube Premium 及 ChatGPT、Gemini
 
   image:
     src: index/home.webp
@@ -39,6 +39,10 @@ hero:
       text: 流媒体观影
       link: /streaming/netflix-guide
 
+    - theme: alt
+      text: AI 使用汇总
+      link: /ai/summary
+
     - theme: alt author
       text: 玄学宝典
       link: https://xx.theojs.cn
@@ -56,6 +60,11 @@ features:
   - title: '<iconify-icon class="i-mr" icon="logos:youtube-icon" style="margin-right: 0.7em;"></iconify-icon>合租平台'
     details: 稳定好用的流媒体合租平台推荐
     link: /serve/sharing/account-sharing-guide
+    linkText: 查看更多
+
+  - title: '<iconify-icon class="i-mr" icon="fa7-brands:openai"></iconify-icon>AI 使用汇总'
+    details: 系统汇总 ChatGPT、Gemini等主流 AI 工具的使用教程
+    link: /ai/summary
     linkText: 查看更多
 
   - title: '<iconify-icon class="i-mr" icon="twemoji:airplane"></iconify-icon>优质线路'

@@ -14,7 +14,8 @@ export const sidebar: DefaultTheme.SidebarMulti = {
   '/fe/': { base: '/fe/', items: Sidebar_FE() },
   '/notes/': { base: '/notes/', items: Sidebar_notes() },
   '/serve/': { base: '/serve/', items: Sidebar_serve() },
-  '/streaming/': { base: '/streaming/', items: Sidebar_streaming() }
+  '/streaming/': { base: '/streaming/', items: Sidebar_streaming() },
+  '/ai/': { base: '/ai/', items: Sidebar_ai() }
 }
 
 export function Sidebar_notes(): SidebarItem[] {
@@ -248,7 +249,33 @@ export function Sidebar_streaming(): SidebarItem[] {
   ]
 }
 
-// 账号合租平台
+// AI
+export function Sidebar_ai(): SidebarItem[] {
+  return [
+    {
+      text: 'ChatGPT',
+      // collapsed: true,
+      base: '/ai/chatgpt/',
+      items: [
+        { text: 'ChatGPT 是什么？新手入门指南', link: 'what-is-chatgpt' },
+        { text: 'ChatGPT 国内怎么用？(官网+镜像)', link: 'china-access' },
+        { text: 'ChatGPT 常见问题与使用技巧', link: 'faq' }
+      ]
+    },
+    {
+      text: 'Gemini',
+      // collapsed: true,
+      base: '/ai/gemini/',
+      items: [
+        { text: 'Gemini 是什么？新手入门指南', link: 'what-is-gemini' },
+        { text: 'Gemini 国内怎么用？(官网+镜像)', link: 'china-access' },
+        { text: 'Gemini 常见问题与使用技巧', link: 'faq' }
+      ]
+    }
+  ]
+}
+
+// 服务推荐
 export function Sidebar_serve(): SidebarItem[] {
   return [
     {
@@ -267,7 +294,7 @@ export function Sidebar_serve(): SidebarItem[] {
         { text: '小蜜蜂(XmfWww)' + code, link: 'bee' },
         { text: 'OKANC' + code + zc, link: 'okanc' },
         { text: '唯兔云(OnlyRabbit)' + code, link: 'onlyrabbit' },
-        { text: '肥猫云(FatCatCloud)' + code, link: 'fatcat' },
+        { text: '肥猫云(FatCatCloud)', link: 'fatcat' },
         { text: '奈云(NaiYun)' + code + zc, link: 'naiyun' },
         { text: '飞鸟机场(FlyingBird)' + code, link: 'flyingbird' },
         { text: '星岛梦(StarDream)' + code + xdm, link: 'xdm' }

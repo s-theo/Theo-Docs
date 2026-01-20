@@ -131,7 +131,3 @@ Hysteria / TUIC / Snell / Brook / SOCKS5 / HTTP(S) / Relay / Lua
 - 网络异常优先切换节点或测速
 
 <!--@include: @/bottom.md-->
-
-::: info 免责声明
-本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
-:::

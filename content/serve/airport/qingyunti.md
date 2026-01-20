@@ -101,7 +101,3 @@ head:
 ![青云梯(QingYunTi) 天津联通单线程@1000M晚高峰测速图 =688x](https://i.theojs.cn/airport/qyt_unicom.webp)
 
 <!--@include: @/bottom.md-->
-
-::: info 免责声明
-本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
-:::

@@ -83,7 +83,3 @@ OKANC采用trojan协议，IEPL深港专线机场，稳定性高延迟低，值�
 ![OKANC 长沙电信测速图 =688x](https://i.theojs.cn/airport/okanc_changsha_telecom.webp)
 
 <!--@include: @/bottom.md-->
-
-::: info 免责声明
-本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
-:::

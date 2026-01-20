@@ -33,6 +33,15 @@ export const nav: DefaultTheme.NavItem[] = [
     activeMatch: '^/streaming/'
   },
   {
+    text: 'AI 使用汇总',
+    items: [
+      { text: 'AI 使用汇总', link: '/ai/summary' },
+      { text: 'ChatGPT', link: '/ai/chatgpt/what-is-chatgpt' },
+      { text: 'Gemini', link: '/ai/gemini/what-is-gemini' }
+    ],
+    activeMatch: '^/ai/'
+  },
+  {
     text: '服务推荐',
     items: [
       { text: '优质机场汇总', link: '/serve/airport/summary' },

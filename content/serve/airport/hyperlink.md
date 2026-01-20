@@ -89,7 +89,3 @@ description: 极连云(HyperLink)专注提供出海专线加速与流媒体解�
 ![极连云(HyperLink) 东北辽宁电信 =688x](https://i.theojs.cn/airport/hyperlink_liaoning_telecom.webp)
 
 <!--@include: @/bottom.md-->
-
-::: info 免责声明
-本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
-:::

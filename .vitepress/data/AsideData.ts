@@ -87,31 +87,31 @@ export const Aside_Data: AsideItem = [
   {
     image: 'https://i.theojs.cn/logo/onlyrabbit_logo.webp',
     promo: '唯兔云(OnlyRabbit)特惠',
-    info1: '全场套餐 <span class="promo-text"> 85折: hpny2026</span>',
+    info1: '全场套餐 <span class="promo-text"> 9折: rabbit</span>',
     link: 'https://itheo.top/onlyrabbit',
     rel: 'sponsored noreferrer'
   },
-  {
-    image: 'https://i.theojs.cn/logo/fclogo.webp',
-    promo: '肥猫云(FatCatCloud)特惠',
-    info1: '月/半年<span class="promo-text"> 85折: hello202685 </span>',
-    info2: '年付以上<span class="promo-text"> 48折: hello202680 </span>',
-    link: 'https://itheo.top/fatcat',
-    rel: 'sponsored noreferrer'
-  },
+  // {
+  //   image: 'https://i.theojs.cn/logo/fclogo.webp',
+  //   promo: '肥猫云(FatCatCloud)特惠',
+  //   info1: '月/半年<span class="promo-text"> 85折: hello202685 </span>',
+  //   info2: '年付以上<span class="promo-text"> 48折: hello202680 </span>',
+  //   link: 'https://itheo.top/fatcat',
+  //   rel: 'sponsored noreferrer'
+  // },
   {
     image: 'https://i.theojs.cn/logo/flyingbird.webp',
     promo: '飞鸟机场(FlyingBird)优惠',
-    info1: '月/季/半年付<span class="promo-text"> 85折: fb250085 </span>',
-    info2: '年付以上<span class="promo-text"> 64折: fb250080 </span>',
+    info1: '月/季/半年付<span class="promo-text"> 9折: theo </span>',
+    info2: '年付以上<span class="promo-text"> 64折: year85 </span>',
     link: 'https://itheo.top/flyingbird',
     rel: 'sponsored noreferrer'
   },
   {
     image: 'https://i.theojs.cn/logo/xdm_logo.webp',
     promo: '星岛梦(StarDream)特惠',
-    info1: '年付套餐 <span class="promo-text"> 8折: NF80</span>',
-    info2: '三年付套餐 <span class="promo-text"> 6折: SN60</span>',
+    info1: '年付套餐 <span class="promo-text"> 8折: XDM888</span>',
+    info2: '3年付更可享受 <span class="promo-text"> 48折 </span>',
     link: 'https://itheo.top/xdm',
     rel: 'sponsored noreferrer'
   },
@@ -145,12 +145,12 @@ export const Aside_Data: AsideItem = [
   //   link: 'https://itheo.top/totoro',
   //   rel: 'sponsored noreferrer'
   // },
-  // {
-  //   image: 'https://i.theojs.cn/logo/fclogo.webp',
-  //   promo: '肥猫云(FatCatCloud)',
-  //   link: 'https://itheo.top/fatcat',
-  //   rel: 'sponsored noreferrer'
-  // },
+  {
+    image: 'https://i.theojs.cn/logo/fclogo.webp',
+    promo: '肥猫云(FatCatCloud)',
+    link: 'https://itheo.top/fatcat',
+    rel: 'sponsored noreferrer'
+  },
   // {
   //   image: 'https://i.theojs.cn/logo/lightspeed_logo.webp',
   //   promo: '光速云(LightSpeed)',

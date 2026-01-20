@@ -52,6 +52,28 @@ head:
 **注意:拍前确认网络可登录。**
 :::
 
+## GPT Plus / 满血版DeepSeek 国内镜像 <Copy type="tip" label="点击复制折扣码: Theo" text="Theo" bold />
+
+|           产品           |  时长   | 价格 |                                                   合租链接                                                    |                         扫码直达                         |
+| :----------------------: | :-----: | :--: | :-----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------: |
+| **ChatGPT Plus**(银河版) | 1 个月  | ￥29 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yh" rel="sponsored noreferrer" /> | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
+| **ChatGPT Plus**(银河版) | 3 个月  | ￥45 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yh" rel="sponsored noreferrer" /> | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
+| **ChatGPT Plus**(银河版) | 12 个月 | ￥99 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yh" rel="sponsored noreferrer" /> | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
+
+## Gemini Pro <Copy type="tip" label="点击复制折扣码: Theo" text="Theo" bold />
+
+|      产品      |  时长   | 价格  |                                                   合租链接                                                    |                         扫码直达                         |
+| :------------: | :-----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------: |
+| **Gemini Pro** | 12 个月 | ￥199 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yh" rel="sponsored noreferrer" /> | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
+
+## Gemini Pro 国内镜像<Copy type="tip" label="点击复制折扣码: Theo" text="Theo" bold />
+
+|          产品          |  时长   | 价格  |                                                   合租链接                                                    |                         扫码直达                         |
+| :--------------------: | :-----: | :---: | :-----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------: |
+| **Gemini Pro**(银河版) | 1 个月  | ￥49  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yh" rel="sponsored noreferrer" /> | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
+| **Gemini Pro**(银河版) | 3 个月  | ￥119 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yh" rel="sponsored noreferrer" /> | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
+| **Gemini Pro**(银河版) | 12 个月 | ￥299 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yh" rel="sponsored noreferrer" /> | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
+
 ## Midjourney <Copy type="tip" label="点击复制折扣码: Theo" text="Theo" bold />
 
 |      产品      |  价格   |                                                   合租链接                                                    |                         扫码直达                         |

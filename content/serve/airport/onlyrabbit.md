@@ -5,9 +5,11 @@ description: 唯兔云IPLC专线，Trojan协议，解锁各大流媒体，解锁
 
 # 唯兔云(OnlyRabbit)官网注册地址｜真实测速｜价格与套餐详解
 
-:::tip 唯兔云(OnlyRabbit) 开业特惠!
+:::tip 唯兔云(OnlyRabbit) 特惠!
 
-- <Copy type="tip" label="点击复制 85 折折扣码: hpny2026" text="hpny2026" bold />
+- <Copy type="tip" label="点击复制 9 折折扣码: rabbit" text="rabbit" bold />
+
+**特别注意: 年付小包不支持**
 
 :::
 
@@ -91,7 +93,3 @@ description: 唯兔云IPLC专线，Trojan协议，解锁各大流媒体，解锁
 ![唯兔云(OnlyRabbit) 珠海联通晚高峰测速图 =688x](https://i.theojs.cn/airport/onlyrabbit_zhuhai_unicom.webp)
 
 <!--@include: @/bottom.md-->
-
-::: info 免责声明
-本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
-:::

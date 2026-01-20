@@ -11,7 +11,7 @@ head:
 
 ![星岛梦(StarDream)og =370x](https://i.theojs.cn/logo/xdm_logo.webp '星岛梦(StarDream)')
 
-:::tip 星岛梦(StarDream)优惠券大放送!
+<!-- :::tip 星岛梦(StarDream)优惠券大放送!
 
 - 季付专属88折优惠卷 <Copy type="tip" label="点击复制折扣码: JF88" text="JF88" bold />
 - 半年付专属85折优惠卷 <Copy type="tip" label="点击复制折扣码: BN85" text="BN85" bold />
@@ -19,17 +19,15 @@ head:
 - 两年付专属7折优惠卷 <Copy type="tip" label="点击复制折扣码: LN70" text="LN70" bold />
 - 三年付专属6折优惠卷 <Copy type="tip" label="点击复制折扣码: SN60" text="SN60" bold />
 
-:::
+::: -->
 
-<!-- :::tip 星岛梦(StarDream) 折扣码大放送!
+:::tip 星岛梦(StarDream) 折扣码大放送!
 
-- <Copy type="tip" label="点击复制 85 折折扣码: qyt85" text="qyt85" bold />
-- <Copy type="tip" label="点击复制 8 折折扣码: qyt80" text="qyt80" bold />
+- <Copy type="tip" label="点击复制 8 折折扣码: XDM888" text="XDM888" bold />
+
 - 商店里显示的3年价格已经有6折了，再用年付折扣码购买3年套餐相当于48折了，超级给力
 
-**特别注意: 星岛梦(StarDream)年付小包不支持**
-
-::: -->
+:::
 
 ## 星岛梦(StarDream)官网注册地址（稳定高速｜真实测速｜价格详解）
 
@@ -110,7 +108,3 @@ head:
 ![星岛梦(StarDream) 上海移动测速图 =688x](https://i.theojs.cn/airport/xdm_zhuhai_unicom.webp)
 
 <!--@include: @/bottom.md-->
-
-::: info 免责声明
-本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
-:::

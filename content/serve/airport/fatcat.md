@@ -5,24 +5,14 @@ description: 肥猫云机场-大带宽不限速专线机场接入全球优质机
 
 # 肥猫云(FatCatCloud)官网注册地址｜真实测速｜价格与套餐详解
 
-:::tip 肥猫云(FatCatCloud) 双旦活动特惠!
+<!-- :::tip 肥猫云(FatCatCloud) 双旦活动特惠!
 
 - 月付/季度/半年 ：85折优惠，优惠码：<Copy type="tip" label="点击复制折扣码: hello202685" text="hello202685" bold />
 - 年付/年付以上：8折优惠，优惠码：<Copy type="tip" label="点击复制折扣码: hello202680" text="hello202680" bold />
 - 商店套餐月付以上自带折扣，配合折扣码购买可以享受折上折，3年付更可享受**4.8**折优惠，心动不如行动
 - 季付限量包不参与活动
 
-:::
-
-<!-- :::tip 肥猫云(FatCatCloud)新人特惠 全场 85 折!
-
-- 全套餐推出85折优惠，<Copy type="tip" label="点击复制折扣码: xmfwww85" text="xmfwww85" bold />
-- 商店套餐月付以上自带折扣，配合折扣码购买可以享受折上折，3年付更可享受**4.8**折优惠，心动不如行动
-- 季付限量包不参与活动
-
-:::
-
- -->
+::: -->
 
 ## 肥猫云(FatCatCloud)官网注册地址（当前可用｜稳定高速｜真实测速）
 
@@ -82,7 +72,3 @@ description: 肥猫云机场-大带宽不限速专线机场接入全球优质机
 ![肥猫云(FatCatCloud) 广州移动 =688x](https://i.theojs.cn/airport/fatcatcloud_guangxi_mobile.webp)
 
 <!--@include: @/bottom.md-->
-
-::: info 免责声明
-本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
-:::

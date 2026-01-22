@@ -5,24 +5,6 @@ description: 小蜜蜂(XmfWww) 提供稳定高速的科学上网服务，支持�
 
 # 小蜜蜂(XmfWww)官网注册地址｜真实测速｜价格与套餐详解
 
-<!-- :::tip 小蜜蜂(XmfWww) 双十一特惠!
-
-- 全套餐推出8折优惠，<Copy type="tip" label="点击复制折扣码: 11118" text="11118" bold />
-- 商店套餐月付以上自带折扣，配合折扣码购买可以享受折上折，3年付更可享受**4.8**折优惠，心动不如行动
-- 季付限量包不参与活动
-
-:::
-
--->
-
-:::tip 小蜜蜂(XmfWww)新人特惠 全场 85 折!
-
-- 全套餐推出85折优惠，<Copy type="tip" label="点击复制折扣码: xmfwww85" text="xmfwww85" bold />
-- 商店套餐月付以上自带折扣，配合折扣码购买可以享受折上折，3年付更可享受**4.8**折优惠，心动不如行动
-- 季付限量包不参与活动
-
-:::
-
 ## 小蜜蜂(XmfWww)官网注册地址（当前可用｜稳定高速｜真实测速）
 
 <!-- #region 1 -->
@@ -58,9 +40,10 @@ description: 小蜜蜂(XmfWww) 提供稳定高速的科学上网服务，支持�
 :::tip
 
 - **季度以上自带折扣**
-
+- 全套餐推出85折优惠，<Copy type="tip" label="点击复制折扣码: xmfwww85" text="xmfwww85" bold />
 - **新手建议**：轻度使用选**特惠年付小包**，日常流媒体与 AI 工具推荐**畅游版 / 工蜂极速版**。
-  :::
+
+:::
 
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 

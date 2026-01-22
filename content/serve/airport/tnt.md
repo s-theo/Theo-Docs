@@ -5,23 +5,6 @@ description: TNT Cloud 提供稳定高速的科学上网服务，支持多平台
 
 # TNT Cloud 官网注册地址｜真实测速｜价格与套餐详解
 
-:::tip TNT 双旦特惠
-
-- 全场8折，<Copy type="tip" label="点击复制折扣码: Merry80" text="Merry80" bold />
-- 商店套餐月付以上自带折扣，配合折扣码购买可以享受折上折，3年付更可享受**4.8**折优惠，心动不如行动
-- 季付限量包不参与活动
-
-:::
-
-<!-- :::tip TNT Cloud 特惠活动开启
-
-- 全套餐推出8折优惠，<Copy type="tip" label="点击复制折扣码: TNT80" text="TNT80" bold />
-- 全套餐推出85折优惠，<Copy type="tip" label="点击复制折扣码: TNT85" text="TNT85" bold />
-- 商店套餐月付以上自带折扣，配合折扣码购买可以享受折上折，3年付更可享受**4.8**折优惠，心动不如行动
-- 季付限量包不参与活动
-
-::: -->
-
 ## TNT Cloud 官网注册地址（稳定高速｜真实测速｜价格详解）
 
 <!-- #region 1 -->
@@ -60,6 +43,7 @@ description: TNT Cloud 提供稳定高速的科学上网服务，支持多平台
 :::tip
 
 - 季付以上自带折扣
+- 全场8折，<Copy type="tip" label="点击复制折扣码: Merry80" text="Merry80" bold />
 - **新手建议**：轻度使用选**轻量包**，日常流媒体与 AI 工具推荐**VIP1 / VIP2**。
 
 :::

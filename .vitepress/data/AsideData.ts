@@ -100,6 +100,14 @@ export const Aside_Data: AsideItem = [
   //   rel: 'sponsored noreferrer'
   // },
   {
+    image: 'https://i.theojs.cn/logo/lightyear_logo.webp',
+    promo: '光年梯(LightYear)优惠',
+    info1: '月/季/半年付<span class="promo-text"> 7折: GNT70 </span>',
+    info2: '3年付更可享受 <span class="promo-text"> 48折 </span>',
+    link: 'https://itheo.top/flyingbird',
+    rel: 'sponsored noreferrer'
+  },
+  {
     image: 'https://i.theojs.cn/logo/flyingbird.webp',
     promo: '飞鸟机场(FlyingBird)优惠',
     info1: '月/季/半年付<span class="promo-text"> 9折: theo </span>',

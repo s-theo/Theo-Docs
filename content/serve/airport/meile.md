@@ -5,19 +5,6 @@ description: 美乐云(MeiLe)为您提供优质快捷高速安全加密全球解
 
 # 美乐云(MeiLe)官网注册地址｜真实测速｜价格与套餐详解
 
-:::tip 美乐云(MeiLe) 专属优惠!
-
-- <Copy type="tip" label="点击复制 75 折折扣码: ML75" text="ML75" bold />
-
-:::
-
-<!-- :::tip 美乐云(MeiLe) 折扣码大放送!
-
-- <Copy type="tip" label="点击复制 8 折折扣码: theo80" text="theo80" bold />
-
-:::
- -->
-
 ## 美乐云(MeiLe)官网注册地址（当前可用｜稳定高速｜真实测速）
 
 <!-- #region 1 -->
@@ -59,6 +46,7 @@ description: 美乐云(MeiLe)为您提供优质快捷高速安全加密全球解
 
 ::: tip
 
+- <Copy type="tip" label="点击复制 75 折折扣码: ML75" text="ML75" bold />
 - **新手建议**：轻度使用选**Base套餐 / 不限时套餐**，日常流媒体与 AI 工具推荐**Pro套餐**。
 
 :::

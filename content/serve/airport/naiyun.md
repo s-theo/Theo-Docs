@@ -5,19 +5,6 @@ description: 奈云(NaiYun)机场成立于2021年，提供Shadowsocks节点和V2
 
 # 奈云(NaiYun)官网注册地址｜真实测速｜价格与套餐详解
 
-:::tip 奈云(NaiYun) 新年优惠活动!
-
-- <Copy type="tip" label="点击复制 78 折折扣码: 0101" text="0101" bold />
-
-:::
-
-<!-- :::tip 奈云(NaiYun) 折扣码大放送!
-
-- <Copy type="tip" label="点击复制 8 折折扣码: theo80" text="theo80" bold />
-
-:::
- -->
-
 ## 奈云(NaiYun)官网注册地址（当前可用｜稳定高速｜真实测速）
 
 <!-- #region 1 -->
@@ -59,6 +46,7 @@ description: 奈云(NaiYun)机场成立于2021年，提供Shadowsocks节点和V2
 
 ::: tip
 
+- <Copy type="tip" label="点击复制 78 折折扣码: 0101" text="0101" bold />
 - **新手建议**：轻度使用选**Basic-基础套餐**，日常流媒体与 AI 工具推荐**Pro-进阶套餐 / Max-专业套餐**。
 
 :::

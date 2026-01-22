@@ -296,6 +296,7 @@ export function Sidebar_serve(): SidebarItem[] {
         { text: '唯兔云(OnlyRabbit)' + code, link: 'onlyrabbit' },
         { text: '肥猫云(FatCatCloud)', link: 'fatcat' },
         { text: '奈云(NaiYun)' + code + zc, link: 'naiyun' },
+        { text: '光年梯(LightYear)' + code, link: 'lightyear' },
         { text: '飞鸟机场(FlyingBird)' + code, link: 'flyingbird' },
         { text: '星岛梦(StarDream)' + code + xdm, link: 'xdm' }
       ]

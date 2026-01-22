@@ -5,15 +5,6 @@ description: 龙猫云(TotoroCloud)，一家颇具实力的新机场，Shadowsoc
 
 # 龙猫云(TotoroCloud)官网注册地址｜真实测速｜价格与套餐详解
 
-:::tip 龙猫云 双旦活动！
-
-- 月付/季度/半年 享受**85**折优惠，<Copy type="tip" label="点击复制折扣码: totoro852026" text="totoro852026" bold />
-- 年付/2年/3年 享受**8**折优惠，<Copy type="tip" label="点击复制折扣码: totoro802026" text="totoro802026" bold />
-- 配合折扣码购买3年付即可享受**48**折优惠，非常划算哦
-
-**活动时间：即日至2026年1月25号23点59分**
-:::
-
 ## 龙猫云(TotoroCloud)官网注册地址（稳定高速｜真实测速｜价格详解）
 
 <!-- #region 1 -->
@@ -52,6 +43,8 @@ description: 龙猫云(TotoroCloud)，一家颇具实力的新机场，Shadowsoc
 :::tip
 
 - 季付以上自带折扣
+- 月付/季度/半年 享受**85**折优惠，<Copy type="tip" label="点击复制折扣码: totoro852026" text="totoro852026" bold />
+- 年付/2年/3年 享受**8**折优惠，<Copy type="tip" label="点击复制折扣码: totoro802026" text="totoro802026" bold />
 - **新手建议**：轻度使用选**VIP1**，日常流媒体与 AI 工具推荐**VIP3 / VIP3**。
 
 :::

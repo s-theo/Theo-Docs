@@ -14,7 +14,8 @@ export const Footer_Data: FooterData = {
         { name: '银河云(GalaxyCloud)', link: 'https://itheo.top/yhy', rel: 'sponsored noreferrer' },
         { name: '美乐云(MeiLe)', link: 'https://itheo.top/meile', rel: 'sponsored noreferrer' },
         { name: 'TNT Cloud', link: 'https://itheo.top/tnt', rel: 'sponsored noreferrer' },
-        { name: '肥猫云(FatCatCloud)', link: 'https://itheo.top/fatcat', rel: 'sponsored noreferrer' }
+        { name: '肥猫云(FatCatCloud)', link: 'https://itheo.top/fatcat', rel: 'sponsored noreferrer' },
+        { name: '光年梯(LightYear)', link: 'https://itheo.top/lightyear', rel: 'sponsored noreferrer' }
       ]
     },
     {

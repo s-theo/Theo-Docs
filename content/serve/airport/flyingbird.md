@@ -5,22 +5,6 @@ description: 飞鸟机场(FlyingBird)提供高速稳定的科学上网服务，�
 
 # 飞鸟机场(FlyingBird)官网注册地址｜真实测速｜价格与套餐详解
 
-:::tip FlyingBird 飞鸟 专属优惠！
-
-- 专属 9 折优惠，<Copy type="tip" label="点击复制折扣码: theo" text="theo" bold />，不限制使用次数，每个用户只能使用一次
-- 年付85折（站内折上折，高达64折 ），<Copy type="tip" label="点击复制折扣码: year85" text="year85" bold />，可重复使用5次
-
-:::
-
-<!-- :::tip FlyingBird 飞鸟 双旦特惠开启！
-
-- 月/季/半年付 85折，<Copy type="tip" label="点击复制折扣码: fb250085" text="fb250085" bold />，可重复使用5次
-- 年付8折（站内折上折，高达64折 ），<Copy type="tip" label="点击复制折扣码: fb250080" text="fb250080" bold />，可重复使用5次
-
-**活动时间：即日至2026年1月20日23点59分**
-
-::: -->
-
 ## 飞鸟机场(FlyingBird)官网注册地址（当前可用｜稳定高速｜真实测速）
 
 <!-- #region 1 -->
@@ -62,6 +46,8 @@ description: 飞鸟机场(FlyingBird)提供高速稳定的科学上网服务，�
 ::: tip
 
 - 季付**9**折/半年**85**折/年付**8**折 配合折扣码折上折，最高可达**64**折
+- 专属 9 折优惠，<Copy type="tip" label="点击复制折扣码: theo" text="theo" bold />，不限制使用次数，每个用户只能使用一次
+- 年付85折（站内折上折，高达64折 ），<Copy type="tip" label="点击复制折扣码: year85" text="year85" bold />，可重复使用5次
 - **新手建议**：轻度使用选**青铜套餐**，日常流媒体与 AI 工具推荐**白银套餐 / 黄金套餐**。
 
 :::

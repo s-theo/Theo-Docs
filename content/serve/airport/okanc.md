@@ -5,20 +5,6 @@ description: OKANC采用trojan协议，IEPL深港专线机场，稳定性高延�
 
 # OKANC官网注册地址｜真实测速｜价格与套餐详解
 
-:::tip OKANC 新年优惠活动!
-
-- <Copy type="tip" label="点击复制 78 折折扣码: 0101" text="0101" bold />
-
-:::
-
-<!-- :::tip OKANC 折扣码大放送!
-
-- <Copy type="tip" label="点击复制 8 折折扣码: theo80" text="theo80" bold />
-
-:::
-
- -->
-
 ## OKANC官网注册地址（稳定高速｜真实测速｜价格详解）
 
 <!-- #region 1 -->
@@ -60,6 +46,7 @@ OKANC采用trojan协议，IEPL深港专线机场，稳定性高延迟低，值�
 
 ::: tip
 
+- <Copy type="tip" label="点击复制 78 折折扣码: 0101" text="0101" bold />
 - **新手建议**：轻度使用选**PRO**，日常流媒体与 AI 工具推荐**MAX / MAX+极致版**。
 
 :::

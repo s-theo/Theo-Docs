@@ -11,12 +11,6 @@ head:
 
 ![光速云(LightSpeed)OG =488x](https://i.theojs.cn/logo/lightspeed_banner2.webp '光速云(LightSpeed)')
 
-:::tip 光速云 75 折活动开启!
-
-- **全套餐 75 折**：<Copy type="tip" label="点击复制折扣码: 7575" text="7575" bold />
-
-:::
-
 ## 光速云(LightSpeed)官网注册地址（当前可用｜稳定高速｜真实测速）
 
 <!-- #region 1 -->
@@ -59,6 +53,7 @@ head:
 ::: tip
 
 - 季付**9**折/半年付**85**折/年付**8**折/2年付**7**折/3年付**6**折 配合折扣码折上折，最高可达**48**折
+- **全套餐 75 折**：<Copy type="tip" label="点击复制折扣码: 7575" text="7575" bold />
 - **新手建议**：轻度使用选**轻量版**，日常流媒体与 AI 工具推荐**极速版 / 流光版**。
 
 :::

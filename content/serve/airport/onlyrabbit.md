@@ -5,22 +5,6 @@ description: 唯兔云IPLC专线，Trojan协议，解锁各大流媒体，解锁
 
 # 唯兔云(OnlyRabbit)官网注册地址｜真实测速｜价格与套餐详解
 
-:::tip 唯兔云(OnlyRabbit) 特惠!
-
-- <Copy type="tip" label="点击复制 9 折折扣码: rabbit" text="rabbit" bold />
-
-**特别注意: 年付小包不支持**
-
-:::
-
-<!-- :::tip 唯兔云(OnlyRabbit) 折扣码大放送!
-
-- <Copy type="tip" label="点击复制 8 折折扣码: theo80" text="theo80" bold />
-
-:::
-
- -->
-
 ## 唯兔云(OnlyRabbit)官网注册地址（稳定高速｜真实测速｜价格详解）
 
 <!-- #region 1 -->
@@ -64,6 +48,7 @@ description: 唯兔云IPLC专线，Trojan协议，解锁各大流媒体，解锁
 
 ::: tip
 
+- <Copy type="tip" label="点击复制 9 折折扣码: rabbit" text="rabbit" bold />
 - **新手建议**：轻度使用选**年付版**，日常流媒体与 AI 工具推荐**入门版 / 进阶版**。
 
 :::

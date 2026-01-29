@@ -20,7 +20,7 @@ head:
 较之用爱发电，在茫茫人海找**合租搭子**，在银河录像局可以省去**花时间去找**的烦恼（由平台自行撮合，用户只管使用服务即可），一定程度上更方便快捷，服务质量更有保障；
 无论是从内容还是套餐定价，优爱腾都是无法与其比拟的；以及真正意义上的无广告，常年佳片不断；
 
-## Netflix/Disney+/HBO Max/Spotify/Youtube Premium/Prime video（流媒体服务）<Copy type="tip" label="点击复制折扣码: Theo" text="Theo" bold />
+## Netflix/Disney+/HBO Max/Spotify/YouTube Premium/Prime video（流媒体服务）<Copy type="tip" label="点击复制折扣码: Theo" text="Theo" bold />
 
 |        产品         | 价格/年 |                                                   合租链接                                                    |
 | :-----------------: | :-----: | :-----------------------------------------------------------------------------------------------------------: |
@@ -29,7 +29,7 @@ head:
 |     **Spotify**     |  ￥199  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yh" rel="sponsored noreferrer" /> |
 |     **HBO Max**     |  ￥189  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yh" rel="sponsored noreferrer" /> |
 |   **Prime video**   |  ￥110  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yh" rel="sponsored noreferrer" /> |
-| **Youtube Premium** |  ￥299  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yh" rel="sponsored noreferrer" /> |
+| **YouTube Premium** |  ￥299  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yh" rel="sponsored noreferrer" /> |
 
 ## ChatGPT Plus <Copy type="tip" label="点击复制折扣码: Theo" text="Theo" bold />
 

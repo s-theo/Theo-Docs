@@ -25,7 +25,7 @@ head:
 <Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" />
 <Pill icon="token-branded:binance" name="币安支付" />
 
-## Netflix/Disney+/HBO/Spotify/Youtube Premium（流媒体服务）
+## Netflix/Disney+/HBO/Spotify/YouTube Premium（流媒体服务）
 
 |    平台     | 1 个月 | 3 个月 | 半年 | 年付 |                                                    购买链接                                                    |
 | :---------: | :----: | :----: | :--: | :--: | :------------------------------------------------------------------------------------------------------------: |
@@ -140,16 +140,16 @@ head:
 
 |           类别           | 价格  |                                                    购买链接                                                    |
 | :----------------------: | :---: | :------------------------------------------------------------------------------------------------------------: |
-|   **Tiktok 全新账号**    |  ¥15  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-|     **Tiktok 老号**      |  ¥17  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-|  **Tiktok 1000+（粉）**  | ¥110  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-|  **Tiktok（美国）账号**  |  ¥19  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-|  **Tiktok（精品）账号**  | ¥99.8 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|   **TikTok 全新账号**    |  ¥15  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|     **TikTok 老号**      |  ¥17  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|  **TikTok 1000+（粉）**  | ¥110  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|  **TikTok（美国）账号**  |  ¥19  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|  **TikTok（精品）账号**  | ¥99.8 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
 | **TikTok（2022年）老号** |  ¥48  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
 | **TikTok（2020年）老号** |  ¥56  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-|   **Tiktok 满3月白号**   |  ¥19  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-|   **Tiktok 满1年白号**   |  ¥42  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-|    **Tiktok 千粉号**     |  ¥79  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|   **TikTok 满3月白号**   |  ¥19  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|   **TikTok 满1年白号**   |  ¥42  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|    **TikTok 千粉号**     |  ¥79  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
 
 ## Instagram账号
 

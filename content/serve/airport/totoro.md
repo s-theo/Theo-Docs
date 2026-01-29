@@ -27,7 +27,7 @@ description: 龙猫云(TotoroCloud) VPN，一家颇具实力的新机场，Shado
 
 - **IPLC** 全专线节点，原生IP，**最高速率可达到2000Mbps**
 - 流媒体完美解锁 **（包括Netflix ，Disney+， HBO等）**
-- 完美解锁 **ChatGPT，支持Tiktok本土短视频运营和直播**
+- 完美解锁 **ChatGPT，支持TikTok本土短视频运营和直播**
 - **晚高峰不限速**，所有套餐x1倍率
 - 可支持企业和个人独享IP和家宽定制
 - 真人客服实时在线，可远程协助新手用户完成配置

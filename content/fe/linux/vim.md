@@ -3,7 +3,7 @@ title: Linux VIM 编辑器 高效文本编辑工具
 description: 学习如何使用 Linux 中的 VIM 编辑器，提升文本编辑效率，掌握常用快捷键和命令。
 head:
   - - meta
-    - name: og:image
+    - property: og:image
       content: https://i.theojs.cn/docs/vi-vim-cheat-sheet-sch.gif
 ---
 

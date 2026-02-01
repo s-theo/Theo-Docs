@@ -33,8 +33,23 @@ export const nav: DefaultTheme.NavItem[] = [
     activeMatch: '^/streaming/'
   },
   {
+    text: 'AI 使用汇总',
+    items: [
+      { text: 'AI 使用汇总', link: '/ai/summary' },
+      { text: 'ChatGPT', link: '/ai/chatgpt/what-is-chatgpt' },
+      { text: 'Gemini', link: '/ai/gemini/what-is-gemini' }
+    ],
+    activeMatch: '^/ai/'
+  },
+  {
     text: '服务推荐',
-    link: '/serve/sharing/account-sharing-guide',
+    items: [
+      { text: '优质机场汇总', link: '/serve/airport/summary' },
+      { text: '账号合租平台', link: '/serve/sharing/account-sharing-guide' },
+      { text: '科学上网', link: '/serve/routes/selection' },
+      { text: '科学上网软件使用指南', link: '/serve/antiwall/sunmmary' },
+      { text: '接码平台', link: '/serve/code/sms' }
+    ],
     activeMatch: '^/serve/'
   }
 ]

@@ -4,7 +4,7 @@ description: 精选2026年最便宜且好用的翻墙机场与VPN，全面评测
 head:
   - - meta
     - name: keywords
-      content: VPN机场推荐, 翻墙VPN, 便宜VPN机场, 青云梯 QingYunTi, 极连云 HyperLink, 光速云 LightSpeed, 银河云 GalaxyCloud, 美乐云 MeiLe, TNT Cloud, 龙猫云 TotoroCloud, 小蜜蜂 XmfWww, OKANC, 唯兔云 OnlyRabbit, 肥猫云 FatCatCloud, 奈云 NaiYun, 光年梯 LightYear, 飞猫云 FlyingCat, 飞鸟机场 FlyingBird, 星岛梦 StarDream, Netflix解锁, ChatGPT加速, 流媒体解锁
+      content: VPN机场推荐, 翻墙VPN, 便宜VPN机场, 青云梯 QingYunTi, 极连云 HyperLink, 光速云 LightSpeed, 银河云 GalaxyCloud, 美乐云 MeiLe, TNT Cloud, 龙猫云 TotoroCloud, 小蜜蜂 XmfWww, OKANC, 唯兔云 OnlyRabbit, 肥猫云 FatCatCloud, 奈云 NaiYun, 光年梯 LightYear, 飞猫云 FlyingCat, 飞鸟机场 FlyingBird, 星岛梦 StarDream, 飞猫云 FlyingCat, Netflix解锁, ChatGPT加速, 流媒体解锁
 ---
 
 # 2026年便宜好用的翻墙VPN机场推荐评测(长期更新 欢迎推荐)
@@ -43,6 +43,7 @@ head:
 |         [奈云(NaiYun)](<#奈云(NaiYun)>)         |          <Pill image="https://i.theojs.cn/logo/naiyun_logo.webp" name="奈云官网" link="https://itheo.top/naiyun" rel="sponsored noreferrer" />          |   10元 168g/月   |     ✅     |   [查看](/serve/airport/naiyun.md)   |
 |    [光年梯(LightYear)](<#光年梯(LightYear)>)    |      <Pill image="https://i.theojs.cn/logo/lightyear_logo.webp" name="光年梯官网" link="https://itheo.top/lightyear" rel="sponsored noreferrer" />      |   13元 110g/月   |     ❌     | [查看](/serve/airport/lightyear.md)  |
 |    [飞猫云(FlyingCat)](<#飞猫云(FlyingCat)>)    |      <Pill image="https://i.theojs.cn/logo/flyingcat_logo.webp" name="飞猫云官网" link="https://itheo.top/flyingcat" rel="sponsored noreferrer" />      |   12元 100g/月   |     ✅     | [查看](/serve/airport/flyingcat.md)  |
+|    [全球云(GlobalYun)](<#全球云(GlobalYun)>)    |    <Pill image="https://i.theojs.cn/airport/globalyun_logo.webp" name="全球云官网" link="https://itheo.top/globalyun" rel="sponsored noreferrer" />     |    8元 59g/月    |     ✅     | [查看](/serve/airport/flyingcat.md)  |
 | [飞鸟机场(FlyingBird)](<#飞鸟机场(FlyingBird)>) |     <Pill image="https://i.theojs.cn/logo/flyingbird.webp" name="FlyingBird官网" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" />      |   12元 100g/月   |     ❌     | [查看](/serve/airport/flyingbird.md) |
 |    [星岛梦(StarDream)](<#星岛梦(StarDream)>)    |            <Pill image="https://i.theojs.cn/logo/xdm_logo.webp" name="星岛梦官网" link="https://itheo.top/xdm" rel="sponsored noreferrer" />            |   12元 100g/月   |     ✅     |    [查看](/serve/airport/xdm.md)     |
 
@@ -129,6 +130,12 @@ head:
 <!--@include: @/serve/airport/flyingcat.md#1-->
 <!--@include: @/serve/airport/flyingcat.md#2-->
 <!--@include: @/serve/airport/flyingcat.md#3-->
+
+## 全球云(GlobalYun)机场服务评测
+
+<!--@include: @/serve/airport/globalyun.md#1-->
+<!--@include: @/serve/airport/globalyun.md#2-->
+<!--@include: @/serve/airport/globalyun.md#3-->
 
 ## 飞鸟机场(FlyingBird)机场服务评测
 

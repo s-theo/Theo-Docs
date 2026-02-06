@@ -299,6 +299,7 @@ export function Sidebar_serve(): SidebarItem[] {
         { text: '奈云(NaiYun)' + code + zc, link: 'naiyun' },
         { text: '光年梯(LightYear)' + code, link: 'lightyear' },
         { text: '飞猫云(FlyingCat)' + code, link: 'flyingcat' },
+        { text: '全球云(GlobalYun)' + code, link: 'globalyun' },
         { text: '飞鸟机场(FlyingBird)' + cq, link: 'flyingbird' },
         { text: '星岛梦(StarDream)' + code, link: 'xdm' }
       ]

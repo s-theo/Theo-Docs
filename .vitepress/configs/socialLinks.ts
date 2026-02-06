@@ -12,10 +12,5 @@ export const socialLinks: DefaultTheme.SocialLink[] = [
     icon: 'gmail',
     link: 'mailto:fanxiaobin422@gmail.com',
     ariaLabel: 'Gmail'
-  },
-  {
-    icon: 'telegram',
-    link: 'https://t.me/s_theo',
-    ariaLabel: 'Telegram'
   }
 ]

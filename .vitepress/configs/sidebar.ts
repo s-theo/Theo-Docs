@@ -1,6 +1,8 @@
 import type { DefaultTheme } from 'vitepress'
 
-const code = `<span class="VPBadge tip small" aria-hidden="true">附优惠码</span>`
+const code = '<span class="VPBadge tip small" aria-hidden="true">附折扣码</span>'
+const cq = '<span class="VPBadge tip small" aria-hidden="true">附长期折扣码</span>'
+const zc = '<span class="VPBadge tip small" aria-hidden="true">注册试用</span>'
 
 type SidebarItem = DefaultTheme.SidebarItem
 
@@ -12,7 +14,8 @@ export const sidebar: DefaultTheme.SidebarMulti = {
   '/fe/': { base: '/fe/', items: Sidebar_FE() },
   '/notes/': { base: '/notes/', items: Sidebar_notes() },
   '/serve/': { base: '/serve/', items: Sidebar_serve() },
-  '/streaming/': { base: '/streaming/', items: Sidebar_streaming() }
+  '/streaming/': { base: '/streaming/', items: Sidebar_streaming() },
+  '/ai/': { base: '/ai/', items: Sidebar_ai() }
 }
 
 export function Sidebar_notes(): SidebarItem[] {
@@ -31,7 +34,8 @@ export function Sidebar_notes(): SidebarItem[] {
         { text: '优化 iOS/Android 来电信息界面', link: 'vcards' },
         { text: '添加 1Panel 第三方应用商店', link: '1panel-third-party-app-store' },
         { text: 'Tabby 配置同步', link: 'tabby-sync' },
-        { text: '添加 群晖DSM7.X 第三方套件源', link: 'synology-third-party-suite' }
+        { text: '添加 群晖DSM7.X 第三方套件源', link: 'synology-third-party-suite' },
+        { text: '在线机场订阅节点测速平台', link: 'airportest' }
       ]
     },
     {
@@ -246,37 +250,106 @@ export function Sidebar_streaming(): SidebarItem[] {
   ]
 }
 
-// 账号合租平台
+// AI
+export function Sidebar_ai(): SidebarItem[] {
+  return [
+    {
+      text: 'ChatGPT',
+      // collapsed: true,
+      base: '/ai/chatgpt/',
+      items: [
+        { text: 'ChatGPT 是什么？新手入门指南', link: 'what-is-chatgpt' },
+        { text: 'ChatGPT 国内怎么用？(官网+镜像)', link: 'china-access' },
+        { text: 'ChatGPT 常见问题与使用技巧', link: 'faq' }
+      ]
+    },
+    {
+      text: 'Gemini',
+      // collapsed: true,
+      base: '/ai/gemini/',
+      items: [
+        { text: 'Gemini 是什么？新手入门指南', link: 'what-is-gemini' },
+        { text: 'Gemini 国内怎么用？(官网+镜像)', link: 'china-access' },
+        { text: 'Gemini 常见问题与使用技巧', link: 'faq' }
+      ]
+    }
+  ]
+}
+
+// 服务推荐
 export function Sidebar_serve(): SidebarItem[] {
   return [
+    {
+      text: '优质机场汇总',
+      link: 'summary',
+      // collapsed: true,
+      base: '/serve/airport/',
+      items: [
+        { text: '青云梯(QingYunTi)' + cq, link: 'qingyunti' },
+        { text: '极连云(HyperLink)' + code, link: 'hyperlink' },
+        { text: '光速云(LightSpeed)' + cq, link: 'lightspeed' },
+        { text: '银河云(GalaxyCloud)', link: 'galaxy' },
+        { text: '美乐云(MeiLe)' + zc, link: 'meile' },
+        { text: 'TNT Cloud' + code, link: 'tnt' },
+        { text: '龙猫云(TotoroCloud)', link: 'totoro' },
+        { text: '小蜜蜂(XmfWww)' + code, link: 'bee' },
+        { text: 'OKANC' + code + zc, link: 'okanc' },
+        { text: '唯兔云(OnlyRabbit)' + code, link: 'onlyrabbit' },
+        { text: '肥猫云(FatCatCloud)', link: 'fatcat' },
+        { text: '奈云(NaiYun)' + code + zc, link: 'naiyun' },
+        { text: '光年梯(LightYear)' + code, link: 'lightyear' },
+        { text: '飞猫云(FlyingCat)' + code, link: 'flyingcat' },
+        { text: '飞鸟机场(FlyingBird)' + cq, link: 'flyingbird' },
+        { text: '星岛梦(StarDream)' + code, link: 'xdm' }
+      ]
+    },
     {
       text: '账号合租平台',
       base: '/serve/sharing/',
       link: 'account-sharing-guide',
       // collapsed: true,
       items: [
-        { text: '银河录像局', link: 'nf-video' },
-        { text: '奈飞小铺', link: 'ihezu' },
-        { text: '蜜糖商店', link: 'metshop' }
+        { text: '账号星球', link: 'acc' },
+        { text: 'NIKE小店', link: 'nike' },
+        { text: '银河录像局', link: 'nf-video' }
       ]
     },
     {
-      text: '优质机场',
-      base: '/serve/airport/',
+      text: '科学上网',
+      // collapsed: true,
+      base: '/serve/routes/',
       items: [
-        { text: `青云梯${code}`, link: 'qingyunti' },
-        { text: 'Galaxy Cloud - 银河云', link: 'galaxy' },
-        { text: `TNT Cloud${code}`, link: 'tnt' },
-        { text: 'FlyingBird - 飞鸟机场', link: 'flyingbird' },
-        { text: 'Totoro Cloud - 龙猫云', link: 'totoro' },
-        { text: `小蜜蜂${code}`, link: 'bee' }
+        { text: '直连、中转、专线机场怎么选？', link: 'selection' },
+        { text: '直连、中转、专线机场区别', link: 'difference' },
+        { text: '直连线路', link: 'direct-route' },
+        { text: '中转线路', link: 'transit-route' },
+        { text: 'IEPL/IPLC专线', link: 'dedicated-line' },
+        { text: '如何判断机场使用线路类型', link: 'determine-line-type' }
+      ]
+    },
+    {
+      text: '科学上网软件使用指南',
+      base: '/serve/antiwall/',
+      link: 'sunmmary',
+      items: [
+        { text: 'Clash Verge Rev', link: 'clash-verge-rev' },
+        { text: 'v2rayN', link: 'v2rayn' },
+        { text: 'Clash Party', link: 'clash-party' },
+        { text: 'FlClash', link: 'flclash' },
+        { text: 'Surfboard', link: 'surfboard' },
+        { text: 'Clash meta For Android', link: 'clash-meta-for-android' },
+        { text: 'NekoBox', link: 'nekobox' },
+        { text: 'Clash Mi', link: 'clash-mi' },
+        { text: 'Shadowrocket', link: 'shadowrocket' },
+        { text: 'Quantumult X', link: 'quantumult-x' },
+        { text: 'Egern', link: 'egern' }
       ]
     },
     {
       text: '接码平台',
       // collapsed: true,
       base: '/serve/code/',
-      items: [{ text: 'SMS-Activate', link: 'sms-activate' }]
+      items: [{ text: 'Hero-SMS', link: 'sms' }]
     }
   ]
 }

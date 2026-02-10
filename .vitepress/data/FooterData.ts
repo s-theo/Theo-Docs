@@ -22,7 +22,8 @@ export const Footer_Data: FooterData = {
         { name: '小蜜蜂(XmfWww)', link: 'https://itheo.top/bee', rel: 'sponsored noreferrer' },
         { name: 'OKANC', link: 'https://itheo.top/okanc', rel: 'sponsored noreferrer' },
         { name: '奈云(NaiYun)', link: 'https://itheo.top/naiyun', rel: 'sponsored noreferrer' },
-        { name: '飞鸟机场(FlyingBird)', link: 'https://itheo.top/flyingbird', rel: 'sponsored noreferrer' }
+        { name: '飞鸟机场(FlyingBird)', link: 'https://itheo.top/flyingbird', rel: 'sponsored noreferrer' },
+        { name: '全球云(GlobalYun)', link: 'https://itheo.top/globalyun', rel: 'sponsored noreferrer' }
       ]
     },
     {

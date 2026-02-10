@@ -17,10 +17,10 @@ hero:
     height: 320
 
   Notice:
-    title: '<span class="promo-title">青云梯 优惠码大放送!</span>'
+    title: '<span class="promo-title">青云梯 超值优惠大放送!</span>'
     desc: |
-      · 85折<span class="promo-text"> 优惠码: qyt85 </span>
-      · 8折<span class="promo-text"> 优惠码: qyt80 </span>
+      · 全场八折<span class="promo-text"> 优惠码: 0080 </span>
+      · 月付/年付小包也可使用
       · 配合优惠码折上折，最高可达<span class="promo-text">48折</span>
     # date: '7月31号23点59分'
     # dateText: '活动截止至'

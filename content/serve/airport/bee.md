@@ -29,7 +29,7 @@ head:
 
 **小蜜蜂(XmfWww)**全IEPL专线机场，原生IP节点，海外团队。有热门小众节点，还有特色年付小包低至8元每月，有不限时的流量包，全天客服在线
 
-- 原生IP解锁流媒体，包括**Netflix**、**Disney+**、**HBO**、**HUGO**等等
+- 原生IP解锁流媒体，包括**Netflix、Disney、HBO Max、HBO Go、YouTube、Spotify、Hulu、Instagram、X（Twitter）**等等
 - 解锁**TikTok**，解锁**ChatGPT**、**Copilot**、**Gemini**等AI工具
 - **全局负载均衡、动态加速**
 - 晚高峰不限速，敏感期间不影响，提供美区id下载**小火箭Shadowrocket**

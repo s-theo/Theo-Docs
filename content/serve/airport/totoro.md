@@ -30,7 +30,7 @@ head:
 **龙猫云(TotoroCloud)**，一家颇具实力的新机场，Shadowsocks 协议节点，IPLC 专线，对 **Netflix、Disney+ 流媒体和 ChatGPT** 提供很好的解锁支持。龙猫云机场官方提供了详细的视频、文档以及贴心的客服支持
 
 - **IPLC** 全专线节点，原生IP，**最高速率可达到2000Mbps**
-- 流媒体完美解锁 **（包括Netflix ，Disney+， HBO等）**
+- 流媒体完美解锁 **Netflix、Disney、HBO Max、HBO Go、YouTube、Spotify、Hulu、Instagram、X（Twitter）**
 - 完美解锁 **ChatGPT，支持TikTok本土短视频运营和直播**
 - **晚高峰不限速**，所有套餐x1倍率
 - 可支持企业和个人独享IP和家宽定制

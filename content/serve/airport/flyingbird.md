@@ -31,7 +31,7 @@ head:
 
 海外的 SS 机场，海外团队运营，全专线线路，支持全流媒体解锁，所有节点多服务器负载保证高速稳定。
 
-节点目前针对**Netflix、Disney、HBO Max、HBO Go、YouTube、Spotify** 等流媒体解锁，而且在稳定性方面有保障，速度更快。
+节点目前针对 **Netflix、Disney、HBO Max、HBO Go、YouTube、Spotify、Hulu、Instagram、X（Twitter）** 等流媒体解锁，而且在稳定性方面有保障，速度更快。
 
 - 速度快，在专线的加持下开启代理后**访问国际网站速度极快**；
 - 安全系数好，所有线路使用**物理专线出境传办理**，安全性有确保；

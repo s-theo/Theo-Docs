@@ -42,7 +42,7 @@ head:
 - 支持全平台：Windows / macOS / iOS / Android / 路由器
 - 多设备同时使用，不限客户端数量
 - 自动优化线路，实时调整最佳通道
-- TIKTOK、ChatGPT、Netflix、Disney+、YouTube 等国际流媒体平台全解锁
+- **TIKTOK、ChatGPT、Netflix、Disney、HBO Max、HBO Go、YouTube、Spotify、Hulu、Instagram、X（Twitter）** 等国际流媒体平台全解锁
 - 性价比在专线机场里拉满了，可作主力机场
 - 所有节点都具有x1倍率，晚高峰时段更是不限速，尽情畅享网络资源
 - 客服 7×24 小时在线响应

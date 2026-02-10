@@ -1,6 +1,6 @@
 ---
 title: 星岛梦(StarDream)VPN官网注册地址｜真实测速｜价格与套餐详解
-description: 星岛梦(StarDream)VPN全线路接入 企业级 IPLC 专线，全节点 x1 倍率，晚高峰依旧稳如老狗，2.5Gbps 极速传输。看 4K、刷 TikTok、用 ChatGPT、Netflix、Disney+、YouTube——全程丝滑不卡顿！
+description: 星岛梦(StarDream)VPN全线路接入 企业级 IPLC 专线，全节点 x1 倍率，晚高峰依旧稳如老狗，2.5Gbps 极速传输。看 4K、刷 TikTok、用 ChatGPT、Netflix、Disney、HBO Max、HBO Go、YouTube、Spotify、Hulu、Instagram、X（Twitter）——全程丝滑不卡顿！
 head:
   - - meta
     - property: og:image
@@ -44,7 +44,7 @@ head:
 
 **不做订阅阅后即焚!!放心使用**
 
-**星岛梦(StarDream)**(曾用名**闪电鼠**)，全线路接入 **企业级 IPLC 专线**，全节点 **x1 倍率**，晚高峰依旧稳如老狗，**2.5Gbps** 极速传输。看 4K、刷 TikTok、用 ChatGPT、Netflix、Disney+、YouTube——全程丝滑不卡顿！
+**星岛梦(StarDream)**(曾用名**闪电鼠**)，全线路接入 **企业级 IPLC 专线**，全节点 **x1 倍率**，晚高峰依旧稳如老狗，**2.5Gbps** 极速传输。看 4K、刷 TikTok、用 **ChatGPT、Netflix、Disney、HBO Max、HBO Go、YouTube、Spotify、Hulu、Instagram、X（Twitter）**——全程丝滑不卡顿！
 
 全球原生节点布局，覆盖 **香港、台湾、日本、新加坡、美国、韩国、马来西亚、越南、菲律宾、泰国、印度、德国、法国、英国** 等数十地区，节点全面解锁国际流媒体与 AI 平台。想去哪儿，就去哪儿。
 
@@ -52,7 +52,7 @@ head:
 - 支持全平台：Windows / macOS / iOS / Android / 路由器
 - 多设备同时使用，不限客户端数量
 - 自动优化线路，实时调整最佳通道
-- TIKTOK、ChatGPT、Netflix、Disney+、YouTube 等国际流媒体平台全解锁
+- **TIKTOK、ChatGPT、Netflix、Disney、HBO Max、HBO Go、YouTube、Spotify、Hulu、Instagram、X（Twitter）** 等国际流媒体平台全解锁
 - 客服 7×24 小时在线响应
 
 <!-- #endregion 2 -->

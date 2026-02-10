@@ -1,22 +1,22 @@
 import type { AsideItem } from '@theojs/lumen'
 
 export const Aside_Data: AsideItem = [
-  {
-    image: 'https://i.theojs.cn/logo/qyt.webp',
-    promo: '青云梯(QingYunTi)特惠',
-    info1: '全场套餐 <span class="promo-text"> 85折: qyt85 </span>',
-    info2: '3年以上<span class="promo-text"> 48折: qyt80 </span>',
-    link: 'https://itheo.top/qyt',
-    rel: 'sponsored noreferrer'
-  },
   // {
   //   image: 'https://i.theojs.cn/logo/qyt.webp',
   //   promo: '青云梯(QingYunTi)特惠',
-  //   info1: '全场套餐 <span class="promo-text"> 8折: 0080 </span>',
-  //   info2: '3年付更可享受 <span class="promo-text"> 48折 </span>',
+  //   info1: '全场套餐 <span class="promo-text"> 85折: qyt85 </span>',
+  //   info2: '3年以上<span class="promo-text"> 48折: qyt80 </span>',
   //   link: 'https://itheo.top/qyt',
   //   rel: 'sponsored noreferrer'
   // },
+  {
+    image: 'https://i.theojs.cn/logo/qyt.webp',
+    promo: '青云梯(QingYunTi)特惠',
+    info1: '全场套餐 <span class="promo-text"> 8折: 0080 </span>',
+    info2: '3年付更可享受 <span class="promo-text"> 48折 </span>',
+    link: 'https://itheo.top/qyt',
+    rel: 'sponsored noreferrer'
+  },
   {
     image: 'https://i.theojs.cn/logo/hyperlink_logo.webp',
     promo: '极连云(HyperLink)特惠',
@@ -55,21 +55,21 @@ export const Aside_Data: AsideItem = [
   //   link: 'https://itheo.top/meile',
   //   rel: 'sponsored noreferrer'
   // },
-  // {
-  //   image: { src: 'https://i.theojs.cn/logo/TNT.webp', crop: true },
-  //   promo: 'TNT 双旦特惠',
-  //   info1: '全场套餐 <span class="promo-text"> 8折: Merry80</span>',
-  //   // info2: '全场85折 <span class="promo-text">折扣码: TNT85</span>',
-  //   link: 'https://itheo.top/tnt',
-  //   rel: 'sponsored noreferrer'
-  // },
   {
     image: { src: 'https://i.theojs.cn/logo/TNT.webp', crop: true },
-    promo: 'TNT 新人特惠',
-    info1: '全场套餐 <span class="promo-text"> 85折：TNT85</span>',
+    promo: 'TNT 新春特惠',
+    info1: '全场套餐 <span class="promo-text"> 8折: TNT2026</span>',
+    // info2: '全场85折 <span class="promo-text">折扣码: TNT85</span>',
     link: 'https://itheo.top/tnt',
     rel: 'sponsored noreferrer'
   },
+  // {
+  //   image: { src: 'https://i.theojs.cn/logo/TNT.webp', crop: true },
+  //   promo: 'TNT 新人特惠',
+  //   info1: '全场套餐 <span class="promo-text"> 85折：TNT85</span>',
+  //   link: 'https://itheo.top/tnt',
+  //   rel: 'sponsored noreferrer'
+  // },
   {
     image: 'https://i.theojs.cn/logo/bee_logo.webp',
     promo: '小蜜蜂(XmfWww) 新人特惠',
@@ -119,6 +119,14 @@ export const Aside_Data: AsideItem = [
     image: 'https://i.theojs.cn/logo/flyingcat_logo.webp',
     promo: '飞猫云(FlyingCat)',
     info1: '月/季/半年付<span class="promo-text"> 85折: KY85 </span>',
+    info2: '3年付更可享受 <span class="promo-text"> 48折 </span>',
+    link: 'https://itheo.top/flyingcat',
+    rel: 'sponsored noreferrer'
+  },
+  {
+    image: 'https://i.theojs.cn/airport/globalyun_logo.webp',
+    promo: '全球云(GlobalYun)',
+    info1: '月/季/半年付<span class="promo-text"> 8折: qq88 </span>',
     info2: '3年付更可享受 <span class="promo-text"> 48折 </span>',
     link: 'https://itheo.top/flyingcat',
     rel: 'sponsored noreferrer'

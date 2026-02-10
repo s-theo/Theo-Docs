@@ -41,7 +41,7 @@ head:
 从我个人的长期使用体验来看，**青云梯值得推荐为 2026 年稳定首选机场之一**。
 
 - 全节点 **x1 倍率**，晚高峰不限速
-- 全线路解锁 **Netflix / Disney+ / HBO Max / HBO Go / YouTube**，高峰 **4K 秒开**
+- 全线路解锁 **Netflix / Disney / HBO Max / HBO Go / YouTube / Spotify / Hulu / Instagram / X（Twitter）**，高峰 **4K 秒开**
 - 全线路解锁 **ChatGPT、Gemini 等 AI 工具**，支持 **TikTok 全球短视频与直播环境**
 - 支持 **iOS / macOS / Android / Windows / Linux**，多设备同时使用
 - 支持 **Shadowrocket / Clash / v2rayN / v2rayNG / Surge / Quantumult X / Stash** 等客户端
@@ -60,11 +60,10 @@ head:
 
 ::: tip
 
-<!-- - 全场 8 折（20% OFF）<Copy type="tip" label="点击复制折扣码: 0080" text="0080" bold /> -->
-
+- 全场 8 折（20% OFF）<Copy type="tip" label="点击复制折扣码: 0080" text="0080" bold />**(月付/年付小包也可使用)**
 - 季付**9**折/半年付**85**折/年付**8**折/2年付**7**折/3年付**6**折 配合折扣码折上折，最高可达**48**折
-- **长期折扣码:** <Copy type="tip" label="点击复制 85 折折扣码: qyt85" text="qyt85" bold /> <Copy type="tip" label="点击复制 8 折折扣码: qyt80" text="qyt80" bold />
-- (**月付也可使用 8 折长期折扣码**)
+  <!-- - **长期折扣码:** <Copy type="tip" label="点击复制 85 折折扣码: qyt85" text="qyt85" bold /> <Copy type="tip" label="点击复制 8 折折扣码: qyt80" text="qyt80" bold /> -->
+  <!-- - (**月付也可使用 8 折长期折扣码**) -->
 - **新手建议**：轻度使用选**年付小包**，日常流媒体与 AI 工具推荐**VIP1 / VIP2**。
 
 :::

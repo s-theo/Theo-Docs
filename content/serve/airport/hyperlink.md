@@ -30,8 +30,9 @@ head:
 **极连云(HyperLink)**成立于 2025 年，是一家专注提供出海专线加速与流媒体解锁服务的网络“机场”品牌。
 
 - 采用企业级 **IPLC／IEPL** 专线，最高支持 **2500Mbps** 速率，并结合**智能负载均衡、三网入口**优化，保障国内用户连接海外节点的速度和稳定性。
+- 节点目前针对 **TIKTOK、ChatGPT、Netflix、Disney、HBO Max、HBO Go、YouTube、Spotify、Hulu、Instagram、X（Twitter）** 等流媒体解锁，而且在稳定性方面有保障，速度更快。
 - 节点服务器分布广泛，覆盖**香港、日本、新加坡、美国、英国、德国、法国、韩国、马来西亚、泰国、越南、菲律宾**等十多个国家或地区。
-- 支持主流客户端协议**（如 Shadowrocket、Clash、V2Ray、Trojan 等），兼容多平台（iOS、Android、Windows、macOS、路由器）**使用。
+- 支持主流客户端协议 **（如 Shadowrocket、Clash、V2Ray、Trojan 等），兼容多平台（iOS、Android、Windows、macOS、路由器）** 使用。
 - 面向个人与家庭用户，同时也强调多设备支持，一次账号多端使用，无需为每台设备重复购买。
 <!-- #endregion 2 -->
 

@@ -32,7 +32,7 @@ head:
 - 原生IP解锁流媒体，包括**Netflix、Disney、HBO Max、HBO Go、YouTube、Spotify、Hulu、Instagram、X（Twitter）**等等
 - 解锁**TikTok**，解锁**ChatGPT**、**Copilot**、**Gemini**等AI工具
 - **全局负载均衡、动态加速**
-- 晚高峰不限速，敏感期间不影响，提供美区id下载**小火箭Shadowrocket**
+- 晚高峰不限速，敏感期间不影响使用
 - 客户端支持 ： **Clash** **Clash Meta** **Singbox** **v2rayn** **Shadowrocket** 等
 - 节点覆盖 **香港、台湾、日本、新加坡、美国、马来西亚、泰国、英国、巴西、阿根廷** 等地
 <!-- #endregion 2-->
@@ -44,6 +44,8 @@ head:
 :::tip
 
 - 季付**9**折/半年付**85**折/年付**8**折/2年付**7**折/3年付**6**折 配合折扣码折上折，最高可达**48**折
+- 月/季/半年付 **85折** <Copy type="tip" label="点击复制折扣码: newyear202685" text="newyear202685" bold /> 可重复使用5次
+- 年付**8折（站内折上折，高达48折 ）** <Copy type="tip" label="点击复制折扣码: newyear202680" text="newyear202680" bold /> 可重复使用5次
 - **新手建议**：轻度使用选**年付加强版**，日常流媒体与 AI 工具推荐**基础套餐 / 标准套餐**。
 
 :::

@@ -4,7 +4,7 @@ description: 精选2026年最便宜且好用的翻墙机场与VPN，全面评测
 head:
   - - meta
     - name: keywords
-      content: VPN机场推荐, 翻墙VPN, 便宜VPN机场, 青云梯 QingYunTi, 极连云 HyperLink, 光速云 LightSpeed, 银河云 GalaxyCloud, 美乐云 MeiLe, TNT Cloud, 龙猫云 TotoroCloud, 小蜜蜂 XmfWww, OKANC, 唯兔云 OnlyRabbit, 肥猫云 FatCatCloud, 奈云 NaiYun, 光年梯 LightYear, 飞猫云 FlyingCat, 飞鸟机场 FlyingBird, 星岛梦 StarDream, 全球云 GlobalYun, 飞猫云 FlyingCat, Netflix解锁, ChatGPT加速, 流媒体解锁
+      content: VPN机场推荐, 翻墙VPN, 便宜VPN机场, 青云梯 QingYunTi, 极连云 HyperLink, 光速云 LightSpeed, 银河云 GalaxyCloud, 美乐云 MeiLe, TNT Cloud, 龙猫云 TotoroCloud, 小蜜蜂 XmfWww, OKANC, 唯兔云 OnlyRabbit, 肥猫云 FatCatCloud, 奈云 NaiYun, 光年梯 LightYear, 飞猫云 FlyingCat, 飞鸟机场 FlyingBird, 星岛梦 StarDream, 全球云 GlobalYun, 飞猫云 FlyingCat, 隐云(YinYun), 无限流量, Netflix解锁, ChatGPT加速, 流媒体解锁
 ---
 
 # 2026年便宜好用的翻墙VPN机场推荐评测(长期更新 欢迎推荐)
@@ -42,31 +42,38 @@ head:
 
 **点击名称可以看到简介**
 
-|                      名称                       |                                                                        官网地址                                                                         | 最便宜订阅(年付) | 不限时套餐 |               详情信息               |
-| :---------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------: | :--------: | :----------------------------------: |
-|    [青云梯(QingYunTi)](<#青云梯(QingYunTi)>)    |              <Pill image="https://i.theojs.cn/logo/qyt.webp" name="青云梯官网" link="https://itheo.top/qyt" rel="sponsored noreferrer" />               |    8元 60g/月    |     ❌     | [查看](/serve/airport/qingyunti.md)  |
-|    [极连云(HyperLink)](<#极连云(HyperLink)>)    |      <Pill image="https://i.theojs.cn/logo/hyperlink_logo.webp" name="极连云官网" link="https://itheo.top/hyperlink" rel="sponsored noreferrer"/>       |    8元 60g/月    |     ✅     | [查看](/serve/airport/hyperlink.md)  |
-|   [光速云(LightSpeed)](<#光速云(LightSpeed)>)   |     <Pill image="https://i.theojs.cn/logo/lightspeed_logo.webp" name="光速云官网" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" />     |    8元 59g/月    |     ✅     | [查看](/serve/airport/lightspeed.md) |
-|  [银河云(GalaxyCloud)](<#银河云(GalaxyCloud)>)  |    <Pill image="https://i.theojs.cn/logo/galaxy_transparent_square.webp" name="银河云官网" link="https://itheo.top/yhy" rel="sponsored noreferrer"/>    |    8元 50g/月    |     ✅     |   [查看](/serve/airport/galaxy.md)   |
-|        [美乐云(MeiLe)](<#美乐云(MeiLe)>)        |            <Pill image="https://i.theojs.cn/logo/meile.webp" name="美乐云官网"  link="https://itheo.top/meile" rel="sponsored noreferrer" />            |   12元 128g/月   |     ✅     |   [查看](/serve/airport/meile.md)    |
-|             [TNT Cloud](#tnt-cloud)             | <Pill :image="{ src: 'https://i.theojs.cn/logo/TNT.webp', crop: true }" name="TNT Cloud官网" link="https://itheo.top/tnt" rel="sponsored noreferrer" /> |    8元 60g/月    |     ❌     |    [查看](/serve/airport/tnt.md)     |
-|  [龙猫云(TotoroCloud)](<#龙猫云(TotoroCloud)>)  |           <Pill image="https://i.theojs.cn/logo/totoro.webp" name="龙猫云官网" link="https://itheo.top/totoro" rel="sponsored noreferrer" />            |   12元 100g/月   |     ❌     |   [查看](/serve/airport/totoro.md)   |
-|       [小蜜蜂(XmfWww)](<#小蜜蜂(XmfWww)>)       |            <Pill image="https://i.theojs.cn/logo/bee_logo.webp" name="小蜜蜂官网" link="https://itheo.top/bee" rel="sponsored noreferrer" />            |    8元 60g/月    |     ✅     |    [查看](/serve/airport/bee.md)     |
-|                 [OKANC](#okanc)                 |             <Pill image="https://i.theojs.cn/logo/okanc.webp" name="OKANC官网" link="https://itheo.top/okanc" rel="sponsored noreferrer" />             |   38元 328g/月   |     ❌     |   [查看](/serve/airport/okanc.md)    |
-|   [唯兔云(OnlyRabbit)](<#唯兔云(OnlyRabbit)>)   |     <Pill image="https://i.theojs.cn/logo/onlyrabbit_logo.webp" name="唯兔云官网" link="https://itheo.top/onlyrabbit" rel="sponsored noreferrer" />     |    6元 45g/月    |     ✅     | [查看](/serve/airport/onlyrabbit.md) |
-|  [肥猫云(FatCatCloud)](<#肥猫云(FatCatCloud)>)  |           <Pill image="https://i.theojs.cn/logo/fclogo.webp" name="肥猫云官网" link="https://itheo.top/fatcat" rel="sponsored noreferrer" />            |    8元 60g/月    |     ❌     |   [查看](/serve/airport/fatcat.md)   |
-|         [奈云(NaiYun)](<#奈云(NaiYun)>)         |          <Pill image="https://i.theojs.cn/logo/naiyun_logo.webp" name="奈云官网" link="https://itheo.top/naiyun" rel="sponsored noreferrer" />          |   10元 168g/月   |     ✅     |   [查看](/serve/airport/naiyun.md)   |
-|    [光年梯(LightYear)](<#光年梯(LightYear)>)    |      <Pill image="https://i.theojs.cn/logo/lightyear_logo.webp" name="光年梯官网" link="https://itheo.top/lightyear" rel="sponsored noreferrer" />      |   13元 110g/月   |     ❌     | [查看](/serve/airport/lightyear.md)  |
-|    [飞猫云(FlyingCat)](<#飞猫云(FlyingCat)>)    |      <Pill image="https://i.theojs.cn/logo/flyingcat_logo.webp" name="飞猫云官网" link="https://itheo.top/flyingcat" rel="sponsored noreferrer" />      |   12元 100g/月   |     ✅     | [查看](/serve/airport/flyingcat.md)  |
-|    [全球云(GlobalYun)](<#全球云(GlobalYun)>)    |    <Pill image="https://i.theojs.cn/airport/globalyun_logo.webp" name="全球云官网" link="https://itheo.top/globalyun" rel="sponsored noreferrer" />     |    8元 59g/月    |     ✅     | [查看](/serve/airport/flyingcat.md)  |
-| [飞鸟机场(FlyingBird)](<#飞鸟机场(FlyingBird)>) |     <Pill image="https://i.theojs.cn/logo/flyingbird.webp" name="FlyingBird官网" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" />      |   12元 100g/月   |     ❌     | [查看](/serve/airport/flyingbird.md) |
-|    [星岛梦(StarDream)](<#星岛梦(StarDream)>)    |            <Pill image="https://i.theojs.cn/logo/xdm_logo.webp" name="星岛梦官网" link="https://itheo.top/xdm" rel="sponsored noreferrer" />            |   12元 100g/月   |     ✅     |    [查看](/serve/airport/xdm.md)     |
+|                            名称                             |                                                                        官网地址                                                                         | 最便宜订阅(年付) | 不限时套餐 |               详情信息               |
+| :---------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------: | :--------: | :----------------------------------: |
+|    [青云梯(QingYunTi)](<#青云梯(QingYunTi)机场服务评测>)    |              <Pill image="https://i.theojs.cn/logo/qyt.webp" name="青云梯官网" link="https://itheo.top/qyt" rel="sponsored noreferrer" />               |    8元 60g/月    |     ❌     | [查看](/serve/airport/qingyunti.md)  |
+|         [隐云(YinYun)](<#隐云(YinYun)机场服务评测>)         |       <Pill image="https://i.theojs.cn/airport/yinyun_logo.webp" name="隐云官网"  link="https://itheo.top/yinyun"  rel="sponsored noreferrer" />        | 22元 无限流量/月 |     ❌     |   [查看](/serve/airport/yinyun.md)   |
+|    [极连云(HyperLink)](<#极连云(HyperLink)机场服务评测>)    |      <Pill image="https://i.theojs.cn/logo/hyperlink_logo.webp" name="极连云官网" link="https://itheo.top/hyperlink" rel="sponsored noreferrer"/>       |    8元 60g/月    |     ✅     | [查看](/serve/airport/hyperlink.md)  |
+|   [光速云(LightSpeed)](<#光速云(LightSpeed)机场服务评测>)   |     <Pill image="https://i.theojs.cn/logo/lightspeed_logo.webp" name="光速云官网" link="https://itheo.top/lightspeed" rel="sponsored noreferrer" />     |    8元 59g/月    |     ✅     | [查看](/serve/airport/lightspeed.md) |
+|  [银河云(GalaxyCloud)](<#银河云(GalaxyCloud)机场服务评测>)  |    <Pill image="https://i.theojs.cn/logo/galaxy_transparent_square.webp" name="银河云官网" link="https://itheo.top/yhy" rel="sponsored noreferrer"/>    |    8元 50g/月    |     ✅     |   [查看](/serve/airport/galaxy.md)   |
+|        [美乐云(MeiLe)](<#美乐云(MeiLe)机场服务评测>)        |            <Pill image="https://i.theojs.cn/logo/meile.webp" name="美乐云官网"  link="https://itheo.top/meile" rel="sponsored noreferrer" />            |   12元 128g/月   |     ✅     |   [查看](/serve/airport/meile.md)    |
+|             [TNT Cloud](#tnt-cloud机场服务评测)             | <Pill :image="{ src: 'https://i.theojs.cn/logo/TNT.webp', crop: true }" name="TNT Cloud官网" link="https://itheo.top/tnt" rel="sponsored noreferrer" /> |    8元 60g/月    |     ❌     |    [查看](/serve/airport/tnt.md)     |
+|  [龙猫云(TotoroCloud)](<#龙猫云(TotoroCloud)机场服务评测>)  |           <Pill image="https://i.theojs.cn/logo/totoro.webp" name="龙猫云官网" link="https://itheo.top/totoro" rel="sponsored noreferrer" />            |   12元 100g/月   |     ❌     |   [查看](/serve/airport/totoro.md)   |
+|       [小蜜蜂(XmfWww)](<#小蜜蜂(XmfWww)机场服务评测>)       |            <Pill image="https://i.theojs.cn/logo/bee_logo.webp" name="小蜜蜂官网" link="https://itheo.top/bee" rel="sponsored noreferrer" />            |    8元 60g/月    |     ✅     |    [查看](/serve/airport/bee.md)     |
+|                 [OKANC](#okanc机场服务评测)                 |             <Pill image="https://i.theojs.cn/logo/okanc.webp" name="OKANC官网" link="https://itheo.top/okanc" rel="sponsored noreferrer" />             |   38元 328g/月   |     ❌     |   [查看](/serve/airport/okanc.md)    |
+|   [唯兔云(OnlyRabbit)](<#唯兔云(OnlyRabbit)机场服务评测>)   |     <Pill image="https://i.theojs.cn/logo/onlyrabbit_logo.webp" name="唯兔云官网" link="https://itheo.top/onlyrabbit" rel="sponsored noreferrer" />     |    6元 45g/月    |     ✅     | [查看](/serve/airport/onlyrabbit.md) |
+|  [肥猫云(FatCatCloud)](<#肥猫云(FatCatCloud)机场服务评测>)  |           <Pill image="https://i.theojs.cn/logo/fclogo.webp" name="肥猫云官网" link="https://itheo.top/fatcat" rel="sponsored noreferrer" />            |    8元 60g/月    |     ❌     |   [查看](/serve/airport/fatcat.md)   |
+|         [奈云(NaiYun)](<#奈云(NaiYun)机场服务评测>)         |          <Pill image="https://i.theojs.cn/logo/naiyun_logo.webp" name="奈云官网" link="https://itheo.top/naiyun" rel="sponsored noreferrer" />          |   10元 168g/月   |     ✅     |   [查看](/serve/airport/naiyun.md)   |
+|    [光年梯(LightYear)](<#光年梯(LightYear)机场服务评测>)    |      <Pill image="https://i.theojs.cn/logo/lightyear_logo.webp" name="光年梯官网" link="https://itheo.top/lightyear" rel="sponsored noreferrer" />      |   13元 110g/月   |     ❌     | [查看](/serve/airport/lightyear.md)  |
+|    [飞猫云(FlyingCat)](<#飞猫云(FlyingCat)机场服务评测>)    |      <Pill image="https://i.theojs.cn/logo/flyingcat_logo.webp" name="飞猫云官网" link="https://itheo.top/flyingcat" rel="sponsored noreferrer" />      |   12元 100g/月   |     ✅     | [查看](/serve/airport/flyingcat.md)  |
+|    [全球云(GlobalYun)](<#全球云(GlobalYun)机场服务评测>)    |    <Pill image="https://i.theojs.cn/airport/globalyun_logo.webp" name="全球云官网" link="https://itheo.top/globalyun" rel="sponsored noreferrer" />     |    8元 59g/月    |     ✅     | [查看](/serve/airport/flyingcat.md)  |
+| [飞鸟机场(FlyingBird)](<#飞鸟机场(FlyingBird)机场服务评测>) |     <Pill image="https://i.theojs.cn/logo/flyingbird.webp" name="FlyingBird官网" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" />      |   12元 100g/月   |     ❌     | [查看](/serve/airport/flyingbird.md) |
+|    [星岛梦(StarDream)](<#星岛梦(StarDream)机场服务评测>)    |            <Pill image="https://i.theojs.cn/logo/xdm_logo.webp" name="星岛梦官网" link="https://itheo.top/xdm" rel="sponsored noreferrer" />            |   12元 100g/月   |     ✅     |    [查看](/serve/airport/xdm.md)     |
 
 ## 青云梯(QingYunTi)机场服务评测
 
 <!--@include: @/serve/airport/qingyunti.md#1-->
 <!--@include: @/serve/airport/qingyunti.md#2-->
 <!--@include: @/serve/airport/qingyunti.md#3-->
+
+## 隐云(YinYun)机场服务评测
+
+<!--@include: @/serve/airport/yinyun.md#1-->
+<!--@include: @/serve/airport/yinyun.md#2-->
+<!--@include: @/serve/airport/yinyun.md#3-->
 
 ## 极连云(HyperLink)机场服务评测
 

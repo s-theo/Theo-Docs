@@ -32,7 +32,7 @@ head:
 - **2000Mbps高速带宽**，即便在晚高峰时段，**不会限制速度，不限制IP，不限制设备数量**
 - 原生IP解锁流媒体，包括**Netflix、Disney、HBO Max、HBO Go、YouTube、Spotify、Hulu、Instagram、X（Twitter）**等等
 - 解锁**TikTok**，解锁**ChatGPT**、**Copilot**、**Gemini**等AI工具
-- 晚高峰不限速、不限制客户端，提供美区id下载**小火箭Shadowrocket**
+- 晚高峰不限速，敏感期间不影响使用
 - 客户端支持 ： **Clash** **Clash Meta** **Singbox** **v2rayn** **Shadowrocket** 等
 - 为满足不同人群的需求，我们提供了企业和个人定制业务，包含**跨境电商和tk运营直播的专业服务**
 - 采用**安全加密技术**，可以放心在全球范围内使用。专业客服随时在线，确保问题得到第一时间的解决，体验到贴心的服务

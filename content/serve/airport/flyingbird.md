@@ -50,8 +50,10 @@ head:
 ::: tip
 
 - 季付**9**折/半年**85**折/年付**8**折 配合折扣码折上折，最高可达**64**折
-- 专属 9 折优惠，<Copy type="tip" label="点击复制折扣码: theo" text="theo" bold />，不限制使用次数，每个用户只能使用一次
-- 年付85折（站内折上折，高达64折 ），<Copy type="tip" label="点击复制折扣码: year85" text="year85" bold />，可重复使用5次
+- 月/季/半年付 **85折** <Copy type="tip" label="点击复制折扣码: fbcj2685" text="fbcj2685" bold /> 可重复使用5次
+- 年付**8折（站内折上折，高达64折 ）** <Copy type="tip" label="点击复制折扣码: fbcj2680" text="fbcj2680" bold /> 可重复使用5次
+  <!-- - 专属 9 折优惠，<Copy type="tip" label="点击复制折扣码: theo" text="theo" bold />，不限制使用次数，每个用户只能使用一次 -->
+  <!-- - 年付85折（站内折上折，高达64折 ），<Copy type="tip" label="点击复制折扣码: year85" text="year85" bold />，可重复使用5次  -->
 - **新手建议**：轻度使用选**青铜套餐**，日常流媒体与 AI 工具推荐**白银套餐 / 黄金套餐**。
 
 :::

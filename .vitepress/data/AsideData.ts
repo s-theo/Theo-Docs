@@ -25,14 +25,14 @@ export const Aside_Data: AsideItem = [
     link: 'https://itheo.top/hyperlink',
     rel: 'sponsored noreferrer'
   },
-  // {
-  //   image: 'https://i.theojs.cn/logo/totoro.webp',
-  //   promo: '龙猫云(TotoroCloud)特惠',
-  //   info1: '月/半年<span class="promo-text"> 85折: totoro852026 </span>',
-  //   info2: '年付以上<span class="promo-text"> 48折: totoro802026 </span>',
-  //   link: 'https://itheo.top/totoro',
-  //   rel: 'sponsored noreferrer'
-  // },
+  {
+    image: 'https://i.theojs.cn/logo/totoro.webp',
+    promo: '龙猫云(TotoroCloud)特惠',
+    info1: '月/半年<span class="promo-text"> 85折: chinese85 </span>',
+    info2: '年付以上<span class="promo-text"> 48折: chinese80 </span>',
+    link: 'https://itheo.top/totoro',
+    rel: 'sponsored noreferrer'
+  },
   {
     image: 'https://i.theojs.cn/logo/lightspeed_logo.webp',
     promo: '光速云(LightSpeed)特惠',
@@ -99,14 +99,14 @@ export const Aside_Data: AsideItem = [
     link: 'https://itheo.top/onlyrabbit',
     rel: 'sponsored noreferrer'
   },
-  // {
-  //   image: 'https://i.theojs.cn/logo/fclogo.webp',
-  //   promo: '肥猫云(FatCatCloud)特惠',
-  //   info1: '月/半年<span class="promo-text"> 85折: hello202685 </span>',
-  //   info2: '年付以上<span class="promo-text"> 48折: hello202680 </span>',
-  //   link: 'https://itheo.top/fatcat',
-  //   rel: 'sponsored noreferrer'
-  // },
+  {
+    image: 'https://i.theojs.cn/logo/fclogo.webp',
+    promo: '肥猫云(FatCatCloud)特惠',
+    info1: '月/半年<span class="promo-text"> 85折: newyear202685 </span>',
+    info2: '年付以上<span class="promo-text"> 48折: newyear202680 </span>',
+    link: 'https://itheo.top/fatcat',
+    rel: 'sponsored noreferrer'
+  },
   {
     image: 'https://i.theojs.cn/logo/lightyear_logo.webp',
     promo: '光年梯(LightYear)优惠',
@@ -134,8 +134,8 @@ export const Aside_Data: AsideItem = [
   {
     image: 'https://i.theojs.cn/logo/flyingbird.webp',
     promo: '飞鸟机场(FlyingBird)优惠',
-    info1: '月/季/半年付<span class="promo-text"> 9折: theo </span>',
-    info2: '年付以上<span class="promo-text"> 64折: year85 </span>',
+    info1: '月/季/半年付<span class="promo-text"> 85折: fbcj2685 </span>',
+    info2: '年付以上<span class="promo-text"> 64折: fbcj2680 </span>',
     link: 'https://itheo.top/flyingbird',
     rel: 'sponsored noreferrer'
   },
@@ -153,6 +153,12 @@ export const Aside_Data: AsideItem = [
   //   link: 'https://itheo.top/qyt',
   //   rel: 'sponsored noreferrer'
   // },
+  {
+    image: 'https://i.theojs.cn/airport/yinyun_logo.webp',
+    promo: '隐云(YinYun)',
+    link: 'https://itheo.top/yinyun',
+    rel: 'sponsored noreferrer'
+  },
   // {
   //   image: 'https://i.theojs.cn/logo/hyperlink_logo.webp',
   //   promo: '极连云(HyperLink)',
@@ -189,18 +195,18 @@ export const Aside_Data: AsideItem = [
   //   link: 'https://itheo.top/naiyun',
   //   rel: 'sponsored noreferrer'
   // },
-  {
-    image: 'https://i.theojs.cn/logo/totoro.webp',
-    promo: '龙猫云(TotoroCloud)',
-    link: 'https://itheo.top/totoro',
-    rel: 'sponsored noreferrer'
-  },
-  {
-    image: 'https://i.theojs.cn/logo/fclogo.webp',
-    promo: '肥猫云(FatCatCloud)',
-    link: 'https://itheo.top/fatcat',
-    rel: 'sponsored noreferrer'
-  },
+  // {
+  //   image: 'https://i.theojs.cn/logo/totoro.webp',
+  //   promo: '龙猫云(TotoroCloud)',
+  //   link: 'https://itheo.top/totoro',
+  //   rel: 'sponsored noreferrer'
+  // },
+  // {
+  //   image: 'https://i.theojs.cn/logo/fclogo.webp',
+  //   promo: '肥猫云(FatCatCloud)',
+  //   link: 'https://itheo.top/fatcat',
+  //   rel: 'sponsored noreferrer'
+  // },
   // {
   //   image: 'https://i.theojs.cn/logo/lightspeed_logo.webp',
   //   promo: '光速云(LightSpeed)',

@@ -8,6 +8,7 @@ export const Footer_Data: FooterData = {
       title: '优质线路',
       links: [
         { name: '青云梯(QingYunTi)', link: 'https://itheo.top/qyt', rel: 'sponsored noreferrer' },
+        { name: '隐云(YinYun)', link: 'https://itheo.top/yinyun', rel: 'sponsored noreferrer' },
         { name: '银河云(GalaxyCloud)', link: 'https://itheo.top/yhy', rel: 'sponsored noreferrer' },
         { name: '美乐云(MeiLe)', link: 'https://itheo.top/meile', rel: 'sponsored noreferrer' },
         { name: 'TNT Cloud', link: 'https://itheo.top/tnt', rel: 'sponsored noreferrer' },

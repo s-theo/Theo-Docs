@@ -47,8 +47,8 @@ head:
 :::tip
 
 - 季付以上自带折扣
-  <!-- - 月付/季度/半年 享受**85**折优惠，<Copy type="tip" label="点击复制折扣码: totoro852026" text="totoro852026" bold /> -->
-  <!-- - 年付/2年/3年 享受**8**折优惠，<Copy type="tip" label="点击复制折扣码: totoro802026" text="totoro802026" bold /> -->
+- 月付/季度/半年 享受**85**折优惠，<Copy type="tip" label="点击复制折扣码: chinese85" text="chinese85" bold />
+- 年付/2年/3年 享受**8**折优惠，<Copy type="tip" label="点击复制折扣码: chinese80" text="chinese80" bold />
 - **新手建议**：轻度使用选**VIP1**，日常流媒体与 AI 工具推荐**VIP3 / VIP3**。
 
 :::

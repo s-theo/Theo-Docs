@@ -32,7 +32,7 @@ head:
 - 原生IP解锁流媒体，包括**Netflix、Disney、HBO Max、HBO Go、YouTube、Spotify、Hulu、Instagram、X（Twitter）**等等
 - 解锁**TikTok**，解锁**ChatGPT**、**Copilot**、**Gemini**等AI工具
 - **全局负载均衡、动态加速**
-- 晚高峰不限速，敏感期间不影响，提供美区id下载**小火箭Shadowrocket**
+- 晚高峰不限速，敏感期间不影响使用
 - 客户端支持 ： **Clash** **Clash Meta** **Singbox** **v2rayn** **Shadowrocket** 等
 - 节点覆盖 **香港、台湾、日本、新加坡、美国、马来西亚、泰国、英国、巴西、阿根廷** 等地
 <!-- #endregion 2 -->

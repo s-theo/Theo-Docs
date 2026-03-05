@@ -3,6 +3,7 @@ import type { DefaultTheme } from 'vitepress'
 const code = '<span class="VPBadge tip small" aria-hidden="true">附折扣码</span>'
 const cq = '<span class="VPBadge tip small" aria-hidden="true">附长期折扣码</span>'
 const zc = '<span class="VPBadge tip small" aria-hidden="true">注册试用</span>'
+const wx = '<span class="VPBadge tip small" aria-hidden="true">无限流量</span>'
 
 type SidebarItem = DefaultTheme.SidebarItem
 
@@ -286,11 +287,11 @@ export function Sidebar_serve(): SidebarItem[] {
       base: '/serve/airport/',
       items: [
         { text: '青云梯(QingYunTi)' + cq, link: 'qingyunti' },
-        { text: '隐云(YinYun)' + zc, link: 'yinyun' },
+        { text: '隐云(YinYun)' + zc + wx, link: 'yinyun' },
         { text: '极连云(HyperLink)' + code, link: 'hyperlink' },
         { text: '光速云(LightSpeed)' + cq, link: 'lightspeed' },
         { text: '银河云(GalaxyCloud)', link: 'galaxy' },
-        { text: '美乐云(MeiLe)' + zc, link: 'meile' },
+        { text: '美乐云(MeiLe)' + code + zc, link: 'meile' },
         { text: 'TNT Cloud' + code, link: 'tnt' },
         { text: '龙猫云(TotoroCloud)' + code, link: 'totoro' },
         { text: '小蜜蜂(XmfWww)' + code, link: 'bee' },
@@ -299,7 +300,7 @@ export function Sidebar_serve(): SidebarItem[] {
         { text: '肥猫云(FatCatCloud)' + code, link: 'fatcat' },
         { text: '奈云(NaiYun)' + code + zc, link: 'naiyun' },
         { text: '光年梯(LightYear)' + code, link: 'lightyear' },
-        { text: '飞猫云(FlyingCat)' + code, link: 'flyingcat' },
+        { text: '飞猫云(FlyingCat)', link: 'flyingcat' },
         { text: '全球云(GlobalYun)' + code, link: 'globalyun' },
         { text: '飞鸟机场(FlyingBird)' + cq, link: 'flyingbird' },
         { text: '星岛梦(StarDream)' + code, link: 'xdm' }

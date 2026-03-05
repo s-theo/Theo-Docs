@@ -39,7 +39,7 @@ SS、SSR、VMess（V2Ray）、VLESS（Xray）、Trojan、Hysteria、TUIC、Snell
 相关参考：
 
 - [美区 Apple ID](/serve/sharing/acc#苹果-id-账号价格表)
-- [带 Shadowrocket 的 Apple ID](/serve/sharing/acc#小火箭shadowrocket账号)
+- [带 Shadowrocket 的 Apple ID](/serve/sharing/nike#小火箭-shadowrocket-苹果apple-id-含密保-美区)
 
 ## 添加节点（推荐订阅方式）
 

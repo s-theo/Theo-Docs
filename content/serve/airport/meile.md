@@ -50,8 +50,7 @@ head:
 
 ::: tip
 
-<!-- - <Copy type="tip" label="点击复制 75 折折扣码: ML75" text="ML75" bold /> -->
-
+- <Copy type="tip" label="点击复制 75 折折扣码: ML75" text="ML75" bold />
 - **新手建议**：轻度使用选**Base套餐 / 不限时套餐**，日常流媒体与 AI 工具推荐**Pro套餐**。
 
 :::

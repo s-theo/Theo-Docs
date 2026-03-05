@@ -52,11 +52,8 @@ head:
 
 ::: tip
 
-<!-- - <Copy type="tip" label="点击复制 9 折折扣码: rabbit" text="rabbit" bold /> -->
-
+- <Copy type="tip" label="点击复制 9 折折扣码: rabbit" text="rabbit" bold />
 - 季付**9**折/半年付**85**折/年付**8**折/2年付**7**折/3年付**6**折 配合折扣码折上折，最高可达**48**折
-- 年付以下： **全场 85折** <Copy type="tip" label="点击复制折扣码: hpny85" text="hpny85" bold /> （79包不参与）
-- 年付及以上： **全场 8折** <Copy type="tip" label="点击复制折扣码: hpny80" text="hpny80" bold /> （79包不参与 不限时参与）
 - **新手建议**：轻度使用选**年付版**，日常流媒体与 AI 工具推荐**入门版 / 进阶版**。
 
 :::

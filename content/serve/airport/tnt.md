@@ -47,7 +47,7 @@ head:
 :::tip
 
 - 季付以上自带折扣
-- 全场8折 <Copy type="tip" label="点击复制折扣码: TNT2026" text="TNT2026" bold />
+- 全场85折 <Copy type="tip" label="点击复制折扣码: TNT85" text="TNT85" bold />
 - **新手建议**：轻度使用选**轻量包**，日常流媒体与 AI 工具推荐**VIP1 / VIP2**。
 
 :::

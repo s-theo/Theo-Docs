@@ -36,7 +36,8 @@ export function Sidebar_notes(): SidebarItem[] {
         { text: '添加 1Panel 第三方应用商店', link: '1panel-third-party-app-store' },
         { text: 'Tabby 配置同步', link: 'tabby-sync' },
         { text: '添加 群晖DSM7.X 第三方套件源', link: 'synology-third-party-suite' },
-        { text: '在线机场订阅节点测速平台', link: 'airportest' }
+        { text: '在线机场订阅节点测速平台', link: 'airportest' },
+        { text: '2026年最新 telegram（电报、飞机）注册使用教程', link: 'telegram' }
       ]
     },
     {

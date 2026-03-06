@@ -37,7 +37,7 @@
     "lint-staged": "^16.3.2",
     "oxc-minify": "^0.116.0",
     "prettier": "3.8.1",
-    "prettier-plugin-packagejson": "^3.0.0",
+    "prettier-plugin-packagejson": "^3.0.2",
     "prettier-plugin-sort-json": "^4.2.0",
     "prettier-plugin-vitepress": "^0.0.10",
     "simple-git-hooks": "^2.13.1",

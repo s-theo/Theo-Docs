@@ -20,7 +20,9 @@ export const transformPageData: UserConfig['transformPageData'] = (pageData) => 
   const modified_time = pageData.lastUpdated ? new Date(pageData.lastUpdated).toISOString() : new Date().toISOString()
 
   // og:image
-  const ogImageEntry = pageData.frontmatter.head.find((item) => item[0] === 'meta' && item[1]?.property === 'og:image')
+  const ogImageEntry = pageData.frontmatter.head.find(
+    (item: any) => item[0] === 'meta' && item[1]?.property === 'og:image'
+  )
   const ogImage = ogImageEntry?.[1]?.content || defaultOgImage
 
   // json-ld
@@ -64,9 +66,9 @@ export const transformPageData: UserConfig['transformPageData'] = (pageData) => 
     ['meta', { property: 'og:url', content: DynamicUrl }],
     ['meta', { property: 'og:image', content: ogImage }],
     ['meta', { property: 'og:description', content: description }],
-    ['meta', { property: 'twitter:title', content: title }],
-    ['meta', { property: 'twitter:image', content: ogImage }],
-    ['meta', { property: 'twitter:description', content: description }],
+    ['meta', { name: 'twitter:title', content: title }],
+    ['meta', { name: 'twitter:image', content: ogImage }],
+    ['meta', { name: 'twitter:description', content: description }],
     ['meta', { property: 'article:published_time', content: '2020-07-21T08:17:36.000Z' }],
     ['meta', { property: 'article:modified_time', content: modified_time }],
     ['script', { type: 'application/ld+json' }, JSON.stringify(jsonLd)]

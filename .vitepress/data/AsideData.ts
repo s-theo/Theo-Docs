@@ -95,14 +95,6 @@ export const Aside_Data: AsideItem = [
   {
     image: 'https://i.theojs.cn/logo/onlyrabbit_logo.webp',
     promo: '唯兔云(OnlyRabbit)特惠',
-    info1: '全场套餐 <span class="promo-text"> 85折: hpny85</span>',
-    info2: '全场套餐 <span class="promo-text"> 8折: hpny80</span>',
-    link: 'https://itheo.top/onlyrabbit',
-    rel: 'sponsored noreferrer'
-  },
-  {
-    image: 'https://i.theojs.cn/logo/onlyrabbit_logo.webp',
-    promo: '唯兔云(OnlyRabbit)特惠',
     info1: '全场套餐 <span class="promo-text"> 9折: rabbit</span>',
     link: 'https://itheo.top/onlyrabbit',
     rel: 'sponsored noreferrer'
@@ -113,6 +105,14 @@ export const Aside_Data: AsideItem = [
     info1: '月/半年<span class="promo-text"> 85折: newyear202685 </span>',
     info2: '年付以上<span class="promo-text"> 48折: newyear202680 </span>',
     link: 'https://itheo.top/fatcat',
+    rel: 'sponsored noreferrer'
+  },
+  {
+    image: 'https://i.theojs.cn/logo/echo_logo.webp',
+    promo: 'Echo 优惠',
+    info1: '月/季/半年付<span class="promo-text"> 8折: YNDfPkzi </span>',
+    info2: '3年付更可享受 <span class="promo-text"> 48折 </span>',
+    link: 'https://itheo.top/echo',
     rel: 'sponsored noreferrer'
   },
   {

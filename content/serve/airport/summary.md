@@ -58,6 +58,7 @@ head:
 |  [肥猫云(FatCatCloud)](<#肥猫云(FatCatCloud)机场服务评测>)  |           <Pill image="https://i.theojs.cn/logo/fclogo.webp" name="肥猫云官网" link="https://itheo.top/fatcat" rel="sponsored noreferrer" />            |    8元 60g/月    |     ❌     |   [查看](/serve/airport/fatcat.md)   |
 |    [酷酷云(KuKuCloud)](<#酷酷云(KuKuCloud)机场服务评测>)    |         <Pill image="https://i.theojs.cn/airport/kuku_logo.webp" name="酷酷云官网" link="https://itheo.top/kuku" rel="sponsored noreferrer" />          |   16元 100g/月   |     ❌     | [查看](/serve/airport/kukucloud.md)  |
 |         [奈云(NaiYun)](<#奈云(NaiYun)机场服务评测>)         |          <Pill image="https://i.theojs.cn/logo/naiyun_logo.webp" name="奈云官网" link="https://itheo.top/naiyun" rel="sponsored noreferrer" />          |   10元 168g/月   |     ✅     |   [查看](/serve/airport/naiyun.md)   |
+|                  [Echo](#Echo机场服务评测)                  |            <Pill image="https://i.theojs.cn/logo/echo_logo.webp" name="Echo官网" link="https://itheo.top/echo" rel="sponsored noreferrer" />            |   10元 168g/月   |     ✅     |    [查看](/serve/airport/echo.md)    |
 |    [光年梯(LightYear)](<#光年梯(LightYear)机场服务评测>)    |      <Pill image="https://i.theojs.cn/logo/lightyear_logo.webp" name="光年梯官网" link="https://itheo.top/lightyear" rel="sponsored noreferrer" />      |   13元 110g/月   |     ❌     | [查看](/serve/airport/lightyear.md)  |
 |    [飞猫云(FlyingCat)](<#飞猫云(FlyingCat)机场服务评测>)    |      <Pill image="https://i.theojs.cn/logo/flyingcat_logo.webp" name="飞猫云官网" link="https://itheo.top/flyingcat" rel="sponsored noreferrer" />      |   12元 100g/月   |     ✅     | [查看](/serve/airport/flyingcat.md)  |
 |    [全球云(GlobalYun)](<#全球云(GlobalYun)机场服务评测>)    |    <Pill image="https://i.theojs.cn/airport/globalyun_logo.webp" name="全球云官网" link="https://itheo.top/globalyun" rel="sponsored noreferrer" />     |    8元 59g/月    |     ✅     | [查看](/serve/airport/flyingcat.md)  |
@@ -147,6 +148,12 @@ head:
 <!--@include: @/serve/airport/naiyun.md#1-->
 <!--@include: @/serve/airport/naiyun.md#2-->
 <!--@include: @/serve/airport/naiyun.md#3-->
+
+## Echo机场服务评测
+
+<!--@include: @/serve/airport/echo.md#1-->
+<!--@include: @/serve/airport/echo.md#2-->
+<!--@include: @/serve/airport/echo.md#3-->
 
 ## 光年梯(LightYear)机场服务评测
 

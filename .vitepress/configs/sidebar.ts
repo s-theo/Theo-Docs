@@ -301,6 +301,7 @@ export function Sidebar_serve(): SidebarItem[] {
         { text: '肥猫云(FatCatCloud)' + code, link: 'fatcat' },
         { text: '酷酷云(KuKuCloud)', link: 'kukucloud' },
         { text: '奈云(NaiYun)' + code + zc, link: 'naiyun' },
+        { text: 'Echo' + code + zc, link: 'echo' },
         { text: '光年梯(LightYear)' + code, link: 'lightyear' },
         { text: '飞猫云(FlyingCat)', link: 'flyingcat' },
         { text: '全球云(GlobalYun)' + code, link: 'globalyun' },

@@ -29,7 +29,7 @@
     "@mdit/plugin-footnote": "^0.23.1",
     "@mdit/plugin-img-size": "^0.23.1",
     "@mdit/plugin-tasklist": "^0.23.1",
-    "@theojs/lumen": "^6.4.5",
+    "@theojs/lumen": "^6.4.6",
     "@trivago/prettier-plugin-sort-imports": "^6.0.2",
     "commitizen": "^4.3.1",
     "cz-vinyl": "^2.5.4",

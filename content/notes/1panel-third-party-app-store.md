@@ -22,7 +22,7 @@ description: 学习如何在 1Panel 面板中添加第三方应用商店，扩�
 `1Panel` 计划任务类型 `Shell 脚本` 的计划任务框里，添加并执行以下命令，或者终端运行以下命令
 
 ```sh
-git clone -b localApps https://mirror.ghproxy.com/https://github.com/okxlin/appstore /opt/1panel/resource/apps/local/appstore-localApps
+git clone -b localApps https://ghfast.top/https://github.com/okxlin/appstore /opt/1panel/resource/apps/local/appstore-localApps
 
 cp -rf /opt/1panel/resource/apps/local/appstore-localApps/apps/* /opt/1panel/resource/apps/local/
 
@@ -36,7 +36,7 @@ rm -rf /opt/1panel/resource/apps/local/appstore-localApps
 `1Panel` 计划任务类型 `Shell 脚本` 的计划任务框里，添加并执行以下命令，或者终端运行以下命令
 
 ```sh
-wget -P /opt/1panel/resource/apps/local https://mirror.ghproxy.com/https://github.com/okxlin/appstore/archive/refs/heads/localApps.zip
+wget -P /opt/1panel/resource/apps/local https://ghfast.top/https://github.com/okxlin/appstore/archive/refs/heads/localApps.zip
 
 unzip -o -d /opt/1panel/resource/apps/local/ /opt/1panel/resource/apps/local/localApps.zip
 

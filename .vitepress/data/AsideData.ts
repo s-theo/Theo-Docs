@@ -55,28 +55,28 @@ export const Aside_Data: AsideItem = [
     link: 'https://itheo.top/bee',
     rel: 'sponsored noreferrer'
   },
-  {
-    image: 'https://i.theojs.cn/logo/okanc.webp',
-    promo: 'OKNAC 75 折特惠',
-    info1: '全场套餐 <span class="promo-text"> 75折: 0308</span>',
-    link: 'https://itheo.top/okanc',
-    rel: 'sponsored noreferrer'
-  },
+  // {
+  //   image: 'https://i.theojs.cn/logo/okanc.webp',
+  //   promo: 'OKNAC 75 折特惠',
+  //   info1: '全场套餐 <span class="promo-text"> 75折: 0308</span>',
+  //   link: 'https://itheo.top/okanc',
+  //   rel: 'sponsored noreferrer'
+  // },
 
-  {
-    image: 'https://i.theojs.cn/logo/naiyun_logo.webp',
-    promo: '奈云(NaiYun) 75 折特惠',
-    info1: '全场套餐 <span class="promo-text"> 75折: 0308</span>',
-    link: 'https://itheo.top/naiyun',
-    rel: 'sponsored noreferrer'
-  },
-  {
-    image: 'https://i.theojs.cn/logo/meile.webp',
-    promo: '美乐云(MeiLe) 75 折特惠',
-    info1: '全场套餐 <span class="promo-text"> 75折: ML75</span>',
-    link: 'https://itheo.top/meile',
-    rel: 'sponsored noreferrer'
-  },
+  // {
+  //   image: 'https://i.theojs.cn/logo/naiyun_logo.webp',
+  //   promo: '奈云(NaiYun) 75 折特惠',
+  //   info1: '全场套餐 <span class="promo-text"> 75折: 0308</span>',
+  //   link: 'https://itheo.top/naiyun',
+  //   rel: 'sponsored noreferrer'
+  // },
+  // {
+  //   image: 'https://i.theojs.cn/logo/meile.webp',
+  //   promo: '美乐云(MeiLe) 75 折特惠',
+  //   info1: '全场套餐 <span class="promo-text"> 75折: ML75</span>',
+  //   link: 'https://itheo.top/meile',
+  //   rel: 'sponsored noreferrer'
+  // },
   // {
   //   image: 'https://i.theojs.cn/logo/fclogo.webp',
   //   promo: '肥猫云(FatCatCloud)特惠',
@@ -125,24 +125,24 @@ export const Aside_Data: AsideItem = [
   //   link: 'https://itheo.top/flyingbird',
   //   rel: 'sponsored noreferrer'
   // },
-  // {
-  //   image: 'https://i.theojs.cn/logo/meile.webp',
-  //   promo: '美乐云(MeiLe)',
-  //   link: 'https://itheo.top/meile',
-  //   rel: 'sponsored noreferrer'
-  // },
-  // {
-  //   image: 'https://i.theojs.cn/logo/okanc.webp',
-  //   promo: 'OKNAC',
-  //   link: 'https://itheo.top/okanc',
-  //   rel: 'sponsored noreferrer'
-  // },
-  // {
-  //   image: 'https://i.theojs.cn/logo/naiyun_logo.webp',
-  //   promo: '奈云(NaiYun)',
-  //   link: 'https://itheo.top/naiyun',
-  //   rel: 'sponsored noreferrer'
-  // },
+  {
+    image: 'https://i.theojs.cn/logo/meile.webp',
+    promo: '美乐云(MeiLe)',
+    link: 'https://itheo.top/meile',
+    rel: 'sponsored noreferrer'
+  },
+  {
+    image: 'https://i.theojs.cn/logo/okanc.webp',
+    promo: 'OKNAC',
+    link: 'https://itheo.top/okanc',
+    rel: 'sponsored noreferrer'
+  },
+  {
+    image: 'https://i.theojs.cn/logo/naiyun_logo.webp',
+    promo: '奈云(NaiYun)',
+    link: 'https://itheo.top/naiyun',
+    rel: 'sponsored noreferrer'
+  },
   {
     image: 'https://i.theojs.cn/logo/totoro.webp',
     promo: '龙猫云(TotoroCloud)',

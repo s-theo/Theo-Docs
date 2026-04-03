@@ -290,14 +290,14 @@ export function Sidebar_serve(): SidebarItem[] {
         { text: '青云梯(QingYunTi)' + cq, link: 'qingyunti' },
         { text: '隐云(YinYun)' + zc + wx, link: 'yinyun' },
         { text: '银河云(GalaxyCloud)' + code, link: 'galaxy' },
-        { text: '美乐云(MeiLe)' + code + zc, link: 'meile' },
+        { text: '美乐云(MeiLe)' + zc, link: 'meile' },
         { text: 'TNT Cloud' + code, link: 'tnt' },
         { text: '龙猫云(TotoroCloud)', link: 'totoro' },
         { text: '小蜜蜂(XmfWww)' + code, link: 'bee' },
-        { text: 'OKANC' + code + zc, link: 'okanc' },
+        { text: 'OKANC' + zc, link: 'okanc' },
         { text: '肥猫云(FatCatCloud)', link: 'fatcat' },
         { text: '酷酷云(KuKuCloud)', link: 'kukucloud' },
-        { text: '奈云(NaiYun)' + code + zc, link: 'naiyun' },
+        { text: '奈云(NaiYun)' + zc, link: 'naiyun' },
         { text: 'Echo' + code + zc, link: 'echo' },
         { text: '飞鸟机场(FlyingBird)' + cq, link: 'flyingbird' }
       ]

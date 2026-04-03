@@ -47,7 +47,7 @@
     "vitepress-plugin-group-icons": "^1.7.3",
     "vitepress-plugin-image-viewer": "^1.1.6",
     "vitepress-plugin-llms": "^1.12.0",
-    "vue": "^3.5.31"
+    "vue": "^3.5.32"
   },
   "packageManager": "pnpm@10.33.0"
 }

@@ -9,6 +9,8 @@ description: 小雅Xiaoya全家桶提供了集成的Alist、TVbox、Jellyfin、E
 - Plex 不支持 .strm 文件，所以可以搜刮但是不能播放。
 - 手动安装操作比较复杂，新手建议用一键脚本，出问题了再逐一处理。高手随意。
 
+<!--@include: @/head.md-->
+
 ## 执行命令
 
 ::: code-group
@@ -241,3 +243,5 @@ Docker镜像源选择 -> 6 6
 |   Windows WSL Docker   |      🚧       |          🚧           |             ❌             |
 |    ZSpace（极空间）    |      🚧       |          🚧           |             🚧             |
 |   fnOS (飞牛私有云)    |      ✅       |          ✅           |             ✅             |
+
+<!--@include: @/bottom.md-->

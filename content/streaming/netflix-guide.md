@@ -47,7 +47,7 @@ head:
       icon: 'twemoji:airplane',
       name: '选择优质奈飞机场',
       desc: ' 借助奈飞机场提供的专属线路，突破网络限制，稳定连接Netflix。',
-      link: '/serve/airport/qingyunti'
+      link: '/serve/airport/summary'
     }
   ]"
 />
@@ -222,7 +222,7 @@ Netflix 与国内爱奇艺、优酷、腾讯视频等平台，最大的区别在
 
 ### 代理能上 Google、YouTube，为什么不能看 Netflix？
 
-**Netflix 对代理 IP 有特殊要求，普通代理 IP 已被 Netflix 封杀。 需要使用 “[原生 IP 代理](/serve/airport/qingyunti)"，即 IP 地址所属区域与代理服务器所在区域一致的 IP，才能解锁 Netflix。** [“奈飞机场”](/serve/airport/qingyunti) 提供的线路，通常都是原生 IP 线路，可以有效解锁 Netflix。
+**Netflix 对代理 IP 有特殊要求，普通代理 IP 已被 Netflix 封杀。 需要使用 “[原生 IP 代理](/serve/airport/summary)"，即 IP 地址所属区域与代理服务器所在区域一致的 IP，才能解锁 Netflix。** [“奈飞机场”](/serve/airport/summary) 提供的线路，通常都是原生 IP 线路，可以有效解锁 Netflix。
 
 ### 我为什么不能看 4K 分辨率的 Netflix 视频
 
@@ -298,11 +298,11 @@ Netflix 与国内爱奇艺、优酷、腾讯视频等平台，最大的区别在
 ### 错误代码：M7111-5059 - “流媒体错误。您似乎使用了解锁工具或代理。”
 
 :::warning 错误原因
-**代理 IP 被 Netflix 检测并封禁**。 使用的代理 IP 不是 [“原生 IP”](/serve/airport/qingyunti) 或已被 Netflix 列入黑名单。
+**代理 IP 被 Netflix 检测并封禁**。 使用的代理 IP 不是 [“原生 IP”](/serve/airport/summary) 或已被 Netflix 列入黑名单。
 :::
 
 :::tip 解决方案
-**切换到 [“奈飞机场”](/serve/airport/qingyunti) 提供的优质节点**，这类节点通常都是原生 IP，不会被 Netflix 检测到。
+**切换到 [“奈飞机场”](/serve/airport/summary) 提供的优质节点**，这类节点通常都是原生 IP，不会被 Netflix 检测到。
 :::
 
 ### 错误代码：22004 - “此影片不再您等区域提供观看。”
@@ -357,7 +357,7 @@ Netflix 与国内爱奇艺、优酷、腾讯视频等平台，最大的区别在
 :::tip 解决方案
 
 1. **切换 WIFI 网络** (尝试连接有线网络)。
-2. **切换代理节点** (更换 [“奈飞机场”](/serve/airport/qingyunti) 节点)。
+2. **切换代理节点** (更换 [“奈飞机场”](/serve/airport/summary) 节点)。
 3. **卸载重装 Netflix APP**。
 
 :::
@@ -383,5 +383,7 @@ Netflix 与国内爱奇艺、优酷、腾讯视频等平台，最大的区别在
 :::
 
 :::tip 解决方案
-**开启代理，并切换到[支持 Netflix 的节点](/serve/airport/qingyunti)** (例如奈飞流媒体专属节点)。
+**开启代理，并切换到[支持 Netflix 的节点](/serve/airport/summary)** (例如奈飞流媒体专属节点)。
 :::
+
+<!--@include: @/bottom.md-->

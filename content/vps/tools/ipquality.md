@@ -11,7 +11,7 @@ description: 提供中英文双语言支持的IP质量体检脚本，帮助快�
 - 基础信息、IP类型、风险评分、风险因子、流媒体解锁、邮局检测六大模块
 - 基础数据源自*Maxmind*数据库
 - 风险信息 `IPinfo` `ipregistry` `ipapi` `AbuseIPDB` `IP2LOCATION` `IPQS` `DB-IP` `SCAMALYTICS` `IPWHOIS` 多数据库整合
-- 流媒体及AI多个服务商 `TikTok` `Disney+` `Netflix` `Youtube` `AmazonPrimeVideo` `Spotify` `ChatGPT` 解锁及解锁类型检测
+- 流媒体及AI多个服务商 `TikTok` `Disney+` `Netflix` `YouTube` `AmazonPrimeVideo` `Spotify` `ChatGPT` 解锁及解锁类型检测
 - 多邮局服务商 `Gmail` `Outlook` `Yahoo` `Apple` `QQ` `Mail.ru` `AOL` `GMX` `Mail.com` `163` `Sohu` `Sina` 连通性检测
 - IP地址黑名单400+数据库检测
 

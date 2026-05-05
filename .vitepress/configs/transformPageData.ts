@@ -44,7 +44,7 @@ export const transformPageData: UserConfig['transformPageData'] = (pageData) => 
       }
     : {
         '@context': 'https://schema.org',
-        '@type': 'BlogPosting',
+        '@type': 'TechArticle',
         headline: title,
         inLanguage: 'zh-Hans',
         author: { '@type': 'Person', name: 'Theo', url: baseUrl },

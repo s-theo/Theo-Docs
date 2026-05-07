@@ -259,40 +259,48 @@ head:
 
 ### 账号
 
-|                 类别                 | 价格  |                                                    购买链接                                                    |
-| :----------------------------------: | :---: | :------------------------------------------------------------------------------------------------------------: |
-|    **ChatGPT全新账号不带api key**    | ¥48.8 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-| **ChatGPT Plus （1人独享30天）账号** | ¥268  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-| **ChatGPT Plus（4人共享30天）账号**  |  ¥98  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-|      **ChatGPT 4.0 直登号30天**      |  ¥94  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-| **ChatGPT Business（30天）会员账号** | ¥268  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|                类别                 | 价格  |                                                    购买链接                                                    |
+| :---------------------------------: | :---: | :------------------------------------------------------------------------------------------------------------: |
+|   **ChatGPT全新账号不带api key**    | ¥48.8 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|    **ChatGPT GO 12月(质保3月)**     | ¥699  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|  **ChatGPT Plus 30天(独享无质保)**  |  ¥59  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+| **ChatGPT Plus 30天(共享全程质保)** |  ¥98  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+| **ChatGPT Plus 30天(独享全程质保)** | ¥228  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
 
 ### ChatGPT Plus 代充
 
-|               类别               | 价格  |                                                    购买链接                                                    |
-| :------------------------------: | :---: | :------------------------------------------------------------------------------------------------------------: |
-|  **ChatGPT Plus（30天） 代充**   | ¥198  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-| **ChatGPT Business（30天）代充** | ¥228  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-|  **ChatGPT Plus（90天） 代充**   | ¥580  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-|  **ChatGPT Plus（365天） 代充**  | ¥2320 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|              类别               | 价格  |                                                    购买链接                                                    |
+| :-----------------------------: | :---: | :------------------------------------------------------------------------------------------------------------: |
+| **ChatGPT Plus 30天(全程质保)** | ¥198  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+| **ChatGPT Plus 3月(全程质保)**  | ¥580  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+| **ChatGPT Plus 12月(质保3月)**  | ¥2320 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
 
 ## Gemini账号
 
 ### 账号
 
-|                    类别                     | 价格 |                                                    购买链接                                                    |
-| :-----------------------------------------: | :--: | :------------------------------------------------------------------------------------------------------------: |
-|               **Gemini 账号**               | ¥38  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-|      **Gemini AI Pro（30天）会员账号**      | ¥199 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-| **Gemini Pro 学生教育优惠(12个月)会员账号** | ¥199 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-|             **Gemini安卓下载**              | ¥30  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
-|             **Gemini苹果下载**              | ¥30  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|                   类别                    | 价格 |                                                    购买链接                                                    |
+| :---------------------------------------: | :--: | :------------------------------------------------------------------------------------------------------------: |
+|              **Gemini 账号**              | ¥38  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|     **Gemini AI Pro 30天(全程质保)**      | ¥199 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+| **Gemini AI Pro 12月(学生优惠质保20天)**  | ¥178 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+| **Gemini AI Pro 12月(Pixel优惠质保30天)** | ¥188 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|     **Gemini AI Utral 30天(质保7天)**     | ¥599 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
 
 ### Gemini 代充
 
-|               类别                | 价格 |                                                    购买链接                                                    |
-| :-------------------------------: | :--: | :------------------------------------------------------------------------------------------------------------: |
-| **Gemini AI Pro（30天）会员代充** | ¥199 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|                    类别                    | 价格  |                                                    购买链接                                                    |
+| :----------------------------------------: | :---: | :------------------------------------------------------------------------------------------------------------: |
+|      **Gemini AI Pro 30天(全程质保)**      | ¥199  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+|      **Gemini AI Pro 12月(全程质保)**      | ¥2099 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+| **Gemini Pro 3个月会员邀请链接(质保15天)** |  ¥55  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+
+### 家庭组账号
+
+|                            类别                             | 价格 |                                                    购买链接                                                    |
+| :---------------------------------------------------------: | :--: | :------------------------------------------------------------------------------------------------------------: |
+|            **Gemini Pro 家庭组 30天(全程质保)**             | ¥88  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+| **Gemini AI Pro 学生教育优惠家庭组 12月(学生优惠质保20天)** | ¥79  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
 
 ## Grok账号
 
@@ -316,6 +324,12 @@ head:
 |            类别            | 价格 |                                                    购买链接                                                    |
 | :------------------------: | :--: | :------------------------------------------------------------------------------------------------------------: |
 | **Claude 4sonnet官方普号** | ¥34  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
+
+### Claude Code代充
+
+|            类别             | 价格 |                                                    购买链接                                                    |
+| :-------------------------: | :--: | :------------------------------------------------------------------------------------------------------------: |
+| **Claude Pro会员代充1个月** | ¥249 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |
 
 ## Gamma Ai PPT账号
 

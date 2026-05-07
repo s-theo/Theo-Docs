@@ -4,7 +4,7 @@ export const Aside_Data: AsideItem = [
   {
     image: 'https://i.theojs.cn/logo/sogo.webp',
     promo: 'Sogo云 8 折特惠',
-    info1: '全场套餐 <span class="promo-text"> 8折: SOGO168</span>',
+    info1: '全场套餐 <span class="promo-text"> 8折: SOGO28</span>',
     link: 'https://itheo.top/sogo',
     rel: 'sponsored noreferrer'
   },

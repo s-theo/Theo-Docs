@@ -4,3 +4,6 @@ onlyBuiltDependencies:
 
 shellEmulator: true
 autoInstallPeers: false
+allowBuilds:
+  esbuild: true
+  simple-git-hooks: true

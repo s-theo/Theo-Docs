@@ -22,9 +22,9 @@
     }
   },
   "devDependencies": {
-    "@commitlint/cli": "^20.5.3",
-    "@commitlint/config-conventional": "^20.5.3",
-    "@commitlint/types": "^20.5.0",
+    "@commitlint/cli": "^21.0.0",
+    "@commitlint/config-conventional": "^21.0.0",
+    "@commitlint/types": "^21.0.0",
     "@mdit/plugin-figure": "^0.23.2",
     "@mdit/plugin-footnote": "^0.23.2",
     "@mdit/plugin-img-size": "^0.23.2",
@@ -34,7 +34,7 @@
     "commitizen": "^4.3.1",
     "cz-vinyl": "^2.5.4",
     "husky": "^9.1.7",
-    "lint-staged": "^17.0.2",
+    "lint-staged": "^17.0.3",
     "oxc-minify": "^0.129.0",
     "prettier": "3.8.3",
     "prettier-plugin-packagejson": "^3.0.2",
@@ -49,5 +49,5 @@
     "vitepress-plugin-llms": "^1.12.2",
     "vue": "^3.5.34"
   },
-  "packageManager": "pnpm@11.0.8"
+  "packageManager": "pnpm@11.0.9"
 }

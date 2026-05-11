@@ -5,6 +5,8 @@ description: iStore 插件包为 OpenWRT 用户提供了丰富的插件选择，
 
 # iStore/OpenWRT插件包合集，PassWall, OpenClash 等
 
+<!--@include: @/head.md-->
+
 ## iStore插件包列表
 
 |                                                常用代理软件包                                                |                                                      其他软件包                                                       |

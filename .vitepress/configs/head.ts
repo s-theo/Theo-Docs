@@ -28,5 +28,6 @@ export const head: HeadConfig[] = [
 
   // 其他 meta
   ['meta', { name: 'robots', content: 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1' }],
-  ['meta', { name: 'google-site-verification', content: 'bOXLe1lrqePxxyksBSbMgqbELMkTX9Q_FkyEuVwTobI' }]
+  ['meta', { name: 'google-site-verification', content: 'bOXLe1lrqePxxyksBSbMgqbELMkTX9Q_FkyEuVwTobI' }],
+  ['meta', { name: 'baidu-site-verification', content: 'codeva-m9TXDgPlIh' }]
 ]

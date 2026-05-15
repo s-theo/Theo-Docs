@@ -3,7 +3,7 @@ title: Linux nano 编辑器 简洁高效的终端文本编辑器
 description: 学习如何使用 Linux 中的 nano 编辑器，快速掌握基本操作、快捷键和配置技巧，提升终端下的编辑效率。
 head:
   - - meta
-    - name: og:image
+    - property: og:image
       content: https://i.theojs.cn/docs/nano.webp
 ---
 

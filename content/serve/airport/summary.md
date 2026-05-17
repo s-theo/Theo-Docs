@@ -45,9 +45,11 @@ head:
 |                            名称                             |                                                                        官网地址                                                                         | 最便宜订阅(年付) | 不限时套餐 |               详情信息               |
 | :---------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------: | :--------: | :----------------------------------: |
 |                [Sogo云](#Sogo云机场服务评测)                |             <Pill image="https://i.theojs.cn/logo/sogo.webp" name="Sogo云官网" link="https://itheo.top/sogo" rel="sponsored noreferrer" />              |   15元 60g/月    |     ✅     |    [查看](/serve/airport/sogo.md)    |
+|         [一翻云(1fly)](<#一翻云(1fly)机场服务评测>)         |           <Pill image="https://i.theojs.cn/logo/1fly_logo.webp" name="一翻云官网" link="https://itheo.top/1fly" rel="sponsored noreferrer" />           |    8元 60g/月    |     ❌     |    [查看](/serve/airport/1fly.md)    |
 |    [青云梯(QingYunTi)](<#青云梯(QingYunTi)机场服务评测>)    |              <Pill image="https://i.theojs.cn/logo/qyt.webp" name="青云梯官网" link="https://itheo.top/qyt" rel="sponsored noreferrer" />               |    8元 60g/月    |     ❌     | [查看](/serve/airport/qingyunti.md)  |
 |         [隐云(YinYun)](<#隐云(YinYun)机场服务评测>)         |       <Pill image="https://i.theojs.cn/airport/yinyun_logo.webp" name="隐云官网"  link="https://itheo.top/yinyun"  rel="sponsored noreferrer" />        | 22元 无限流量/月 |     ❌     |   [查看](/serve/airport/yinyun.md)   |
 |         [二猫云(2mao)](<#二猫云(2mao)机场服务评测>)         |           <Pill image="https://i.theojs.cn/logo/2mao_logo.webp" name="二猫云官网" link="https://itheo.top/2mao" rel="sponsored noreferrer"/>            |    7元 60g/月    |     ❌     |    [查看](/serve/airport/2mao.md)    |
+|       [宇宙云(YuZhou)](<#宇宙云(YuZhou)机场服务评测>)       |         <Pill image="https://i.theojs.cn/logo/yuzhou_logo.webp" name="宇宙云官网" link="https://itheo.top/yuzhou" rel="sponsored noreferrer"/>          |    8元 60g/月    |     ❌     |   [查看](/serve/airport/yuzhou.md)   |
 |  [银河云(GalaxyCloud)](<#银河云(GalaxyCloud)机场服务评测>)  |    <Pill image="https://i.theojs.cn/logo/galaxy_transparent_square.webp" name="银河云官网" link="https://itheo.top/yhy" rel="sponsored noreferrer"/>    |    8元 50g/月    |     ✅     |   [查看](/serve/airport/galaxy.md)   |
 |        [美乐云(MeiLe)](<#美乐云(MeiLe)机场服务评测>)        |            <Pill image="https://i.theojs.cn/logo/meile.webp" name="美乐云官网"  link="https://itheo.top/meile" rel="sponsored noreferrer" />            |   12元 128g/月   |     ✅     |   [查看](/serve/airport/meile.md)    |
 |                  [Echo](#Echo机场服务评测)                  |            <Pill image="https://i.theojs.cn/logo/echo_logo.webp" name="Echo官网" link="https://itheo.top/echo" rel="sponsored noreferrer" />            |   8元 100g/月    |     ✅     |    [查看](/serve/airport/echo.md)    |
@@ -66,6 +68,12 @@ head:
 <!--@include: @/serve/airport/sogo.md#2-->
 <!--@include: @/serve/airport/sogo.md#3-->
 
+## 一翻云(1fly)机场服务评测
+
+<!--@include: @/serve/airport/1fly.md#1-->
+<!--@include: @/serve/airport/1fly.md#2-->
+<!--@include: @/serve/airport/1fly.md#3-->
+
 ## 青云梯(QingYunTi)机场服务评测
 
 <!--@include: @/serve/airport/qingyunti.md#1-->
@@ -83,6 +91,12 @@ head:
 <!--@include: @/serve/airport/2mao.md#1-->
 <!--@include: @/serve/airport/2mao.md#2-->
 <!--@include: @/serve/airport/2mao.md#3-->
+
+## 宇宙云(YuZhou)机场服务评测
+
+<!--@include: @/serve/airport/yuzhou.md#1-->
+<!--@include: @/serve/airport/yuzhou.md#2-->
+<!--@include: @/serve/airport/yuzhou.md#3-->
 
 ## 银河云(GalaxyCloud)机场服务评测
 

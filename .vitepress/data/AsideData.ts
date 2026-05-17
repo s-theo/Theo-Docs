@@ -9,11 +9,25 @@ export const Aside_Data: AsideItem = [
     rel: 'sponsored noreferrer'
   },
   {
+    image: 'https://i.theojs.cn/logo/1fly_logo.webp',
+    promo: '一翻云(1fly) 8 折特惠',
+    info1: '全场套餐 <span class="promo-text"> 8折: 1FLYYUN</span>',
+    link: 'https://itheo.top/1fly',
+    rel: 'sponsored noreferrer'
+  },
+  {
     image: 'https://i.theojs.cn/logo/qyt.webp',
     promo: '青云梯(QingYunTi)特惠',
     info1: '全场套餐 <span class="promo-text"> 85折: qyt85 </span>',
     info2: '3年以上<span class="promo-text"> 48折: qyt80 </span>',
     link: 'https://itheo.top/qyt',
+    rel: 'sponsored noreferrer'
+  },
+  {
+    image: 'https://i.theojs.cn/logo/yuzhou_logo.webp',
+    promo: '宇宙云(YuZhou)特惠',
+    info1: '全场套餐 <span class="promo-text"> 8折: YUZHOU553 </span>',
+    link: 'https://itheo.top/yuzhou',
     rel: 'sponsored noreferrer'
   },
   // {

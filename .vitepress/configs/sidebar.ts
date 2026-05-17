@@ -294,9 +294,11 @@ export function Sidebar_serve(): SidebarItem[] {
       base: '/serve/airport/',
       items: [
         { text: 'Sogo云' + code, link: 'sogo' },
+        { text: '一翻云(1Fly)' + code, link: '1fly' },
         { text: '青云梯(QingYunTi)' + cq, link: 'qingyunti' },
         { text: '隐云(YinYun)' + zc + wx, link: 'yinyun' },
         { text: '二猫云(2mao)', link: '2mao' },
+        { text: '宇宙云(YuZhou)' + code, link: 'yuzhou' },
         { text: '银河云(GalaxyCloud)' + code, link: 'galaxy' },
         { text: '美乐云(MeiLe)' + zc, link: 'meile' },
         { text: 'Echo' + zc, link: 'echo' },

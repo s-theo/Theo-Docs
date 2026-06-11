@@ -36,7 +36,7 @@
     "husky": "^9.1.7",
     "lint-staged": "^17.0.7",
     "oxc-minify": "^0.135.0",
-    "prettier": "3.8.3",
+    "prettier": "3.8.4",
     "prettier-plugin-packagejson": "^3.0.2",
     "prettier-plugin-sort-json": "^4.2.0",
     "prettier-plugin-vitepress": "^0.0.10",
@@ -47,7 +47,7 @@
     "vitepress-plugin-group-icons": "^1.7.5",
     "vitepress-plugin-image-viewer": "^1.1.6",
     "vitepress-plugin-llms": "^1.13.1",
-    "vue": "^3.5.35"
+    "vue": "^3.5.37"
   },
-  "packageManager": "pnpm@11.5.2"
+  "packageManager": "pnpm@11.5.3"
 }

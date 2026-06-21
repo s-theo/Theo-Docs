@@ -34,7 +34,7 @@
     "commitizen": "^4.3.2",
     "cz-vinyl": "^2.5.4",
     "husky": "^9.1.7",
-    "lint-staged": "^17.0.7",
+    "lint-staged": "^17.0.8",
     "oxc-minify": "^0.137.0",
     "prettier": "3.8.4",
     "prettier-plugin-packagejson": "^3.0.2",
@@ -46,7 +46,7 @@
     "vitepress": "2.0.0-alpha.17",
     "vitepress-plugin-group-icons": "^1.7.5",
     "vitepress-plugin-image-viewer": "^1.1.6",
-    "vitepress-plugin-llms": "^1.13.1",
+    "vitepress-plugin-llms": "^1.13.2",
     "vue": "^3.5.38"
   },
   "packageManager": "pnpm@11.8.0"

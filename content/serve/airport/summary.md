@@ -50,7 +50,7 @@ head:
 |         [一翻云(1fly)](<#一翻云(1fly)机场服务评测>)         |           <Pill image="https://i.theojs.cn/logo/1fly_logo.webp" name="一翻云官网" link="https://itheo.top/1fly" rel="sponsored noreferrer" />           |    8元 60g/月    |     ❌     |    [查看](/serve/airport/1fly.md)    |
 |    [青云梯(QingYunTi)](<#青云梯(QingYunTi)机场服务评测>)    |              <Pill image="https://i.theojs.cn/logo/qyt.webp" name="青云梯官网" link="https://itheo.top/qyt" rel="sponsored noreferrer" />               |    8元 60g/月    |     ❌     | [查看](/serve/airport/qingyunti.md)  |
 |         [隐云(YinYun)](<#隐云(YinYun)机场服务评测>)         |       <Pill image="https://i.theojs.cn/airport/yinyun_logo.webp" name="隐云官网"  link="https://itheo.top/yinyun"  rel="sponsored noreferrer" />        | 22元 无限流量/月 |     ❌     |   [查看](/serve/airport/yinyun.md)   |
-|              [EdgeNova](#EdgeNova机场服务评测)              |      <Pill image="https://i.theojs.cn/logo/edgenova_logo.webp" name="EdgeNova官网" link="https://itheo.top/edgenova" rel="sponsored noreferrer" />      |    9元 45g/月    |     ❌     |  [查看](/serve/airport/edgenova.md)  |
+|   [边缘节点(EdgeNova)](<#边缘节点(EdgeNova)机场服务评测>)   |      <Pill image="https://i.theojs.cn/logo/edgenova_logo.webp" name="边缘节点官网" link="https://itheo.top/edgenova" rel="sponsored noreferrer" />      |    9元 45g/月    |     ❌     |  [查看](/serve/airport/edgenova.md)  |
 |         [快狸(KuaiLi)](<#快狸(KuaiLi)机场服务评测>)         |          <Pill image="https://i.theojs.cn/logo/kuaili_logo.webp" name="快狸官网" link="https://itheo.top/kuaili" rel="sponsored noreferrer" />          |   10元 30g/月    |     ❌     |   [查看](/serve/airport/kuaili.md)   |
 |          [速界(SuJie)](<#速界(SuJie)机场服务评测>)          |           <Pill image="https://i.theojs.cn/logo/sujie_logo.webp" name="速界官网" link="https://itheo.top/sujie" rel="sponsored noreferrer" />           |    7元 50g/月    |     ❌     |   [查看](/serve/airport/sujie.md)    |
 |         [二猫云(2mao)](<#二猫云(2mao)机场服务评测>)         |           <Pill image="https://i.theojs.cn/logo/2mao_logo.webp" name="二猫云官网" link="https://itheo.top/2mao" rel="sponsored noreferrer"/>            |    7元 60g/月    |     ❌     |    [查看](/serve/airport/2mao.md)    |
@@ -102,7 +102,7 @@ head:
 <!--@include: @/serve/airport/yinyun.md#2-->
 <!--@include: @/serve/airport/yinyun.md#3-->
 
-## EdgeNova机场服务评测
+## 边缘节点(EdgeNova)机场服务评测
 
 <!--@include: @/serve/airport/edgenova.md#1-->
 <!--@include: @/serve/airport/edgenova.md#2-->

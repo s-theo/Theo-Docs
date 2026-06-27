@@ -47,7 +47,7 @@ export const Aside_Data: AsideItem = [
   // },
   {
     image: 'https://i.theojs.cn/logo/edgenova_logo.webp',
-    promo: 'EdgeNova 专属特惠',
+    promo: '边缘节点(EdgeNova) 专属特惠',
     info1: '全场套餐 <span class="promo-text"> 8折: TH888 </span>',
     link: 'https://itheo.top/edgenova',
     rel: 'sponsored noreferrer'

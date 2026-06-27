@@ -19,7 +19,7 @@ export const Footer_Data: FooterData = {
       icon: 'heroicons:globe-alt-solid',
       title: '优质线路',
       links: [
-        { name: 'EdgeNova', link: 'https://itheo.top/edgenova', rel: 'sponsored noreferrer' },
+        { name: '边缘节点(EdgeNova)', link: 'https://itheo.top/edgenova', rel: 'sponsored noreferrer' },
         { name: '快狸(KuaiLi)', link: 'https://itheo.top/kuaili', rel: 'sponsored noreferrer' },
         { name: '速界(SuJie)', link: 'https://itheo.top/sujie', rel: 'sponsored noreferrer' },
         { name: '银河云(GalaxyCloud)', link: 'https://itheo.top/yhy', rel: 'sponsored noreferrer' },

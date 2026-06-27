@@ -2,16 +2,30 @@ import type { AsideItem } from '@theojs/lumen'
 
 export const Aside_Data: AsideItem = [
   {
+    image: 'https://i.theojs.cn/logo/xdm_logo.webp',
+    promo: '星岛梦(StarDream)8折特惠',
+    info1: '全场套餐 <span class="promo-text"> 8折: 2happy80</span>',
+    link: 'https://itheo.top/xdm',
+    rel: 'sponsored noreferrer'
+  },
+  {
     image: 'https://i.theojs.cn/logo/sogo.webp',
     promo: 'Sogo云 8 折特惠',
-    info1: '全场套餐 <span class="promo-text"> 8折: SOGO28</span>',
+    info1: '全场套餐 <span class="promo-text"> 8折: SOGO10000</span>',
     link: 'https://itheo.top/sogo',
+    rel: 'sponsored noreferrer'
+  },
+  {
+    image: 'https://i.theojs.cn/logo/yuzhou_logo.webp',
+    promo: '宇宙云(YuZhou)特惠',
+    info1: '全场套餐 <span class="promo-text"> 8折: YUZHOU553 </span>',
+    link: 'https://itheo.top/yuzhou',
     rel: 'sponsored noreferrer'
   },
   {
     image: 'https://i.theojs.cn/logo/1fly_logo.webp',
     promo: '一翻云(1fly) 8 折特惠',
-    info1: '全场套餐 <span class="promo-text"> 8折: 1FLYYUN</span>',
+    info1: '全场套餐 <span class="promo-text"> 9折: 1FLYYUN</span>',
     link: 'https://itheo.top/1fly',
     rel: 'sponsored noreferrer'
   },
@@ -23,13 +37,6 @@ export const Aside_Data: AsideItem = [
     link: 'https://itheo.top/qyt',
     rel: 'sponsored noreferrer'
   },
-  {
-    image: 'https://i.theojs.cn/logo/yuzhou_logo.webp',
-    promo: '宇宙云(YuZhou)特惠',
-    info1: '全场套餐 <span class="promo-text"> 8折: YUZHOU553 </span>',
-    link: 'https://itheo.top/yuzhou',
-    rel: 'sponsored noreferrer'
-  },
   // {
   //   image: 'https://i.theojs.cn/logo/qyt.webp',
   //   promo: '青云梯(QingYunTi)特惠',
@@ -38,6 +45,27 @@ export const Aside_Data: AsideItem = [
   //   link: 'https://itheo.top/qyt',
   //   rel: 'sponsored noreferrer'
   // },
+  {
+    image: 'https://i.theojs.cn/logo/edgenova_logo.webp',
+    promo: 'EdgeNova 专属特惠',
+    info1: '全场套餐 <span class="promo-text"> 8折: TH888 </span>',
+    link: 'https://itheo.top/edgenova',
+    rel: 'sponsored noreferrer'
+  },
+  {
+    image: 'https://i.theojs.cn/logo/kuaili_logo.webp',
+    promo: '快狸(KuaiLi) 专属特惠',
+    info1: '全场套餐 <span class="promo-text"> 8折: theo66 </span>',
+    link: 'https://itheo.top/kuaili',
+    rel: 'sponsored noreferrer'
+  },
+  {
+    image: 'https://i.theojs.cn/logo/sujie_logo.webp',
+    promo: '速界(SuJie) 特惠',
+    info1: '全场套餐 <span class="promo-text"> 8折: sujie888 </span>',
+    link: 'https://itheo.top/sujie',
+    rel: 'sponsored noreferrer'
+  },
   // {
   //   image: 'https://i.theojs.cn/logo/totoro.webp',
   //   promo: '龙猫云(TotoroCloud)特惠',

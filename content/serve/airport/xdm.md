@@ -67,12 +67,12 @@ head:
 
 <!-- #endregion 3 -->
 
-<!-- ## 星岛梦(StarDream)VPN真实测速图（高峰期表现实测）-->
+## 星岛梦(StarDream)VPN真实测速图（高峰期表现实测）
 
-<!-- ![星岛梦(StarDream) 三网拓扑 =688x](https://i.theojs.cn/airport/StarDream_analyze.webp)
+<!-- ![星岛梦(StarDream) 三网拓扑 =688x](https://i.theojs.cn/airport/StarDream_analyze.webp) -->
 
-![星岛梦(StarDream) 流媒体解锁图 =688x](https://i.theojs.cn/airport/StarDream_fulltest.webp)
+![星岛梦(StarDream) 流媒体解锁图 =688x](https://i.theojs.cn/airport/xdm_fulltest.webp)
 
-![星岛梦(StarDream) 上海微软测速图 =688x](https://i.theojs.cn/airport/StarDream_speed.webp) -->
+![星岛梦(StarDream) 测速图 =688x](https://i.theojs.cn/airport/xdm_speed.webp)
 
 <!--@include: @/bottom.md-->

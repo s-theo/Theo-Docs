@@ -1,6 +1,7 @@
 import type { DefaultTheme } from 'vitepress'
 
 const code = '<span class="VPBadge tip small" aria-hidden="true">附折扣码</span>'
+const ty = '<span class="VPBadge tip small" aria-hidden="true">通用订阅</span>'
 const cq = '<span class="VPBadge tip small" aria-hidden="true">附长期折扣码</span>'
 const zc = '<span class="VPBadge tip small" aria-hidden="true">注册试用</span>'
 const wx = '<span class="VPBadge tip small" aria-hidden="true">无限流量</span>'
@@ -36,7 +37,7 @@ export function Sidebar_notes(): SidebarItem[] {
         { text: '添加 1Panel 第三方应用商店', link: '1panel-third-party-app-store' },
         { text: 'Tabby 配置同步', link: 'tabby-sync' },
         { text: '添加 群晖DSM7.X 第三方套件源', link: 'synology-third-party-suite' },
-        { text: '在线机场订阅节点测速平台', link: 'airportest' },
+        // { text: '在线机场订阅节点测速平台', link: 'airportest' },
         { text: '2026年最新 telegram（电报、飞机）注册使用教程', link: 'telegram' }
       ]
     },
@@ -293,7 +294,7 @@ export function Sidebar_serve(): SidebarItem[] {
       // collapsed: true,
       base: '/serve/airport/',
       items: [
-        { text: '星岛梦(StarDream)' + code, link: 'xdm' },
+        { text: '星岛梦(StarDream)' + ty + code, link: 'xdm' },
         { text: 'Sogo云' + code, link: 'sogo' },
         { text: '宇宙云(YuZhou)' + code, link: 'yuzhou' },
         { text: '一翻云(1Fly)' + code, link: '1fly' },
@@ -304,15 +305,15 @@ export function Sidebar_serve(): SidebarItem[] {
         { text: '速界(SuJie)' + code, link: 'sujie' },
         { text: '二猫云(2mao)', link: '2mao' },
         { text: '银河云(GalaxyCloud)' + code, link: 'galaxy' },
-        { text: '美乐云(MeiLe)' + zc, link: 'meile' },
+        //  { text: '美乐云(MeiLe)' + zc, link: 'meile' },
         { text: 'Echo' + zc, link: 'echo' },
         { text: 'TNT Cloud' + code, link: 'tnt' },
         { text: '龙猫云(TotoroCloud)', link: 'totoro' },
         { text: '小蜜蜂(XmfWww)' + code, link: 'bee' },
-        { text: 'OKANC' + zc, link: 'okanc' },
+        // { text: 'OKANC' + zc, link: 'okanc' },
         { text: '肥猫云(FatCatCloud)', link: 'fatcat' },
         { text: '酷酷云(KuKuCloud)', link: 'kukucloud' },
-        { text: '奈云(NaiYun)' + zc, link: 'naiyun' },
+        // { text: '奈云(NaiYun)' + zc, link: 'naiyun' },
         { text: '飞鸟机场(FlyingBird)' + cq, link: 'flyingbird' }
       ]
     },

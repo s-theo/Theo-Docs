@@ -181,24 +181,24 @@ export const Aside_Data: AsideItem = [
   //   link: 'https://itheo.top/flyingbird',
   //   rel: 'sponsored noreferrer'
   // },
-  {
-    image: 'https://i.theojs.cn/logo/meile.webp',
-    promo: '美乐云(MeiLe)',
-    link: 'https://itheo.top/meile',
-    rel: 'sponsored noreferrer'
-  },
-  {
-    image: 'https://i.theojs.cn/logo/okanc.webp',
-    promo: 'OKNAC',
-    link: 'https://itheo.top/okanc',
-    rel: 'sponsored noreferrer'
-  },
-  {
-    image: 'https://i.theojs.cn/logo/naiyun_logo.webp',
-    promo: '奈云(NaiYun)',
-    link: 'https://itheo.top/naiyun',
-    rel: 'sponsored noreferrer'
-  },
+  // {
+  //   image: 'https://i.theojs.cn/logo/meile.webp',
+  //   promo: '美乐云(MeiLe)',
+  //   link: 'https://itheo.top/meile',
+  //   rel: 'sponsored noreferrer'
+  // },
+  // {
+  //   image: 'https://i.theojs.cn/logo/okanc.webp',
+  //   promo: 'OKNAC',
+  //   link: 'https://itheo.top/okanc',
+  //   rel: 'sponsored noreferrer'
+  // },
+  // {
+  //   image: 'https://i.theojs.cn/logo/naiyun_logo.webp',
+  //   promo: '奈云(NaiYun)',
+  //   link: 'https://itheo.top/naiyun',
+  //   rel: 'sponsored noreferrer'
+  // },
   {
     image: 'https://i.theojs.cn/logo/echo_logo.webp',
     promo: 'Echo',

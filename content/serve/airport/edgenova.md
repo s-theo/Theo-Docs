@@ -51,6 +51,7 @@ head:
 
 |     套餐类型      |  流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                      套餐购买                                                       |
 | :---------------: | :-------: | :--: | :--: | :----: | :---: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
+|   **限时月付**    |  **72G**  | ¥15  |  -   |   -    |   -   |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/edgenova" rel="sponsored noreferrer" /> |
 |   **限时年付**    |  **45G**  |  -   |  -   |   -    | ¥108  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/edgenova" rel="sponsored noreferrer" /> |
 | **极界·标准套餐** | **120G**  | ¥25  | ¥70  |  ¥130  | ¥270  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/edgenova" rel="sponsored noreferrer" /> |
 | **极界·进阶套餐** | **250G**  | ¥50  | ¥145 |  ¥280  | ¥570  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/edgenova" rel="sponsored noreferrer" /> |

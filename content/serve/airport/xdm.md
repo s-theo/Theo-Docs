@@ -43,8 +43,7 @@ head:
 
 :::tip
 
-- **8折折扣码**:<Copy type="tip" label="点击复制折扣码: 2happy80" text="2happy80" bold />
-- **85折折扣码**:<Copy type="tip" label="点击复制折扣码: 2happy85" text="2happy85" bold />
+- **9折折扣码**:<Copy type="tip" label="点击复制折扣码: nmw888" text="nmw888" bold />
 - **新手建议**：轻度使用选**贴心小包**，日常流媒体与 AI 工具推荐**进阶300G / 闪光500G**。
 - /年付**8**折/2年付**7**折/3年付**6**折 配合折扣码折上折，最高可达**48**折
   :::

@@ -3,8 +3,8 @@ import type { AsideItem } from '@theojs/lumen'
 export const Aside_Data: AsideItem = [
   {
     image: 'https://i.theojs.cn/logo/xdm_logo.webp',
-    promo: '星岛梦(StarDream)8折特惠',
-    info1: '全场套餐 <span class="promo-text"> 8折: 2happy80</span>',
+    promo: '星岛梦(StarDream)9折特惠',
+    info1: '全场套餐 <span class="promo-text"> 9折: nmw888</span>',
     link: 'https://itheo.top/xdm',
     rel: 'sponsored noreferrer'
   },

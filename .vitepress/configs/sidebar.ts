@@ -300,7 +300,7 @@ export function Sidebar_serve(): SidebarItem[] {
         { text: '一翻云(1Fly)' + code, link: '1fly' },
         { text: '青云梯(QingYunTi)' + cq, link: 'qingyunti' },
         { text: '隐云(YinYun)' + zc + wx, link: 'yinyun' },
-        { text: '二猫云(2mao)', link: '2mao' },
+        { text: '二猫云(2mao)' + code, link: '2mao' },
         { text: 'Echo' + zc, link: 'echo' },
         { text: 'SSLAR', link: 'sslar' },
         { text: '边缘节点(EdgeNova)' + code, link: 'edgenova' },

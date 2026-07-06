@@ -46,6 +46,13 @@ export const Aside_Data: AsideItem = [
   //   rel: 'sponsored noreferrer'
   // },
   {
+    image: 'https://i.theojs.cn/logo/2mao_logo.webp',
+    promo: '二猫云(2mao)特惠',
+    info1: '全场套餐 <span class="promo-text"> 8折: ermao888 </span>',
+    link: 'https://itheo.top/2mao',
+    rel: 'sponsored noreferrer'
+  },
+  {
     image: 'https://i.theojs.cn/logo/edgenova_logo.webp',
     promo: '边缘节点(EdgeNova) 专属特惠',
     info1: '全场套餐 <span class="promo-text"> 8折: TH888 </span>',
@@ -163,12 +170,12 @@ export const Aside_Data: AsideItem = [
     link: 'https://itheo.top/yinyun',
     rel: 'sponsored noreferrer'
   },
-  {
-    image: 'https://i.theojs.cn/logo/2mao_logo.webp',
-    promo: '二猫云(2mao)',
-    link: 'https://itheo.top/2mao',
-    rel: 'sponsored noreferrer'
-  },
+  // {
+  //   image: 'https://i.theojs.cn/logo/2mao_logo.webp',
+  //   promo: '二猫云(2mao)',
+  //   link: 'https://itheo.top/2mao',
+  //   rel: 'sponsored noreferrer'
+  // },
   // {
   //   image: { src: 'https://i.theojs.cn/logo/galaxy_transparent_square.webp', crop: true },
   //   promo: '银河云(GalaxyCloud)',

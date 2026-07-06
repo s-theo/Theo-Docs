@@ -206,6 +206,12 @@ export const Aside_Data: AsideItem = [
     rel: 'sponsored noreferrer'
   },
   {
+    image: 'https://i.theojs.cn/logo/sslar_logo.webp',
+    promo: 'SSLAR',
+    link: 'https://itheo.top/sslar',
+    rel: 'sponsored noreferrer'
+  },
+  {
     image: 'https://i.theojs.cn/logo/totoro.webp',
     promo: '龙猫云(TotoroCloud)',
     link: 'https://itheo.top/totoro',

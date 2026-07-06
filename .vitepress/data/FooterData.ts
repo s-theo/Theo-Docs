@@ -34,7 +34,8 @@ export const Footer_Data: FooterData = {
         { name: '龙猫云(TotoroCloud)', link: 'https://itheo.top/totoro', rel: 'sponsored noreferrer' },
         { name: '小蜜蜂(XmfWww)', link: 'https://itheo.top/bee', rel: 'sponsored noreferrer' },
         // { name: 'OKANC', link: 'https://itheo.top/okanc', rel: 'sponsored noreferrer' },
-        { name: 'TNT Cloud', link: 'https://itheo.top/tnt', rel: 'sponsored noreferrer' }
+        { name: 'Echo', link: 'https://itheo.top/echo', rel: 'sponsored noreferrer' },
+        { name: 'SSLAR', link: 'https://itheo.top/sslar', rel: 'sponsored noreferrer' }
       ]
     },
     {
@@ -44,8 +45,8 @@ export const Footer_Data: FooterData = {
         { name: '肥猫云(FatCatCloud)', link: 'https://itheo.top/fatcat', rel: 'sponsored noreferrer' },
         { name: '二猫云(2mao)', link: 'https://itheo.top/2mao', rel: 'sponsored noreferrer' },
         // { name: '奈云(NaiYun)', link: 'https://itheo.top/naiyun', rel: 'sponsored noreferrer' },
-        { name: '飞鸟机场(FlyingBird)', link: 'https://itheo.top/flyingbird', rel: 'sponsored noreferrer' },
-        { name: 'Echo', link: 'https://itheo.top/echo', rel: 'sponsored noreferrer' }
+        { name: 'TNT Cloud', link: 'https://itheo.top/tnt', rel: 'sponsored noreferrer' },
+        { name: '飞鸟机场(FlyingBird)', link: 'https://itheo.top/flyingbird', rel: 'sponsored noreferrer' }
       ]
     },
     {

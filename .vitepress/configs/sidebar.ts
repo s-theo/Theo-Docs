@@ -302,7 +302,7 @@ export function Sidebar_serve(): SidebarItem[] {
         { text: '隐云(YinYun)' + zc + wx, link: 'yinyun' },
         { text: '二猫云(2mao)', link: '2mao' },
         { text: 'Echo' + zc, link: 'echo' },
-        { text: 'SSLAR' + zc, link: 'sslar' },
+        { text: 'SSLAR', link: 'sslar' },
         { text: '边缘节点(EdgeNova)' + code, link: 'edgenova' },
         { text: '快狸(KuaiLi)' + code, link: 'kuaili' },
         { text: '速界(SuJie)' + code, link: 'sujie' },

@@ -20,7 +20,7 @@ head:
 
 **最便宜的订阅有8元 60g/月(年付)。**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/qyt.webp" name="青云梯(QingYunTi)VPN官网" link="https://itheo.top/qyt" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/qyt.webp" name="青云梯(QingYunTi)VPN官网" link="https://ilil.uk/qyt" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -70,11 +70,11 @@ head:
 
 |   套餐类型   |  流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                    套餐购买                                                    |
 | :----------: | :-------: | :--: | :--: | :----: | :---: | :------: | :------------------------------------------------------------------------------------------------------------: |
-| **年付小包** |  **60G**  |  -   |  -   |   -    |  ¥96  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
-|   **VIP1**   | **150G**  | ¥25  | ¥67  |  ¥127  | ¥240  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
-|   **VIP2**   | **300G**  | ¥45  | ¥121 |  ¥229  | ¥432  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
-|   **VIP3**   | **600G**  | ¥85  | ¥229 |  ¥433  | ¥816  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
-|   **VIP4**   | **1000G** | ¥150 | ¥400 |  ¥750  | ¥1360 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/qyt" rel="sponsored noreferrer" /> |
+| **年付小包** |  **60G**  |  -   |  -   |   -    |  ¥96  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/qyt" rel="sponsored noreferrer" /> |
+|   **VIP1**   | **150G**  | ¥25  | ¥67  |  ¥127  | ¥240  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/qyt" rel="sponsored noreferrer" /> |
+|   **VIP2**   | **300G**  | ¥45  | ¥121 |  ¥229  | ¥432  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/qyt" rel="sponsored noreferrer" /> |
+|   **VIP3**   | **600G**  | ¥85  | ¥229 |  ¥433  | ¥816  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/qyt" rel="sponsored noreferrer" /> |
+|   **VIP4**   | **1000G** | ¥150 | ¥400 |  ¥750  | ¥1360 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/qyt" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

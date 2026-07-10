@@ -1,7 +1,7 @@
 // .vitepress/theme/index.js
 import { useData, useRoute } from 'vitepress'
-import giscusTalk from 'vitepress-plugin-comment-with-giscus'
 import DefaultTheme from 'vitepress/theme'
+import giscusTalk from 'vitepress-plugin-comment-with-giscus'
 
 export default {
   ...DefaultTheme,

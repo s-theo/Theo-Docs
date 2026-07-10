@@ -1,6 +1,7 @@
 import type { DefaultTheme } from 'vitepress'
 
 const code = '<span class="VPBadge tip small" aria-hidden="true">附折扣码</span>'
+const ty = '<span class="VPBadge tip small" aria-hidden="true">通用订阅</span>'
 const cq = '<span class="VPBadge tip small" aria-hidden="true">附长期折扣码</span>'
 const zc = '<span class="VPBadge tip small" aria-hidden="true">注册试用</span>'
 const wx = '<span class="VPBadge tip small" aria-hidden="true">无限流量</span>'
@@ -15,7 +16,7 @@ export const sidebar: DefaultTheme.SidebarMulti = {
   '/fe/': { base: '/fe/', items: Sidebar_FE() },
   '/notes/': { base: '/notes/', items: Sidebar_notes() },
   '/serve/': { base: '/serve/', items: Sidebar_serve() },
-  '/streaming/': { base: '/streaming/', items: Sidebar_streaming() },
+  '/streaming/': Sidebar_streaming(),
   '/ai/': { base: '/ai/', items: Sidebar_ai() }
 }
 
@@ -29,14 +30,14 @@ export function Sidebar_notes(): SidebarItem[] {
         { text: 'PicGo/PicList + Github搭建图床', link: 'build-picture-bed' },
         { text: 'GitHub Actions 工作流程', link: 'github-actions' },
         { text: 'VS Code 使用技巧', link: 'vscode' },
-        { text: '为项目添加 Prettier 及规范提交信息工具', link: 'prettier' },
+        { text: '为项目添加 Biome 及规范提交信息工具', link: 'biome' },
         { text: '使用 GPG 签名 Git Commit', link: 'gpg' },
         { text: '使用 nvm 管理不同版本的 node', link: 'nvm' },
         { text: '优化 iOS/Android 来电信息界面', link: 'vcards' },
         { text: '添加 1Panel 第三方应用商店', link: '1panel-third-party-app-store' },
         { text: 'Tabby 配置同步', link: 'tabby-sync' },
         { text: '添加 群晖DSM7.X 第三方套件源', link: 'synology-third-party-suite' },
-        { text: '在线机场订阅节点测速平台', link: 'airportest' },
+        // { text: '在线机场订阅节点测速平台', link: 'airportest' },
         { text: '2026年最新 telegram（电报、飞机）注册使用教程', link: 'telegram' }
       ]
     },
@@ -231,22 +232,21 @@ export function Sidebar_streaming(): SidebarItem[] {
     {
       // text: 'Netflix 观看指南',
       // collapsed: true,
-      base: '/streaming/',
       items: [
         {
           text: 'Netflix 观看指南',
-          link: 'netflix-guide',
+          link: '/streaming/netflix-guide',
           items: [
-            { text: '秘密分类的技巧', link: 'netflix-secret-classification' },
-            { text: '全球各国影视剧数量', link: 'netflix-number-of-movies-and-tv-series' },
-            { text: '常用浏览器插件汇总', link: 'netflix-browser-plug-in-summary' }
+            { text: '秘密分类的技巧', link: '/streaming/netflix-secret-classification' },
+            { text: '全球各国影视剧数量', link: '/streaming/netflix-number-of-movies-and-tv-series' },
+            { text: '常用浏览器插件汇总', link: '/streaming/netflix-browser-plug-in-summary' }
           ]
         },
-        { text: 'Disney+ 观看指南', link: 'disney-introduce' },
-        { text: 'Spotify Premium 指南', link: 'spotify' },
-        { text: 'YouTube Premium 会员权益及订阅指南', link: 'youtube' },
-        { text: 'Hulu 国内观看指南', link: 'hulu' },
-        { text: 'HBO Max 国内观看指南', link: 'hbo-max' }
+        { text: 'Disney+ 观看指南', link: '/streaming/disney-introduce' },
+        { text: 'Spotify Premium 指南', link: '/streaming/spotify' },
+        { text: 'YouTube Premium 会员权益及订阅指南', link: '/streaming/youtube' },
+        { text: 'Hulu 国内观看指南', link: '/streaming/hulu' },
+        { text: 'HBO Max 国内观看指南', link: '/streaming/hbo-max' }
       ]
     }
   ]
@@ -293,22 +293,29 @@ export function Sidebar_serve(): SidebarItem[] {
       // collapsed: true,
       base: '/serve/airport/',
       items: [
+        { text: '星岛梦(StarDream)' + ty + code, link: 'xdm' },
         { text: 'Sogo云' + code, link: 'sogo' },
+        { text: '宇宙云(YuZhou)' + code, link: 'yuzhou' },
         { text: '一翻云(1Fly)' + code, link: '1fly' },
         { text: '青云梯(QingYunTi)' + cq, link: 'qingyunti' },
         { text: '隐云(YinYun)' + zc + wx, link: 'yinyun' },
-        { text: '二猫云(2mao)', link: '2mao' },
-        { text: '宇宙云(YuZhou)' + code, link: 'yuzhou' },
+        { text: '二猫云(2mao)' + code, link: '2mao' },
+        { text: 'Echo' + code + zc, link: 'echo' },
+        { text: 'SSLAR' + code, link: 'sslar' },
+        { text: '边缘节点(EdgeNova)' + code, link: 'edgenova' },
+        { text: '快狸(KuaiLi)' + code, link: 'kuaili' },
+        { text: '速界(SuJie)' + code, link: 'sujie' },
+        { text: '可达(KeDa)', link: 'keda' },
         { text: '银河云(GalaxyCloud)' + code, link: 'galaxy' },
-        { text: '美乐云(MeiLe)' + zc, link: 'meile' },
-        { text: 'Echo' + zc, link: 'echo' },
+        { text: '光速云(LightSpeed)' + code, link: 'lightspeed' },
+        //  { text: '美乐云(MeiLe)' + zc, link: 'meile' },
         { text: 'TNT Cloud' + code, link: 'tnt' },
         { text: '龙猫云(TotoroCloud)', link: 'totoro' },
         { text: '小蜜蜂(XmfWww)' + code, link: 'bee' },
-        { text: 'OKANC' + zc, link: 'okanc' },
+        // { text: 'OKANC' + zc, link: 'okanc' },
         { text: '肥猫云(FatCatCloud)', link: 'fatcat' },
         { text: '酷酷云(KuKuCloud)', link: 'kukucloud' },
-        { text: '奈云(NaiYun)' + zc, link: 'naiyun' },
+        // { text: '奈云(NaiYun)' + zc, link: 'naiyun' },
         { text: '飞鸟机场(FlyingBird)' + cq, link: 'flyingbird' }
       ]
     },
@@ -340,7 +347,7 @@ export function Sidebar_serve(): SidebarItem[] {
     {
       text: '科学上网软件使用指南',
       base: '/serve/antiwall/',
-      link: 'sunmmary',
+      link: 'summary',
       items: [
         { text: 'Clash Verge Rev', link: 'clash-verge-rev' },
         { text: 'v2rayN', link: 'v2rayn' },

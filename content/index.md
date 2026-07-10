@@ -17,13 +17,13 @@ hero:
     height: 320
 
   Notice:
-    title: '<span class="promo-title">Sogo云 开业超值优惠大放送!</span>'
+    title: '<span class="promo-title">Sogo云 新用户专属优惠大放送!</span>'
     desc: |
-      · 8折<span class="promo-text"> 优惠码: SOGO28 </span>
+      · 8折<span class="promo-text"> 优惠码: SOGO10000 </span>
       · 配合优惠码折上折，最高可达<span class="promo-text">48折</span>
     # date: '7月31号23点59分'
     # dateText: '活动截止至'
-    link: https://itheo.top/sogo
+    link: https://ilil.uk/sogo
     rel: sponsored noreferrer
 
   actions:
@@ -73,4 +73,4 @@ features:
     linkText: 查看更多
 ---
 
-<Home />
+<Underline />

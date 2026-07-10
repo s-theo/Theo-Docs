@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有22元 无限流量/月(年付)。**
 
-**点击购买👉👉** <Pill image="https://i.theojs.cn/airport/yinyun_logo.webp" name="隐云(YinYun)VPN官网"  link="https://itheo.top/yinyun"  rel="sponsored noreferrer" />
+**点击购买👉👉** <Pill image="https://i.theojs.cn/airport/yinyun_logo.webp" name="隐云(YinYun)VPN官网"  link="https://ilil.uk/yinyun"  rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -54,21 +54,21 @@ head:
 **专属客户端模式**
 | 套餐类型 | 流量/月 | 月付 | 季付 | 年付 | 设备限制 | 套餐购买 |
 | :--------------------: | :----------------: | :--: | :-----: | :-----: | :------------: | :---------------------------------------------------------------------------------------------------------------: |
-| **轻量版** | **流量不限** | ¥29 | ¥81.76 | ¥273.91 | 2 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yinyun" rel="sponsored noreferrer" /> |
-| **标准版** | **流量不限** | ¥49 | ¥138.15 | ¥462.81 | 5 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yinyun" rel="sponsored noreferrer" /> |
-| **高级版** | **流量不限** | ¥99 | ¥279.12 | ¥935.07 | 10 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yinyun" rel="sponsored noreferrer" /> |
+| **轻量版** | **流量不限** | ¥29 | ¥81.76 | ¥273.91 | 2 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/yinyun" rel="sponsored noreferrer" /> |
+| **标准版** | **流量不限** | ¥49 | ¥138.15 | ¥462.81 | 5 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/yinyun" rel="sponsored noreferrer" /> |
+| **高级版** | **流量不限** | ¥99 | ¥279.12 | ¥935.07 | 10 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/yinyun" rel="sponsored noreferrer" /> |
 
 **通用订阅模式**
 | 套餐类型 | 流量/月 | 月付 | 季付 | 年付 | 设备限制 | 套餐购买 |
 | :--------------------: | :----------------: | :--: | :-----: | :-----: | :------------: | :---------------------------------------------------------------------------------------------------------------: |
-| **轻量版** | **150G** | ¥25 | ¥70.48 | ¥236.13 | 无限制 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yinyun" rel="sponsored noreferrer" /> |
-| **标准版** | **400G** | ¥49 | ¥138.15 | ¥462.81 | 无限制 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yinyun" rel="sponsored noreferrer" /> |
-| **高级版** | **1024G** | ¥99 | ¥279.12 | ¥935.07 | 无限制 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yinyun" rel="sponsored noreferrer" /> |
+| **轻量版** | **150G** | ¥25 | ¥70.48 | ¥236.13 | 无限制 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/yinyun" rel="sponsored noreferrer" /> |
+| **标准版** | **400G** | ¥49 | ¥138.15 | ¥462.81 | 无限制 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/yinyun" rel="sponsored noreferrer" /> |
+| **高级版** | **1024G** | ¥99 | ¥279.12 | ¥935.07 | 无限制 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/yinyun" rel="sponsored noreferrer" /> |
 
 **静态住宅IP**
 | 套餐类型 | 月付 | 季付 | 年付 | 套餐购买 |
 | :--------------------: | :----------------: | :-----: | :------------: | :---------------------------------------------------------------------------------------------------------------: |
-| **静态住宅IPx1个** | ¥199 | ¥567 | ¥1910 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yinyun" rel="sponsored noreferrer" /> |
+| **静态住宅IPx1个** | ¥199 | ¥567 | ¥1910 | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/yinyun" rel="sponsored noreferrer" /> |
 
 ::: info 各模式区别
 

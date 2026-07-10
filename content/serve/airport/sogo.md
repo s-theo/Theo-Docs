@@ -15,11 +15,7 @@ head:
 
 **最便宜的订阅有15元 60g/月(年付)。**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/sogo.webp" name="Sogo云VPN官网"  link="https://itheo.top/sogo" rel="sponsored noreferrer" />
-
-**🎉 现在充值直接加赠，最高多拿40%！**
-
-> 充100得120｜充200得250｜充300得400｜充500得700
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/sogo.webp" name="Sogo云VPN官网"  link="https://ilil.uk/sogo" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -55,7 +51,7 @@ head:
 
 ::: tip
 
-- **8折折扣码**:<Copy type="tip" label="点击复制折扣码: SOGO28" text="SOGO28" bold />
+- **8折折扣码**:<Copy type="tip" label="点击复制折扣码: SOGO10000" text="SOGO10000" bold />
 - 季付**95**折/半年付**9**折/年付**85**折/2年付**8**折/3年付**7**折 配合折扣码折上折，最高可达**48**折
 - **新手建议**：轻度使用选**年付小包 / 不限时套餐-基础版**，日常流媒体与 AI 工具推荐**强化版**。
 
@@ -63,19 +59,19 @@ head:
 
 |    套餐类型     |  流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                    套餐购买                                                     |
 | :-------------: | :-------: | :--: | :--: | :----: | :---: | :------: | :-------------------------------------------------------------------------------------------------------------: |
-| **小包-月付版** |  **60G**  | ¥15  |  -   |   -    |   -   |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/sogo" rel="sponsored noreferrer" /> |
-| **小包-年付版** |  **30G**  |  -   |  -   |   -    |  ¥98  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/sogo" rel="sponsored noreferrer" /> |
-|   **基础版**    | **120G**  | ¥25  | ¥65  |  ¥120  | ¥250  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/sogo" rel="sponsored noreferrer" /> |
-|   **优选版**    | **250G**  | ¥45  | ¥125 |  ¥245  | ¥485  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/sogo" rel="sponsored noreferrer" /> |
-|   **强化版**    | **500G**  | ¥80  | ¥230 |  ¥450  | ¥850  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/sogo" rel="sponsored noreferrer" /> |
-|   **顶配版**    | **1000G** | ¥150 | ¥440 |  ¥870  | ¥1750 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/sogo" rel="sponsored noreferrer" /> |
+| **小包-月付版** |  **60G**  | ¥15  |  -   |   -    |   -   |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/sogo" rel="sponsored noreferrer" /> |
+| **小包-年付版** |  **30G**  |  -   |  -   |   -    |  ¥98  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/sogo" rel="sponsored noreferrer" /> |
+|   **基础版**    | **120G**  | ¥25  | ¥65  |  ¥120  | ¥250  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/sogo" rel="sponsored noreferrer" /> |
+|   **优选版**    | **250G**  | ¥45  | ¥125 |  ¥245  | ¥485  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/sogo" rel="sponsored noreferrer" /> |
+|   **强化版**    | **500G**  | ¥80  | ¥230 |  ¥450  | ¥850  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/sogo" rel="sponsored noreferrer" /> |
+|   **顶配版**    | **1000G** | ¥150 | ¥440 |  ¥870  | ¥1750 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/sogo" rel="sponsored noreferrer" /> |
 
 |       套餐类型        | 流量(不限时) | 一次性费用 | 设备限制 |                                                    套餐购买                                                     |
 | :-------------------: | :----------: | :--------: | :------: | :-------------------------------------------------------------------------------------------------------------: |
-| **不限时套餐-基础版** |   **100G**   |    ¥120    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/sogo" rel="sponsored noreferrer" /> |
-| **不限时套餐-优选版** |   **250G**   |    ¥220    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/sogo" rel="sponsored noreferrer" /> |
-| **不限时套餐-强化版** |   **500G**   |    ¥450    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/sogo" rel="sponsored noreferrer" /> |
-| **不限时套餐-至尊版** |  **1000G**   |    ¥850    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/sogo" rel="sponsored noreferrer" /> |
+| **不限时套餐-基础版** |   **100G**   |    ¥120    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/sogo" rel="sponsored noreferrer" /> |
+| **不限时套餐-优选版** |   **250G**   |    ¥220    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/sogo" rel="sponsored noreferrer" /> |
+| **不限时套餐-强化版** |   **500G**   |    ¥450    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/sogo" rel="sponsored noreferrer" /> |
+| **不限时套餐-至尊版** |  **1000G**   |    ¥850    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/sogo" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

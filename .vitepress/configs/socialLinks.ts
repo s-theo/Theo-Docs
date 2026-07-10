@@ -10,7 +10,7 @@ export const socialLinks: DefaultTheme.SocialLink[] = [
   },
   {
     icon: 'gmail',
-    link: 'mailto:fanxiaobin422@gmail.com',
+    link: 'mailto:s.theojs@gmail.com',
     ariaLabel: 'Gmail'
   }
 ]

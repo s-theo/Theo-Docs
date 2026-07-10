@@ -1,10 +1,11 @@
 /// <reference types="vite/client" />
+
+import * as lm from '@theojs/lumen'
 import type { EnhanceAppContext } from 'vitepress'
 import { useRoute } from 'vitepress'
-import imageViewer from 'vitepress-plugin-image-viewer'
 import DefaultTheme from 'vitepress/theme'
+import imageViewer from 'vitepress-plugin-image-viewer'
 import { h } from 'vue'
-import * as lm from '@theojs/lumen'
 import '@theojs/lumen/style'
 import { Aside_Data, Footer_Data } from '../data'
 import 'viewerjs/dist/viewer.min.css'
@@ -27,7 +28,7 @@ export default {
       src: import.meta.env.VITE_UMAMI_SRC,
       domains: 'doc.theojs.cn'
     })
-    app.component('Home', lm.Underline)
+    app.component('Underline', lm.Underline)
     app.component('Pill', lm.Pill)
     app.component('Links', lm.Links)
     app.component('Copy', lm.CopyText)

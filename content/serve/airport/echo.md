@@ -17,7 +17,7 @@ head:
 
 **注册试用: 5GB/3 小时**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/echo_logo.webp" name="Echo VPN官网" link="https://itheo.top/echo" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/echo_logo.webp" name="Echo VPN官网" link="https://ilil.uk/echo" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -50,8 +50,7 @@ head:
 
 ::: tip
 
-<!-- - **8折折扣码** <Copy type="tip" label="点击复制折扣码: YNDfPkzi" text="YNDfPkzi" bold /> -->
-
+- **8折折扣码** <Copy type="tip" label="点击复制折扣码: YNDfPkzi" text="YNDfPkzi" bold />
 - 季付**9**折/半年**85**折/年付**8**折 配合折扣码折上折，最高可达**64**折
 - **新手建议**：轻度使用选 **Lite**，日常流媒体与 AI 工具推荐 **Basic / Standard**。
 
@@ -59,11 +58,11 @@ head:
 
 |    套餐类型    |  流量/月  | 月付 | 季付 | 半年付 | 年付 | 设备限制 |                                                    套餐购买                                                     |
 | :------------: | :-------: | :--: | :--: | :----: | :--: | :------: | :-------------------------------------------------------------------------------------------------------------: |
-|    **Lite**    |  **80G**  | ¥10  | ¥27  |  ¥51   | ¥96  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/echo" rel="sponsored noreferrer" /> |
-|   **Basic**    |  **80G**  | ¥13  | ¥35  |  ¥66   | ¥124 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/echo" rel="sponsored noreferrer" /> |
-|  **Standard**  | **150G**  | ¥19  | ¥51  |  ¥96   | ¥182 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/echo" rel="sponsored noreferrer" /> |
-|  **Premium**   | **300G**  | ¥36  | ¥97  |  ¥183  | ¥345 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/echo" rel="sponsored noreferrer" /> |
-| **Enterprise** | **1500G** | ¥180 |  -   |   -    |  -   |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/echo" rel="sponsored noreferrer" /> |
+|    **Lite**    |  **80G**  | ¥10  | ¥27  |  ¥51   | ¥96  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/echo" rel="sponsored noreferrer" /> |
+|   **Basic**    |  **80G**  | ¥13  | ¥35  |  ¥66   | ¥124 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/echo" rel="sponsored noreferrer" /> |
+|  **Standard**  | **150G**  | ¥19  | ¥51  |  ¥96   | ¥182 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/echo" rel="sponsored noreferrer" /> |
+|  **Premium**   | **300G**  | ¥36  | ¥97  |  ¥183  | ¥345 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/echo" rel="sponsored noreferrer" /> |
+| **Enterprise** | **1500G** | ¥180 |  -   |   -    |  -   |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/echo" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

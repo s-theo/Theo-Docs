@@ -17,7 +17,7 @@ head:
 
 **注册试用: 5GB/72 小时**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/meile.webp" name="美乐云(MeiLe)VPN官网"  link="https://itheo.top/meile" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/meile.webp" name="美乐云(MeiLe)VPN官网"  link="https://ilil.uk/meile" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -58,12 +58,12 @@ head:
 
 |   套餐类型   | 流量/月  | 月付 | 季付 | 半年付 | 年付 | 设备限制 |                                                     套餐购买                                                     |
 | :----------: | :------: | :--: | :--: | :----: | :--: | :------: | :--------------------------------------------------------------------------------------------------------------: |
-| **Base套餐** | **128G** | ¥15  | ¥42  |  ¥80   | ¥150 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/meile" rel="sponsored noreferrer" /> |
-| **Pro套餐**  | **238G** | ¥26  | ¥75  |  ¥150  | ¥260 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/meile" rel="sponsored noreferrer" /> |
+| **Base套餐** | **128G** | ¥15  | ¥42  |  ¥80   | ¥150 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/meile" rel="sponsored noreferrer" /> |
+| **Pro套餐**  | **238G** | ¥26  | ¥75  |  ¥150  | ¥260 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/meile" rel="sponsored noreferrer" /> |
 
 |    套餐类型    | 流量(不限时) | 一次性费用 | 设备限制 |                                                     套餐购买                                                     |
 | :------------: | :----------: | :--------: | :------: | :--------------------------------------------------------------------------------------------------------------: |
-| **不限时套餐** |   **128G**   |    ¥118    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/meile" rel="sponsored noreferrer" /> |
+| **不限时套餐** |   **128G**   |    ¥118    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/meile" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

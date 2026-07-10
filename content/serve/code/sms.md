@@ -35,7 +35,7 @@ head:
 <Pill
   image="https://i.theojs.cn/logo/hero-sms.svg"
   name="Hero SMS官网"
-  link="https://itheo.top/sms"
+  link="https://ilil.uk/sms"
   rel="sponsored noreferrer"
 />
 
@@ -43,7 +43,7 @@ head:
 
 ### 一、注册与充值
 
-1. 打开官网：<Pill image="https://i.theojs.cn/logo/hero-sms.svg" name="Hero SMS官网" link="https://itheo.top/sms" rel="sponsored noreferrer" />
+1. 打开官网：<Pill image="https://i.theojs.cn/logo/hero-sms.svg" name="Hero SMS官网" link="https://ilil.uk/sms" rel="sponsored noreferrer" />
 1. 使用邮箱注册账号
 1. 充值余额（支持信用卡 / USDT / BTC）
 1. 充值完成即可开始使用
@@ -146,7 +146,7 @@ Hero SMS 提供 API，适合：
 <Pill
   image="https://i.theojs.cn/logo/hero-sms.svg"
   name="Hero SMS官网"
-  link="https://itheo.top/sms"
+  link="https://ilil.uk/sms"
   rel="sponsored noreferrer"
 />
 

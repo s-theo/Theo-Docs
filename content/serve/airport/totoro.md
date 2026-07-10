@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有12元 100g/月(年付)。**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/totoro.webp" name="龙猫云(TotoroCloud)VPN官网" link="https://itheo.top/totoro" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/totoro.webp" name="龙猫云(TotoroCloud)VPN官网" link="https://ilil.uk/totoro" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -55,10 +55,10 @@ head:
 
 | 套餐类型 |  流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                     套餐购买                                                      |
 | :------: | :-------: | :--: | :--: | :----: | :---: | :------: | :---------------------------------------------------------------------------------------------------------------: |
-| **VIP1** | **100G**  | ¥15  | ¥41  |  ¥77   | ¥144  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/totoro" rel="sponsored noreferrer" /> |
-| **VIP2** | **200G**  | ¥30  | ¥81  |  ¥153  | ¥288  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/totoro" rel="sponsored noreferrer" /> |
-| **VIP3** | **400G**  | ¥60  | ¥162 |  ¥306  | ¥576  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/totoro" rel="sponsored noreferrer" /> |
-| **VIP4** | **1000G** | ¥120 | ¥324 |  ¥697  | ¥1152 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/totoro" rel="sponsored noreferrer" /> |
+| **VIP1** | **100G**  | ¥15  | ¥41  |  ¥77   | ¥144  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/totoro" rel="sponsored noreferrer" /> |
+| **VIP2** | **200G**  | ¥30  | ¥81  |  ¥153  | ¥288  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/totoro" rel="sponsored noreferrer" /> |
+| **VIP3** | **400G**  | ¥60  | ¥162 |  ¥306  | ¥576  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/totoro" rel="sponsored noreferrer" /> |
+| **VIP4** | **1000G** | ¥120 | ¥324 |  ¥697  | ¥1152 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/totoro" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

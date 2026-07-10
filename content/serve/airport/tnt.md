@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有8元 60g/月(年付)。**
 
-**点击购买👉👉👉** <Pill :image="{ src: 'https://i.theojs.cn/logo/TNT.webp', crop: true }" name="TNT Cloud VPN官网" link="https://itheo.top/tnt" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill :image="{ src: 'https://i.theojs.cn/logo/TNT.webp', crop: true }" name="TNT Cloud VPN官网" link="https://ilil.uk/tnt" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -54,11 +54,11 @@ head:
 
 |  套餐类型  |  流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                    套餐购买                                                    |
 | :--------: | :-------: | :--: | :--: | :----: | :---: | :------: | :------------------------------------------------------------------------------------------------------------: |
-| **轻量包** |  **60G**  |  -   | ¥30  |  ¥56   |  ¥98  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/tnt" rel="sponsored noreferrer" /> |
-|  **VIP1**  | **110G**  | ¥20  | ¥54  |  ¥102  | ¥192  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/tnt" rel="sponsored noreferrer" /> |
-|  **VIP2**  | **220G**  | ¥40  | ¥108 |  ¥204  | ¥336  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/tnt" rel="sponsored noreferrer" /> |
-|  **VIP3**  | **460G**  | ¥80  | ¥216 |  ¥408  | ¥768  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/tnt" rel="sponsored noreferrer" /> |
-|  **VIP4**  | **1100G** | ¥160 | ¥432 |  ¥816  | ¥1536 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/tnt" rel="sponsored noreferrer" /> |
+| **轻量包** |  **60G**  |  -   | ¥30  |  ¥56   |  ¥98  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/tnt" rel="sponsored noreferrer" /> |
+|  **VIP1**  | **110G**  | ¥20  | ¥54  |  ¥102  | ¥192  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/tnt" rel="sponsored noreferrer" /> |
+|  **VIP2**  | **220G**  | ¥40  | ¥108 |  ¥204  | ¥336  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/tnt" rel="sponsored noreferrer" /> |
+|  **VIP3**  | **460G**  | ¥80  | ¥216 |  ¥408  | ¥768  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/tnt" rel="sponsored noreferrer" /> |
+|  **VIP4**  | **1100G** | ¥160 | ¥432 |  ¥816  | ¥1536 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/tnt" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

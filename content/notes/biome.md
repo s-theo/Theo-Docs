@@ -1,56 +1,50 @@
 ---
-title: 为项目添加 Prettier 及规范提交信息工具
-description: 记录为项目添加 Prettier 格式化代码及规范提交信息工具的过程，提升代码一致性和提交规范。
+title: 为项目添加 Biome 及规范提交信息工具
+description: 记录为项目添加 Biome 格式化代码及规范提交信息工具的过程，提升代码一致性和提交规范。
 ---
 
-# 为项目添加 Prettier 及规范提交信息工具
+# 为项目添加 Biome 及规范提交信息工具
 
-## 1. 配置 Prettier 格式化代码
+## 1. 配置 Biome 格式化代码
 
-### 安装 Prettier 及相关插件
+### 安装 Biome
 
 ::: code-group
 
 ```shell [pnpm]
-pnpm add --save-dev --save-exact prettier @trivago/prettier-plugin-sort-imports prettier-plugin-jsdoc prettier-plugin-packagejson prettier-plugin-sort-json
+pnpm add --save-dev @biomejs/biome
 ```
 
 ```shell [npm]
-npm install --save-dev --save-exact prettier @trivago/prettier-plugin-sort-imports prettier-plugin-jsdoc prettier-plugin-packagejson prettier-plugin-sort-json
+npm install --save-dev @biomejs/biome
 ```
 
 ```shell [yarn]
-yarn add --dev --exact prettier @trivago/prettier-plugin-sort-imports prettier-plugin-jsdoc prettier-plugin-packagejson prettier-plugin-sort-json
+yarn add --dev @biomejs/biome
 ```
 
 :::
 
-### Prettier 配置
+### Biome 配置
 
-新建 `.prettierrc.yaml` 配置如下
+新建 `biome.json` 配置如下
 
-<<< @/../.prettierrc.yaml
+<<< @/../biome.json
 
-### 创建 Prettier 忽略文件
-
-新建 `.prettierignore` 配置如下
-
-<<< @/../.prettierignore{md}
-
-### 使用 Prettier 格式化所有文件
+### 使用 Biome 格式化所有文件
 
 ::: code-group
 
 ```shell [pnpm]
-pnpm exec prettier . --write
+pnpm exec biome check --write .
 ```
 
 ```shell [npm]
-npx prettier . --write
+npx @biomejs/biome check --write .
 ```
 
 ```shell [yarn]
-yarn prettier . --write
+yarn biome check --write .
 ```
 
 :::
@@ -68,7 +62,7 @@ pnpm install simple-git-hooks lint-staged
 ```json
 {
   "lint-staged": {
-    "*": ["prettier --write --ignore-unknown"]
+    "*": "biome check --write --no-errors-on-unmatched"
   },
   "simple-git-hooks": {
     "pre-commit": "pnpm lint-staged"

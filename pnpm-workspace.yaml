@@ -1,5 +1,6 @@
 shellEmulator: true
 autoInstallPeers: false
+minimumReleaseAge: 0
 allowBuilds:
   esbuild: true
   simple-git-hooks: true

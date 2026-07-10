@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有16元 100g/月(年付)。**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/airport/kuku_logo.webp" name="酷酷云(KuKuCloud)VPN官网" link="https://itheo.top/kuku" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/airport/kuku_logo.webp" name="酷酷云(KuKuCloud)VPN官网" link="https://ilil.uk/kuku" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -59,10 +59,10 @@ head:
 
 | 套餐类型  |  流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                    套餐购买                                                     |
 | :-------: | :-------: | :--: | :--: | :----: | :---: | :------: | :-------------------------------------------------------------------------------------------------------------: |
-| **VIP-1** | **100G**  | ¥20  | ¥54  |  ¥102  | ¥192  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/kuku" rel="sponsored noreferrer" /> |
-| **VIP-2** | **200G**  | ¥40  | ¥108 |  ¥204  | ¥384  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/kuku" rel="sponsored noreferrer" /> |
-| **VIP-3** | **500G**  | ¥90  | ¥243 |  ¥459  | ¥864  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/kuku" rel="sponsored noreferrer" /> |
-| **VIP-4** | **1000G** | ¥160 | ¥432 |  ¥816  | ¥1537 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/kuku" rel="sponsored noreferrer" /> |
+| **VIP-1** | **100G**  | ¥20  | ¥54  |  ¥102  | ¥192  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/kuku" rel="sponsored noreferrer" /> |
+| **VIP-2** | **200G**  | ¥40  | ¥108 |  ¥204  | ¥384  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/kuku" rel="sponsored noreferrer" /> |
+| **VIP-3** | **500G**  | ¥90  | ¥243 |  ¥459  | ¥864  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/kuku" rel="sponsored noreferrer" /> |
+| **VIP-4** | **1000G** | ¥160 | ¥432 |  ¥816  | ¥1537 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/kuku" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

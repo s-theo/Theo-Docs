@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有7元 60g/月(年付)。**
 
-**点击购买👉👉** <Pill image="https://i.theojs.cn/logo/2mao_logo.webp" name="二猫云(2mao)VPN官网"  link="https://itheo.top/2mao"  rel="sponsored noreferrer" />
+**点击购买👉👉** <Pill image="https://i.theojs.cn/logo/2mao_logo.webp" name="二猫云(2mao)VPN官网"  link="https://ilil.uk/2mao"  rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -43,8 +43,7 @@ head:
 
 :::tip
 
-<!-- - **85折折扣码**（年付小包不支持）:<Copy type="tip" label="点击复制折扣码: 2mao85" text="2mao85" bold /> -->
-
+- **8折专属折扣码**（年付小包不支持）:<Copy type="tip" label="点击复制折扣码: ermao888" text="ermao888" bold />
 - 季付**9**折/半年付**85**折/年付**8**折/2年付**7**折/3年付**6**折 配合折扣码折上折，最高可达**48**折
 - **新手建议**：轻度使用选**年付小包**，日常流媒体与 AI 工具推荐**橘猫畅玩版 / 牛奶猫尊享版**。
 
@@ -54,12 +53,12 @@ head:
 
 |      套餐类型      | 流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                    套餐购买                                                     |
 | :----------------: | :------: | :--: | :--: | :----: | :---: | :------: | :-------------------------------------------------------------------------------------------------------------: |
-|    **月付小包**    | **60G**  | ¥13  |  -   |   -    |   -   |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/2mao" rel="sponsored noreferrer" /> |
-|    **年付小包**    | **60G**  |  -   |  -   |   -    |  ¥89  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/2mao" rel="sponsored noreferrer" /> |
-|    **白猫套餐**    | **130G** | ¥20  | ¥57  |  ¥108  | ¥204  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/2mao" rel="sponsored noreferrer" /> |
-|   **橘猫畅玩版**   | **230G** | ¥40  | ¥114 |  ¥216  | ¥408  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/2mao" rel="sponsored noreferrer" /> |
-|  **牛奶猫尊享版**  | **430G** | ¥80  | ¥228 |  ¥432  | ¥816  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/2mao" rel="sponsored noreferrer" /> |
-| **黑猫重度用户版** | **850G** | ¥160 | ¥456 |  ¥864  | ¥1632 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/2mao" rel="sponsored noreferrer" /> |
+|    **月付小包**    | **60G**  | ¥13  |  -   |   -    |   -   |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/2mao" rel="sponsored noreferrer" /> |
+|    **年付小包**    | **60G**  |  -   |  -   |   -    |  ¥89  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/2mao" rel="sponsored noreferrer" /> |
+|    **白猫套餐**    | **130G** | ¥20  | ¥57  |  ¥108  | ¥204  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/2mao" rel="sponsored noreferrer" /> |
+|   **橘猫畅玩版**   | **230G** | ¥40  | ¥114 |  ¥216  | ¥408  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/2mao" rel="sponsored noreferrer" /> |
+|  **牛奶猫尊享版**  | **430G** | ¥80  | ¥228 |  ¥432  | ¥816  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/2mao" rel="sponsored noreferrer" /> |
+| **黑猫重度用户版** | **850G** | ¥160 | ¥456 |  ¥864  | ¥1632 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/2mao" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

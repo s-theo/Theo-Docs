@@ -1,6 +1,0 @@
-dist
-pnpm-lock.yaml
-cache
-temp
-.temp
-*.vue

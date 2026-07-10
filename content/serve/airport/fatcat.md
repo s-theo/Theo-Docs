@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有8元 60g/月(年付)。**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/fclogo.webp" name="肥猫云(FatCatCloud)VPN官网" link="https://itheo.top/fatcat" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/fclogo.webp" name="肥猫云(FatCatCloud)VPN官网" link="https://ilil.uk/fatcat" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -55,11 +55,11 @@ head:
 
 |    套餐类型    |  流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                     套餐购买                                                      |
 | :------------: | :-------: | :--: | :--: | :----: | :---: | :------: | :---------------------------------------------------------------------------------------------------------------: |
-| **年付加强版** |  **60G**  |  -   |  -   |   -    |  ¥96  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
-|  **基础套餐**  | **120G**  | ¥20  | ¥54  |  ¥102  | ¥192  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
-|  **标准套餐**  | **300G**  | ¥40  | ¥108 |  ¥204  | ¥384  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
-|  **旗舰套餐**  | **700G**  | ¥100 | ¥270 |  ¥510  | ¥960  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
-|  **企业套餐**  | **1500G** | ¥180 | ¥486 |  ¥918  | ¥1728 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/fatcat" rel="sponsored noreferrer" /> |
+| **年付加强版** |  **60G**  |  -   |  -   |   -    |  ¥96  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/fatcat" rel="sponsored noreferrer" /> |
+|  **基础套餐**  | **120G**  | ¥20  | ¥54  |  ¥102  | ¥192  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/fatcat" rel="sponsored noreferrer" /> |
+|  **标准套餐**  | **300G**  | ¥40  | ¥108 |  ¥204  | ¥384  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/fatcat" rel="sponsored noreferrer" /> |
+|  **旗舰套餐**  | **700G**  | ¥100 | ¥270 |  ¥510  | ¥960  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/fatcat" rel="sponsored noreferrer" /> |
+|  **企业套餐**  | **1500G** | ¥180 | ¥486 |  ¥918  | ¥1728 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/fatcat" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3-->
 

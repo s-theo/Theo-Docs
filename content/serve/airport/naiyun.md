@@ -17,7 +17,7 @@ head:
 
 **注册试用: 6GB/12 小时**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/naiyun_logo.webp" name="奈云(NaiYun)VPN官网" link="https://itheo.top/naiyun" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/naiyun_logo.webp" name="奈云(NaiYun)VPN官网" link="https://ilil.uk/naiyun" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -58,15 +58,15 @@ head:
 
 |      套餐类型      | 流量/月  | 月付 | 季付 | 半年付 | 年付 | 设备限制 |                                                     套餐购买                                                      |
 | :----------------: | :------: | :--: | :--: | :----: | :--: | :------: | :---------------------------------------------------------------------------------------------------------------: |
-| **Basic-基础套餐** | **168G** |  -   |  -   |   -    | ¥168 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/naiyun" rel="sponsored noreferrer" /> |
-|  **Pro-进阶套餐**  | **388G** | ¥38  | ¥110 |  ¥210  | ¥380 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/naiyun" rel="sponsored noreferrer" /> |
-|  **Max-专业套餐**  | **788G** | ¥58  | ¥170 |  ¥330  | ¥580 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/naiyun" rel="sponsored noreferrer" /> |
+| **Basic-基础套餐** | **168G** |  -   |  -   |   -    | ¥168 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/naiyun" rel="sponsored noreferrer" /> |
+|  **Pro-进阶套餐**  | **388G** | ¥38  | ¥110 |  ¥210  | ¥380 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/naiyun" rel="sponsored noreferrer" /> |
+|  **Max-专业套餐**  | **788G** | ¥58  | ¥170 |  ¥330  | ¥580 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/naiyun" rel="sponsored noreferrer" /> |
 
 |     套餐类型     | 流量(不限时) | 一次性费用 | 设备限制 |                                                     套餐购买                                                      |
 | :--------------: | :----------: | :--------: | :------: | :---------------------------------------------------------------------------------------------------------------: |
-| **不限时套餐-1** |   **280G**   |    ¥138    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/naiyun" rel="sponsored noreferrer" /> |
-| **不限时套餐-2** |   **680G**   |    ¥258    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/naiyun" rel="sponsored noreferrer" /> |
-| **不限时套餐-3** |  **2048G**   |    ¥598    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/naiyun" rel="sponsored noreferrer" /> |
+| **不限时套餐-1** |   **280G**   |    ¥138    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/naiyun" rel="sponsored noreferrer" /> |
+| **不限时套餐-2** |   **680G**   |    ¥258    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/naiyun" rel="sponsored noreferrer" /> |
+| **不限时套餐-3** |  **2048G**   |    ¥598    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/naiyun" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有8元 60g/月(年付)。**
 
-**点击购买👉👉** <Pill image="https://i.theojs.cn/logo/1fly_logo.webp" name="一翻云(1fly)VPN官网"  link="https://itheo.top/1fly"  rel="sponsored noreferrer" />
+**点击购买👉👉** <Pill image="https://i.theojs.cn/logo/1fly_logo.webp" name="一翻云(1fly)VPN官网"  link="https://ilil.uk/1fly"  rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -43,7 +43,7 @@ head:
 
 :::tip
 
-- **8折折扣码**:<Copy type="tip" label="点击复制折扣码: 1FLYYUN" text="1FLYYUN" bold />
+- **9折折扣码**:<Copy type="tip" label="点击复制折扣码: 1FLYYUN" text="1FLYYUN" bold />
 - 季付**95**折/半年付**9**折/年付**85**折/2年付**8**折/3年付**7**折 配合折扣码折上折，最高可达**48**折
 - **新手建议**：轻度使用选**年付版**，日常流媒体与 AI 工具推荐**舒享版 / 尊享版**。
 
@@ -51,13 +51,13 @@ head:
 
 **支付方式** <Pill :icon="{ icon: 'bi:alipay', color: '#1677ff' }" name="支付宝" /><Pill :icon="{ icon: 'ri:wechat-pay-fill', color: '#07C160' }" name="微信支付" /><Pill icon="cryptocurrency-color:usdt" name="USDT" />
 
-|  套餐类型  | 流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                    套餐购买                                                     |
-| :--------: | :------: | :--: | :--: | :----: | :---: | :------: | :-------------------------------------------------------------------------------------------------------------: |
-| **年付版** | **60G**  |  -   |  -   |   -    |  ¥96  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/1fly" rel="sponsored noreferrer" /> |
-| **轻享版** | **150G** | ¥25  | ¥70  |  ¥138  | ¥268  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/1fly" rel="sponsored noreferrer" /> |
-| **舒享版** | **300G** | ¥55  | ¥158 |  ¥318  | ¥638  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/1fly" rel="sponsored noreferrer" /> |
-| **尊享版** | **600G** | ¥120 | ¥358 |  ¥688  | ¥1388 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/1fly" rel="sponsored noreferrer" /> |
-| **极致版** | **1.2T** | ¥218 | ¥638 | ¥1288  | ¥2588 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/1fly" rel="sponsored noreferrer" /> |
+|  套餐类型  | 流量/月  | 月付 | 季付 | 半年付 | 年付 | 设备限制 |                                                    套餐购买                                                     |
+| :--------: | :------: | :--: | :--: | :----: | :--: | :------: | :-------------------------------------------------------------------------------------------------------------: |
+| **年付版** | **60G**  |  -   |  -   |   -    | ¥98  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/1fly" rel="sponsored noreferrer" /> |
+| **轻享版** | **150G** | ¥20  | ¥55  |  ¥98   | ¥168 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/1fly" rel="sponsored noreferrer" /> |
+| **舒享版** | **350G** | ¥35  | ¥98  |  ¥178  | ¥298 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/1fly" rel="sponsored noreferrer" /> |
+| **尊享版** | **600G** | ¥55  | ¥155 |  ¥288  | ¥498 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/1fly" rel="sponsored noreferrer" /> |
+| **极致版** | **1.2T** | ¥95  | ¥268 |  ¥498  | ¥888 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/1fly" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

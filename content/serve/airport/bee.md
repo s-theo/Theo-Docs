@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有8元 60g/月(年付)。**
 
-**点击购买👉👉** <Pill image="https://i.theojs.cn/logo/bee_logo.webp" name="小蜜蜂(XmfWww)VPN官网"  link="https://itheo.top/bee"  rel="sponsored noreferrer" />
+**点击购买👉👉** <Pill image="https://i.theojs.cn/logo/bee_logo.webp" name="小蜜蜂(XmfWww)VPN官网"  link="https://ilil.uk/bee"  rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -53,15 +53,15 @@ head:
 
 |     套餐类型     |  流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                    套餐购买                                                    |
 | :--------------: | :-------: | :--: | :--: | :----: | :---: | :------: | :------------------------------------------------------------------------------------------------------------: |
-| **特惠年付小包** |  **60G**  |  -   |  -   |   -    |  ¥96  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/bee" rel="sponsored noreferrer" /> |
-| **小蜜蜂畅游版** | **120G**  | ¥20  | ¥54  |  ¥102  | ¥192  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/bee" rel="sponsored noreferrer" /> |
-|  **工蜂极速版**  | **240G**  | ¥40  | ¥108 |  ¥204  | ¥384  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/bee" rel="sponsored noreferrer" /> |
-|  **蜂王尊享版**  | **500G**  | ¥75  | ¥202 |  ¥382  | ¥720  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/bee" rel="sponsored noreferrer" /> |
-|  **蜂群无界版**  | **1000G** | ¥140 | ¥378 |  ¥714  | ¥1344 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/bee" rel="sponsored noreferrer" /> |
+| **特惠年付小包** |  **60G**  |  -   |  -   |   -    |  ¥96  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/bee" rel="sponsored noreferrer" /> |
+| **小蜜蜂畅游版** | **120G**  | ¥20  | ¥54  |  ¥102  | ¥192  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/bee" rel="sponsored noreferrer" /> |
+|  **工蜂极速版**  | **240G**  | ¥40  | ¥108 |  ¥204  | ¥384  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/bee" rel="sponsored noreferrer" /> |
+|  **蜂王尊享版**  | **500G**  | ¥75  | ¥202 |  ¥382  | ¥720  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/bee" rel="sponsored noreferrer" /> |
+|  **蜂群无界版**  | **1000G** | ¥140 | ¥378 |  ¥714  | ¥1344 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/bee" rel="sponsored noreferrer" /> |
 
 |    套餐类型    | 流量(不限时) | 一次性费用 | 设备限制 |                                                    套餐购买                                                    |
 | :------------: | :----------: | :--------: | :------: | :------------------------------------------------------------------------------------------------------------: |
-| **不限时套餐** |   **200G**   |    ¥125    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/bee" rel="sponsored noreferrer" /> |
+| **不限时套餐** |   **200G**   |    ¥125    |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/bee" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

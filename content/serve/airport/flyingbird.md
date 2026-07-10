@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有12元 100g/月(年付)。**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/flyingbird.webp" name="飞鸟机场(FlyingBird)VPN官网" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/flyingbird.webp" name="飞鸟机场(FlyingBird)VPN官网" link="https://ilil.uk/flyingbird" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -60,10 +60,10 @@ head:
 
 |   套餐类型   |  流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                       套餐购买                                                        |
 | :----------: | :-------: | :--: | :--: | :----: | :---: | :------: | :-------------------------------------------------------------------------------------------------------------------: |
-| **青铜套餐** | **100G**  | ¥15  | ¥41  |  ¥77   | ¥144  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
-| **白银套餐** | **200G**  | ¥30  | ¥81  |  ¥153  | ¥288  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
-| **黄金套餐** | **500G**  | ¥75  | ¥203 |  ¥383  | ¥720  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
-| **钻石套餐** | **1000G** | ¥150 | ¥405 |  ¥765  | ¥1440 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/flyingbird" rel="sponsored noreferrer" /> |
+| **青铜套餐** | **100G**  | ¥15  | ¥41  |  ¥77   | ¥144  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/flyingbird" rel="sponsored noreferrer" /> |
+| **白银套餐** | **200G**  | ¥30  | ¥81  |  ¥153  | ¥288  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/flyingbird" rel="sponsored noreferrer" /> |
+| **黄金套餐** | **500G**  | ¥75  | ¥203 |  ¥383  | ¥720  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/flyingbird" rel="sponsored noreferrer" /> |
+| **钻石套餐** | **1000G** | ¥150 | ¥405 |  ¥765  | ¥1440 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/flyingbird" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

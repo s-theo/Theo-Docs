@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有8元 60g/月(年付)。**
 
-**点击购买👉👉** <Pill image="https://i.theojs.cn/logo/yuzhou_logo.webp" name="宇宙云(YuZhou)VPN官网"  link="https://itheo.top/yuzhou"  rel="sponsored noreferrer" />
+**点击购买👉👉** <Pill image="https://i.theojs.cn/logo/yuzhou_logo.webp" name="宇宙云(YuZhou)VPN官网"  link="https://ilil.uk/yuzhou"  rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -52,12 +52,12 @@ head:
 
 |     套餐类型     | 流量/月  | 月付  | 季付 | 半年付 | 年付  | 设备限制 |                                                     套餐购买                                                      |
 | :--------------: | :------: | :---: | :--: | :----: | :---: | :------: | :---------------------------------------------------------------------------------------------------------------: |
-| **星云年付小包** | **60G**  |   -   |  -   |   -    |  ¥96  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yuzhou" rel="sponsored noreferrer" /> |
-| **星云月付小包** | **50G**  | ¥12.5 |  -   |   -    |   -   |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yuzhou" rel="sponsored noreferrer" /> |
-|  **行星基础版**  | **120G** |  ¥25  | ¥70  |  ¥130  | ¥230  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yuzhou" rel="sponsored noreferrer" /> |
-|  **恒星标准版**  | **240G** |  ¥50  | ¥140 |  ¥260  | ¥480  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yuzhou" rel="sponsored noreferrer" /> |
-|  **星系专业版**  | **500G** | ¥100  | ¥285 |  ¥520  | ¥980  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yuzhou" rel="sponsored noreferrer" /> |
-|  **寰宇旗舰版**  |  **1T**  | ¥200  | ¥570 | ¥1020  | ¥1980 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://itheo.top/yuzhou" rel="sponsored noreferrer" /> |
+| **星云年付小包** | **60G**  |   -   |  -   |   -    |  ¥96  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/yuzhou" rel="sponsored noreferrer" /> |
+| **星云月付小包** | **50G**  | ¥12.5 |  -   |   -    |   -   |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/yuzhou" rel="sponsored noreferrer" /> |
+|  **行星基础版**  | **120G** |  ¥25  | ¥70  |  ¥130  | ¥230  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/yuzhou" rel="sponsored noreferrer" /> |
+|  **恒星标准版**  | **240G** |  ¥50  | ¥140 |  ¥260  | ¥480  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/yuzhou" rel="sponsored noreferrer" /> |
+|  **星系专业版**  | **500G** | ¥100  | ¥285 |  ¥520  | ¥980  |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/yuzhou" rel="sponsored noreferrer" /> |
+|  **寰宇旗舰版**  |  **1T**  | ¥200  | ¥570 | ¥1020  | ¥1980 |  无限制  | <Pill icon="mdi:arrow-right-circle" name="立即购买" link="https://ilil.uk/yuzhou" rel="sponsored noreferrer" /> |
 
 <!-- #endregion 3 -->
 

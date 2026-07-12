@@ -1,8 +1,6 @@
 {
   "scripts": {
     "build": "vitepress build",
-    "commitlint": "commitlint --edit",
-    "cz": "git-cz",
     "dev": "vitepress dev",
     "format": "biome check --write .",
     "format:check": "biome check .",
@@ -16,24 +14,13 @@
   "lint-staged": {
     "*": "biome check --write --no-errors-on-unmatched"
   },
-  "config": {
-    "commitizen": {
-      "path": "cz-vinyl"
-    }
-  },
   "devDependencies": {
     "@biomejs/biome": "^2.5.3",
-    "@commitlint/cli": "^21.2.0",
-    "@commitlint/config-conventional": "^21.2.0",
-    "@commitlint/types": "^21.2.0",
     "@mdit/plugin-figure": "^1.0.1",
     "@mdit/plugin-footnote": "^1.0.1",
     "@mdit/plugin-img-size": "^1.0.1",
     "@mdit/plugin-tasklist": "^1.0.1",
     "@theojs/lumen": "^6.4.7",
-    "commitizen": "^4.3.2",
-    "cz-vinyl": "^2.5.4",
-    "husky": "^9.1.7",
     "lint-staged": "^17.0.8",
     "simple-git-hooks": "^2.13.1",
     "viewerjs": "^1.11.7",

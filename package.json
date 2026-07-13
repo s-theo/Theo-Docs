@@ -28,7 +28,7 @@
     "vitepress": "2.0.0-alpha.18",
     "vitepress-plugin-group-icons": "^1.7.5",
     "vitepress-plugin-image-viewer": "^1.1.6",
-    "vitepress-plugin-llms": "^1.13.2",
+    "vitepress-plugin-llms": "^1.13.3",
     "vue": "^3.5.39"
   },
   "packageManager": "pnpm@11.12.0"

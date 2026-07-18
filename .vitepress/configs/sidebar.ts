@@ -275,30 +275,30 @@ export function Sidebar_serve(): SidebarItem[] {
       link: '/serve/airport/summary',
       // collapsed: true,
       items: [
-        { text: '星岛梦(StarDream)' + ty + code, link: '/serve/airport/xdm' },
-        { text: 'Sogo云' + code, link: '/serve/airport/sogo' },
-        { text: '宇宙云(YuZhou)' + code, link: '/serve/airport/yuzhou' },
-        { text: '一翻云(1Fly)' + code, link: '/serve/airport/1fly' },
-        { text: '青云梯(QingYunTi)' + cq, link: '/serve/airport/qingyunti' },
-        { text: '隐云(YinYun)' + zc + wx, link: '/serve/airport/yinyun' },
-        { text: '二猫云(2mao)' + code, link: '/serve/airport/2mao' },
-        { text: 'Echo' + code + zc, link: '/serve/airport/echo' },
-        { text: 'SSLAR' + code, link: '/serve/airport/sslar' },
-        { text: '边缘节点(EdgeNova)' + code, link: '/serve/airport/edgenova' },
-        { text: '快狸(KuaiLi)' + code, link: '/serve/airport/kuaili' },
-        { text: '速界(SuJie)' + code, link: '/serve/airport/sujie' },
+        { text: `星岛梦(StarDream)${ty}${code}`, link: '/serve/airport/xdm' },
+        { text: `Sogo云${code}`, link: '/serve/airport/sogo' },
+        { text: `宇宙云(YuZhou)${code}`, link: '/serve/airport/yuzhou' },
+        { text: `一翻云(1Fly)${code}`, link: '/serve/airport/1fly' },
+        { text: `青云梯(QingYunTi)${cq}`, link: '/serve/airport/qingyunti' },
+        { text: `隐云(YinYun)${zc}${wx}`, link: '/serve/airport/yinyun' },
+        { text: `二猫云(2mao)${code}`, link: '/serve/airport/2mao' },
+        { text: `Echo${code}${zc}`, link: '/serve/airport/echo' },
+        { text: `SSLAR${code}`, link: '/serve/airport/sslar' },
+        { text: `边缘节点(EdgeNova)${code}`, link: '/serve/airport/edgenova' },
+        { text: `快狸(KuaiLi)${code}`, link: '/serve/airport/kuaili' },
+        { text: `速界(SuJie)${code}`, link: '/serve/airport/sujie' },
         { text: '可达(KeDa)', link: '/serve/airport/keda' },
-        { text: '银河云(GalaxyCloud)' + code, link: '/serve/airport/galaxy' },
-        { text: '光速云(LightSpeed)' + code, link: '/serve/airport/lightspeed' },
+        { text: `银河云(GalaxyCloud)${code}`, link: '/serve/airport/galaxy' },
+        { text: `光速云(LightSpeed)${code}`, link: '/serve/airport/lightspeed' },
         //  { text: '美乐云(MeiLe)' + zc, link: '/serve/airport/meile' },
-        { text: 'TNT Cloud' + code, link: '/serve/airport/tnt' },
+        { text: `TNT Cloud${code}`, link: '/serve/airport/tnt' },
         { text: '龙猫云(TotoroCloud)', link: '/serve/airport/totoro' },
-        { text: '小蜜蜂(XmfWww)' + code, link: '/serve/airport/bee' },
+        { text: `小蜜蜂(XmfWww)${code}`, link: '/serve/airport/bee' },
         // { text: 'OKANC' + zc, link: '/serve/airport/okanc' },
         { text: '肥猫云(FatCatCloud)', link: '/serve/airport/fatcat' },
         { text: '酷酷云(KuKuCloud)', link: '/serve/airport/kukucloud' },
         // { text: '奈云(NaiYun)' + zc, link: '/serve/airport/naiyun' },
-        { text: '飞鸟机场(FlyingBird)' + cq, link: '/serve/airport/flyingbird' }
+        { text: `飞鸟机场(FlyingBird)${cq}`, link: '/serve/airport/flyingbird' }
       ]
     },
     {
@@ -344,7 +344,7 @@ export function Sidebar_serve(): SidebarItem[] {
     {
       text: '接码平台',
       // collapsed: true,
-      items: [{ text: 'Hero-SMS' + code, link: '/serve/code/sms' }]
+      items: [{ text: `Hero-SMS${code}`, link: '/serve/code/sms' }]
     }
   ]
 }

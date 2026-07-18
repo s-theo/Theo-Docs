@@ -30,7 +30,9 @@ tmp/
 .env
 
 # 编辑器和IDE生成的文件
-.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
 .idea/
 *.sublime-project
 *.sublime-workspace

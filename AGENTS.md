@@ -9,12 +9,16 @@ Theo Docs (`s-theo/Theo-Docs`) is a Chinese VitePress documentation site publish
 
 | Item | Current source of truth |
 | --- | --- |
-| Runtime | Node 22 on Cloudflare Pages build image v3; use Node 22.22.1+ locally for current dependencies |
-| Package manager | `pnpm` (`package.json#packageManager`; currently `11.14.0`) |
-| Framework | VitePress `2.0.0-alpha.18`, Vite 8, Vue 3 |
+| Runtime | Node.js; satisfy the strictest `engines.node` constraint in `pnpm-lock.yaml` and verify the active Cloudflare Pages runtime |
+| Package manager | `pnpm`; read the pinned release from `package.json#packageManager` |
+| Framework | VitePress, Vite, and Vue; read requested and resolved releases from `package.json` and `pnpm-lock.yaml` |
 | Theme | Default VitePress theme extended with `@theojs/lumen` |
-| Formatting | Biome 2 (`biome.json`) |
+| Formatting | Biome; read formatter rules and schema metadata from `biome.json` |
 | Build output | `.vitepress/dist` |
+
+Read exact package-manager, dependency, and tool releases from `package.json#packageManager`, `package.json`, and
+`pnpm-lock.yaml`; read workspace policy and tool behavior from `pnpm-workspace.yaml` and the relevant
+configuration or schema metadata. Do not copy current release values into this file.
 
 Site tooling also includes figure, footnote, task-list, image-size, group-icon, image-viewer, custom
 transposed-table, and `vitepress-plugin-llms` integrations.
@@ -50,8 +54,9 @@ pnpm run format                 # write Biome fixes; use only when edits are int
 ```
 
 `pnpm run upall` upgrades dependencies and is not a validation command; use it only when explicitly requested.
-There is no repository `test`, standalone `lint`, or type-check script. Biome's linter is disabled, and
-`ignoreUnknown` means Markdown is not substantively checked by `format:check`.
+There is no repository `test`, standalone `lint`, or type-check script. `format:check` runs Biome's formatter,
+import organization, and recommended linter on supported code and configuration files; `ignoreUnknown` means
+Markdown is not substantively checked.
 
 ## Editing rules
 
@@ -64,8 +69,8 @@ There is no repository `test`, standalone `lint`, or type-check script. Biome's 
 - Give article pages accurate `title` and `description` frontmatter; page metadata is derived from these fields,
   while the home page uses `hero.name` and `hero.tagline`.
 - Keep each top-level sidebar wrapper at `base: '/'` and every active sidebar `link` as its absolute content
-  route. Do not reintroduce nested `base` values or relative item links: `vitepress-plugin-llms` 1.13.3 repeats
-  inherited section bases when generating `llms.txt`.
+  route. Change this shape only after a real build proves that generated `llms.txt` and `llms-full.txt` still
+  match content routes without duplicated inherited section bases.
 - Treat `content/head.md` and `content/bottom.md` as shared partials. Before changing them, inspect all
   `<!--@include: ...-->` consumers.
 - `content/serve/airport/summary.md` assembles provider pages through named `#1`, `#2`, and `#3` regions; preserve
@@ -82,8 +87,8 @@ There is no repository `test`, standalone `lint`, or type-check script. Biome's 
 - Keep `pnpm-workspace.yaml` policy intact: peers are not auto-installed, only `simple-git-hooks` may run a
   dependency lifecycle script, and newly released package versions may be installed immediately. Do not bypass
   or broaden the remaining controls merely to make an install pass.
-- Keep the two `@ts-ignore` directives around Vite plugins in `.vitepress/config.mts` unless the
-  underlying rolldown-vite type incompatibility is actually resolved; verify plugin changes with a real build.
+- Do not add TypeScript suppression directives or weaken type checking to bypass diagnostics. Fix the underlying
+  types, then verify VitePress configuration changes with TypeScript diagnostics and a real build.
 - Follow Biome's configured style: 2 spaces, LF, single quotes in JavaScript/CSS, no semicolons, no trailing
   commas, and 120-column width. Biome is the sole configured formatter; do not add another formatter without an
   explicit request.

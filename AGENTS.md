@@ -1,108 +1,114 @@
-# AGENTS.md - Theo Docs
+# AGENTS.md — Theo Docs
 
-## Project Overview
+Scope: this file applies to the entire repository. There are no nested `AGENTS.md` files.
 
-Theo Docs is a VitePress documentation site for Theo's technical notes, streaming guides, VPS/server notes, router docs, and AI/tooling references.
+## Project
 
-- Repository: `s-theo/Theo-Docs`
-- Content source: `content/`
-- VitePress config: `.vitepress/`
-- Package manager: `pnpm@11.10.0`
-- Netlify command: `pnpm run build`
-- Site source directory: `content`
-- Public site: `https://doc.theojs.cn`
+Theo Docs (`s-theo/Theo-Docs`) is a Chinese VitePress documentation site published at
+`https://doc.theojs.cn`. Routes come from `content/`; the site uses clean URLs.
 
-## Workspace Layout
+| Item | Current source of truth |
+| --- | --- |
+| Runtime | Node 22 on the active Cloudflare Pages build image v3; no version is pinned in the repository |
+| Package manager | `pnpm` (`package.json#packageManager`; currently `11.14.0`) |
+| Framework | VitePress `2.0.0-alpha.18`, Vite 8, Vue 3 |
+| Theme | Default VitePress theme extended with `@theojs/lumen` |
+| Formatting | Biome 2 (`biome.json`) |
+| Build output | `.vitepress/dist` |
 
-```text
-content/                 - Markdown source, home page, public assets, and docs sections.
-content/public/          - Static assets copied to the site root.
-.vitepress/config.mts    - Main VitePress config.
-.vitepress/configs/      - Split config modules for head, nav, sidebar, search, markdown, SEO data, and social links.
-.vitepress/data/         - Lumen theme data for aside ads and footer links.
-.vitepress/theme/        - Theme extension and global component/plugin registration.
-biome.json               - Biome formatter/import organizer config.
-netlify.toml             - Netlify build settings.
-```
+Site tooling also includes figure, footnote, task-list, image-size, group-icon, image-viewer, custom
+transposed-table, and `vitepress-plugin-llms` integrations.
 
-The root `package.json` provides the main commands:
+## Repository map
 
-```bash
-pnpm run build      # vitepress build
-pnpm run dev        # vitepress dev
-pnpm run preview    # vitepress preview
-pnpm run format     # biome check --write .
-pnpm run format:check
-```
+| Path | Responsibility |
+| --- | --- |
+| `content/` | Markdown route source; sections include `notes`, `fe`, `esxi`, `vps`, `asus`, `streaming`, `ai`, and `serve` |
+| `content/index.md` | Lumen-powered home page frontmatter and feature content |
+| `content/head.md`, `content/bottom.md` | Shared Markdown snippets included by many pages |
+| `content/public/` | Static files copied to the site root |
+| `.vitepress/config.mts` | Site entry: source directory, clean URLs, sitemap, plugins, and theme configuration |
+| `.vitepress/configs/` | Navigation, sidebar, Markdown, search, head metadata, social links, and page-data transforms |
+| `.vitepress/theme/index.ts` | Lumen slots/components, Umami, group icons, and image viewer registration |
+| `.vitepress/data/` | Lumen aside promotions and footer links |
+| `package.json`, `pnpm-lock.yaml`, `pnpm-workspace.yaml` | Scripts, dependency graph, peer/build-script policy |
+| `biome.json` | Formatter and import-organization rules |
+| `renovate.json` | Central Renovate preset reference |
 
-Do not manually edit generated or installed directories such as `node_modules/`, `.vitepress/cache/`, and `.vitepress/dist/`.
+Do not edit installed or generated paths: `node_modules/`, `.vitepress/cache/`, `.vitepress/dist/`, `dist/`,
+`.cache/`, or `.vite/`.
 
-## Content Map
-
-VitePress uses `srcDir: 'content'`, so routes are derived from Markdown files under `content/`.
-
-```text
-content/index.md          - Home page frontmatter for the Lumen landing layout.
-content/head.md           - Extra head-facing content page.
-content/bottom.md         - Extra bottom-facing content page.
-content/notes/            - Personal docs, tooling notes, VitePress notes, GitHub Actions, Biome, GPG, nvm, etc.
-content/fe/               - Frontend and tooling basics: Linux, Docker, Git, Homebrew, pnpm.
-content/esxi/             - ESXi install guides and OpenWrt/iStoreOS notes.
-content/vps/              - VPS settings, server tools, service setup, Oracle Cloud.
-content/asus/             - ASUS/Merlin router flashing and plugin notes.
-content/streaming/        - Netflix, Disney+, Spotify, YouTube, Hulu, HBO Max guides.
-content/ai/               - AI summary, ChatGPT, Gemini, and mirror-site notes.
-content/serve/            - Airport/proxy services, account sharing, routes, antiwall clients, SMS services.
-content/public/           - Favicons, manifest, robots.txt, images, and verification files.
-```
-
-When adding, renaming, or removing Markdown files, update the matching sidebar section and any top nav entry that should point to the new page.
-
-## VitePress Structure
-
-- `.vitepress/config.mts` wires the full site together: title/description, `srcDir`, clean URLs, sitemap, Lumen theme config, Algolia search, nav/sidebar, markdown plugins, and Vite plugins.
-- `.vitepress/configs/nav.ts` controls top navigation. Its paths should point at real Markdown routes under `content/`.
-- `.vitepress/configs/sidebar.ts` controls section sidebars. It is the canonical place to keep docs ordering and nested page relationships.
-- `.vitepress/configs/markdown.ts` registers markdown-it plugins for figures, footnotes, image sizing, task lists, tables, and group icons.
-- `.vitepress/configs/transformPageData.ts` injects canonical URLs, Open Graph/Twitter metadata, and JSON-LD for pages.
-- `.vitepress/configs/search.ts` configures Algolia DocSearch and Ask AI copy.
-- `.vitepress/configs/head.ts` owns global meta tags, favicons, manifest, and site verification tags.
-- `.vitepress/theme/index.ts` extends the default VitePress theme with `@theojs/lumen`, aside ads, footer, Umami, image viewer, and global components such as `Underline`, `Pill`, `Links`, and `Copy`.
-- `.vitepress/data/AsideData.ts` and `.vitepress/data/FooterData.ts` contain sponsored/service links displayed by Lumen theme components.
-
-## Navigation And Sidebar Rules
-
-- Keep `nav.ts` and `sidebar.ts` aligned with the `content/` route tree.
-- Top-level sidebars generally use VitePress `base` plus relative links, for example `'/notes/': { base: '/notes/', items: Sidebar_notes() }`.
-- For nested sidebar sections that have caused `vitepress-plugin-llms` warnings, prefer absolute links such as `/streaming/netflix-guide`.
-- The `streaming` sidebar intentionally avoids a section `base` and uses absolute `/streaming/...` links throughout. Do not mix `base: '/streaming/'` with absolute `/streaming/...` links in that section.
-- After changing sidebar links, run `pnpm run build` and check that the output does not include `vitepress-plugin-llms` sidebar link warnings.
-
-## Before Editing
-
-1. Run `git pull` in the repository root before making changes.
-2. Read this file and inspect the relevant package or content files before editing.
-3. Keep changes scoped to the requested docs/config area.
-4. Use `pnpm install --frozen-lockfile` after dependency changes.
-
-## Coding Notes
-
-- Use Biome for formatting. Config lives in `biome.json`.
-- Style is 2 spaces, single quotes, no semicolons, no trailing commas.
-- `pnpm run format` applies Biome safe fixes, formatting, and import organization.
-- `pnpm run format:check` verifies formatting/import organization without writing.
-- Biome is configured with `files.ignoreUnknown`; unsupported file types are skipped instead of failing the run.
-- Keep VitePress sidebar entries in sync when Markdown files under `content/` are renamed.
-- For nested VitePress sidebar sections, prefer absolute links such as `/streaming/netflix-guide` so `vitepress-plugin-llms` can match the generated Markdown files without warnings.
-- This repository was migrated from Prettier to Biome. Do not reintroduce `.prettierrc`, `.prettierignore`, or Prettier dependencies unless explicitly requested.
-- The former `content/notes/prettier.md` page is now `content/notes/biome.md`; keep references and sidebars on `biome`.
-
-## Verification
-
-For dependency or config changes, run:
+## Commands
 
 ```bash
-pnpm install --frozen-lockfile
-pnpm run format:check
-pnpm run build
+pnpm install --frozen-lockfile  # initial setup and dependency verification
+pnpm run dev                    # local VitePress server
+pnpm run build                  # production build and LLM bundle generation
+pnpm run preview                # serve the production output
+pnpm run format:check           # check Biome formatting/import organization
+pnpm run format                 # write Biome fixes; use only when edits are intended
 ```
+
+`pnpm run upall` upgrades dependencies and is not a validation command; use it only when explicitly requested.
+There is no repository `test`, standalone `lint`, or type-check script. Biome's linter is disabled, and
+`ignoreUnknown` means Markdown is not substantively checked by `format:check`.
+
+## Editing rules
+
+- Before editing, read the applicable instructions and inspect the branch, upstream, ahead/behind, worktree,
+  index, untracked files, and in-progress Git operations. Preserve user work; never use `stash`, `reset`, or
+  `clean` as a shortcut.
+- On a clean `main`, synchronize only with `git pull --ff-only`. Stop on divergence or unexpected changes.
+- Add, rename, or remove Markdown together with its applicable entries in `.vitepress/configs/sidebar.ts` and
+  `.vitepress/configs/nav.ts`, plus affected internal links and includes.
+- Give article pages accurate `title` and `description` frontmatter; page metadata is derived from these fields,
+  while the home page uses `hero.name` and `hero.tagline`.
+- Keep each top-level sidebar wrapper at `base: '/'` and every active sidebar `link` as its absolute content
+  route. Do not reintroduce nested `base` values or relative item links: `vitepress-plugin-llms` 1.13.3 repeats
+  inherited section bases when generating `llms.txt`.
+- Treat `content/head.md` and `content/bottom.md` as shared partials. Before changing them, inspect all
+  `<!--@include: ...-->` consumers.
+- `content/serve/airport/summary.md` assembles provider pages through named `#1`, `#2`, and `#3` regions; preserve
+  matching `<!-- #region ... -->` markers when editing those pages. Other pages also use named-region includes.
+- Provider names, prices, coupons, URLs, and visibility can be duplicated across content pages,
+  `content/index.md`, `.vitepress/data/AsideData.ts`, `.vitepress/data/FooterData.ts`, nav/sidebar data, and shared
+  snippets. Search the repository for the provider name and URL before changing them.
+- Global metadata and structured data belong in `.vitepress/configs/head.ts` and
+  `.vitepress/configs/transformPageData.ts`; search configuration belongs in `.vitepress/configs/search.ts`.
+- Theme-global components (`Underline`, `Pill`, `Links`, `Copy`) and Lumen layout slots are registered in
+  `.vitepress/theme/index.ts`. Umami reads `VITE_UMAMI_ID` and `VITE_UMAMI_SRC`; never commit secrets or local
+  environment files.
+- `content/code/giscus.ts` is not imported by the active theme; do not treat it as runtime configuration.
+- Keep `pnpm-workspace.yaml` policy intact: peers are not auto-installed, and dependency build scripts are
+  allowlisted. Do not bypass or broaden these controls merely to make an install pass.
+- Keep the two documented `@ts-ignore` suppressions around Vite plugins in `.vitepress/config.mts` unless the
+  underlying rolldown-vite type incompatibility is actually resolved; verify plugin changes with a real build.
+- Follow Biome's configured style: 2 spaces, LF, single quotes in JavaScript/CSS, no semicolons, no trailing
+  commas, and 120-column width. Biome is the sole configured formatter; do not add another formatter without an
+  explicit request.
+
+## Validation by change type
+
+| Change | Required checks |
+| --- | --- |
+| `AGENTS.md` only | `git diff --check`; verify every documented command and path against the repository |
+| Markdown, includes, or public asset references | `pnpm run build`; `git diff --check` |
+| Nav/sidebar, VitePress/theme, TypeScript, or JSON configuration | `pnpm run format:check`; `pnpm run build`; `git diff --check` |
+| Dependencies or lockfile | `pnpm install --frozen-lockfile`; `pnpm run format:check`; `pnpm run build`; `git diff --check` |
+
+After navigation or include changes, inspect build output for unresolved links and
+`vitepress-plugin-llms` sidebar warnings. The build generates `llms.txt` and `llms-full.txt`; do not hand-edit the
+generated output.
+
+## Git, CI, and delivery
+
+- Keep changes scoped. Do not commit, push, create or mutate a PR, merge, deploy, or delete branches without
+  explicit authorization.
+- The pre-commit hook runs `lint-staged`, which invokes Biome with `--write`; after any authorized commit attempt,
+  re-check the staged diff for hook-applied changes.
+- No GitHub workflow YAML is tracked in this repository. GitHub currently supplies provider-managed CodeQL and
+  dependency-update workflows, while PRs also report an external Cloudflare Pages check. Inspect live PR checks
+  instead of assuming these external settings are unchanged.
+- Cloudflare Pages is the active delivery path. Its external Git integration builds `main` with `pnpm build` and
+  publishes `.vitepress/dist`; no deployment configuration is tracked here. Verify live settings before changing
+  delivery assumptions. Any deployment is an external write and requires explicit authorization.

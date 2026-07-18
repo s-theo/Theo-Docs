@@ -46,7 +46,7 @@ description: ChatGPT使用常见问题全面解决方案，涵盖无法访问、
 :::tip 解决方案
 
 - 等待并刷新
-- [订阅 ChatGPT Plus](/ai/chatgpt/china-access#🔑-另一种方式-直接购买-chatgpt-账号-plus-省去注册步骤)
+- [订阅 ChatGPT Plus](/ai/chatgpt/china-access#方案三-直接购买-chatgpt-账号-plus-省去注册步骤)
 - [使用国内 ChatGPT 镜像网站](/ai/chatgpt/china-access#方案一-使用国内-chatgpt-镜像网站-无需翻墙-强烈推荐)
 
 :::

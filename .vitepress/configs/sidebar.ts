@@ -10,14 +10,14 @@ type SidebarItem = DefaultTheme.SidebarItem
 
 // 侧边栏配置
 export const sidebar: DefaultTheme.SidebarMulti = {
-  '/vps/': { base: '/vps/', items: Sidebar_vps() },
-  '/asus/': { base: '/asus/', items: Sidebar_Asus() },
-  '/esxi/': { base: '/esxi/', items: Sidebar_ESXi() },
-  '/fe/': { base: '/fe/', items: Sidebar_FE() },
-  '/notes/': { base: '/notes/', items: Sidebar_notes() },
-  '/serve/': { base: '/serve/', items: Sidebar_serve() },
-  '/streaming/': Sidebar_streaming(),
-  '/ai/': { base: '/ai/', items: Sidebar_ai() }
+  '/vps/': { base: '/', items: Sidebar_vps() },
+  '/asus/': { base: '/', items: Sidebar_Asus() },
+  '/esxi/': { base: '/', items: Sidebar_ESXi() },
+  '/fe/': { base: '/', items: Sidebar_FE() },
+  '/notes/': { base: '/', items: Sidebar_notes() },
+  '/serve/': { base: '/', items: Sidebar_serve() },
+  '/streaming/': { base: '/', items: Sidebar_streaming() },
+  '/ai/': { base: '/', items: Sidebar_ai() }
 }
 
 export function Sidebar_notes(): SidebarItem[] {
@@ -25,30 +25,28 @@ export function Sidebar_notes(): SidebarItem[] {
     {
       text: '文档记录',
       // collapsed: true,
-      base: '/notes/',
       items: [
-        { text: 'PicGo/PicList + Github搭建图床', link: 'build-picture-bed' },
-        { text: 'GitHub Actions 工作流程', link: 'github-actions' },
-        { text: 'VS Code 使用技巧', link: 'vscode' },
-        { text: '为项目添加 Biome 及规范提交信息工具', link: 'biome' },
-        { text: '使用 GPG 签名 Git Commit', link: 'gpg' },
-        { text: '使用 nvm 管理不同版本的 node', link: 'nvm' },
-        { text: '优化 iOS/Android 来电信息界面', link: 'vcards' },
-        { text: '添加 1Panel 第三方应用商店', link: '1panel-third-party-app-store' },
-        { text: 'Tabby 配置同步', link: 'tabby-sync' },
-        { text: '添加 群晖DSM7.X 第三方套件源', link: 'synology-third-party-suite' },
-        // { text: '在线机场订阅节点测速平台', link: 'airportest' },
-        { text: '2026年最新 telegram（电报、飞机）注册使用教程', link: 'telegram' }
+        { text: 'PicGo/PicList + Github搭建图床', link: '/notes/build-picture-bed' },
+        { text: 'GitHub Actions 工作流程', link: '/notes/github-actions' },
+        { text: 'VS Code 使用技巧', link: '/notes/vscode' },
+        { text: '为项目添加 Biome 及规范提交信息工具', link: '/notes/biome' },
+        { text: '使用 GPG 签名 Git Commit', link: '/notes/gpg' },
+        { text: '使用 nvm 管理不同版本的 node', link: '/notes/nvm' },
+        { text: '优化 iOS/Android 来电信息界面', link: '/notes/vcards' },
+        { text: '添加 1Panel 第三方应用商店', link: '/notes/1panel-third-party-app-store' },
+        { text: 'Tabby 配置同步', link: '/notes/tabby-sync' },
+        { text: '添加 群晖DSM7.X 第三方套件源', link: '/notes/synology-third-party-suite' },
+        // { text: '在线机场订阅节点测速平台', link: '/notes/airportest' },
+        { text: '2026年最新 telegram（电报、飞机）注册使用教程', link: '/notes/telegram' }
       ]
     },
     {
       text: 'VitePress 搭建记录',
       // collapsed: true,
-      base: '/notes/vitepress/',
       items: [
-        { text: '添加 Giscu评论', link: 'giscu' },
-        { text: '实现单击图片放大', link: 'picture-enlargement' },
-        { text: '宝塔面板部署', link: 'aapanel-deployment' }
+        { text: '添加 Giscu评论', link: '/notes/vitepress/giscu' },
+        { text: '实现单击图片放大', link: '/notes/vitepress/picture-enlargement' },
+        { text: '宝塔面板部署', link: '/notes/vitepress/aapanel-deployment' }
       ]
     }
   ]
@@ -59,15 +57,14 @@ export function Sidebar_Asus(): SidebarItem[] {
     {
       // text: '梅林操作文档',
       // collapsed: true,
-      base: '/asus/',
       items: [
-        { text: '刷机需知', link: 'flashing-prerequisites' },
-        { text: '固件平台介绍', link: 'firmware-platform-introduction' },
-        { text: 'fancyss', link: 'fancyss' },
-        { text: 'Merlin Clash', link: 'merlin-clash' },
-        { text: '官改/梅林固件 常用命令集合', link: 'common-commands' },
-        { text: '提示检测非法关键词', link: 'illegal-keywords' },
-        { text: '关闭降级检查', link: 'disable-downgrade-check' }
+        { text: '刷机需知', link: '/asus/flashing-prerequisites' },
+        { text: '固件平台介绍', link: '/asus/firmware-platform-introduction' },
+        { text: 'fancyss', link: '/asus/fancyss' },
+        { text: 'Merlin Clash', link: '/asus/merlin-clash' },
+        { text: '官改/梅林固件 常用命令集合', link: '/asus/common-commands' },
+        { text: '提示检测非法关键词', link: '/asus/illegal-keywords' },
+        { text: '关闭降级检查', link: '/asus/disable-downgrade-check' }
       ]
     }
   ]
@@ -78,64 +75,59 @@ export function Sidebar_FE(): SidebarItem[] {
     {
       text: 'Linux 文档',
       collapsed: false,
-      base: '/fe/linux/',
       items: [
-        { text: 'Linux 目录结构', link: 'directory' },
-        { text: 'Linux 文件操作', link: 'file' },
-        { text: 'Linux 文件权限', link: 'file-permission' },
-        { text: 'Linux 常用网络操作', link: 'network' },
-        { text: 'Linux 进程管理', link: 'process' },
-        { text: 'Linux 管道命令', link: 'pipe' },
-        { text: 'Linux 打包与拆包', link: 'tar' },
-        { text: 'Linux VIM 编辑器', link: 'vim' },
-        { text: 'Linux nano 编辑器', link: 'nano' }
+        { text: 'Linux 目录结构', link: '/fe/linux/directory' },
+        { text: 'Linux 文件操作', link: '/fe/linux/file' },
+        { text: 'Linux 文件权限', link: '/fe/linux/file-permission' },
+        { text: 'Linux 常用网络操作', link: '/fe/linux/network' },
+        { text: 'Linux 进程管理', link: '/fe/linux/process' },
+        { text: 'Linux 管道命令', link: '/fe/linux/pipe' },
+        { text: 'Linux 打包与拆包', link: '/fe/linux/tar' },
+        { text: 'Linux VIM 编辑器', link: '/fe/linux/vim' },
+        { text: 'Linux nano 编辑器', link: '/fe/linux/nano' }
       ]
     },
     {
       text: 'Docker 文档',
       collapsed: false,
-      base: '/fe/docker/',
       items: [
-        { text: 'Docker 简介与安装', link: 'install' },
-        { text: 'Docker 进程相关操作', link: 'process' },
-        { text: 'Docker 国内镜像加速', link: 'mirror-source' },
-        { text: 'Docker 镜像相关操作', link: 'mirror' },
-        { text: 'Docker 容器相关操作', link: 'container' }
+        { text: 'Docker 简介与安装', link: '/fe/docker/install' },
+        { text: 'Docker 进程相关操作', link: '/fe/docker/process' },
+        { text: 'Docker 国内镜像加速', link: '/fe/docker/mirror-source' },
+        { text: 'Docker 镜像相关操作', link: '/fe/docker/mirror' },
+        { text: 'Docker 容器相关操作', link: '/fe/docker/container' }
       ]
     },
     {
       text: 'Git 文档',
       collapsed: false,
-      base: '/fe/git/',
       items: [
-        { text: 'Git 简介与安装', link: 'install' },
-        { text: 'Git 设置用户信息', link: 'user' },
-        { text: 'Git 常用命令', link: 'command' },
-        { text: 'Git 版本回退', link: 'reset' },
-        { text: 'Git 合并commit', link: 'commit' },
-        { text: 'Git 缩减仓库', link: 'clean-up' },
-        { text: 'Git 重置提交记录', link: 'reset-commit' }
+        { text: 'Git 简介与安装', link: '/fe/git/install' },
+        { text: 'Git 设置用户信息', link: '/fe/git/user' },
+        { text: 'Git 常用命令', link: '/fe/git/command' },
+        { text: 'Git 版本回退', link: '/fe/git/reset' },
+        { text: 'Git 合并commit', link: '/fe/git/commit' },
+        { text: 'Git 缩减仓库', link: '/fe/git/clean-up' },
+        { text: 'Git 重置提交记录', link: '/fe/git/reset-commit' }
       ]
     },
     {
       text: 'HomeBrew 文档',
       collapsed: false,
-      base: '/fe/homebrew/',
       items: [
-        { text: 'HomeBrew 简介与安装', link: 'install' },
-        { text: 'HomeBrew 安装软件', link: 'software' },
-        { text: 'HomeBrew tap使用', link: 'tap' },
-        { text: 'HomeBrew 切换镜像源', link: 'mirror-source' }
+        { text: 'HomeBrew 简介与安装', link: '/fe/homebrew/install' },
+        { text: 'HomeBrew 安装软件', link: '/fe/homebrew/software' },
+        { text: 'HomeBrew tap使用', link: '/fe/homebrew/tap' },
+        { text: 'HomeBrew 切换镜像源', link: '/fe/homebrew/mirror-source' }
       ]
     },
     {
       text: 'pnpm 文档',
       collapsed: false,
-      base: '/fe/pnpm/',
       items: [
-        { text: 'pnpm 安装', link: 'install' },
-        { text: 'pnpm 切换镜像及恢复默认源', link: 'mirror' },
-        { text: 'pnpm 管理依赖项', link: 'package' }
+        { text: 'pnpm 安装', link: '/fe/pnpm/install' },
+        { text: 'pnpm 切换镜像及恢复默认源', link: '/fe/pnpm/mirror' },
+        { text: 'pnpm 管理依赖项', link: '/fe/pnpm/package' }
       ]
     }
   ]
@@ -146,47 +138,43 @@ export function Sidebar_vps(): SidebarItem[] {
     {
       text: 'Debian/Ubuntu',
       collapsed: false,
-      base: '/vps/settings/',
       items: [
-        { text: '系统优化设置', link: 'ubuntu' },
-        { text: '更改中文语言', link: 'chinese' },
-        { text: '开启防火墙端口', link: 'firewall-port' },
-        { text: 'Debian12 安装使用 Cloud 内核', link: 'debian12-cloud' },
-        { text: 'oh-my-zsh 安装 & 配置', link: 'oh-my-zsh' },
-        { text: '开机自动挂载 NAS磁盘', link: 'ubuntu-mount-nas' }
+        { text: '系统优化设置', link: '/vps/settings/ubuntu' },
+        { text: '更改中文语言', link: '/vps/settings/chinese' },
+        { text: '开启防火墙端口', link: '/vps/settings/firewall-port' },
+        { text: 'Debian12 安装使用 Cloud 内核', link: '/vps/settings/debian12-cloud' },
+        { text: 'oh-my-zsh 安装 & 配置', link: '/vps/settings/oh-my-zsh' },
+        { text: '开机自动挂载 NAS磁盘', link: '/vps/settings/ubuntu-mount-nas' }
       ]
     },
     {
       text: '系统工具',
       collapsed: false,
-      base: '/vps/tools/',
       items: [
-        { text: '全能工具箱', link: 'all-purpose-toolbox' },
-        { text: 'dd.sh 重装系统', link: 'dd.sh' },
-        { text: 'R 探长开机脚本', link: 'r-bot' },
-        { text: 'IP 质量体检脚本', link: 'ipquality' },
-        { text: '一键检测流媒体解锁', link: 'streaming-unlocked' },
-        { text: '一键检测机场奈飞解锁', link: 'netflix-unlocked' }
+        { text: '全能工具箱', link: '/vps/tools/all-purpose-toolbox' },
+        { text: 'dd.sh 重装系统', link: '/vps/tools/dd.sh' },
+        { text: 'R 探长开机脚本', link: '/vps/tools/r-bot' },
+        { text: 'IP 质量体检脚本', link: '/vps/tools/ipquality' },
+        { text: '一键检测流媒体解锁', link: '/vps/tools/streaming-unlocked' },
+        { text: '一键检测机场奈飞解锁', link: '/vps/tools/netflix-unlocked' }
       ]
     },
     {
       text: '搭建服务',
       collapsed: false,
-      base: '/vps/serve/',
       items: [
-        { text: '哪吒面板', link: 'install-nezha-panel' },
-        { text: '1Panel 面板', link: 'install-1panel' },
-        { text: 'Docker 搭建 aria2+AriaNg', link: 'aria2+ariang' },
-        { text: '一键安装 小雅Xiaoya全家桶', link: 'xiaoya-alist' }
+        { text: '哪吒面板', link: '/vps/serve/install-nezha-panel' },
+        { text: '1Panel 面板', link: '/vps/serve/install-1panel' },
+        { text: 'Docker 搭建 aria2+AriaNg', link: '/vps/serve/aria2+ariang' },
+        { text: '一键安装 小雅Xiaoya全家桶', link: '/vps/serve/xiaoya-alist' }
       ]
     },
     {
       text: 'Oracle Cloud 甲骨文云',
       collapsed: false,
-      base: '/vps/oracle-cloud/',
       items: [
-        { text: '甲骨文云服务器 开启IPv6', link: 'ipv6' },
-        { text: 'Debian系统自动获取IPv6', link: 'debian-ipv6' }
+        { text: '甲骨文云服务器 开启IPv6', link: '/vps/oracle-cloud/ipv6' },
+        { text: 'Debian系统自动获取IPv6', link: '/vps/oracle-cloud/debian-ipv6' }
       ]
     }
   ]
@@ -198,29 +186,27 @@ export function Sidebar_ESXi(): SidebarItem[] {
     {
       text: 'ESXi 8.0 部署指南',
       // collapsed: true,
-      base: '/esxi/install/',
       items: [
-        { text: 'ESXi 安装指南', link: 'guide' },
-        { text: '安装 Openwrt', link: 'openwrt' },
-        { text: '安装 AdGuardHome', link: 'adguardhome' },
-        { text: '安装 Windows 11', link: 'windows11' }
+        { text: 'ESXi 安装指南', link: '/esxi/install/guide' },
+        { text: '安装 Openwrt', link: '/esxi/install/openwrt' },
+        { text: '安装 AdGuardHome', link: '/esxi/install/adguardhome' },
+        { text: '安装 Windows 11', link: '/esxi/install/windows11' }
       ]
     },
     {
       text: 'OpenWrt/iStoreOS',
       // collapsed: true,
-      base: '/esxi/openwrt/',
       items: [
-        { text: 'iStore 插件包', link: 'istore-plugin-package' },
-        { text: 'PPPOE拨号', link: 'pppoe-dial-up' },
-        { text: '关闭IPV6', link: 'turn-off-ipv6' },
-        { text: '实时抓包', link: 'openwrt-real-time-packet-capture' },
-        { text: '动态DNS设置', link: 'ddns-settings' },
-        { text: '刷新 DNS 缓存', link: 'clear-dns-cache' },
-        { text: 'iStoreOS 文件共享步骤', link: 'istoreos-file-sharing-steps' },
-        { text: 'H3C NX30Pro 刷 openwrt', link: 'h3c-nx30pro' },
-        { text: 'openwrt 安装 clouddrive2', link: 'openwrt-install-clouddrive2' },
-        { text: '旁路由设置', link: 'bypass' }
+        { text: 'iStore 插件包', link: '/esxi/openwrt/istore-plugin-package' },
+        { text: 'PPPOE拨号', link: '/esxi/openwrt/pppoe-dial-up' },
+        { text: '关闭IPV6', link: '/esxi/openwrt/turn-off-ipv6' },
+        { text: '实时抓包', link: '/esxi/openwrt/openwrt-real-time-packet-capture' },
+        { text: '动态DNS设置', link: '/esxi/openwrt/ddns-settings' },
+        { text: '刷新 DNS 缓存', link: '/esxi/openwrt/clear-dns-cache' },
+        { text: 'iStoreOS 文件共享步骤', link: '/esxi/openwrt/istoreos-file-sharing-steps' },
+        { text: 'H3C NX30Pro 刷 openwrt', link: '/esxi/openwrt/h3c-nx30pro' },
+        { text: 'openwrt 安装 clouddrive2', link: '/esxi/openwrt/openwrt-install-clouddrive2' },
+        { text: '旁路由设置', link: '/esxi/openwrt/bypass' }
       ]
     }
   ]
@@ -258,28 +244,25 @@ export function Sidebar_ai(): SidebarItem[] {
     {
       text: 'ChatGPT',
       // collapsed: true,
-      base: '/ai/chatgpt/',
       items: [
-        { text: 'ChatGPT 是什么？新手入门指南', link: 'what-is-chatgpt' },
-        { text: 'ChatGPT 国内怎么用？(官网+镜像)', link: 'china-access' },
-        { text: 'ChatGPT 常见问题与使用技巧', link: 'faq' }
+        { text: 'ChatGPT 是什么？新手入门指南', link: '/ai/chatgpt/what-is-chatgpt' },
+        { text: 'ChatGPT 国内怎么用？(官网+镜像)', link: '/ai/chatgpt/china-access' },
+        { text: 'ChatGPT 常见问题与使用技巧', link: '/ai/chatgpt/faq' }
       ]
     },
     {
       text: 'Gemini',
       // collapsed: true,
-      base: '/ai/gemini/',
       items: [
-        { text: 'Gemini 是什么？新手入门指南', link: 'what-is-gemini' },
-        { text: 'Gemini 国内怎么用？(官网+镜像)', link: 'china-access' },
-        { text: 'Gemini 常见问题与使用技巧', link: 'faq' }
+        { text: 'Gemini 是什么？新手入门指南', link: '/ai/gemini/what-is-gemini' },
+        { text: 'Gemini 国内怎么用？(官网+镜像)', link: '/ai/gemini/china-access' },
+        { text: 'Gemini 常见问题与使用技巧', link: '/ai/gemini/faq' }
       ]
     },
     {
       text: '国内镜像站',
       // collapsed: true,
-      base: '/ai/mirror/',
-      items: [{ text: '青龙(QingLong) AI镜像中转站国内使用教程', link: 'qinglong' }]
+      items: [{ text: '青龙(QingLong) AI镜像中转站国内使用教程', link: '/ai/mirror/qinglong' }]
     }
   ]
 }
@@ -289,84 +272,79 @@ export function Sidebar_serve(): SidebarItem[] {
   return [
     {
       text: '优质机场汇总',
-      link: 'summary',
+      link: '/serve/airport/summary',
       // collapsed: true,
-      base: '/serve/airport/',
       items: [
-        { text: '星岛梦(StarDream)' + ty + code, link: 'xdm' },
-        { text: 'Sogo云' + code, link: 'sogo' },
-        { text: '宇宙云(YuZhou)' + code, link: 'yuzhou' },
-        { text: '一翻云(1Fly)' + code, link: '1fly' },
-        { text: '青云梯(QingYunTi)' + cq, link: 'qingyunti' },
-        { text: '隐云(YinYun)' + zc + wx, link: 'yinyun' },
-        { text: '二猫云(2mao)' + code, link: '2mao' },
-        { text: 'Echo' + code + zc, link: 'echo' },
-        { text: 'SSLAR' + code, link: 'sslar' },
-        { text: '边缘节点(EdgeNova)' + code, link: 'edgenova' },
-        { text: '快狸(KuaiLi)' + code, link: 'kuaili' },
-        { text: '速界(SuJie)' + code, link: 'sujie' },
-        { text: '可达(KeDa)', link: 'keda' },
-        { text: '银河云(GalaxyCloud)' + code, link: 'galaxy' },
-        { text: '光速云(LightSpeed)' + code, link: 'lightspeed' },
-        //  { text: '美乐云(MeiLe)' + zc, link: 'meile' },
-        { text: 'TNT Cloud' + code, link: 'tnt' },
-        { text: '龙猫云(TotoroCloud)', link: 'totoro' },
-        { text: '小蜜蜂(XmfWww)' + code, link: 'bee' },
-        // { text: 'OKANC' + zc, link: 'okanc' },
-        { text: '肥猫云(FatCatCloud)', link: 'fatcat' },
-        { text: '酷酷云(KuKuCloud)', link: 'kukucloud' },
-        // { text: '奈云(NaiYun)' + zc, link: 'naiyun' },
-        { text: '飞鸟机场(FlyingBird)' + cq, link: 'flyingbird' }
+        { text: '星岛梦(StarDream)' + ty + code, link: '/serve/airport/xdm' },
+        { text: 'Sogo云' + code, link: '/serve/airport/sogo' },
+        { text: '宇宙云(YuZhou)' + code, link: '/serve/airport/yuzhou' },
+        { text: '一翻云(1Fly)' + code, link: '/serve/airport/1fly' },
+        { text: '青云梯(QingYunTi)' + cq, link: '/serve/airport/qingyunti' },
+        { text: '隐云(YinYun)' + zc + wx, link: '/serve/airport/yinyun' },
+        { text: '二猫云(2mao)' + code, link: '/serve/airport/2mao' },
+        { text: 'Echo' + code + zc, link: '/serve/airport/echo' },
+        { text: 'SSLAR' + code, link: '/serve/airport/sslar' },
+        { text: '边缘节点(EdgeNova)' + code, link: '/serve/airport/edgenova' },
+        { text: '快狸(KuaiLi)' + code, link: '/serve/airport/kuaili' },
+        { text: '速界(SuJie)' + code, link: '/serve/airport/sujie' },
+        { text: '可达(KeDa)', link: '/serve/airport/keda' },
+        { text: '银河云(GalaxyCloud)' + code, link: '/serve/airport/galaxy' },
+        { text: '光速云(LightSpeed)' + code, link: '/serve/airport/lightspeed' },
+        //  { text: '美乐云(MeiLe)' + zc, link: '/serve/airport/meile' },
+        { text: 'TNT Cloud' + code, link: '/serve/airport/tnt' },
+        { text: '龙猫云(TotoroCloud)', link: '/serve/airport/totoro' },
+        { text: '小蜜蜂(XmfWww)' + code, link: '/serve/airport/bee' },
+        // { text: 'OKANC' + zc, link: '/serve/airport/okanc' },
+        { text: '肥猫云(FatCatCloud)', link: '/serve/airport/fatcat' },
+        { text: '酷酷云(KuKuCloud)', link: '/serve/airport/kukucloud' },
+        // { text: '奈云(NaiYun)' + zc, link: '/serve/airport/naiyun' },
+        { text: '飞鸟机场(FlyingBird)' + cq, link: '/serve/airport/flyingbird' }
       ]
     },
     {
       text: '账号合租平台',
-      base: '/serve/sharing/',
-      link: 'account-sharing-guide',
+      link: '/serve/sharing/account-sharing-guide',
       // collapsed: true,
       items: [
-        { text: '账号星球', link: 'acc' },
-        { text: 'NIKE小店', link: 'nike' },
-        { text: '银河录像局', link: 'nf-video' }
+        { text: '账号星球', link: '/serve/sharing/acc' },
+        { text: 'NIKE小店', link: '/serve/sharing/nike' },
+        { text: '银河录像局', link: '/serve/sharing/nf-video' }
       ]
     },
     {
       text: '科学上网',
       // collapsed: true,
-      base: '/serve/routes/',
       items: [
-        { text: '2026机场避坑指南：3个关键指标，帮你避开90%的坑', link: 'choose-guide' },
-        { text: '直连、中转、专线机场怎么选？', link: 'selection' },
-        { text: '直连、中转、专线机场区别', link: 'difference' },
-        { text: '直连线路', link: 'direct-route' },
-        { text: '中转线路', link: 'transit-route' },
-        { text: 'IEPL/IPLC专线', link: 'dedicated-line' },
-        { text: '如何判断机场使用线路类型', link: 'determine-line-type' }
+        { text: '2026机场避坑指南：3个关键指标，帮你避开90%的坑', link: '/serve/routes/choose-guide' },
+        { text: '直连、中转、专线机场怎么选？', link: '/serve/routes/selection' },
+        { text: '直连、中转、专线机场区别', link: '/serve/routes/difference' },
+        { text: '直连线路', link: '/serve/routes/direct-route' },
+        { text: '中转线路', link: '/serve/routes/transit-route' },
+        { text: 'IEPL/IPLC专线', link: '/serve/routes/dedicated-line' },
+        { text: '如何判断机场使用线路类型', link: '/serve/routes/determine-line-type' }
       ]
     },
     {
       text: '科学上网软件使用指南',
-      base: '/serve/antiwall/',
-      link: 'summary',
+      link: '/serve/antiwall/summary',
       items: [
-        { text: 'Clash Verge Rev', link: 'clash-verge-rev' },
-        { text: 'v2rayN', link: 'v2rayn' },
-        { text: 'Clash Party', link: 'clash-party' },
-        { text: 'FlClash', link: 'flclash' },
-        { text: 'Surfboard', link: 'surfboard' },
-        { text: 'Clash meta For Android', link: 'clash-meta-for-android' },
-        { text: 'NekoBox', link: 'nekobox' },
-        { text: 'Clash Mi', link: 'clash-mi' },
-        { text: 'Shadowrocket', link: 'shadowrocket' },
-        { text: 'Quantumult X', link: 'quantumult-x' },
-        { text: 'Egern', link: 'egern' }
+        { text: 'Clash Verge Rev', link: '/serve/antiwall/clash-verge-rev' },
+        { text: 'v2rayN', link: '/serve/antiwall/v2rayn' },
+        { text: 'Clash Party', link: '/serve/antiwall/clash-party' },
+        { text: 'FlClash', link: '/serve/antiwall/flclash' },
+        { text: 'Surfboard', link: '/serve/antiwall/surfboard' },
+        { text: 'Clash meta For Android', link: '/serve/antiwall/clash-meta-for-android' },
+        { text: 'NekoBox', link: '/serve/antiwall/nekobox' },
+        { text: 'Clash Mi', link: '/serve/antiwall/clash-mi' },
+        { text: 'Shadowrocket', link: '/serve/antiwall/shadowrocket' },
+        { text: 'Quantumult X', link: '/serve/antiwall/quantumult-x' },
+        { text: 'Egern', link: '/serve/antiwall/egern' }
       ]
     },
     {
       text: '接码平台',
       // collapsed: true,
-      base: '/serve/code/',
-      items: [{ text: 'Hero-SMS' + code, link: 'sms' }]
+      items: [{ text: 'Hero-SMS' + code, link: '/serve/code/sms' }]
     }
   ]
 }

@@ -4,7 +4,7 @@ import { imgSize, obsidianImgSize } from '@mdit/plugin-img-size'
 import { tasklist } from '@mdit/plugin-tasklist'
 import type { MarkdownOptions } from 'vitepress'
 import { groupIconMdPlugin } from 'vitepress-plugin-group-icons'
-import { table } from './index.ts'
+import { table } from './index'
 
 export const markdown: MarkdownOptions = {
   theme: { light: 'one-light', dark: 'dracula-soft' },

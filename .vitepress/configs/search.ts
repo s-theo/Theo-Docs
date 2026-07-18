@@ -90,7 +90,6 @@ export const search: DefaultTheme.AlgoliaSearchOptions = {
             afterToolCallText: '已搜索',
             stoppedStreamingText: '你已停止此回复',
             errorTitleText: '聊天错误',
-            threadDepthExceededMessage: '为保持回答准确，此对话已关闭。',
             startNewConversationButtonText: '开始新的对话'
           }
         }

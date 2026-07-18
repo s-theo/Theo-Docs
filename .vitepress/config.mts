@@ -50,7 +50,6 @@ export default defineConfig({
   // vite 配置
   vite: {
     plugins: [
-      // @ts-ignore: 使用 rolldown-vite 时类型不兼容 vite，但运行正常
       groupIconVitePlugin({
         customIcon: {
           debian: 'vscode-icons:file-type-debian',
@@ -63,7 +62,7 @@ export default defineConfig({
           rhel: 'logos:redhat-icon',
           android: 'logos:android-icon'
         }
-      }), // @ts-ignore
+      }),
       llmstxt({})
     ]
   },

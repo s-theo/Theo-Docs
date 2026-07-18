@@ -1,4 +1,4 @@
-# AGENTS.md — Theo Docs
+# AGENTS.md - Theo Docs
 
 Scope: this file applies to the entire repository. There are no nested `AGENTS.md` files.
 
@@ -9,7 +9,7 @@ Theo Docs (`s-theo/Theo-Docs`) is a Chinese VitePress documentation site publish
 
 | Item | Current source of truth |
 | --- | --- |
-| Runtime | Node 22 on the active Cloudflare Pages build image v3; no version is pinned in the repository |
+| Runtime | Node 22 on Cloudflare Pages build image v3; use Node 22.22.1+ locally for current dependencies |
 | Package manager | `pnpm` (`package.json#packageManager`; currently `11.14.0`) |
 | Framework | VitePress `2.0.0-alpha.18`, Vite 8, Vue 3 |
 | Theme | Default VitePress theme extended with `@theojs/lumen` |
@@ -79,9 +79,10 @@ There is no repository `test`, standalone `lint`, or type-check script. Biome's 
   `.vitepress/theme/index.ts`. Umami reads `VITE_UMAMI_ID` and `VITE_UMAMI_SRC`; never commit secrets or local
   environment files.
 - `content/code/giscus.ts` is not imported by the active theme; do not treat it as runtime configuration.
-- Keep `pnpm-workspace.yaml` policy intact: peers are not auto-installed, and dependency build scripts are
-  allowlisted. Do not bypass or broaden these controls merely to make an install pass.
-- Keep the two documented `@ts-ignore` suppressions around Vite plugins in `.vitepress/config.mts` unless the
+- Keep `pnpm-workspace.yaml` policy intact: peers are not auto-installed, only `simple-git-hooks` may run a
+  dependency lifecycle script, and newly released package versions may be installed immediately. Do not bypass
+  or broaden the remaining controls merely to make an install pass.
+- Keep the two `@ts-ignore` directives around Vite plugins in `.vitepress/config.mts` unless the
   underlying rolldown-vite type incompatibility is actually resolved; verify plugin changes with a real build.
 - Follow Biome's configured style: 2 spaces, LF, single quotes in JavaScript/CSS, no semicolons, no trailing
   commas, and 120-column width. Biome is the sole configured formatter; do not add another formatter without an

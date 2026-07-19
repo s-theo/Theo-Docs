@@ -8,12 +8,6 @@
     "preview": "vitepress preview",
     "upall": "pnpm -r update --latest"
   },
-  "simple-git-hooks": {
-    "pre-commit": "pnpm lint-staged"
-  },
-  "lint-staged": {
-    "*": "biome check --write --no-errors-on-unmatched"
-  },
   "devDependencies": {
     "@biomejs/biome": "^2.5.4",
     "@mdit/plugin-figure": "^1.0.1",
@@ -21,8 +15,6 @@
     "@mdit/plugin-img-size": "^1.0.1",
     "@mdit/plugin-tasklist": "^1.0.1",
     "@theojs/lumen": "^6.4.7",
-    "lint-staged": "^17.0.8",
-    "simple-git-hooks": "^2.13.1",
     "viewerjs": "^1.11.7",
     "vite": "^8.1.5",
     "vitepress": "2.0.0-alpha.18",

@@ -48,24 +48,3 @@ yarn biome check --write .
 ```
 
 :::
-
-### 配置 commit 自动格式化
-
-#### 安装 simple-git-hooks 和 lint-staged 插件
-
-```zsh
-pnpm install simple-git-hooks lint-staged
-```
-
-#### 配置 package.json 示例
-
-```json
-{
-  "lint-staged": {
-    "*": "biome check --write --no-errors-on-unmatched"
-  },
-  "simple-git-hooks": {
-    "pre-commit": "pnpm lint-staged"
-  }
-}
-```

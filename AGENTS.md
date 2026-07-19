@@ -35,7 +35,7 @@ transposed-table, and `vitepress-plugin-llms` integrations.
 | `.vitepress/configs/` | Navigation, sidebar, Markdown, search, head metadata, social links, and page-data transforms |
 | `.vitepress/theme/index.ts` | Lumen slots/components, Umami, group icons, and image viewer registration |
 | `.vitepress/data/` | Lumen aside promotions and footer links |
-| `package.json`, `pnpm-lock.yaml`, `pnpm-workspace.yaml` | Scripts, dependency graph, peer/build-script policy |
+| `package.json`, `pnpm-lock.yaml`, `pnpm-workspace.yaml` | Scripts, dependency graph, and workspace install policy |
 | `biome.json` | Formatter and import-organization rules |
 | `renovate.json` | Central Renovate preset reference |
 
@@ -84,9 +84,8 @@ Markdown is not substantively checked.
   `.vitepress/theme/index.ts`. Umami reads `VITE_UMAMI_ID` and `VITE_UMAMI_SRC`; never commit secrets or local
   environment files.
 - `content/code/giscus.ts` is not imported by the active theme; do not treat it as runtime configuration.
-- Keep `pnpm-workspace.yaml` policy intact: peers are not auto-installed, only `simple-git-hooks` may run a
-  dependency lifecycle script, and newly released package versions may be installed immediately. Do not bypass
-  or broaden the remaining controls merely to make an install pass.
+- Keep `pnpm-workspace.yaml` policy intact: peers are not auto-installed and newly released package versions may
+  be installed immediately. Do not bypass or broaden the remaining controls merely to make an install pass.
 - Do not add TypeScript suppression directives or weaken type checking to bypass diagnostics. Fix the underlying
   types, then verify VitePress configuration changes with TypeScript diagnostics and a real build.
 - Follow Biome's configured style: 2 spaces, LF, single quotes in JavaScript/CSS, no semicolons, no trailing
@@ -110,8 +109,6 @@ generated output.
 
 - Keep changes scoped. Do not commit, push, create or mutate a PR, merge, deploy, or delete branches without
   explicit authorization.
-- The pre-commit hook runs `lint-staged`, which invokes Biome with `--write`; after any authorized commit attempt,
-  re-check the staged diff for hook-applied changes.
 - No GitHub workflow YAML is tracked in this repository. GitHub currently supplies provider-managed CodeQL and
   dependency-update workflows, while PRs also report an external Cloudflare Pages check. Inspect live PR checks
   instead of assuming these external settings are unchanged.

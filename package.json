@@ -15,7 +15,7 @@
     "@mdit/plugin-img-size": "^1.0.1",
     "@mdit/plugin-tasklist": "^1.0.1",
     "@theojs/lumen": "^6.4.7",
-    "viewerjs": "^1.11.7",
+    "viewerjs": "^1.11.8",
     "vite": "^8.1.5",
     "vitepress": "2.0.0-alpha.18",
     "vitepress-plugin-group-icons": "^1.7.5",
@@ -23,5 +23,5 @@
     "vitepress-plugin-llms": "^1.13.3",
     "vue": "^3.5.40"
   },
-  "packageManager": "pnpm@11.14.0"
+  "packageManager": "pnpm@11.15.1"
 }

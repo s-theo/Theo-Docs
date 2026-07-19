@@ -9,7 +9,7 @@ Theo Docs (`s-theo/Theo-Docs`) is a Chinese VitePress documentation site publish
 
 | Item | Current source of truth |
 | --- | --- |
-| Runtime | Node.js; satisfy the strictest `engines.node` constraint in `pnpm-lock.yaml` and verify the active Cloudflare Pages runtime |
+| Runtime | Node.js; read the pinned release from `.nvmrc` and verify the active Cloudflare Pages runtime |
 | Package manager | `pnpm`; read the pinned release from `package.json#packageManager` |
 | Framework | VitePress, Vite, and Vue; read requested and resolved releases from `package.json` and `pnpm-lock.yaml` |
 | Theme | Default VitePress theme extended with `@theojs/lumen` |

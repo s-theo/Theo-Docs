@@ -166,6 +166,14 @@ export const Aside_Data: AsideItem = [
   //   link: 'https://ilil.uk/fatcat',
   //   rel: 'sponsored noreferrer'
   // },
+  {
+    image: 'https://i.theojs.cn/logo/flyingbird.webp',
+    promo: '飞鸟机场(FlyingBird)特惠',
+    info1: '月/季/半年付<span class="promo-text"> 9折: theo </span>',
+    info2: '年付以上<span class="promo-text"> 64折: year85 </span>',
+    link: 'https://ilil.uk/flyingbird',
+    rel: 'sponsored noreferrer'
+  },
   // {
   //   image: 'https://i.theojs.cn/logo/qyt.webp',
   //   promo: '青云梯(QingYunTi)',
@@ -194,6 +202,12 @@ export const Aside_Data: AsideItem = [
   //   image: { src: 'https://i.theojs.cn/logo/galaxy_transparent_square.webp', crop: true },
   //   promo: '银河云(GalaxyCloud)',
   //   link: 'https://ilil.uk/yhy',
+  //   rel: 'sponsored noreferrer'
+  // },
+  // {
+  //   image: 'https://i.theojs.cn/logo/flyingbird.webp',
+  //   promo: '飞鸟机场(FlyingBird)',
+  //   link: 'https://ilil.uk/flyingbird',
   //   rel: 'sponsored noreferrer'
   // },
   // {

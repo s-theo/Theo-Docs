@@ -296,9 +296,8 @@ export function Sidebar_serve(): SidebarItem[] {
         { text: `小蜜蜂(XmfWww)${code}`, link: '/serve/airport/bee' },
         // { text: 'OKANC' + zc, link: '/serve/airport/okanc' },
         { text: '肥猫云(FatCatCloud)', link: '/serve/airport/fatcat' },
-        { text: '酷酷云(KuKuCloud)', link: '/serve/airport/kukucloud' },
+        { text: '酷酷云(KuKuCloud)', link: '/serve/airport/kukucloud' }
         // { text: '奈云(NaiYun)' + zc, link: '/serve/airport/naiyun' },
-        { text: `飞鸟机场(FlyingBird)${cq}`, link: '/serve/airport/flyingbird' }
       ]
     },
     {

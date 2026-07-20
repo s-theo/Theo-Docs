@@ -4,7 +4,7 @@ description: 精选2026年最便宜且好用的翻墙机场与VPN，全面评测
 head:
   - - meta
     - name: keywords
-      content: VPN机场推荐, 翻墙VPN, 便宜VPN机场, Sogo云, 青云梯 QingYunTi, 隐云 YinYun, 二猫云 2mao, 银河云 GalaxyCloud, 美乐云 MeiLe, TNT Cloud, 龙猫云 TotoroCloud, 小蜜蜂 XmfWww, OKANC, 肥猫云 FatCatCloud, 酷酷云 KuKuCloud, 奈云 NaiYun, Echo, 飞鸟机场 FlyingBird, 无限流量, Netflix解锁, ChatGPT加速, 流媒体解锁
+      content: VPN机场推荐, 翻墙VPN, 便宜VPN机场, Sogo云, 青云梯 QingYunTi, 隐云 YinYun, 二猫云 2mao, 银河云 GalaxyCloud, 美乐云 MeiLe, TNT Cloud, 龙猫云 TotoroCloud, 小蜜蜂 XmfWww, OKANC, 肥猫云 FatCatCloud, 酷酷云 KuKuCloud, 奈云 NaiYun, Echo, 无限流量, Netflix解锁, ChatGPT加速, 流媒体解锁
 ---
 
 # 2026年便宜好用的翻墙VPN机场推荐评测(长期更新 欢迎推荐)
@@ -64,7 +64,6 @@ head:
 |       [小蜜蜂(XmfWww)](<#小蜜蜂(XmfWww)机场服务评测>)       |            <Pill image="https://i.theojs.cn/logo/bee_logo.webp" name="小蜜蜂官网" link="https://ilil.uk/bee" rel="sponsored noreferrer" />            |    8元 60g/月    |     ✅      |    [查看](/serve/airport/bee.md)     |
 |  [肥猫云(FatCatCloud)](<#肥猫云(FatCatCloud)机场服务评测>)  |           <Pill image="https://i.theojs.cn/logo/fclogo.webp" name="肥猫云官网" link="https://ilil.uk/fatcat" rel="sponsored noreferrer" />            |    8元 60g/月    |     ❌      |   [查看](/serve/airport/fatcat.md)   |
 |    [酷酷云(KuKuCloud)](<#酷酷云(KuKuCloud)机场服务评测>)    |         <Pill image="https://i.theojs.cn/airport/kuku_logo.webp" name="酷酷云官网" link="https://ilil.uk/kuku" rel="sponsored noreferrer" />          |   16元 100g/月   |     ❌      | [查看](/serve/airport/kukucloud.md)  |
-| [飞鸟机场(FlyingBird)](<#飞鸟机场(FlyingBird)机场服务评测>) |     <Pill image="https://i.theojs.cn/logo/flyingbird.webp" name="FlyingBird官网" link="https://ilil.uk/flyingbird" rel="sponsored noreferrer" />      |   12元 100g/月   |     ❌      | [查看](/serve/airport/flyingbird.md) |
 
 <!-- |         [奈云(NaiYun)](<#奈云(NaiYun)机场服务评测>)         |          <Pill image="https://i.theojs.cn/logo/naiyun_logo.webp" name="奈云官网" link="https://ilil.uk/naiyun" rel="sponsored noreferrer" />          |   14元 168g/月   |     ✅     |   [查看](/serve/airport/naiyun.md)   |
 |        [美乐云(MeiLe)](<#美乐云(MeiLe)机场服务评测>)        |            <Pill image="https://i.theojs.cn/logo/meile.webp" name="美乐云官网"  link="https://ilil.uk/meile" rel="sponsored noreferrer" />            |   12元 128g/月   |     ✅     |   [查看](/serve/airport/meile.md)    |
@@ -189,12 +188,6 @@ head:
 <!--@include: @/serve/airport/kukucloud.md#1-->
 <!--@include: @/serve/airport/kukucloud.md#2-->
 <!--@include: @/serve/airport/kukucloud.md#3-->
-
-## 飞鸟机场(FlyingBird)机场服务评测
-
-<!--@include: @/serve/airport/flyingbird.md#1-->
-<!--@include: @/serve/airport/flyingbird.md#2-->
-<!--@include: @/serve/airport/flyingbird.md#3-->
 
 <!--@include: @/bottom.md-->
 

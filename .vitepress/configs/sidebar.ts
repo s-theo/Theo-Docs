@@ -258,11 +258,6 @@ export function Sidebar_ai(): SidebarItem[] {
         { text: 'Gemini 国内怎么用？(官网+镜像)', link: '/ai/gemini/china-access' },
         { text: 'Gemini 常见问题与使用技巧', link: '/ai/gemini/faq' }
       ]
-    },
-    {
-      text: '国内镜像站',
-      // collapsed: true,
-      items: [{ text: '青龙(QingLong) AI镜像中转站国内使用教程', link: '/ai/mirror/qinglong' }]
     }
   ]
 }
@@ -290,14 +285,11 @@ export function Sidebar_serve(): SidebarItem[] {
         { text: '可达(KeDa)', link: '/serve/airport/keda' },
         { text: `银河云(GalaxyCloud)${code}`, link: '/serve/airport/galaxy' },
         { text: `光速云(LightSpeed)${code}`, link: '/serve/airport/lightspeed' },
-        //  { text: '美乐云(MeiLe)' + zc, link: '/serve/airport/meile' },
         { text: `TNT Cloud${code}`, link: '/serve/airport/tnt' },
         { text: '龙猫云(TotoroCloud)', link: '/serve/airport/totoro' },
         { text: `小蜜蜂(XmfWww)${code}`, link: '/serve/airport/bee' },
-        // { text: 'OKANC' + zc, link: '/serve/airport/okanc' },
         { text: '肥猫云(FatCatCloud)', link: '/serve/airport/fatcat' },
         { text: '酷酷云(KuKuCloud)', link: '/serve/airport/kukucloud' },
-        // { text: '奈云(NaiYun)' + zc, link: '/serve/airport/naiyun' },
         { text: `飞鸟机场(FlyingBird)${cq}`, link: '/serve/airport/flyingbird' }
       ]
     },

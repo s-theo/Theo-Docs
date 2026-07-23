@@ -23,7 +23,6 @@ export const Footer_Data: FooterData = {
         { name: '快狸(KuaiLi)', link: 'https://ilil.uk/kuaili', rel: 'sponsored noreferrer' },
         { name: '速界(SuJie)', link: 'https://ilil.uk/sujie', rel: 'sponsored noreferrer' },
         { name: '银河云(GalaxyCloud)', link: 'https://ilil.uk/yhy', rel: 'sponsored noreferrer' },
-        // { name: '美乐云(MeiLe)', link: 'https://ilil.uk/meile', rel: 'sponsored noreferrer' }
         { name: '隐云(YinYun)', link: 'https://ilil.uk/yinyun', rel: 'sponsored noreferrer' }
       ]
     },
@@ -34,7 +33,6 @@ export const Footer_Data: FooterData = {
         { name: '酷酷云(KuKuCloud)', link: 'https://ilil.uk/kuku', rel: 'sponsored noreferrer' },
         { name: '龙猫云(TotoroCloud)', link: 'https://ilil.uk/totoro', rel: 'sponsored noreferrer' },
         { name: '小蜜蜂(XmfWww)', link: 'https://ilil.uk/bee', rel: 'sponsored noreferrer' },
-        // { name: 'OKANC', link: 'https://ilil.uk/okanc', rel: 'sponsored noreferrer' },
         { name: 'Echo', link: 'https://ilil.uk/echo', rel: 'sponsored noreferrer' },
         { name: 'SSLAR', link: 'https://ilil.uk/sslar', rel: 'sponsored noreferrer' }
       ]
@@ -45,7 +43,6 @@ export const Footer_Data: FooterData = {
       links: [
         { name: '肥猫云(FatCatCloud)', link: 'https://ilil.uk/fatcat', rel: 'sponsored noreferrer' },
         { name: '二猫云(2mao)', link: 'https://ilil.uk/2mao', rel: 'sponsored noreferrer' },
-        // { name: '奈云(NaiYun)', link: 'https://ilil.uk/naiyun', rel: 'sponsored noreferrer' },
         { name: 'TNT Cloud', link: 'https://ilil.uk/tnt', rel: 'sponsored noreferrer' },
         { name: '光速云(LightSpeed)', link: 'https://ilil.uk/lightspeed', rel: 'sponsored noreferrer' },
         { name: '飞鸟机场(FlyingBird)', link: 'https://ilil.uk/flyingbird', rel: 'sponsored noreferrer' }

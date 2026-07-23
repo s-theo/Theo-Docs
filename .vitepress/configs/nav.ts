@@ -37,8 +37,7 @@ export const nav: DefaultTheme.NavItem[] = [
     items: [
       { text: 'AI 使用汇总', link: '/ai/summary' },
       { text: 'ChatGPT', link: '/ai/chatgpt/what-is-chatgpt' },
-      { text: 'Gemini', link: '/ai/gemini/what-is-gemini' },
-      { text: '国内镜像站', link: '/ai/mirror/qinglong' }
+      { text: 'Gemini', link: '/ai/gemini/what-is-gemini' }
     ],
     activeMatch: '^/ai/'
   },

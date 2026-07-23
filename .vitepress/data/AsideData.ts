@@ -136,29 +136,6 @@ export const Aside_Data: AsideItem = [
     rel: 'sponsored noreferrer'
   },
   // {
-  //   image: 'https://i.theojs.cn/logo/okanc.webp',
-  //   promo: 'OKNAC 75 折特惠',
-  //   info1: '全场套餐 <span class="promo-text"> 75折: 0308</span>',
-  //   link: 'https://ilil.uk/okanc',
-  //   rel: 'sponsored noreferrer'
-  // },
-
-  // {
-  //   image: 'https://i.theojs.cn/logo/naiyun_logo.webp',
-  //   promo: '奈云(NaiYun) 75 折特惠',
-  //   info1: '全场套餐 <span class="promo-text"> 75折: 0308</span>',
-  //   link: 'https://ilil.uk/naiyun',
-  //   rel: 'sponsored noreferrer'
-  // },
-  // {
-  //   image: 'https://i.theojs.cn/logo/meile.webp',
-  //   promo: '美乐云(MeiLe) 75 折特惠',
-  //   info1: '全场套餐 <span class="promo-text"> 75折: ML75</span>',
-  //   link: 'https://ilil.uk/meile',
-  //   rel: 'sponsored noreferrer'
-  // },
-
-  // {
   //   image: 'https://i.theojs.cn/logo/fclogo.webp',
   //   promo: '肥猫云(FatCatCloud)特惠',
   //   info1: '月/半年<span class="promo-text"> 85折: newyear202685 </span>',
@@ -208,24 +185,6 @@ export const Aside_Data: AsideItem = [
   //   image: 'https://i.theojs.cn/logo/flyingbird.webp',
   //   promo: '飞鸟机场(FlyingBird)',
   //   link: 'https://ilil.uk/flyingbird',
-  //   rel: 'sponsored noreferrer'
-  // },
-  // {
-  //   image: 'https://i.theojs.cn/logo/meile.webp',
-  //   promo: '美乐云(MeiLe)',
-  //   link: 'https://ilil.uk/meile',
-  //   rel: 'sponsored noreferrer'
-  // },
-  // {
-  //   image: 'https://i.theojs.cn/logo/okanc.webp',
-  //   promo: 'OKNAC',
-  //   link: 'https://ilil.uk/okanc',
-  //   rel: 'sponsored noreferrer'
-  // },
-  // {
-  //   image: 'https://i.theojs.cn/logo/naiyun_logo.webp',
-  //   promo: '奈云(NaiYun)',
-  //   link: 'https://ilil.uk/naiyun',
   //   rel: 'sponsored noreferrer'
   // },
   // {

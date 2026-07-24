@@ -1,41 +1,7 @@
-import type { Declaration, Plugin as PostcssPlugin } from 'postcss'
-import type { Plugin as VitePlugin } from 'vite'
 import { defineConfig } from 'vitepress'
 import { groupIconVitePlugin } from 'vitepress-plugin-group-icons'
 import llmstxt from 'vitepress-plugin-llms'
 import { head, markdown, nav, search, sidebar, socialLinks, transformPageData } from './configs'
-
-const legacyTheojsDomain = ['theojs', 'cn'].join('.')
-const currentTheojsDomain = ['theojs', 'net'].join('.')
-const lumenModule = /[/\\]@theojs[/\\]lumen[/\\]/
-const lumenCssSource = /[/\\]@theojs[/\\]lumen[/\\]style[/\\]components-var\.css$/
-
-function normalizeLumenDomain(): VitePlugin {
-  return {
-    name: 'normalize-lumen-theojs-domain',
-    enforce: 'pre',
-    transform: {
-      filter: { id: lumenModule },
-      handler(code, id) {
-        if (!lumenModule.test(id) || !code.includes(legacyTheojsDomain)) return
-
-        return { code: code.replaceAll(legacyTheojsDomain, currentTheojsDomain), map: null }
-      }
-    }
-  }
-}
-
-function normalizeLumenCssDomain(): PostcssPlugin {
-  return {
-    postcssPlugin: 'normalize-lumen-theojs-domain',
-    Declaration(declaration: Declaration) {
-      const sourceFile = declaration.source?.input.file
-      if (!sourceFile || !lumenCssSource.test(sourceFile) || !declaration.value.includes(legacyTheojsDomain)) return
-
-      declaration.value = declaration.value.replaceAll(legacyTheojsDomain, currentTheojsDomain)
-    }
-  }
-}
 
 export default defineConfig({
   // 站点名称
@@ -83,9 +49,7 @@ export default defineConfig({
 
   // vite 配置
   vite: {
-    css: { postcss: { plugins: [normalizeLumenCssDomain()] } },
     plugins: [
-      normalizeLumenDomain(),
       groupIconVitePlugin({
         customIcon: {
           debian: 'vscode-icons:file-type-debian',

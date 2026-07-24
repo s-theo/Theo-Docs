@@ -1,5 +1,5 @@
 ---
-title: 闪跃(FlashLeap) 官网注册地址｜真实测速｜价格与套餐详解
+title: 闪跃(FlashLeap) VPN官网注册地址｜真实测速｜价格与套餐详解
 description: 闪跃(FlashLeap)采用 IPLC 纯专线，提供低延迟、晚高峰不限速的网络连接，支持 ChatGPT、Claude、Gemini 与 Netflix、Disney+、HBO 等服务。
 head:
   - - meta
@@ -7,9 +7,9 @@ head:
       content: 闪跃机场, FlashLeap机场, 闪跃机场官网, FlashLeap套餐价格, FlashLeap测速, IPLC专线, FlashLeap流媒体解锁, FlashLeap AI解锁
 ---
 
-# 闪跃(FlashLeap) 官网注册地址｜真实测速｜价格与套餐详解
+# 闪跃(FlashLeap) VPN官网注册地址｜真实测速｜价格与套餐详解
 
-## 闪跃(FlashLeap) 官网注册地址（当前可用｜稳定高速｜真实测速）
+## 闪跃(FlashLeap) VPN官网注册地址（当前可用｜稳定高速｜真实测速）
 
 <!-- #region 1 -->
 
@@ -21,7 +21,7 @@ head:
 
 <!-- #endregion 1 -->
 
-## 闪跃(FlashLeap) 是什么？适合哪些人使用（真实体验 + 优缺点）
+## 闪跃(FlashLeap) VPN是什么？适合哪些人使用（真实体验 + 优缺点）
 
 <!-- #region 2 -->
 
@@ -37,7 +37,7 @@ head:
 
 <!-- #endregion 2 -->
 
-## 闪跃(FlashLeap) 价格与套餐对比（性价比分析｜新手怎么选）
+## 闪跃(FlashLeap) VPN价格与套餐对比（性价比分析｜新手怎么选）
 
 <!-- #region 3 -->
 
@@ -60,7 +60,7 @@ head:
 
 <!-- #endregion 3 -->
 
-## 闪跃(FlashLeap) 真实测速与流媒体解锁图
+## 闪跃(FlashLeap) VPN真实测速与流媒体解锁图
 
 ![闪跃节点测速图 =688x](https://i.theojs.cn/airport/flashleap_speed.webp)
 

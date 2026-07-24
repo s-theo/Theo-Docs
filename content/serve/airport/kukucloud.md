@@ -1,27 +1,27 @@
 ---
-title: 酷酷云(KuKuCloud)官网注册地址｜真实测速｜价格与套餐详解
-description: 酷酷云(KuKuCloud)是一家提供跨境网络加速服务的机场服务商，2025 年成立，由海外团队运营，专线接入+BGP三网优化，多线路冗余。高速节点遍布全球，自研自动故障切换技术，晚高峰依然流畅。服务面向日常网页浏览、国际流媒体访问，以及 AI 工具使用等场景。
+title: 酷酷云(KuKuCloud)VPN官网注册地址｜真实测速｜价格与套餐详解
+description: 酷酷云(KuKuCloud)VPN是一家提供跨境网络加速服务的机场服务商，2025 年成立，由海外团队运营，专线接入+BGP三网优化，多线路冗余。高速节点遍布全球，自研自动故障切换技术，晚高峰依然流畅。服务面向日常网页浏览、国际流媒体访问，以及 AI 工具使用等场景。
 head:
   - - meta
     - name: keywords
-      content: 酷酷云机场, 酷酷云机场 KuKuCloud, 酷酷云机场, 酷酷云机场官网, 酷酷云机场套餐价格, 酷酷云机场测速, 酷酷云机场流媒体解锁
+      content: 酷酷云机场, 酷酷云机场 KuKuCloud, 酷酷云机场VPN, 酷酷云机场官网, 酷酷云机场套餐价格, 酷酷云机场测速, 酷酷云机场流媒体解锁
 ---
 
-# 酷酷云(KuKuCloud)官网注册地址｜真实测速｜价格与套餐详解
+# 酷酷云(KuKuCloud)VPN官网注册地址｜真实测速｜价格与套餐详解
 
-## 酷酷云(KuKuCloud)官网注册地址（当前可用｜稳定高速｜真实测速）
+## 酷酷云(KuKuCloud)VPN官网注册地址（当前可用｜稳定高速｜真实测速）
 
 <!-- #region 1 -->
 
 **最便宜的订阅有16元 100g/月(年付)。**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/airport/kuku_logo.webp" name="酷酷云(KuKuCloud)官网" link="https://ilil.uk/kuku" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/airport/kuku_logo.webp" name="酷酷云(KuKuCloud)VPN官网" link="https://ilil.uk/kuku" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
 <!-- #endregion 1 -->
 
-## 酷酷云(KuKuCloud)是什么？适合哪些人使用（真实体验 + 优缺点）
+## 酷酷云(KuKuCloud)VPN是什么？适合哪些人使用（真实体验 + 优缺点）
 
 <!-- #region 2 -->
 
@@ -43,7 +43,7 @@ head:
 
 <!-- #endregion 2 -->
 
-## 酷酷云(KuKuCloud)价格与套餐对比（性价比分析｜新手怎么选）
+## 酷酷云(KuKuCloud)VPN价格与套餐对比（性价比分析｜新手怎么选）
 
 <!-- #region 3 -->
 
@@ -66,7 +66,7 @@ head:
 
 <!-- #endregion 3 -->
 
-## 酷酷云(KuKuCloud)真实测速图（高峰期表现实测）
+## 酷酷云(KuKuCloud)VPN真实测速图（高峰期表现实测）
 
 ![酷酷云(KuKuCloud) 解锁图 =688x](https://i.theojs.cn/airport/kuku_fulltest.webp)
 

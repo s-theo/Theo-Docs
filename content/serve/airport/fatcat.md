@@ -1,27 +1,27 @@
 ---
-title: 肥猫云(FatCatCloud)VPN官网注册地址｜真实测速｜价格与套餐详解
-description: 肥猫云(FatCatCloud)VPN大带宽不限速专线机场接入全球优质机房与多地节点，覆盖亚洲、美洲、欧洲等核心地区，支持流媒体解锁、远程办公、跨境电商等多种场景，为你提供高速、稳定、安全的网络体验。
+title: 肥猫云(FatCatCloud)官网注册地址｜真实测速｜价格与套餐详解
+description: 肥猫云(FatCatCloud)大带宽不限速专线机场接入全球优质机房与多地节点，覆盖亚洲、美洲、欧洲等核心地区，支持流媒体解锁、远程办公、跨境电商等多种场景，为你提供高速、稳定、安全的网络体验。
 head:
   - - meta
     - name: keywords
-      content: 肥猫云机场, 肥猫云 FatCatCloud, 肥猫云VPN, 肥猫云官网, 肥猫云套餐价格, 肥猫云测速, 肥猫云流媒体解锁
+      content: 肥猫云机场, 肥猫云 FatCatCloud, 肥猫云, 肥猫云官网, 肥猫云套餐价格, 肥猫云测速, 肥猫云流媒体解锁
 ---
 
-# 肥猫云(FatCatCloud)VPN官网注册地址｜真实测速｜价格与套餐详解
+# 肥猫云(FatCatCloud)官网注册地址｜真实测速｜价格与套餐详解
 
-## 肥猫云(FatCatCloud)VPN官网注册地址（当前可用｜稳定高速｜真实测速）
+## 肥猫云(FatCatCloud)官网注册地址（当前可用｜稳定高速｜真实测速）
 
 <!-- #region 1 -->
 
 **最便宜的订阅有8元 60g/月(年付)。**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/fclogo.webp" name="肥猫云(FatCatCloud)VPN官网" link="https://ilil.uk/fatcat" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/fclogo.webp" name="肥猫云(FatCatCloud)官网" link="https://ilil.uk/fatcat" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
 <!-- #endregion 1-->
 
-## 肥猫云(FatCatCloud)VPN是什么？适合哪些人使用（真实体验 + 优缺点）
+## 肥猫云(FatCatCloud)是什么？适合哪些人使用（真实体验 + 优缺点）
 
 <!-- #region 2 -->
 
@@ -37,7 +37,7 @@ head:
 - 节点覆盖 **香港、台湾、日本、新加坡、美国、马来西亚、泰国、英国、巴西、阿根廷** 等地
 <!-- #endregion 2-->
 
-## 肥猫云(FatCatCloud)VPN价格与套餐对比（性价比分析｜新手怎么选）
+## 肥猫云(FatCatCloud)价格与套餐对比（性价比分析｜新手怎么选）
 
 <!-- #region 3 -->
 
@@ -63,7 +63,7 @@ head:
 
 <!-- #endregion 3-->
 
-## 肥猫云(FatCatCloud)VPN真实测速图（高峰期表现实测）
+## 肥猫云(FatCatCloud)真实测速图（高峰期表现实测）
 
 ![肥猫云(FatCatCloud) 三网拓扑 =688x](https://i.theojs.cn/airport/fatcatcloud-topology.webp)
 

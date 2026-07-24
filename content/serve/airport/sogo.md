@@ -1,27 +1,27 @@
 ---
-title: Sogo云VPN官网注册地址｜真实测速｜价格与套餐详解
-description: Sogo云VPN专注于提供高速稳定的网络连接服务，采用先进架构与优质线路，保障用户在各类使用场景下的流畅体验。支持自研客户端，下载安装后即可一键登录使用，同时兼容主流代理软件。无论是日常上网、流媒体解锁还是AI工具使用，Sogo云VPN都能满足您的需求。
+title: Sogo云官网注册地址｜真实测速｜价格与套餐详解
+description: Sogo云专注于提供高速稳定的网络连接服务，采用先进架构与优质线路，保障用户在各类使用场景下的流畅体验。支持自研客户端，下载安装后即可一键登录使用，同时兼容主流代理软件。无论是日常上网、流媒体解锁还是AI工具使用，Sogo云都能满足您的需求。
 head:
   - - meta
     - name: keywords
-      content: Sogo云机场, Sogo云机场VPN, Sogo云机场官网, Sogo云机场套餐价格, Sogo云机场测速, Sogo云机场流媒体解锁
+      content: Sogo云机场, Sogo云机场, Sogo云机场官网, Sogo云机场套餐价格, Sogo云机场测速, Sogo云机场流媒体解锁
 ---
 
-# Sogo云VPN官网注册地址｜真实测速｜价格与套餐详解
+# Sogo云官网注册地址｜真实测速｜价格与套餐详解
 
-## Sogo云VPN官网注册地址（当前可用｜稳定高速｜真实测速）
+## Sogo云官网注册地址（当前可用｜稳定高速｜真实测速）
 
 <!-- #region 1 -->
 
 **最便宜的订阅有15元 60g/月(年付)。**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/sogo.webp" name="Sogo云VPN官网"  link="https://ilil.uk/sogo" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/sogo.webp" name="Sogo云官网"  link="https://ilil.uk/sogo" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
 <!-- #endregion 1 -->
 
-## Sogo云VPN是什么？适合哪些人使用（真实体验 + 优缺点）
+## Sogo云是什么？适合哪些人使用（真实体验 + 优缺点）
 
 <!-- #region 2 -->
 
@@ -43,7 +43,7 @@ head:
 
 <!-- #endregion 2 -->
 
-## Sogo云VPN价格与套餐对比（性价比分析｜新手怎么选）
+## Sogo云价格与套餐对比（性价比分析｜新手怎么选）
 
 <!-- #region 3 -->
 
@@ -75,7 +75,7 @@ head:
 
 <!-- #endregion 3 -->
 
-## Sogo云VPN真实测速图（高峰期表现实测）
+## Sogo云真实测速图（高峰期表现实测）
 
 ![Sogo云 拓扑图 =688x](https://i.theojs.cn/airport/sogo_analyze.webp)
 

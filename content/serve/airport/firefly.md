@@ -1,5 +1,5 @@
 ---
-title: Firefly VPN官网注册地址｜真实测速｜价格与套餐详解
+title: Firefly 官网注册地址｜真实测速｜价格与套餐详解
 description: Firefly 采用 IPLC 专线和 VLESS 协议，提供不限速、设备不限量的稳定网络连接，支持 Netflix、YouTube、Disney+、HBO、ChatGPT、Gemini 和 Meta AI 等服务。
 head:
   - - meta
@@ -7,9 +7,9 @@ head:
       content: Firefly机场, Firefly机场官网, Firefly机场套餐价格, Firefly机场测速, Firefly IPLC, Firefly VLESS, Firefly流媒体解锁, Firefly AI解锁
 ---
 
-# Firefly VPN官网注册地址｜真实测速｜价格与套餐详解
+# Firefly 官网注册地址｜真实测速｜价格与套餐详解
 
-## Firefly VPN官网注册地址（当前可用｜稳定高速｜真实测速）
+## Firefly 官网注册地址（当前可用｜稳定高速｜真实测速）
 
 <!-- #region 1 -->
 
@@ -21,7 +21,7 @@ head:
 
 <!-- #endregion 1 -->
 
-## Firefly VPN是什么？适合哪些人使用（真实体验 + 优缺点）
+## Firefly 是什么？适合哪些人使用（真实体验 + 优缺点）
 
 <!-- #region 2 -->
 
@@ -33,12 +33,12 @@ head:
 - VLESS 协议，全节点不限速；
 - 不限制客户端和设备数量；
 - 支持主流流媒体与 AI 工具；
-- 原生 IP、企业定制和免翻墙访问；
+- 原生 IP、企业定制和免额外配置访问；
 - 响应迅速的客服支持与经验丰富的运营团队。
 
 <!-- #endregion 2 -->
 
-## Firefly VPN价格与套餐对比（性价比分析｜新手怎么选）
+## Firefly 价格与套餐对比（性价比分析｜新手怎么选）
 
 <!-- #region 3 -->
 
@@ -66,7 +66,7 @@ head:
 
 <!-- #endregion 3 -->
 
-## Firefly VPN真实测速图（高峰期表现实测）
+## Firefly 真实测速图（高峰期表现实测）
 
 ![Firefly 节点测速图 =688x](https://i.theojs.cn/airport/firefly_speed.webp)
 

@@ -4,12 +4,12 @@ description: 最新Disney+会员合租指南。教你如何以每月8.8元的超
 head:
   - - meta
     - property: og:image
-      content: https://i.theojs.cn/docs/202406111458794.webp
+      content: https://i.theojs.net/docs/202406111458794.webp
 ---
 
 # Disney+ 观看指南
 
-![Disney+ =688x](https://i.theojs.cn/docs/202406111458794.webp 'Disney+ 梦幻般的流媒体世界')
+![Disney+ =688x](https://i.theojs.net/docs/202406111458794.webp 'Disney+ 梦幻般的流媒体世界')
 
 ## Disney+ 合租是啥？给新手的入门指南
 

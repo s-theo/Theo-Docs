@@ -26,7 +26,7 @@ opkg install tcpdump
       link: 'https://www.wireshark.org/download.html'
     },
     {
-      image: 'https://i.theojs.cn/logo/tabby.svg',
+      image: 'https://i.theojs.net/logo/tabby.svg',
       name: 'Tabby',
       desc: '跨平台的终端模拟器，支持 SSH、Telnet 等协议，适用于连接 Openwrt 进行抓包操作',
       link: 'https://tabby.sh/'

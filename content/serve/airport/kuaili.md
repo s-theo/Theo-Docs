@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有10元 30g/月(年付)。**
 
-**点击购买👉👉** <Pill image="https://i.theojs.cn/logo/kuaili_logo.webp" name="快狸(KuaiLi) VPN官网"  link="https://ilil.uk/kuaili"  rel="sponsored noreferrer" />
+**点击购买👉👉** <Pill image="https://i.theojs.net/logo/kuaili_logo.webp" name="快狸(KuaiLi) VPN官网"  link="https://ilil.uk/kuaili"  rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -62,10 +62,10 @@ head:
 
 ## 快狸(KuaiLi) VPN真实测速图（高峰期表现实测）
 
-![快狸(KuaiLi) 三网拓扑 =688x](https://i.theojs.cn/airport/kuaili_analyze.webp)
+![快狸(KuaiLi) 三网拓扑 =688x](https://i.theojs.net/airport/kuaili_analyze.webp)
 
-![快狸(KuaiLi) 流媒体解锁图 =688x](https://i.theojs.cn/airport/kuaili_fulltest.webp)
+![快狸(KuaiLi) 流媒体解锁图 =688x](https://i.theojs.net/airport/kuaili_fulltest.webp)
 
-<!-- ![快狸(KuaiLi) 测速图 =688x](https://i.theojs.cn/airport/edgenova_speed.webp) -->
+<!-- ![快狸(KuaiLi) 测速图 =688x](https://i.theojs.net/airport/edgenova_speed.webp) -->
 
 <!--@include: @/bottom.md-->

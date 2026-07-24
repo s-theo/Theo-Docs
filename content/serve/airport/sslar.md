@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有13元 100g/月(年付)。**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/sslar_logo.webp" name="SSLAR官网" link="https://ilil.uk/sslar" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.net/logo/sslar_logo.webp" name="SSLAR官网" link="https://ilil.uk/sslar" rel="sponsored noreferrer" />
 
 **当前可用官方注册地址，稳定可访问，不跳转、不失效。**
 
@@ -64,12 +64,12 @@ head:
 
 ## SSLAR VPN真实测速图（高峰期表现实测）
 
-![SSLAR 解锁图 =688x](https://i.theojs.cn/airport/sslar_unlock.webp)
+![SSLAR 解锁图 =688x](https://i.theojs.net/airport/sslar_unlock.webp)
 
-![SSLAR 晚高峰测速图 =688x](https://i.theojs.cn/airport/sslar_speedtest.webp)
+![SSLAR 晚高峰测速图 =688x](https://i.theojs.net/airport/sslar_speedtest.webp)
 
-![SSLAR 谷歌测速图 =688x](https://i.theojs.cn/airport/sslar_google.webp)
+![SSLAR 谷歌测速图 =688x](https://i.theojs.net/airport/sslar_google.webp)
 
-![SSLAR 油管测速图 =688x](https://i.theojs.cn/airport/sslar_youtube.webp)
+![SSLAR 油管测速图 =688x](https://i.theojs.net/airport/sslar_youtube.webp)
 
 <!--@include: @/bottom.md-->

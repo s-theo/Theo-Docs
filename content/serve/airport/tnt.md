@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有8元 60g/月(年付)。**
 
-**点击购买👉👉👉** <Pill :image="{ src: 'https://i.theojs.cn/logo/TNT.webp', crop: true }" name="TNT Cloud VPN官网" link="https://ilil.uk/tnt" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill :image="{ src: 'https://i.theojs.net/logo/TNT.webp', crop: true }" name="TNT Cloud VPN官网" link="https://ilil.uk/tnt" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -64,16 +64,16 @@ head:
 
 ## TNT Cloud VPN 真实测速图（高峰期表现实测）
 
-![TNT Cloud 拓扑图 =688x](https://i.theojs.cn/airport/tnt_topology.webp)
+![TNT Cloud 拓扑图 =688x](https://i.theojs.net/airport/tnt_topology.webp)
 
-![TNT Cloud 流媒体解锁图 =688x](https://i.theojs.cn/airport/tnt_unlock.webp)
+![TNT Cloud 流媒体解锁图 =688x](https://i.theojs.net/airport/tnt_unlock.webp)
 
-![TNT Cloud 上海微软测速图 =688x](https://i.theojs.cn/airport/tnt_shanghai_microsoft.webp)
+![TNT Cloud 上海微软测速图 =688x](https://i.theojs.net/airport/tnt_shanghai_microsoft.webp)
 
-![TNT Cloud 佛山联通测速图 =688x](https://i.theojs.cn/airport/tnt_foshan_unicom.webp)
+![TNT Cloud 佛山联通测速图 =688x](https://i.theojs.net/airport/tnt_foshan_unicom.webp)
 
-![TNT Cloud 广州移动测速图 =688x](https://i.theojs.cn/airport/tnt_guangzhou_mobile.webp)
+![TNT Cloud 广州移动测速图 =688x](https://i.theojs.net/airport/tnt_guangzhou_mobile.webp)
 
-![TNT Cloud 广州电信测速图 =688x](https://i.theojs.cn/airport/tnt_guangzhou_telecom.webp)
+![TNT Cloud 广州电信测速图 =688x](https://i.theojs.net/airport/tnt_guangzhou_telecom.webp)
 
 <!--@include: @/bottom.md-->

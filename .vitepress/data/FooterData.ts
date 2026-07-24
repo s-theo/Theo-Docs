@@ -65,9 +65,9 @@ export const Footer_Data: FooterData = {
       icon: 'heroicons:link-16-solid',
       title: '相关链接',
       links: [
-        { name: '玄学宝典', link: 'https://xx.theojs.cn/' },
+        { name: '玄学宝典', link: 'https://xx.theojs.net/' },
         { name: 'VitePress', link: 'https://vitepress.dev/' },
-        { name: 'Lumen', link: 'https://lumen.theojs.cn/' }
+        { name: 'Lumen', link: 'https://lumen.theojs.net/' }
       ]
     }
   ]

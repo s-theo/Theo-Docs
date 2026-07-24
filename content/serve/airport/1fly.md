@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有8元 60g/月(年付)。**
 
-**点击购买👉👉** <Pill image="https://i.theojs.cn/logo/1fly_logo.webp" name="一翻云(1fly)VPN官网"  link="https://ilil.uk/1fly"  rel="sponsored noreferrer" />
+**点击购买👉👉** <Pill image="https://i.theojs.net/logo/1fly_logo.webp" name="一翻云(1fly)VPN官网"  link="https://ilil.uk/1fly"  rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -63,10 +63,10 @@ head:
 
 ## 一翻云(1fly)VPN真实测速图（高峰期表现实测）
 
-![一翻云(1fly) 三网拓扑 =688x](https://i.theojs.cn/airport/1fly_analyze.webp)
+![一翻云(1fly) 三网拓扑 =688x](https://i.theojs.net/airport/1fly_analyze.webp)
 
-![一翻云(1fly) 流媒体解锁图 =688x](https://i.theojs.cn/airport/1fly_fulltest.webp)
+![一翻云(1fly) 流媒体解锁图 =688x](https://i.theojs.net/airport/1fly_fulltest.webp)
 
-![一翻云(1fly) 上海微软测速图 =688x](https://i.theojs.cn/airport/1fly_speed.webp)
+![一翻云(1fly) 上海微软测速图 =688x](https://i.theojs.net/airport/1fly_speed.webp)
 
 <!--@include: @/bottom.md-->

@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有8元 60g/月(年付)。**
 
-**点击购买👉👉** <Pill image="https://i.theojs.cn/logo/xdm_logo.webp" name="星岛梦(StarDream)VPN官网"  link="https://ilil.uk/xdm"  rel="sponsored noreferrer" />
+**点击购买👉👉** <Pill image="https://i.theojs.net/logo/xdm_logo.webp" name="星岛梦(StarDream)VPN官网"  link="https://ilil.uk/xdm"  rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -68,10 +68,10 @@ head:
 
 ## 星岛梦(StarDream)VPN真实测速图（高峰期表现实测）
 
-<!-- ![星岛梦(StarDream) 三网拓扑 =688x](https://i.theojs.cn/airport/StarDream_analyze.webp) -->
+<!-- ![星岛梦(StarDream) 三网拓扑 =688x](https://i.theojs.net/airport/StarDream_analyze.webp) -->
 
-![星岛梦(StarDream) 流媒体解锁图 =688x](https://i.theojs.cn/airport/xdm_fulltest.webp)
+![星岛梦(StarDream) 流媒体解锁图 =688x](https://i.theojs.net/airport/xdm_fulltest.webp)
 
-![星岛梦(StarDream) 测速图 =688x](https://i.theojs.cn/airport/xdm_speed.webp)
+![星岛梦(StarDream) 测速图 =688x](https://i.theojs.net/airport/xdm_speed.webp)
 
 <!--@include: @/bottom.md-->

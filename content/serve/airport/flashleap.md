@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅为小包 ¥8/月，5GB/月。**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/flashleap_logo.webp" name="闪跃机场官网" link="https://ilil.uk/flashleap" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.net/logo/flashleap_logo.webp" name="闪跃机场官网" link="https://ilil.uk/flashleap" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -62,8 +62,8 @@ head:
 
 ## 闪跃(FlashLeap) VPN真实测速与流媒体解锁图
 
-![闪跃节点测速图 =688x](https://i.theojs.cn/airport/flashleap_speed.webp)
+![闪跃节点测速图 =688x](https://i.theojs.net/airport/flashleap_speed.webp)
 
-![闪跃流媒体解锁图 =688x](https://i.theojs.cn/airport/flashleap_test.webp)
+![闪跃流媒体解锁图 =688x](https://i.theojs.net/airport/flashleap_test.webp)
 
 <!--@include: @/bottom.md-->

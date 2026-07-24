@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有22元 无限流量/月(年付)。**
 
-**点击购买👉👉** <Pill image="https://i.theojs.cn/airport/yinyun_logo.webp" name="隐云(YinYun)VPN官网"  link="https://ilil.uk/yinyun"  rel="sponsored noreferrer" />
+**点击购买👉👉** <Pill image="https://i.theojs.net/airport/yinyun_logo.webp" name="隐云(YinYun)VPN官网"  link="https://ilil.uk/yinyun"  rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -82,10 +82,10 @@ head:
 
 ## 隐云(YinYun)VPN真实测速图（高峰期表现实测）
 
-![隐云(YinYun) 三网拓扑 =688x](https://i.theojs.cn/airport/yinyun_analyze.webp)
+![隐云(YinYun) 三网拓扑 =688x](https://i.theojs.net/airport/yinyun_analyze.webp)
 
-![隐云(YinYun) 流媒体解锁 =688x](https://i.theojs.cn/airport/yinyun_unlock.webp)
+![隐云(YinYun) 流媒体解锁 =688x](https://i.theojs.net/airport/yinyun_unlock.webp)
 
-![隐云(YinYun) 上海微软晚高峰测试 =688x](https://i.theojs.cn/airport/yinyun_shanghai_azure.webp)
+![隐云(YinYun) 上海微软晚高峰测试 =688x](https://i.theojs.net/airport/yinyun_shanghai_azure.webp)
 
 <!--@include: @/bottom.md-->

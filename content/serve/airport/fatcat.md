@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有8元 60g/月(年付)。**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/fclogo.webp" name="肥猫云(FatCatCloud)VPN官网" link="https://ilil.uk/fatcat" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.net/logo/fclogo.webp" name="肥猫云(FatCatCloud)VPN官网" link="https://ilil.uk/fatcat" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -65,8 +65,8 @@ head:
 
 ## 肥猫云(FatCatCloud)VPN真实测速图（高峰期表现实测）
 
-![肥猫云(FatCatCloud) 三网拓扑 =688x](https://i.theojs.cn/airport/fatcatcloud-topology.webp)
+![肥猫云(FatCatCloud) 三网拓扑 =688x](https://i.theojs.net/airport/fatcatcloud-topology.webp)
 
-![肥猫云(FatCatCloud) 广州移动 =688x](https://i.theojs.cn/airport/fatcatcloud_guangxi_mobile.webp)
+![肥猫云(FatCatCloud) 广州移动 =688x](https://i.theojs.net/airport/fatcatcloud_guangxi_mobile.webp)
 
 <!--@include: @/bottom.md-->

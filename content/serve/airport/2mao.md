@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有7元 60g/月(年付)。**
 
-**点击购买👉👉** <Pill image="https://i.theojs.cn/logo/2mao_logo.webp" name="二猫云(2mao)VPN官网"  link="https://ilil.uk/2mao"  rel="sponsored noreferrer" />
+**点击购买👉👉** <Pill image="https://i.theojs.net/logo/2mao_logo.webp" name="二猫云(2mao)VPN官网"  link="https://ilil.uk/2mao"  rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -64,10 +64,10 @@ head:
 
 ## 二猫云(2mao)VPN真实测速图（高峰期表现实测）
 
-![二猫云(2mao) 三网拓扑 =688x](https://i.theojs.cn/airport/2mao_analyze.webp)
+![二猫云(2mao) 三网拓扑 =688x](https://i.theojs.net/airport/2mao_analyze.webp)
 
-![二猫云(2mao) 流媒体解锁图 =688x](https://i.theojs.cn/airport/2mao_fulltest.webp)
+![二猫云(2mao) 流媒体解锁图 =688x](https://i.theojs.net/airport/2mao_fulltest.webp)
 
-![二猫云(2mao) 上海微软测速图 =688x](https://i.theojs.cn/airport/2mao_speed.webp)
+![二猫云(2mao) 上海微软测速图 =688x](https://i.theojs.net/airport/2mao_speed.webp)
 
 <!--@include: @/bottom.md-->

@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有15元 60g/月(年付)。**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/sogo.webp" name="Sogo云VPN官网"  link="https://ilil.uk/sogo" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.net/logo/sogo.webp" name="Sogo云VPN官网"  link="https://ilil.uk/sogo" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -77,10 +77,10 @@ head:
 
 ## Sogo云VPN真实测速图（高峰期表现实测）
 
-![Sogo云 拓扑图 =688x](https://i.theojs.cn/airport/sogo_analyze.webp)
+![Sogo云 拓扑图 =688x](https://i.theojs.net/airport/sogo_analyze.webp)
 
-![Sogo云 流媒体解锁图 =688x](https://i.theojs.cn/airport/sogo_fulltest.webp)
+![Sogo云 流媒体解锁图 =688x](https://i.theojs.net/airport/sogo_fulltest.webp)
 
-![Sogo云 上海微软测速图 =688x](https://i.theojs.cn/airport/sogo_shanghai.webp)
+![Sogo云 上海微软测速图 =688x](https://i.theojs.net/airport/sogo_shanghai.webp)
 
 <!--@include: @/bottom.md-->

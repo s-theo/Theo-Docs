@@ -4,12 +4,12 @@ description: 最新Spotify Premium会员购买与合租指南。详解Spotify会
 head:
   - - meta
     - property: og:image
-      content: https://i.theojs.cn/docs/202406111508204.webp
+      content: https://i.theojs.net/docs/202406111508204.webp
 ---
 
 # Spotify Premium 账号合租终极指南
 
-![Spotify =688x](https://i.theojs.cn/docs/202406111508204.webp 'Spotify')
+![Spotify =688x](https://i.theojs.net/docs/202406111508204.webp 'Spotify')
 
 音乐是生活中的调味剂，但这些场景是否让你倍感困扰？
 

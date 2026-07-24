@@ -4,7 +4,7 @@ description: Quantumult X 使用教程。适用于 iOS 与 macOS 的高级代理
 head:
   - - meta
     - property: og:image
-      content: https://i.theojs.cn/logo/qx.webp
+      content: https://i.theojs.net/logo/qx.webp
 ---
 
 # Quantumult X 使用教程
@@ -22,7 +22,7 @@ Shadowsocks（SS）、ShadowsocksR（SSR）、VMess、VLESS、Trojan、HTTP / HT
   :grid="2"
   :items="[
     {
-      image: 'https://i.theojs.cn/logo/qx.webp',
+      image: 'https://i.theojs.net/logo/qx.webp',
       name: 'Quantumult X',
       desc: 'Quantumult X（圈X），一款功能强大的 iOS / macOS 网络代理工具，支持 SS / SSR / V2Ray / Trojan / HTTP(S)。',
       link: 'https://apps.apple.com/us/app/quantumult-x/id1443988620'
@@ -55,22 +55,22 @@ Shadowsocks（SS）、ShadowsocksR（SSR）、VMess、VLESS、Trojan、HTTP / HT
 1. 打开 Quantumult X
 2. 点击右下角 **风车图标** 进入设置页面
 
-![Quantumult X 设置页面 =300x](https://i.theojs.cn/docs/20260104114502926.webp)
+![Quantumult X 设置页面 =300x](https://i.theojs.net/docs/20260104114502926.webp)
 
 3. 在「节点」栏目中点击 **节点资源**
 
-![Quantumult X 节点资源 =300x](https://i.theojs.cn/docs/20260104114510976.webp)
+![Quantumult X 节点资源 =300x](https://i.theojs.net/docs/20260104114510976.webp)
 
 4. 点击左上角按钮，进入 **添加节点资源** 页面
 
-![Quantumult X 节点资源页面 =300x](https://i.theojs.cn/docs/20260104114523115.webp)
+![Quantumult X 节点资源页面 =300x](https://i.theojs.net/docs/20260104114523115.webp)
 
 5. 填写以下信息：
    - **资源标签**：自定义名称（如「机场订阅」）
    - **资源路径**：粘贴订阅地址
 6. 点击右上角 **✔** 保存
 
-![Quantumult X 添加节点资源页面 =300x](https://i.theojs.cn/docs/20260104114532832.webp)
+![Quantumult X 添加节点资源页面 =300x](https://i.theojs.net/docs/20260104114532832.webp)
 
 ## 启用代理与节点切换
 
@@ -79,7 +79,7 @@ Shadowsocks（SS）、ShadowsocksR（SSR）、VMess、VLESS、Trojan、HTTP / HT
 1. 选择任意节点
 2. 点击右上角按钮启用代理
 
-![Quantumult X 开启代理 =300x](https://i.theojs.cn/docs/20260104114542699.webp)
+![Quantumult X 开启代理 =300x](https://i.theojs.net/docs/20260104114542699.webp)
 
 ## 运行模式说明与切换
 
@@ -98,7 +98,7 @@ Quantumult X 支持三种运行模式：
 
 长按右下角 **风车图标**，在弹出的菜单中选择所需运行模式。
 
-![Quantumult X 切换运行模式 =300x](https://i.theojs.cn/docs/20260104114552304.webp)
+![Quantumult X 切换运行模式 =300x](https://i.theojs.net/docs/20260104114552304.webp)
 
 ## 使用建议
 

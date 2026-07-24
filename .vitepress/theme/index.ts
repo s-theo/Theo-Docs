@@ -26,7 +26,7 @@ export default {
     lm.umamiAnalytics({
       id: import.meta.env.VITE_UMAMI_ID,
       src: import.meta.env.VITE_UMAMI_SRC,
-      domains: 'doc.theojs.cn'
+      domains: 'doc.theojs.net'
     })
     app.component('Underline', lm.Underline)
     app.component('Pill', lm.Pill)

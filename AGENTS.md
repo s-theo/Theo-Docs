@@ -5,7 +5,7 @@ Scope: this file applies to the entire repository. There are no nested `AGENTS.m
 ## Project
 
 Theo Docs (`s-theo/Theo-Docs`) is a Chinese VitePress documentation site published at
-`https://doc.theojs.cn`. Routes come from `content/`; the site uses clean URLs.
+`https://doc.theojs.net`. Routes come from `content/`; the site uses clean URLs.
 
 | Item | Current source of truth |
 | --- | --- |

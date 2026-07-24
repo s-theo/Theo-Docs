@@ -4,7 +4,7 @@ description: Clash Verge Rev 使用教程。Clash Verge Rev 基于 Mihomo 内核
 head:
   - - meta
     - property: og:image
-      content: https://i.theojs.cn/logo/clash-verge-rev.webp
+      content: https://i.theojs.net/logo/clash-verge-rev.webp
 ---
 
 # Clash Verge Rev 使用教程
@@ -19,7 +19,7 @@ head:
   :grid="2"
   :items="[
     {
-      image: 'https://i.theojs.cn/logo/clash-verge-rev.webp',
+      image: 'https://i.theojs.net/logo/clash-verge-rev.webp',
       name: 'Clash Verge Rev',
       desc: '基于 Mihomo 内核的桌面代理客户端，功能完整，界面简洁，支持订阅管理、节点切换与自定义主题',
       link: '/serve/antiwall/clash-verge-rev'
@@ -44,7 +44,7 @@ head:
 - 粘贴到输入框
 - 点击 **导入**，等待配置下载完成
 
-![Clash Verge Rev 订阅链接导入](https://i.theojs.cn/docs/20260105115031668.webp)
+![Clash Verge Rev 订阅链接导入](https://i.theojs.net/docs/20260105115031668.webp)
 
 ### 选择节点
 
@@ -56,7 +56,7 @@ head:
 
 > 其他选项如不清楚用途，建议保持默认，不要随意修改。
 
-![Clash Verge Rev 选择节点](https://i.theojs.cn/docs/20260105115525822.webp)
+![Clash Verge Rev 选择节点](https://i.theojs.net/docs/20260105115525822.webp)
 
 ### 开启系统代理
 
@@ -65,7 +65,7 @@ head:
 - 打开 **系统代理**
 - 如需局域网设备共享代理，可开启「允许局域网连接」（默认关闭）
 
-![Clash Verge Rev 开启系统代理](https://i.theojs.cn/docs/20260105115059757.webp)
+![Clash Verge Rev 开启系统代理](https://i.theojs.net/docs/20260105115059757.webp)
 
 完成以上步骤后，即可正常访问代理网络环境中的网站。
 
@@ -106,7 +106,7 @@ head:
 - 完全退出 Clash Verge Rev
 - 再重新启动并开启系统代理
 
-![重置系统代理](https://i.theojs.cn/docs/20260102144939298.webp)
+![重置系统代理](https://i.theojs.net/docs/20260102144939298.webp)
 
 ## 开启 TUN 模式说明
 

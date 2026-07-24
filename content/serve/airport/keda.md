@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有17元 100g/月(年付)。**
 
-**点击购买👉👉** <Pill image="https://i.theojs.cn/logo/keda_logo.webp" name="可达(KeDa)VPN官网"  link="https://ilil.uk/keda"  rel="sponsored noreferrer" />
+**点击购买👉👉** <Pill image="https://i.theojs.net/logo/keda_logo.webp" name="可达(KeDa)VPN官网"  link="https://ilil.uk/keda"  rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -60,10 +60,10 @@ head:
 
 ## 可达(KeDa)VPN真实测速图（高峰期表现实测）
 
-![可达(KeDa) 三网拓扑 =688x](https://i.theojs.cn/airport/keda_analyze.webp)
+![可达(KeDa) 三网拓扑 =688x](https://i.theojs.net/airport/keda_analyze.webp)
 
-![可达(KeDa) 流媒体解锁图 =688x](https://i.theojs.cn/airport/keda_fulltest.webp)
+![可达(KeDa) 流媒体解锁图 =688x](https://i.theojs.net/airport/keda_fulltest.webp)
 
-![可达(KeDa) 上海微软测速图 =688x](https://i.theojs.cn/airport/keda_speed.webp)
+![可达(KeDa) 上海微软测速图 =688x](https://i.theojs.net/airport/keda_speed.webp)
 
 <!--@include: @/bottom.md-->

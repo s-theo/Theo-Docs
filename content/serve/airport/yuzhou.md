@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有8元 60g/月(年付)。**
 
-**点击购买👉👉** <Pill image="https://i.theojs.cn/logo/yuzhou_logo.webp" name="宇宙云(YuZhou)VPN官网"  link="https://ilil.uk/yuzhou"  rel="sponsored noreferrer" />
+**点击购买👉👉** <Pill image="https://i.theojs.net/logo/yuzhou_logo.webp" name="宇宙云(YuZhou)VPN官网"  link="https://ilil.uk/yuzhou"  rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -63,10 +63,10 @@ head:
 
 <!-- ## 宇宙云(YuZhou)VPN真实测速图（高峰期表现实测）-->
 
-<!-- ![宇宙云(YuZhou) 三网拓扑 =688x](https://i.theojs.cn/airport/YuZhou_analyze.webp)
+<!-- ![宇宙云(YuZhou) 三网拓扑 =688x](https://i.theojs.net/airport/YuZhou_analyze.webp)
 
-![宇宙云(YuZhou) 流媒体解锁图 =688x](https://i.theojs.cn/airport/YuZhou_fulltest.webp)
+![宇宙云(YuZhou) 流媒体解锁图 =688x](https://i.theojs.net/airport/YuZhou_fulltest.webp)
 
-![宇宙云(YuZhou) 上海微软测速图 =688x](https://i.theojs.cn/airport/YuZhou_speed.webp) -->
+![宇宙云(YuZhou) 上海微软测速图 =688x](https://i.theojs.net/airport/YuZhou_speed.webp) -->
 
 <!--@include: @/bottom.md-->

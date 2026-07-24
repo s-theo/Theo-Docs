@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有12元 100g/月(年付)。**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/totoro.webp" name="龙猫云(TotoroCloud)VPN官网" link="https://ilil.uk/totoro" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.net/logo/totoro.webp" name="龙猫云(TotoroCloud)VPN官网" link="https://ilil.uk/totoro" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -64,10 +64,10 @@ head:
 
 ## 龙猫云(TotoroCloud)VPN真实测速图（高峰期表现实测）
 
-![龙猫云(TotoroCloud) 拓扑图 =688x](https://i.theojs.cn/airport/totoro_topology.webp)
+![龙猫云(TotoroCloud) 拓扑图 =688x](https://i.theojs.net/airport/totoro_topology.webp)
 
-![龙猫云(TotoroCloud) 全量流媒体解锁图 =688x](https://i.theojs.cn/airport/totoro_unlock.webp)
+![龙猫云(TotoroCloud) 全量流媒体解锁图 =688x](https://i.theojs.net/airport/totoro_unlock.webp)
 
-![龙猫云(TotoroCloud) 南京电信测速图 =688x](https://i.theojs.cn/airport/totoro_nanjing_telecom.webp)
+![龙猫云(TotoroCloud) 南京电信测速图 =688x](https://i.theojs.net/airport/totoro_nanjing_telecom.webp)
 
 <!--@include: @/bottom.md-->

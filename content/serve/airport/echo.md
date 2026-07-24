@@ -17,7 +17,7 @@ head:
 
 **注册试用: 5GB/3 小时**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/echo_logo.webp" name="Echo VPN官网" link="https://ilil.uk/echo" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.net/logo/echo_logo.webp" name="Echo VPN官网" link="https://ilil.uk/echo" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -68,10 +68,10 @@ head:
 
 ## Echo VPN真实测速图（高峰期表现实测）
 
-![Echo 拓扑图 =688x](https://i.theojs.cn/airport/echo_analyze.webp)
+![Echo 拓扑图 =688x](https://i.theojs.net/airport/echo_analyze.webp)
 
-![Echo 解锁图 =688x](https://i.theojs.cn/airport/echo_unlock.webp)
+![Echo 解锁图 =688x](https://i.theojs.net/airport/echo_unlock.webp)
 
-![Echo 中山电信晚高峰测速图 =688x](https://i.theojs.cn/airport/echo_zhongshan_telecom.webp)
+![Echo 中山电信晚高峰测速图 =688x](https://i.theojs.net/airport/echo_zhongshan_telecom.webp)
 
 <!--@include: @/bottom.md-->

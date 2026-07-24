@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有8元 60g/月(年付)。**
 
-**点击购买👉👉** <Pill image="https://i.theojs.cn/logo/bee_logo.webp" name="小蜜蜂(XmfWww)VPN官网"  link="https://ilil.uk/bee"  rel="sponsored noreferrer" />
+**点击购买👉👉** <Pill image="https://i.theojs.net/logo/bee_logo.webp" name="小蜜蜂(XmfWww)VPN官网"  link="https://ilil.uk/bee"  rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -67,18 +67,18 @@ head:
 
 ## 小蜜蜂(XmfWww)VPN真实测速图（高峰期表现实测）
 
-![小蜜蜂(XmfWww) 三网拓扑 =688x](https://i.theojs.cn/airport/bee_triple_network_topology.webp)
+![小蜜蜂(XmfWww) 三网拓扑 =688x](https://i.theojs.net/airport/bee_triple_network_topology.webp)
 
-![小蜜蜂(XmfWww) 陕西联通@1Gbps =688x](https://i.theojs.cn/airport/bee_shanxi_unicom_1gbps.webp)
+![小蜜蜂(XmfWww) 陕西联通@1Gbps =688x](https://i.theojs.net/airport/bee_shanxi_unicom_1gbps.webp)
 
-![小蜜蜂(XmfWww) 广州移动@1Gbps =688x](https://i.theojs.cn/airport/bee_guangzhou_mobile_1gbps.webp)
+![小蜜蜂(XmfWww) 广州移动@1Gbps =688x](https://i.theojs.net/airport/bee_guangzhou_mobile_1gbps.webp)
 
-![小蜜蜂(XmfWww) 江苏电信@2Gbps =688x](https://i.theojs.cn/airport/bee_jiangsu_telecom_2gbps.webp)
+![小蜜蜂(XmfWww) 江苏电信@2Gbps =688x](https://i.theojs.net/airport/bee_jiangsu_telecom_2gbps.webp)
 
-![小蜜蜂(XmfWww) 单线程陕西联通@1Gbps =688x](https://i.theojs.cn/airport/bee_shanxi_unicom_1gbps_single.webp)
+![小蜜蜂(XmfWww) 单线程陕西联通@1Gbps =688x](https://i.theojs.net/airport/bee_shanxi_unicom_1gbps_single.webp)
 
-![小蜜蜂(XmfWww) 单线程广州移动@1Gbps =688x](https://i.theojs.cn/airport/bee_guangzhou_mobile_1gbps_single.webp)
+![小蜜蜂(XmfWww) 单线程广州移动@1Gbps =688x](https://i.theojs.net/airport/bee_guangzhou_mobile_1gbps_single.webp)
 
-![小蜜蜂(XmfWww) 单线程江苏电信@2Gbps =688x](https://i.theojs.cn/airport/bee_jiangsu_telecom_2gbps_single.webp)
+![小蜜蜂(XmfWww) 单线程江苏电信@2Gbps =688x](https://i.theojs.net/airport/bee_jiangsu_telecom_2gbps_single.webp)
 
 <!--@include: @/bottom.md-->

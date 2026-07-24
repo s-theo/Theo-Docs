@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有8元 59g/月(年付)。**
 
-**点击购买👉👉** <Pill image="https://i.theojs.cn/logo/lightspeed_logo.webp" name="光速云(LightSpeed)VPN官网"  link="https://ilil.uk/lightspeed"  rel="sponsored noreferrer" />
+**点击购买👉👉** <Pill image="https://i.theojs.net/logo/lightspeed_logo.webp" name="光速云(LightSpeed)VPN官网"  link="https://ilil.uk/lightspeed"  rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -66,14 +66,14 @@ head:
 
 ## 光速云(LightSpeed)VPN真实测速图（高峰期表现实测）
 
-<!-- ![光速云(LightSpeed) 三网拓扑 =688x](https://i.theojs.cn/airport/LightSpeed_analyze.webp) -->
+<!-- ![光速云(LightSpeed) 三网拓扑 =688x](https://i.theojs.net/airport/LightSpeed_analyze.webp) -->
 
-![光速云(LightSpeed) 流媒体解锁图 =688x](https://i.theojs.cn/airport/lightspeed_test1.webp)
+![光速云(LightSpeed) 流媒体解锁图 =688x](https://i.theojs.net/airport/lightspeed_test1.webp)
 
-![光速云(LightSpeed) 流媒体解锁图 =688x](https://i.theojs.cn/airport/lightspeed_test2.webp)
+![光速云(LightSpeed) 流媒体解锁图 =688x](https://i.theojs.net/airport/lightspeed_test2.webp)
 
-![光速云(LightSpeed) 流媒体解锁图 =688x](https://i.theojs.cn/airport/lightspeed_test3.webp)
+![光速云(LightSpeed) 流媒体解锁图 =688x](https://i.theojs.net/airport/lightspeed_test3.webp)
 
-![光速云(LightSpeed) 测速图 =688x](https://i.theojs.cn/airport/lightspeed_speed.webp)
+![光速云(LightSpeed) 测速图 =688x](https://i.theojs.net/airport/lightspeed_speed.webp)
 
 <!--@include: @/bottom.md-->

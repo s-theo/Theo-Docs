@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有16元 100g/月(年付)。**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/airport/kuku_logo.webp" name="酷酷云(KuKuCloud)VPN官网" link="https://ilil.uk/kuku" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.net/airport/kuku_logo.webp" name="酷酷云(KuKuCloud)VPN官网" link="https://ilil.uk/kuku" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -68,10 +68,10 @@ head:
 
 ## 酷酷云(KuKuCloud)VPN真实测速图（高峰期表现实测）
 
-![酷酷云(KuKuCloud) 解锁图 =688x](https://i.theojs.cn/airport/kuku_fulltest.webp)
+![酷酷云(KuKuCloud) 解锁图 =688x](https://i.theojs.net/airport/kuku_fulltest.webp)
 
-![酷酷云(KuKuCloud) 拓扑图 =688x](https://i.theojs.cn/airport/kuku_analyze.webp)
+![酷酷云(KuKuCloud) 拓扑图 =688x](https://i.theojs.net/airport/kuku_analyze.webp)
 
-![酷酷云(KuKuCloud) 上海微软晚高峰测速图 =688x](https://i.theojs.cn/airport/kuku_zhongshan_telecom.webp)
+![酷酷云(KuKuCloud) 上海微软晚高峰测速图 =688x](https://i.theojs.net/airport/kuku_zhongshan_telecom.webp)
 
 <!--@include: @/bottom.md-->

@@ -4,7 +4,7 @@ description: Surfboard 使用教程，是一款运行在 Android 系统上的网
 head:
   - - meta
     - property: og:image
-      content: https://i.theojs.cn/logo/surfboard.webp
+      content: https://i.theojs.net/logo/surfboard.webp
 ---
 
 # Surfboard 使用教程
@@ -27,7 +27,7 @@ head:
   :grid="2"
   :items="[
     {
-      image: 'https://i.theojs.cn/logo/surfboard.webp',
+      image: 'https://i.theojs.net/logo/surfboard.webp',
       name: 'Surfboard',
       desc: 'Android 平台代理工具，兼容 Surge 2 配置，可直接导入标准配置文件使用。',
       link: 'https://github.com/getsurfboard/surfboard/releases'
@@ -54,7 +54,7 @@ head:
 - 从零开始
 - 从 URL 导入（推荐）
 
-![Surfboard 添加配置文件 =500x](https://i.theojs.cn/docs/20260105105213240.webp)
+![Surfboard 添加配置文件 =500x](https://i.theojs.net/docs/20260105105213240.webp)
 
 ### 扫描二维码导入
 
@@ -62,29 +62,29 @@ head:
 
 进入 **配置 → ➕ → 扫描二维码导入**，扫描电脑屏幕上的二维码或从手机相册选择二维码图片即可完成导入。
 
-![Surfboard 扫描二维码导入 =500x](https://i.theojs.cn/docs/20260105105221266.webp)
+![Surfboard 扫描二维码导入 =500x](https://i.theojs.net/docs/20260105105221266.webp)
 
 ### 从文件导入
 
 进入 **配置 → ➕ → 从文件导入**，选择本地配置文件即可。
 
-![Surfboard 从文件导入 =500x](https://i.theojs.cn/docs/20260105105228597.webp)
+![Surfboard 从文件导入 =500x](https://i.theojs.net/docs/20260105105228597.webp)
 
 ### 从零开始
 
 进入 **配置 → ➕ → 从零开始**，手动创建并编辑配置文件（不推荐新手使用）。
 
-![Surfboard 从零开始 =500x](https://i.theojs.cn/docs/20260105105236408.webp)
+![Surfboard 从零开始 =500x](https://i.theojs.net/docs/20260105105236408.webp)
 
 ### 从 URL 导入（推荐）
 
 进入 **配置 → ➕ → 从 URL 导入**。
 
-![Surfboard 从 URL 导入 =500x](https://i.theojs.cn/docs/20260105105245712.webp)
+![Surfboard 从 URL 导入 =500x](https://i.theojs.net/docs/20260105105245712.webp)
 
 在弹出的窗口中粘贴 **订阅链接**，点击导入。
 
-![Surfboard 从 URL 导入订阅 =500x](https://i.theojs.cn/docs/20260105105252931.webp)
+![Surfboard 从 URL 导入订阅 =500x](https://i.theojs.net/docs/20260105105252931.webp)
 
 导入成功后：
 
@@ -93,13 +93,13 @@ head:
 3. 切换到 **代理** 选项卡
 4. 选择任意节点即可使用
 
-![Surfboard 选择代理节点 =500x](https://i.theojs.cn/docs/20260105105302350.webp)
+![Surfboard 选择代理节点 =500x](https://i.theojs.net/docs/20260105105302350.webp)
 
 ## 启动代理
 
 切换到软件底部 **「仪表盘」** 选项卡，点击右下角 **▶ 按钮** 启动代理。
 
-![Surfboard 启动代理 =500x](https://i.theojs.cn/docs/20260105105310253.webp)
+![Surfboard 启动代理 =500x](https://i.theojs.net/docs/20260105105310253.webp)
 
 代理启动成功后，按钮将变为 **计时器图标**，表示代理已正常运行。
 

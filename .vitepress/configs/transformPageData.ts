@@ -1,7 +1,7 @@
 import type { HeadConfig, UserConfig } from 'vitepress'
 
-const baseUrl = 'https://doc.theojs.cn'
-const defaultOgImage = 'https://i.theojs.cn/logo/Theo-Docs-og.webp'
+const baseUrl = 'https://doc.theojs.net'
+const defaultOgImage = 'https://i.theojs.net/logo/Theo-Docs-og.webp'
 
 export const transformPageData: UserConfig['transformPageData'] = (pageData) => {
   // head is an array

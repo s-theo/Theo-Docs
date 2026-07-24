@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有9元 45g/月(年付)。**
 
-**点击购买👉👉** <Pill image="https://i.theojs.cn/logo/edgenova_logo.webp" name="边缘节点(EdgeNova)VPN官网"  link="https://ilil.uk/edgenova"  rel="sponsored noreferrer" />
+**点击购买👉👉** <Pill image="https://i.theojs.net/logo/edgenova_logo.webp" name="边缘节点(EdgeNova)VPN官网"  link="https://ilil.uk/edgenova"  rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -62,10 +62,10 @@ head:
 
 ## 边缘节点(EdgeNova)VPN真实测速图（高峰期表现实测）
 
-![边缘节点(EdgeNova)三网拓扑 =688x](https://i.theojs.cn/airport/edgenova_analyze.webp)
+![边缘节点(EdgeNova)三网拓扑 =688x](https://i.theojs.net/airport/edgenova_analyze.webp)
 
-![边缘节点(EdgeNova)流媒体解锁图 =688x](https://i.theojs.cn/airport/edgenova_fulltest.webp)
+![边缘节点(EdgeNova)流媒体解锁图 =688x](https://i.theojs.net/airport/edgenova_fulltest.webp)
 
-![边缘节点(EdgeNova)测速图 =688x](https://i.theojs.cn/airport/edgenova_speed.webp)
+![边缘节点(EdgeNova)测速图 =688x](https://i.theojs.net/airport/edgenova_speed.webp)
 
 <!--@include: @/bottom.md-->

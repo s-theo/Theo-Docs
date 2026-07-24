@@ -4,7 +4,7 @@ description: 银河云(GalaxyCloud)VPN提供稳定高速的科学上网服务，
 head:
   - - meta
     - property: og:image
-      content: https://i.theojs.cn/logo/galaxy.webp
+      content: https://i.theojs.net/logo/galaxy.webp
   - - meta
     - name: keywords
       content: 银河云机场, 银河云 GalaxyCloud, 银河云VPN, 银河云官网, 银河云套餐价格, 银河云测速, 银河云流媒体解锁
@@ -12,7 +12,7 @@ head:
 
 # 银河云(GalaxyCloud)VPN官网注册地址｜真实测速｜价格与套餐详解
 
-![银河云(GalaxyCloud)OG =688x](https://i.theojs.cn/logo/galaxy.webp '银河云(GalaxyCloud)')
+![银河云(GalaxyCloud)OG =688x](https://i.theojs.net/logo/galaxy.webp '银河云(GalaxyCloud)')
 
 ## 银河云(GalaxyCloud)VPN官网注册地址（当前可用｜稳定高速｜真实测速）
 
@@ -20,7 +20,7 @@ head:
 
 **最便宜的订阅有8元 50g/月(年付)。**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/galaxy_transparent_square.webp" name="银河云(GalaxyCloud)VPN官网" link="https://ilil.uk/yhy" rel="sponsored noreferrer"/>
+**点击购买👉👉👉** <Pill image="https://i.theojs.net/logo/galaxy_transparent_square.webp" name="银河云(GalaxyCloud)VPN官网" link="https://ilil.uk/yhy" rel="sponsored noreferrer"/>
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -77,18 +77,18 @@ head:
 
 ## 银河云(GalaxyCloud)VPN真实测速图（高峰期表现实测）
 
-![银河云(GalaxyCloud) 解锁图 =688x](https://i.theojs.cn/airport/galaxy_unlock.webp)
+![银河云(GalaxyCloud) 解锁图 =688x](https://i.theojs.net/airport/galaxy_unlock.webp)
 
-![银河云(GalaxyCloud) 拓扑图 =688x](https://i.theojs.cn/airport/galaxy_topology.webp)
+![银河云(GalaxyCloud) 拓扑图 =688x](https://i.theojs.net/airport/galaxy_topology.webp)
 
-![银河云(GalaxyCloud) 广东联通晚高峰测速图 =688x](https://i.theojs.cn/airport/galaxy_guangdong_unicom.webp)
+![银河云(GalaxyCloud) 广东联通晚高峰测速图 =688x](https://i.theojs.net/airport/galaxy_guangdong_unicom.webp)
 
-![银河云(GalaxyCloud) 广东电信单线程晚高峰测速图 =688x](https://i.theojs.cn/airport/galaxy_guangdong_telecom.webp)
+![银河云(GalaxyCloud) 广东电信单线程晚高峰测速图 =688x](https://i.theojs.net/airport/galaxy_guangdong_telecom.webp)
 
-![银河云(GalaxyCloud) 广东移动单线程晚高峰测速图 =688x](https://i.theojs.cn/airport/galaxy_guangdong_mobile.webp)
+![银河云(GalaxyCloud) 广东移动单线程晚高峰测速图 =688x](https://i.theojs.net/airport/galaxy_guangdong_mobile.webp)
 
-![银河云(GalaxyCloud) 湖北联通单线程晚高峰测速图 =688x](https://i.theojs.cn/airport/galaxy_hubei_unicom.webp)
+![银河云(GalaxyCloud) 湖北联通单线程晚高峰测速图 =688x](https://i.theojs.net/airport/galaxy_hubei_unicom.webp)
 
-![银河云(GalaxyCloud) 江苏电信单线程晚高峰测速图 =688x](https://i.theojs.cn/airport/galaxy_jiangsu_telecom.webp)
+![银河云(GalaxyCloud) 江苏电信单线程晚高峰测速图 =688x](https://i.theojs.net/airport/galaxy_jiangsu_telecom.webp)
 
 <!--@include: @/bottom.md-->

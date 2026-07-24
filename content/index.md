@@ -45,11 +45,11 @@ hero:
 
     - theme: alt author
       text: 玄学宝典
-      link: https://xx.theojs.cn
+      link: https://xx.theojs.net
 
     - theme: alt logo
       text: Lumen
-      link: https://lumen.theojs.cn
+      link: https://lumen.theojs.net
 
 features:
   - title: '<iconify-icon class="i-mr" icon="cib:netflix" style="color:#E50914"></iconify-icon>流媒体观影'

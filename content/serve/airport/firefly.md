@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅为年付版 ¥8/月，60GB/月。**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/firefly_logo.webp" name="Firefly机场官网" link="https://ilil.uk/firefly" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.net/logo/firefly_logo.webp" name="Firefly机场官网" link="https://ilil.uk/firefly" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -68,10 +68,10 @@ head:
 
 ## Firefly VPN真实测速图（高峰期表现实测）
 
-![Firefly 节点测速图 =688x](https://i.theojs.cn/airport/firefly_speed.webp)
+![Firefly 节点测速图 =688x](https://i.theojs.net/airport/firefly_speed.webp)
 
-![Firefly 流媒体解锁图 =688x](https://i.theojs.cn/airport/firefly_stream.webp)
+![Firefly 流媒体解锁图 =688x](https://i.theojs.net/airport/firefly_stream.webp)
 
-![Firefly AI 解锁图 =688x](https://i.theojs.cn/airport/fireflyai_ai.webp)
+![Firefly AI 解锁图 =688x](https://i.theojs.net/airport/fireflyai_ai.webp)
 
 <!--@include: @/bottom.md-->

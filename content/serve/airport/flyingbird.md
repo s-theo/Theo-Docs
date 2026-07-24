@@ -15,7 +15,7 @@ head:
 
 **最便宜的订阅有12元 100g/月(年付)。**
 
-**点击购买👉👉👉** <Pill image="https://i.theojs.cn/logo/flyingbird.webp" name="飞鸟机场(FlyingBird)VPN官网" link="https://ilil.uk/flyingbird" rel="sponsored noreferrer" />
+**点击购买👉👉👉** <Pill image="https://i.theojs.net/logo/flyingbird.webp" name="飞鸟机场(FlyingBird)VPN官网" link="https://ilil.uk/flyingbird" rel="sponsored noreferrer" />
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -69,12 +69,12 @@ head:
 
 ## 飞鸟机场(FlyingBird)VPN真实测速图（高峰期表现实测）
 
-![飞鸟机场(FlyingBird) 拓扑图 =688x](https://i.theojs.cn/airport/flyingbird_topology.webp)
+![飞鸟机场(FlyingBird) 拓扑图 =688x](https://i.theojs.net/airport/flyingbird_topology.webp)
 
-![飞鸟机场(FlyingBird) 北京移动晚高峰测速图 =688x](https://i.theojs.cn/airport/flyingbird_beijing_mobile.webp)
+![飞鸟机场(FlyingBird) 北京移动晚高峰测速图 =688x](https://i.theojs.net/airport/flyingbird_beijing_mobile.webp)
 
-![飞鸟机场(FlyingBird) 河南电信晚高峰测速图 =688x](https://i.theojs.cn/airport/flyingbird_henan_telecom.webp)
+![飞鸟机场(FlyingBird) 河南电信晚高峰测速图 =688x](https://i.theojs.net/airport/flyingbird_henan_telecom.webp)
 
-![飞鸟机场(FlyingBird) 天津联通晚高峰测速图 =688x](https://i.theojs.cn/airport/flyingbird_tianjin_unicom.webp)
+![飞鸟机场(FlyingBird) 天津联通晚高峰测速图 =688x](https://i.theojs.net/airport/flyingbird_tianjin_unicom.webp)
 
 <!--@include: @/bottom.md-->

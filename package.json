@@ -9,7 +9,7 @@
     "upall": "pnpm -r update --latest"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.5.4",
+    "@biomejs/biome": "^2.5.5",
     "@mdit/plugin-figure": "^1.0.1",
     "@mdit/plugin-footnote": "^1.0.1",
     "@mdit/plugin-img-size": "^1.0.1",
@@ -23,5 +23,5 @@
     "vitepress-plugin-llms": "^1.13.3",
     "vue": "^3.5.40"
   },
-  "packageManager": "pnpm@11.15.1"
+  "packageManager": "pnpm@11.17.0"
 }

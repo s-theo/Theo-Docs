@@ -285,6 +285,8 @@ export function Sidebar_serve(): SidebarItem[] {
         { text: '可达(KeDa)', link: '/serve/airport/keda' },
         { text: `银河云(GalaxyCloud)${code}`, link: '/serve/airport/galaxy' },
         { text: `光速云(LightSpeed)${code}`, link: '/serve/airport/lightspeed' },
+        { text: `Firefly${code}`, link: '/serve/airport/firefly' },
+        { text: `闪跃(FlashLeap)${code}`, link: '/serve/airport/flashleap' },
         { text: `TNT Cloud${code}`, link: '/serve/airport/tnt' },
         { text: '龙猫云(TotoroCloud)', link: '/serve/airport/totoro' },
         { text: `小蜜蜂(XmfWww)${code}`, link: '/serve/airport/bee' },

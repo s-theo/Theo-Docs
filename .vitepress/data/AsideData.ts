@@ -113,6 +113,20 @@ export const Aside_Data: AsideItem = [
     link: 'https://ilil.uk/lightspeed',
     rel: 'sponsored noreferrer'
   },
+  {
+    image: 'https://i.theojs.cn/logo/firefly_logo.webp',
+    promo: 'Firefly 新人 8 折特惠',
+    info1: '全场套餐 <span class="promo-text">8折: firefly</span>',
+    link: 'https://ilil.uk/firefly',
+    rel: 'sponsored noreferrer'
+  },
+  {
+    image: 'https://i.theojs.cn/logo/flashleap_logo.webp',
+    promo: '闪跃(FlashLeap) 新人 8 折特惠',
+    info1: '全场套餐 <span class="promo-text">8折: shanyue</span>',
+    link: 'https://ilil.uk/flashleap',
+    rel: 'sponsored noreferrer'
+  },
   // {
   //   image: { src: 'https://i.theojs.cn/logo/TNT.webp', crop: true },
   //   promo: 'TNT 新春特惠',

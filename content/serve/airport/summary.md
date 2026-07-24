@@ -4,7 +4,7 @@ description: 精选2026年最便宜且好用的翻墙机场与VPN，全面评测
 head:
   - - meta
     - name: keywords
-      content: VPN机场推荐, 翻墙VPN, 便宜VPN机场, Sogo云, 青云梯 QingYunTi, 隐云 YinYun, 二猫云 2mao, 银河云 GalaxyCloud, TNT Cloud, 龙猫云 TotoroCloud, 小蜜蜂 XmfWww, 肥猫云 FatCatCloud, 酷酷云 KuKuCloud, Echo, 飞鸟机场 FlyingBird, 无限流量, Netflix解锁, ChatGPT加速, 流媒体解锁
+      content: VPN机场推荐, 翻墙VPN, 便宜VPN机场, Sogo云, 青云梯 QingYunTi, 隐云 YinYun, 二猫云 2mao, 银河云 GalaxyCloud, TNT Cloud, 龙猫云 TotoroCloud, 小蜜蜂 XmfWww, 肥猫云 FatCatCloud, 酷酷云 KuKuCloud, Echo, Firefly, 闪跃 FlashLeap, 飞鸟机场 FlyingBird, 无限流量, Netflix解锁, ChatGPT加速, 流媒体解锁
 ---
 
 # 2026年便宜好用的翻墙VPN机场推荐评测(长期更新 欢迎推荐)
@@ -59,6 +59,8 @@ head:
 |           [可达(KeDa)](<#可达(KeDa)机场服务评测>)           |            <Pill image="https://i.theojs.cn/logo/keda_logo.webp" name="速界官网" link="https://ilil.uk/keda" rel="sponsored noreferrer" />            |   17元 100g/月   |     ❌      |    [查看](/serve/airport/keda.md)    |
 |  [银河云(GalaxyCloud)](<#银河云(GalaxyCloud)机场服务评测>)  |    <Pill image="https://i.theojs.cn/logo/galaxy_transparent_square.webp" name="银河云官网" link="https://ilil.uk/yhy" rel="sponsored noreferrer"/>    |    8元 50g/月    |     ✅      |   [查看](/serve/airport/galaxy.md)   |
 |   [光速云(LightSpeed)](<#光速云(LightSpeed)机场服务评测>)   |     <Pill image="https://i.theojs.cn/logo/lightspeed_logo.webp" name="光速云官网" link="https://ilil.uk/lightspeed" rel="sponsored noreferrer"/>      |    8元 59g/月    |     ✅      | [查看](/serve/airport/lightspeed.md) |
+|               [Firefly](#firefly机场服务评测)               |        <Pill image="https://i.theojs.cn/logo/firefly_logo.webp" name="Firefly官网" link="https://ilil.uk/firefly" rel="sponsored noreferrer" />         |    8元 60g/月    |     ✅      |  [查看](/serve/airport/firefly.md)   |
+|      [闪跃(FlashLeap)](<#闪跃(FlashLeap)机场服务评测>)      | <Pill image="https://i.theojs.cn/logo/flashleap_logo.webp" name="闪跃官网" link="https://ilil.uk/flashleap" rel="sponsored noreferrer" /> |     8元 5g/月     |     ❌      | [查看](/serve/airport/flashleap.md) |
 |             [TNT Cloud](#tnt-cloud机场服务评测)             | <Pill :image="{ src: 'https://i.theojs.cn/logo/TNT.webp', crop: true }" name="TNT Cloud官网" link="https://ilil.uk/tnt" rel="sponsored noreferrer" /> |    8元 60g/月    |     ❌      |    [查看](/serve/airport/tnt.md)     |
 |  [龙猫云(TotoroCloud)](<#龙猫云(TotoroCloud)机场服务评测>)  |           <Pill image="https://i.theojs.cn/logo/totoro.webp" name="龙猫云官网" link="https://ilil.uk/totoro" rel="sponsored noreferrer" />            |   12元 100g/月   |     ❌      |   [查看](/serve/airport/totoro.md)   |
 |       [小蜜蜂(XmfWww)](<#小蜜蜂(XmfWww)机场服务评测>)       |            <Pill image="https://i.theojs.cn/logo/bee_logo.webp" name="小蜜蜂官网" link="https://ilil.uk/bee" rel="sponsored noreferrer" />            |    8元 60g/月    |     ✅      |    [查看](/serve/airport/bee.md)     |
@@ -155,6 +157,18 @@ head:
 <!--@include: @/serve/airport/lightspeed.md#1-->
 <!--@include: @/serve/airport/lightspeed.md#2-->
 <!--@include: @/serve/airport/lightspeed.md#3-->
+
+## Firefly机场服务评测
+
+<!--@include: @/serve/airport/firefly.md#1-->
+<!--@include: @/serve/airport/firefly.md#2-->
+<!--@include: @/serve/airport/firefly.md#3-->
+
+## 闪跃(FlashLeap)机场服务评测
+
+<!--@include: @/serve/airport/flashleap.md#1-->
+<!--@include: @/serve/airport/flashleap.md#2-->
+<!--@include: @/serve/airport/flashleap.md#3-->
 
 ## TNT Cloud机场服务评测
 
